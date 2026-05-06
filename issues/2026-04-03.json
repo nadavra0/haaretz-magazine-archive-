@@ -1,0 +1,328 @@
+{
+  "magazine_date": "2026-04-03",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/0000019d-4370-dd44-a79d-db77e7c10001/85/61/22769ab944eca0b5a60a772271c0/shaar-14.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-03-31/ty-article-magazine/.highlight/0000019d-3f69-d679-ab9d-bf6def260000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-03-31/ty-article-magazine/.highlight/0000019d-3f69-d679-ab9d-bf6def260000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-03-31",
+          "magazine_date": "2026-04-03",
+          "title": "\"דם אנשים אני שותה ובשר אדם אני אוכלת!\" גהרה מעליו והתפתלה מצחוק",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-3f69-d679-ab9d-bf6def260000/af/03/4bff044f45809e17de00fdbb0f29/457047.jpg?precrop=1778,1034,x363,y285&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-03-31/ty-article/.highlight/0000019d-42f9-ddaa-abbd-d7fd4eb30000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-03-31",
+          "magazine_date": "2026-04-03",
+          "title": "מה הסיכוי שהבית שלי ייפגע פעמיים מטיל, ולמה אני לא מאמינה בסטטיסטיקה",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-42f9-ddaa-abbd-d7fd4eb30000/a3/b3/b8670c534074b1d0632e4a43eef5/3-4-26-web.jpg?&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-04-02/ty-article-magazine/.highlight/0000019d-3f5c-d679-ab9d-bf5de1850000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-04-02",
+          "magazine_date": "2026-04-03",
+          "title": "אלה הבתים הכי מיוחדים בישראל. האנשים שגרים בהם מסקרנים לא פחות",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-3f5c-d679-ab9d-bf5de1850000/63/eb/e014fdac40ba976c8318a3546570/396733.jpg?&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-04-02/ty-article-magazine/.highlight/0000019d-3f69-dc64-a3df-ff6fcbc10000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-04-02",
+          "magazine_date": "2026-04-03",
+          "title": "הוא עזר לאנשים להגשים חלומות. לפני חודש מת במפתיע בגיל 38",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-3f69-dc64-a3df-ff6fcbc10000/70/6e/6302a7f742f289fc19778285c735/339333.jpg?precrop=2400,1395,x0,y150&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-04-02/ty-article/.highlight/0000019d-3ed7-dc64-a3df-feffdb9a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-04-02",
+          "magazine_date": "2026-04-03",
+          "title": "על טיבן האמיתי של המלחמות האחרונות במזרח התיכון",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-3ed7-dc64-a3df-feffdb9a0000/5b/b8/c6b763a14b239ca759f22e7ada3f/65199265.JPG?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-03-31/ty-article/.highlight/0000019d-42d6-dee9-adbd-5ed7017a0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-03-31",
+          "magazine_date": "2026-04-03",
+          "title": "זה פרדוקס בלתי־נסבל: ככל שאומרים לנו יותר, אנחנו יודעים פחות ופחות",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-42d6-dee9-adbd-5ed7017a0000/92/66/c81f295c454e9df4922c0785da8a/339749.jpg?precrop=2322,1350,x78,y0&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-03-31/ty-article/.highlight/0000019d-42ea-ddaa-abbd-d7ff2ca90000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-03-31",
+          "magazine_date": "2026-04-03",
+          "title": "הציונות הדתית משתנה, והאלימות בשטחים הפכה למובן מאליו החדש",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-42ea-ddaa-abbd-d7ff2ca90000/f1/6e/91ef1341423ca151c89c27adbbf7/308155.jpg?precrop=2054,1194,x296,y38&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-03-31/ty-article/.highlight/0000019d-434f-db5c-a9fd-db4fb3b20000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-03-31",
+          "magazine_date": "2026-04-03",
+          "title": "שמועות על כישופים וגניבת איברי מין מטלטלות את מדינות מערב אפריקה",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-434f-db5c-a9fd-db4fb3b20000/d0/c0/8c2d107b4d998a173585ee86ed5d/65187019.JPG?precrop=2205,1281,x0,y39&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-03-31/ty-article/.highlight/0000019d-3ddb-ddaa-abbd-bddfc0f20000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-03-31",
+          "magazine_date": "2026-04-03",
+          "title": "פרק נשכח בתנ\"ך מגלה את הצד האפל של אלוהים, ואיש לא חסין מזעמו",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-3ddb-ddaa-abbd-bddfc0f20000/0f/e7/0e75573d45a9986d79bde015257d/65187716.JPG?precrop=882,513,x58,y69&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-04-01/ty-article-face/.highlight/0000019d-47f1-d905-a39d-d7f784d90000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-04-01",
+          "magazine_date": "2026-04-03",
+          "title": "ערן קולירין",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-47f1-d905-a39d-d7f784d90000/59/f2/b04bc55d4863b6674192719e7293/456908.jpg?precrop=2400,1395,x0,y22&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-04-02/ty-article-magazine/0000019d-3eb3-ddaa-abbd-bfff0a6e0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-04-02",
+          "magazine_date": "2026-04-03",
+          "title": "\"היית מאמינה שיום אחד תלכי לעבודה וייפול לך טיל על הבית כשהילדים לבד?\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-3eb3-ddaa-abbd-bfff0a6e0000/e6/70/f8deafb6452d89c4d2abd3de4d02/65187022.JPG?precrop=7687,4469,x0,y391&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2026-04-02/ty-article-magazine/.highlight/0000019d-3eb2-dc64-a3df-feff29fc0000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2026-04-02",
+          "magazine_date": "2026-04-03",
+          "title": "\"השבתאים מתנהגים כלפי חוץ כמוסלמים, אבל האמונה האמיתית שלהם סודית\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-3eb2-dc64-a3df-feff29fc0000/96/0c/e065a94e40b79306582c8e265c4a/65186443.JPG?precrop=7980,4637,x0,y122&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-04-02/ty-article/.highlight/0000019d-3ebd-d5c3-a3df-befdd8f80000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-04-02",
+          "magazine_date": "2026-04-03",
+          "title": "קום עומר, קום, קדימה. הוא פוקח עיניים ענקיות, מבוהלות. תכף תישמע אזעקה",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-3ebd-d5c3-a3df-befdd8f80000/77/ec/dab2b6ec4a0d958ccc93ef7b2cdc/284391.jpg?precrop=2400,1396,x0,y119&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-04-01/ty-article-midrug/.highlight/0000019d-4840-d759-ab9d-79d9a8120000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-04-01",
+          "magazine_date": "2026-04-03",
+          "title": "הימין מודה בקיומו של טרור יהודי. 20–30 שנה והם מגלים את הכיבוש",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-4840-d759-ab9d-79d9a8120000/12/11/e05b215745e8ad2032f3bfd34c79/headline-15.jpg?precrop=3259,1895,x0,y310&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-03-31/ty-article/.highlight/0000019d-3ee4-ddaa-abbd-bffdf9960000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-03-31",
+          "magazine_date": "2026-04-03",
+          "title": "למה המשטרה מפזרת בכוח את ההפגנות נגד הימשכות המלחמה? \"שלח את זה בשאילתא\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-3ee4-ddaa-abbd-bffdf9960000/f6/01/59abf34d406b96965e7097ef27cb/65187601.JPG?precrop=5389,3133,x0,y3&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-04-01/ty-article-quotes/.highlight/0000019d-4837-d905-a39d-d8b7bb7c0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-04-01",
+          "magazine_date": "2026-04-03",
+          "title": "\"רוב החבר'ה האלה, אתה רוצה אותם בתור חתן לבת שלך\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-4837-d905-a39d-d8b7bb7c0000/85/55/f3fdcb5140b8ae960f5589507937/433998.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-04-01/ty-article-20q/.highlight/0000019d-3ee6-d143-a1fd-3ef630960000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-04-01",
+          "magazine_date": "2026-04-03",
+          "title": "מה היה הקרב הקטלני ביותר בהיסטוריה, עם כ–2 מיליון הרוגים ופצועים?",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-3ee6-d143-a1fd-3ef630960000/88/a3/160f951244c5bb5b944a9ab83809/713203.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2026-04-01/ty-article-20q/.highlight/0000019d-47c6-d068-a19f-4fd640eb0000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2026-04-01",
+          "magazine_date": "2026-04-03",
+          "title": "20 שאלות לילדים ולילדות: איזו תופעה חורפית היא אחת ממכות מצרים בהגדה?",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-47c6-d068-a19f-4fd640eb0000/8b/60/32a0876f4278bcc6401be4d26e99/308568.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2026-03-31/ty-article-magazine/.highlight/0000019d-438b-d9ad-adbf-7b9f9e3d0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2026-03-31",
+          "magazine_date": "2026-04-03",
+          "title": "רובנו רגילים לירקות המסחריים. הוא מגדל בעצמו זנים נדירים ומופלאים",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-438b-d9ad-adbf-7b9f9e3d0000/1f/5c/9abf41454255ade9f4ed7a3ce7b8/2.jpg?precrop=1429,831,x0,y703&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-04-02/ty-article-magazine/.premium/0000019d-438c-d068-a19f-4fdcf49f0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-04-02",
+          "magazine_date": "2026-04-03",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 3.4.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-438c-d068-a19f-4fdcf49f0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-04-02/ty-article/.premium/0000019d-4387-d855-abff-ffaf4aef0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-04-02",
+          "magazine_date": "2026-04-03",
+          "title": "ואלה המועמדות",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-4387-d855-abff-ffaf4aef0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-04-02/ty-article/0000019d-4fad-d220-a9bf-7ffdf82f0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-04-02",
+          "magazine_date": "2026-04-03",
+          "title": "הפרופ' שהציע חלופה מדעית לאיתור פושעים: גרשון בן־שחר מת בגיל 83",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-4fad-d220-a9bf-7ffdf82f0000/bf/68/2f2913624177822e3bc6049fb6f2/screenshot-2026-04-02-215621.png?precrop=1479,860,x0,y69&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2026-04-02/ty-article/.premium/0000019d-4391-df69-a1fd-f399aede0000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2026-04-02",
+          "magazine_date": "2026-04-03",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-4391-df69-a1fd-f399aede0000/7d/ac/dd62812d4192b5c8ac78f6d51c27/car.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-04-02/ty-article/.premium/0000019d-4396-d9ad-adbf-7b97526c0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-04-02",
+          "magazine_date": "2026-04-03",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-4396-d9ad-adbf-7b97526c0000/50/a6/1dd411b348db9e3e1a2a17e59b62/ribooa-musaf-671.jpg?precrop=1083,630,x0,y277&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-04-02/ty-article/.highlight/0000019d-3ee2-dc64-a3df-feefe6b70000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-04-02",
+          "magazine_date": "2026-04-03",
+          "title": "אנג'ל לא מציעה אלטרנטיבה לציונות — אלא כניעה",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-3ee2-dc64-a3df-feefe6b70000/91/48/d4216251420ab111411d109ebdad/891733.jpg?precrop=2400,1395,x0,y166&width=1200&height=630&cmsprod"
+        }
+      ]
+    }
+  }
+}

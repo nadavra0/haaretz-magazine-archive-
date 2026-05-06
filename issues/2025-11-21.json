@@ -1,0 +1,314 @@
+{
+  "magazine_date": "2025-11-21",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/0000019a-9c30-d607-ab9e-9ff4120e0001/47/97/61f5c7ac4a98b991d186b2d5ff11/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-11-20/ty-article-magazine/.highlight/0000019a-9bbd-d607-ab9e-9bfd2cab0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-11-20/ty-article-magazine/.highlight/0000019a-9bbd-d607-ab9e-9bfd2cab0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-11-20",
+          "magazine_date": "2025-11-21",
+          "title": "מישהי בגאנה לובשת כרגע את הג'ינס שלך",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-9bbd-d607-ab9e-9bfd2cab0000/6d/80/4a977bc445c58dc7e74bd8f21556/833772.jpg?precrop=2400,1395,x0,y42&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-11-20/ty-article-magazine/.highlight/0000019a-9bbd-d607-ab9e-9bfd46840000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-11-20",
+          "magazine_date": "2025-11-21",
+          "title": "\"אנחנו עושים היום את אותה טעות שעשינו לגבי פורום קהלת לפני עשור\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-9bbd-d607-ab9e-9bfd46840000/c1/37/39d4c4c34d15930916c9bd059338/592984.jpg?precrop=1603,932,x0,y882&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-11-20/ty-article-magazine/.highlight/0000019a-9bc0-d67f-adbe-dfc35ad20000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-11-20",
+          "magazine_date": "2025-11-21",
+          "title": "טייקונים ומדענים מייצרים בני אדם משופרים: אינטליגנטים יותר, חזקים יותר",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-9bc0-d67f-adbe-dfc35ad20000/67/72/d1f6833c48778a262da6ed5a7521/63824745.JPG?precrop=5576,3243,x0,y83&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-11-20/ty-article-magazine/.highlight/0000019a-9bc0-dd6e-a5fa-fbe4ce0e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-11-20",
+          "magazine_date": "2025-11-21",
+          "title": "למרגלות האלפים באיטליה משגשגת קהילה ישראלית. אבל לא הכל קל בגן עדן",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-9bc0-dd6e-a5fa-fbe4ce0e0000/2f/d8/870c74ef4023b6c04152ec9bca4c/63804041.JPG?precrop=6144,3570,x0,y170&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-11-19/ty-article/.highlight/0000019a-9bb8-d7d6-ab9f-fff8a75b0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-11-19",
+          "magazine_date": "2025-11-21",
+          "title": "משפט הראווה התמקד בשאלה אחת: אדוני השוטר, הרחת בצל או לא?",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-9bb8-d7d6-ab9f-fff8a75b0000/6d/ad/5957fe4a49c7887981b7bf316783/63813330.JPG?precrop=3333,1938,x0,y284&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-11-20/ty-article/.highlight/0000019a-a05c-d7d6-ab9f-fddcb9490000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-11-20",
+          "magazine_date": "2025-11-21",
+          "title": "בבתי הקברות בעולם אוזל המקום, והדרכים שבהן אנו נפרדים יצטרכו להשתנות",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-a05c-d7d6-ab9f-fddcb9490000/94/38/d2cb49e7474dae31d8960df9c3e8/63823081.JPG?precrop=4215,2451,x0,y65&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-11-20/ty-article/.highlight/0000019a-a082-d5e6-abff-ecf6f8d30000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-11-20",
+          "magazine_date": "2025-11-21",
+          "title": "זול, מהיר וללא מגע אנושי: כאשר יפן משתנה, גם הסושי משתנה",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-a082-d5e6-abff-ecf6f8d30000/d0/8c/0f2c47dd42709afe52c59cec9b0b/63823082.JPG?precrop=6000,3487,x0,y417&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-11-21/ty-article/.highlight/0000019a-9c3f-d67f-adbe-deff58b70000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-11-21",
+          "magazine_date": "2025-11-21",
+          "title": "כשהשפה מופקעת לצרכים פוליטיים, הממסד הישראלי הופך למשקולת",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-9c3f-d67f-adbe-deff58b70000/70/77/e0a8bec84c7fa71517b477488a2f/63824494.JPG?precrop=4535,2637,x0,y386&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2025-11-19/ty-article/.highlight/0000019a-9ba2-d607-ab9e-9be6c2060000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2025-11-19",
+          "magazine_date": "2025-11-21",
+          "title": "כך הפכה מילה תמימה למנגנון שמגלגל מיליארדים",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-9ba2-d607-ab9e-9be6c2060000/27/1b/2520e3f94141ae343312b50c1d0a/63813340.JPG?precrop=3598,2092,x0,y223&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-11-19/ty-article/.highlight/0000019a-9ba8-d7d6-ab9f-fff840eb0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-11-19",
+          "magazine_date": "2025-11-21",
+          "title": "לא רק פייסבוק נעשתה בלתי נסבלת. כמעט כל שירות מידרדר מרגע לרגע",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-9ba8-d7d6-ab9f-fff840eb0000/3b/0e/2c6c97b34abcba73f17730407f71/63823256.JPG?precrop=3000,1744,x0,y63&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-11-20/ty-article-face/.highlight/0000019a-a09b-d7d6-ab9f-fddb63080000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-11-20",
+          "magazine_date": "2025-11-21",
+          "title": "אלעד צפני",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-a09b-d7d6-ab9f-fddb63080000/0b/b6/ebe144b7450d897e401b699ca90c/833136.jpg?precrop=2400,1395,x0,y98&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-11-19/ty-article-magazine/.highlight/0000019a-9c6f-d7d6-ab9f-fdff6b560000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-11-19",
+          "magazine_date": "2025-11-21",
+          "title": "\"יש לי תת־מקלע כי אני לא סומך על הממשלה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-9c6f-d7d6-ab9f-fdff6b560000/73/a5/af48c0434aa484ce8454fed0199f/63804167.JPG?precrop=7009,4075,x0,y258&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-11-19/ty-article/.highlight/0000019a-9c7d-d5e6-abff-fcfdec8c0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-11-19",
+          "magazine_date": "2025-11-21",
+          "title": "אנחנו מוצפים ברטוריקה של \"סגירת מעגל\". זה קורה משום שאנחנו מפסידים",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-9c7d-d5e6-abff-fcfdec8c0000/9a/13/5fff02244ca4ac494a4680cfa59c/63842859.JPG?precrop=5579,3244,x0,y150&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-11-20/ty-article-midrug/.highlight/0000019a-a0b1-dd6e-a5fa-fbf5ef890000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-11-20",
+          "magazine_date": "2025-11-21",
+          "title": "גיא פלג, אויב העם. קצת מעליב בשביל הפצ\"רית",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-a0b1-dd6e-a5fa-fbf5ef890000/30/e7/4ce70b564046899028e7f5910317/654786.jpg?precrop=1601,931,x0,y360&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-11-19/ty-article/.highlight/0000019a-9c0b-d607-ab9e-9fef73470000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-11-19",
+          "magazine_date": "2025-11-21",
+          "title": "מה לדעתך הוועדה שתקום צריכה לחקור? \"קודם כל, את הסכם אוסלו וההתנתקות\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-9c0b-d607-ab9e-9fef73470000/ad/c3/11dd655b4a80ba22dc4ed01a84c3/205291.jpg?precrop=2400,1396,x0,y108&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-11-20/ty-article-quotes/.highlight/0000019a-a0a0-d607-ab9e-bbe4a4a30000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-11-20",
+          "magazine_date": "2025-11-21",
+          "title": "\"הפשיעה הזאת בתוך הציבור הערבי זה פשע\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-a0a0-d607-ab9e-bbe4a4a30000/dd/ab/243fa82b47199819d0b1b9f84bc9/737649.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-11-20/ty-article-20q/.highlight/0000019a-9bc8-dcbb-a9fe-dfeeab830000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-11-20",
+          "magazine_date": "2025-11-21",
+          "title": "מי אמר ב-2006: \"קסאמים שמאסמים\"?",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-9bc8-dcbb-a9fe-dfeeab830000/d9/df/7ac5fead40a98e7eee51200b316f/263872.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-11-19/ty-article/.highlight/0000019a-9c73-d7d6-ab9f-fdfba5870000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-11-19",
+          "magazine_date": "2025-11-21",
+          "title": "שופטי מאסטר שף מתפייטים על אדמה, והמתנחלים שורפים אותה",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-9c73-d7d6-ab9f-fdfba5870000/bb/e5/b00b0f6149e5b995b10621e14105/720853.jpg?precrop=2400,1396,x0,y14&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-11-20/ty-article-magazine/.premium/0000019a-a077-dd6e-a5fa-fbf71ff90000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-11-20",
+          "magazine_date": "2025-11-21",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 21.11.2025",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-a077-dd6e-a5fa-fbf71ff90000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-11-20/ty-article/.premium/0000019a-a075-d67f-adbe-fef713fb0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-11-20",
+          "magazine_date": "2025-11-21",
+          "title": "לקראת הכרעה",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-a075-d67f-adbe-fef713fb0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-11-20/ty-article/.premium/0000019a-a088-dd6e-a5fa-fbec4ee70000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-11-20",
+          "magazine_date": "2025-11-21",
+          "title": "\"כת השטן - תופעה מסוכנת\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-a088-dd6e-a5fa-fbec4ee70000/36/07/c186807d4fa1afb6d64a11afea7b/mefursamot.jpg?precrop=1250,727,x0,y1671&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-11-20/ty-article/0000019a-a1ea-d607-ab9e-bbeeeaff0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-11-20",
+          "magazine_date": "2025-11-21",
+          "title": "הגרמנים שרפו את בית הכנסת. הכומר הכניס את יצחק טורנר לכנסיה והציל אותו",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-a1ea-d607-ab9e-bbeeeaff0000/48/ed/29d999814d87900964fd46d22d20/img-20251019-wa0040.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-11-20/ty-article/.premium/0000019a-a08d-d7d6-ab9f-fddda2840000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-11-20",
+          "magazine_date": "2025-11-21",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-a08d-d7d6-ab9f-fddda2840000/d6/c8/53a271f147199bb9e98782bd60b0/ribooa-musaf-652.jpg?precrop=1084,630,x0,y194&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-11-19/ty-article/.highlight/0000019a-9c77-d7d6-ab9f-fdff27800000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-11-19",
+          "magazine_date": "2025-11-21",
+          "title": "האוסף של הרווארד נפלא. אבל למי יש גישה אליו?",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-9c77-d7d6-ab9f-fdff27800000/2f/34/e8377e2d477d989973c3f35d0c97/282471.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    }
+  }
+}

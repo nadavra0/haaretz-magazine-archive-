@@ -1,0 +1,328 @@
+{
+  "magazine_date": "2025-09-12",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/00000199-332e-d704-a9d9-fbafbe840001/15/a9/512732524d64a7dd38d21e3beada/shaar-18.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-09-11/ty-article-magazine/.highlight/00000199-2d61-d1da-a3df-bd71efac0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-09-11/ty-article-magazine/.highlight/00000199-2d61-d1da-a3df-bd71efac0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-09-11",
+          "magazine_date": "2025-09-12",
+          "title": "אושר? משמעות? מי שרוצה סיפוק אמיתי צריך לחתור דווקא לחיים פחות יציבים",
+          "og_image": "https://img.haarets.co.il/bs/00000199-2d61-d1da-a3df-bd71efac0000/eb/32/b2f6b6c84ed4b5ed8cdbf1b9d51f/happiness-sharing-00031.png?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-09-11/ty-article-magazine/.highlight/00000199-2d62-df0a-a3bd-7f769d530000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-09-11",
+          "magazine_date": "2025-09-12",
+          "title": "\"מה קורה כשמנסים להתיידד עם חיית טרף? הקולגות שלי גילו את זה על בשרם\"",
+          "og_image": "https://img.haarets.co.il/bs/00000199-2d62-df0a-a3bd-7f769d530000/ce/8b/7dd8929c4f9b8cc1c4aaf43a1c8d/62961180.JPG?precrop=4957,2882,x0,y93&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-09-11/ty-article-magazine/.highlight/00000199-332e-de52-a3bd-3f2e72580000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-09-11",
+          "magazine_date": "2025-09-12",
+          "title": "איש אמונו של נתניהו הונה את המדינה ולקח במרמה קרוב למיליון שקל. תחקיר",
+          "og_image": "https://img.haarets.co.il/bs/00000199-332e-de52-a3bd-3f2e72580000/6b/de/04a124b54dda85f1d81a208d5af6/einhorn-homepage.png?precrop=1042,606,x8,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-09-11/ty-article-magazine/.highlight/00000199-3435-d3db-a999-bf75122b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-09-11",
+          "magazine_date": "2025-09-12",
+          "title": "\"המזרחים הם לא קורבנות. הם סיפור הצלחה מרהיב\"",
+          "og_image": "https://img.haarets.co.il/bs/00000199-3435-d3db-a999-bf75122b0000/fe/4d/97b0e2094682910f973bfa1f6a40/meirav-2.JPG?precrop=2667,1550,x0,y624&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-09-12/ty-article/.highlight/00000199-3dbb-d3db-a999-bffbb8850000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-09-12",
+          "magazine_date": "2025-09-12",
+          "title": "ספר על תקופת עליית הנאצים לשלטון עורר בי הרבה שאלות ביחס לעתידי בישראל",
+          "og_image": "https://img.haarets.co.il/bs/00000199-3dbb-d3db-a999-bffbb8850000/70/b8/a3a3481848c38bc1b9944fe1ee3d/12-9-25-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-09-10/ty-article-magazine/.highlight/00000199-333d-d58e-afd9-737fafe50000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-09-10",
+          "magazine_date": "2025-09-12",
+          "title": "מה גורם לצעיר לקום בבוקר ולהצטרף לארגון טרור? מסע ללב האיסלאם הקיצוני",
+          "og_image": "https://img.haarets.co.il/bs/00000199-333d-d58e-afd9-737fafe50000/83/6e/70cbec52479c9f79a0b956430f9f/017802.jpg?precrop=2400,1395,x0,y207&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-09-10/ty-article/.highlight/00000199-3327-d336-addd-7f7f5f360000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-09-10",
+          "magazine_date": "2025-09-12",
+          "title": "כבר בתרבויות הקדומות הבינו: כשהחברה חולה, הטבע חולה",
+          "og_image": "https://img.haarets.co.il/bs/00000199-3327-d336-addd-7f7f5f360000/0a/9b/f086895846dca02bc364c0dfec57/791963.jpg?precrop=2400,1395,x0,y91&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2025-09-10/ty-article/.highlight/00000199-32f6-da6c-a5bd-f6f7eb490000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2025-09-10",
+          "magazine_date": "2025-09-12",
+          "title": "כך הפכה מילה שאיש לא הכיר לאחד הביטויים השימושיים ביותר בעברית",
+          "og_image": "https://img.haarets.co.il/bs/00000199-32f6-da6c-a5bd-f6f7eb490000/fb/d0/0019e279433ca37cf7f4723cc44f/266330.jpg?precrop=2400,1396,x0,y90&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-09-10/ty-article/.highlight/00000199-331c-d336-addd-7f7fe36b0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-09-10",
+          "magazine_date": "2025-09-12",
+          "title": "לא רק טראומה עוברת בירושה, אלא גם הסתגלות — ואפילו תקווה",
+          "og_image": "https://img.haarets.co.il/bs/00000199-331c-d336-addd-7f7fe36b0000/16/63/39dc112f446db66244949e9c072f/62973821.JPG?precrop=2800,1628,x0,y239&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-09-11/ty-article-face/.highlight/00000199-384b-d704-a9d9-facf6f5d0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-09-11",
+          "magazine_date": "2025-09-12",
+          "title": "אמילי מואטי",
+          "og_image": "https://img.haarets.co.il/bs/00000199-384b-d704-a9d9-facf6f5d0000/f6/10/e6a87f574e329605d64998132648/006377.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-09-10/ty-article-magazine/.highlight/00000199-3336-d58e-afd9-737f8c590000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-09-10",
+          "magazine_date": "2025-09-12",
+          "title": "\"זה היה כמו מנזר לטכנולוגיה. קיבלתי חדר בטבע ושלוש ארוחות ביום\"",
+          "og_image": "https://img.haarets.co.il/bs/00000199-3336-d58e-afd9-737f8c590000/a1/02/90e674974b2ea62cf1ec602629a9/919005.jpg?precrop=2400,1395,x0,y77&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2025-09-10/ty-article-magazine/.highlight/00000199-3352-d9ad-a1bd-7b5235180000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2025-09-10",
+          "magazine_date": "2025-09-12",
+          "title": "\"יש שם ילדים שמרוויחים יותר ממני. הם לא יורידו את הראש\"",
+          "og_image": "https://img.haarets.co.il/bs/00000199-3352-d9ad-a1bd-7b5235180000/54/b4/b678e3194baa967367464abbff39/62975527.JPG?precrop=8192,4763,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-09-11/ty-article-midrug/.highlight/00000199-385c-dfa4-a9dd-3add600f0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-09-11",
+          "magazine_date": "2025-09-12",
+          "title": "קווין ספייסי בדרך. וחשבתם שאנחנו מנודים",
+          "og_image": "https://img.haarets.co.il/bs/00000199-385c-dfa4-a9dd-3add600f0000/76/66/1c513272427a8ff5cc1f64034a29/headline-23.jpg?precrop=2000,1163,x0,y137&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-09-09/ty-article/.highlight/00000199-2499-d487-a3d9-a4bf5f920000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-09-09",
+          "magazine_date": "2025-09-12",
+          "title": "למה אסור לי לנסוע באזור בית הרמטכ\"ל? \"תעבור מסביב\"",
+          "og_image": "https://img.haarets.co.il/bs/00000199-2499-d487-a3d9-a4bf5f920000/e0/d9/ccade7ff482fb616913fd5d89fbf/62952197.JPG?precrop=1600,930,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-09-11/ty-article-quotes/.highlight/00000199-3853-d336-addd-7f7f86100000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-09-11",
+          "magazine_date": "2025-09-12",
+          "title": "\"ראש הממשלה יגוון בצורה הכי אובייקטיבית את הוועדה הזו\"",
+          "og_image": "https://img.haarets.co.il/bs/00000199-3853-d336-addd-7f7f86100000/18/be/e5975a83486da78303b6d211cb69/998061.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-09-11/ty-article-20q/.highlight/00000199-35b1-df32-a1df-35f36d3a0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-09-11",
+          "magazine_date": "2025-09-12",
+          "title": "מי הגה את שמה של תוכנית ההתנתקות?",
+          "og_image": "https://img.haarets.co.il/bs/00000199-35b1-df32-a1df-35f36d3a0000/a5/b6/78b6a66d4210af2cc883d4863541/kafri8957.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-09-11/ty-article-magazine/.highlight/00000199-33ad-d58e-afd9-73ef63070000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-09-11",
+          "magazine_date": "2025-09-12",
+          "title": "לבשל כמו לי מילר, הצלמת שהמטבח הציל את חייה",
+          "og_image": "https://img.haarets.co.il/bs/00000199-33ad-d58e-afd9-73ef63070000/e5/6b/398595c143a997384ed451880dbf/1.jpg?precrop=1333,775,x0,y342&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-09-11/ty-article-magazine/.premium/00000199-3360-d336-addd-7f7f35500000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-09-11",
+          "magazine_date": "2025-09-12",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 12.9.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000199-3360-d336-addd-7f7f35500000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-09-10/ty-article/.premium/00000199-3366-d704-a9d9-fbeffaba0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-09-10",
+          "magazine_date": "2025-09-12",
+          "title": "קרבות בסמרקנד",
+          "og_image": "https://img.haarets.co.il/bs/00000199-3366-d704-a9d9-fbeffaba0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-09-11/ty-article-magazine/.premium/00000199-337d-dd15-a1dd-ffff3e1b0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-09-11",
+          "magazine_date": "2025-09-12",
+          "title": "משפצים חזיתות הבתים בעזה",
+          "og_image": "https://img.haarets.co.il/bs/00000199-337d-dd15-a1dd-ffff3e1b0000/12/42/93cf062e4be58a1146b253813bbf/mefursamot.jpg?precrop=1250,727,x0,y1462&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-09-11/ty-article/00000199-396b-d336-addd-7f7f0f640000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-09-11",
+          "magazine_date": "2025-09-12",
+          "title": "השכן היהודי של היטלר מת חודש לפני שחגג 101",
+          "og_image": "https://img.haarets.co.il/bs/00000199-396b-d336-addd-7f7f0f640000/90/10/dbf69b31d04f8770aaa59223bf77/2737274333.jpg?precrop=1455,847,x217,y127&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-09-11/ty-article/.premium/00000199-3376-da6c-a5bd-f7f73f5a0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-09-11",
+          "magazine_date": "2025-09-12",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000199-3376-da6c-a5bd-f7f73f5a0000/1f/ee/e3188306403d8d458830b2efa2b8/ribooa-musaf-642.jpg?precrop=1083,630,x0,y128&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-09-10/ty-article/.highlight/00000199-3344-d336-addd-7f7f5e530000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-09-10",
+          "magazine_date": "2025-09-12",
+          "title": "ועדת גרוניס, האם כך נראה טוהר מידות?",
+          "og_image": "https://img.haarets.co.il/bs/00000199-3344-d336-addd-7f7f5e530000/7a/2e/7499cd3d4e72adc67c46d71e6c98/662156.jpg?precrop=1521,884,x20,y55&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

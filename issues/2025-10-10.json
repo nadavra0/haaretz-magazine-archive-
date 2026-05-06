@@ -1,0 +1,343 @@
+{
+  "magazine_date": "2025-10-10",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/00000199-c366-d7d2-add9-f3ffd48b0001/91/42/e7d0cb7d4f42b6ca8f2d3b4ef6ff/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-10-08/ty-article-magazine/.highlight/00000199-c0c0-d5c1-ad9d-d1c9b3540000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-10-08/ty-article-magazine/.highlight/00000199-c0c0-d5c1-ad9d-d1c9b3540000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-10-08",
+          "magazine_date": "2025-10-10",
+          "title": "מי הם הפראיירים שעדיין נכנסים לחנויות, שולפים אשראי וקונים דברים בכסף?",
+          "og_image": "https://img.haarets.co.il/bs/00000199-c0c0-d5c1-ad9d-d1c9b3540000/dc/fe/79390dbf4dfeac8656150043e256/d-2.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-10-08/ty-article-magazine/.highlight/00000199-c0c4-db47-a1fd-f7fd8c350000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-10-08",
+          "magazine_date": "2025-10-10",
+          "title": "איך החזרתי את אבא שלי מהמתים, ואז איבדתי אותו שוב",
+          "og_image": "https://img.haarets.co.il/bs/00000199-c0c4-db47-a1fd-f7fd8c350000/18/13/73a376644bd39645b85cccd50ed5/father-3.jpg?precrop=1935,1125,x65,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-10-08/ty-article-magazine/.highlight/00000199-c0c7-db56-a5db-cde7f8420000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-10-08",
+          "magazine_date": "2025-10-10",
+          "title": "אומרים לא לייאוש: מאות ישראלים התגייסו, ובעזה קם כפר לאלפי יתומים",
+          "og_image": "https://img.haarets.co.il/bs/00000199-c0c7-db56-a5db-cde7f8420000/a2/89/606474e84520a524608654a10ed7/gaza.jpg?precrop=2954,1718,x0,y43&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-10-10/ty-article/.highlight/00000199-c3cb-d5c1-ad9d-d3cb0b920000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-10-10",
+          "magazine_date": "2025-10-10",
+          "title": "מה גורם לטייסים להמשיך להפציץ אף שהם יודעים שהם הורגים בעיקר אזרחים?",
+          "og_image": "https://img.haarets.co.il/bs/00000199-c3cb-d5c1-ad9d-d3cb0b920000/91/0c/666fc54c4d6b914c848de878a7de/10-10-25-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-10-09/ty-article-magazine/.highlight/00000199-ca7b-d7d2-add9-fbfb12d40000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-10-09",
+          "magazine_date": "2025-10-10",
+          "title": "איינשטיין לא היה רק גדול המדענים בהיסטוריה. הוא רצה לכונן דת חדשה",
+          "og_image": "https://img.haarets.co.il/bs/00000199-ca7b-d7d2-add9-fbfb12d40000/84/f6/d0ff26a14e29b79e853733e6d2e5/376379.jpg?precrop=1788,1040,x0,y34&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-10-09/ty-article/.highlight/00000199-c3a7-d7d2-add9-f3ff49170000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-10-09",
+          "magazine_date": "2025-10-10",
+          "title": "הימים אפלים, הסבל עולה על גדותיו. אז על מה בכל זאת מותר לדבר?",
+          "og_image": "https://img.haarets.co.il/bs/00000199-c3a7-d7d2-add9-f3ff49170000/dc/43/0b4846db4180a2528cc1d401ee4e/008539.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-10-09/ty-article/.highlight/00000199-c986-dd44-ab99-eb9738600000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-10-09",
+          "magazine_date": "2025-10-10",
+          "title": "הימין בהודו מצא גיבור לאומי חדש: משתף פעולה עם היטלר",
+          "og_image": "https://img.haarets.co.il/bs/00000199-c986-dd44-ab99-eb9738600000/22/ad/ca16eff442b4abcb7d735167dad7/006960.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2025-10-09/ty-article/.highlight/00000199-ca9a-dd44-ab99-eb9f70f20000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2025-10-09",
+          "magazine_date": "2025-10-10",
+          "title": "כדי לבנות צבא, העברית היתה צריכה עזרה מהאיראנים והגרמנים",
+          "og_image": "https://img.haarets.co.il/bs/00000199-ca9a-dd44-ab99-eb9f70f20000/a0/47/90655727413886853bd2d347ef11/377787.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-10-09/ty-article/.highlight/00000199-c3a5-db47-a1fd-f7fd76410000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-10-09",
+          "magazine_date": "2025-10-10",
+          "title": "עידן המימוש העצמי הסתיים. אנחנו חיים במציאות של מלחמת עולם",
+          "og_image": "https://img.haarets.co.il/bs/00000199-c3a5-db47-a1fd-f7fd76410000/d6/c5/3b5793f34590aed994fc8db8ea67/359896.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-10-08/ty-article-face/.highlight/00000199-c2af-dd18-a9db-e7ef7c6b0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-10-08",
+          "magazine_date": "2025-10-10",
+          "title": "טמירה ירדני",
+          "og_image": "https://img.haarets.co.il/bs/00000199-c2af-dd18-a9db-e7ef7c6b0000/22/7e/3f96ad04415e9822f410db831b36/255465.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-10-08/ty-article-magazine/.highlight/00000199-c38a-d7d2-add9-f3fb32370000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-10-08",
+          "magazine_date": "2025-10-10",
+          "title": "\"שני ההורים שלי נפטרו כשהייתי ילד. הריקוד הציל אותי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000199-c38a-d7d2-add9-f3fb32370000/0c/17/ff89208e4911b86f1ebe3b31f915/353202.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2025-10-08/ty-article-magazine/.highlight/00000199-c3ab-db47-a1fd-f7fbbcb30000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2025-10-08",
+          "magazine_date": "2025-10-10",
+          "title": "\"כל הקווים נחצו. אם למישהו יש בעיה עם השוק האפור, רוצחים את אמא שלו\"",
+          "og_image": "https://img.haarets.co.il/bs/00000199-c3ab-db47-a1fd-f7fbbcb30000/6f/7a/984e57e348a187898993dfe64656/370693.jpg?precrop=1603,932,x0,y820&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-10-08/ty-article/.highlight/00000199-c41a-d198-abdb-dcffc6370000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-10-08",
+          "magazine_date": "2025-10-10",
+          "title": "איש אחד יצא מהבריכה והשאיר שם ילדים קטנים לבד. הוא אמיתי?",
+          "og_image": "https://img.haarets.co.il/bs/00000199-c41a-d198-abdb-dcffc6370000/58/0b/bf83168246f3ab851c468ecd738f/63338800.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-10-09/ty-article-midrug/.highlight/00000199-c7e1-d480-a3bb-efef78080000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-10-09",
+          "magazine_date": "2025-10-10",
+          "title": "סוכות שמח, יהודים",
+          "og_image": "https://img.haarets.co.il/bs/00000199-c7e1-d480-a3bb-efef78080000/16/d5/9d8f47204b169db1f3d2a6199a1b/headline-28.jpg?precrop=2000,1163,x0,y410&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-10-09/ty-article/.highlight/00000199-c3bd-dd18-a9db-e7fde0ac0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-10-09",
+          "magazine_date": "2025-10-10",
+          "title": "צפית בכלל בסרט שאתה יוצא נגדו? \"לא מעוניין, ראיתי קטעים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000199-c3bd-dd18-a9db-e7fde0ac0000/ca/ae/754a79a84e96b30ffbd47afce1e4/63338034.JPG?precrop=4800,2791,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-10-08/ty-article-quotes/.highlight/00000199-c3ad-d5c1-ad9d-d3edddb80000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-10-08",
+          "magazine_date": "2025-10-10",
+          "title": "\"סוכה בגימטריה 91... דוד זיני בגימטריה גם 91\"",
+          "og_image": "https://img.haarets.co.il/bs/00000199-c3ad-d5c1-ad9d-d3edddb80000/7d/4f/03d3f7f84e31a49be80e62bcbabb/290106.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-10-08/ty-article-20q/.highlight/00000199-c2a2-db56-a5db-cfa35c770000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-10-08",
+          "magazine_date": "2025-10-10",
+          "title": "מיהו שופט בית המשפט העליון שפרש והפך לחבר כנסת?",
+          "og_image": "https://img.haarets.co.il/bs/00000199-c2a2-db56-a5db-cfa35c770000/7c/f9/49b962b042c8884f332669182890/812944.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-10-09/ty-article-magazine/.highlight/00000199-c331-db56-a5db-cf3316550000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-10-09",
+          "magazine_date": "2025-10-10",
+          "title": "אחרי שנתיים הרחק מהבית, בקיבוץ בגבול לבנון חוזרים לייצר גבינות עזים",
+          "og_image": "https://img.haarets.co.il/bs/00000199-c331-db56-a5db-cf3316550000/27/8e/5518ab544906b18b5b8ce5627a2a/375706.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-10-09/ty-article-magazine/.premium/00000199-c7db-d198-abdb-dfff1d940000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-10-09",
+          "magazine_date": "2025-10-10",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 10.10.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000199-c7db-d198-abdb-dfff1d940000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-10-09/ty-article/.premium/00000199-c7d3-d5c1-ad9d-d7dbf5af0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-10-09",
+          "magazine_date": "2025-10-10",
+          "title": "ילד של זהב",
+          "og_image": "https://img.haarets.co.il/bs/00000199-c7d3-d5c1-ad9d-d7dbf5af0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-10-09/ty-article/.premium/00000199-c7df-d7d2-add9-f7ff8b9a0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-10-09",
+          "magazine_date": "2025-10-10",
+          "title": "בני עקיבא יפגינו היום בפארק הירקון נגד המסרים של מדונה",
+          "og_image": "https://img.haarets.co.il/bs/00000199-c7df-d7d2-add9-f7ff8b9a0000/3e/94/ffa2cc23466eb125adc088560b46/mefursamot.jpg?precrop=1250,727,x0,y3549&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-10-10/ty-article/00000199-cc6a-db56-a5db-cd6be7c70000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-10-10",
+          "magazine_date": "2025-10-10",
+          "title": "הישראלי שהגיע עד אנטארקטיקה כדי להסביר מה אנחנו יכולים ללמוד מהחזזית",
+          "og_image": "https://img.haarets.co.il/bs/00000199-cc6a-db56-a5db-cd6be7c70000/3b/a2/3ffa322f4912bd30e0a3288ea4be/screenshot-2025-10-10-071040.png?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-10-09/ty-article/.premium/00000199-c7e2-d7d2-add9-f7fb054f0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-10-09",
+          "magazine_date": "2025-10-10",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000199-c7e2-d7d2-add9-f7fb054f0000/33/bc/e61712b4412fb82853df0f9602a6/ribooa-musaf-646.jpg?precrop=1083,630,x0,y434&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-10-08/ty-article/.highlight/00000199-c414-dd18-a9db-e5d422cb0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-10-08",
+          "magazine_date": "2025-10-10",
+          "title": "מי שמרוצה לא ישפר את חייו. אז כן, אנחנו חמוצים",
+          "og_image": "https://img.haarets.co.il/bs/00000199-c414-dd18-a9db-e5d422cb0000/41/08/19c5b2494a10abaa48a211de5006/728488.jpg?precrop=2400,1395,x0,y208&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

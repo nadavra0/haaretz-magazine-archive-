@@ -1,0 +1,338 @@
+{
+  "magazine_date": "2025-08-22",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/00000198-c82d-dc9d-abd9-dbffc8f50001/7c/c1/6acc8c0e4f7f8ef583bff8a67e37/shaar-15.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-08-20/ty-article-magazine/.highlight/00000198-c6da-dcce-a5bf-cfdb10db0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-08-20/ty-article-magazine/.highlight/00000198-c6da-dcce-a5bf-cfdb10db0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-08-20",
+          "magazine_date": "2025-08-22",
+          "title": "מחקר מקיף מגלה מה משותף לזקנים ששומרים על זיכרון וחדות של בני 50",
+          "og_image": "https://img.haarets.co.il/bs/00000198-c6da-dcce-a5bf-cfdb10db0000/b5/72/209b66124339a6f17416ccc65b76/776604.jpg?precrop=2400,1395,x0,y206&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-08-20/ty-article-magazine/.highlight/00000198-c6e2-dcce-a5bf-cff391800000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-08-20",
+          "magazine_date": "2025-08-22",
+          "title": "השיזוף חוזר לאופנה בארה\"ב, והפעם זה לא רק כדי להיראות טוב",
+          "og_image": "https://img.haarets.co.il/bs/00000198-c6e2-dcce-a5bf-cff391800000/7d/2d/a669679d4ba59c1b60450c4fbca2/769462.jpg?precrop=1601,931,x0,y262&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-08-20/ty-article/.highlight/00000198-c793-dc9d-abd9-dfdf37000000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-08-20",
+          "magazine_date": "2025-08-22",
+          "title": "איך הפכתי מבן לניצולי שואה לשותף לפשעי מלחמה",
+          "og_image": "https://img.haarets.co.il/bs/00000198-c793-dc9d-abd9-dfdf37000000/5d/e0/de66186c4a38962592d0e134412e/62712976.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-08-21/ty-article-magazine/.highlight/00000198-c6ff-d15a-a3bd-dfff2a290000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-08-21",
+          "magazine_date": "2025-08-22",
+          "title": "האפליקציה שבה ישראלים מחפשים סקס לא קונבנציונלי, בלי להסתתר",
+          "og_image": "https://img.haarets.co.il/bs/00000198-c6ff-d15a-a3bd-dfff2a290000/e8/07/d8035b62466ca2bda183fc49231e/untitled-artwork-70.png?precrop=1808,1051,x132,y102&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-08-21/ty-article-magazine/.premium/00000198-c708-dc9d-abd9-dfdefd970000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-08-21",
+          "magazine_date": "2025-08-22",
+          "title": "עוד ועוד ילדים רעבים: סיורים וירטואליים במרפאות בעזה חושפים את הזוועה",
+          "og_image": "https://img.haarets.co.il/bs/00000198-c708-dc9d-abd9-dfdefd970000/44/ac/15bc16af4615941e8b3972e078dd/trigger-warning-homepage.jpg?precrop=1042,606,x5,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-08-21/ty-article/.highlight/00000198-ccd7-dc9d-abd9-dfdf24710000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-08-21",
+          "magazine_date": "2025-08-22",
+          "title": "גדעון סער הזכיר לי את האופן הקלוקל שבו חינכתי את ילדיי",
+          "og_image": "https://img.haarets.co.il/bs/00000198-ccd7-dc9d-abd9-dfdf24710000/6e/24/d6080b4b48dd8236052310f07730/22-8-25-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-08-20/ty-article-magazine/.highlight/00000198-c736-d1e9-abf9-df762eea0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-08-20",
+          "magazine_date": "2025-08-22",
+          "title": "נתניהו לא רצה לקרוא למבצע בעזה \"מרכבות שמשון\". היתה לו סיבה טובה",
+          "og_image": "https://img.haarets.co.il/bs/00000198-c736-d1e9-abf9-df762eea0000/e3/f6/e0f774e2466ca5262f617d83dd73/696386.jpg?precrop=1486,864,x339,y631&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-08-20/ty-article/.highlight/00000198-c6e8-d1e9-abf9-dffefae10000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-08-20",
+          "magazine_date": "2025-08-22",
+          "title": "יהודים תמיד נעזרו בבכי כנשק יום הדין. בהתנתקות, המציאות לא שעתה לדמעות",
+          "og_image": "https://img.haarets.co.il/bs/00000198-c6e8-d1e9-abf9-dffefae10000/c9/8e/ea779c8f4d62a88b2a6a3f5bae8f/62700687.JPG?precrop=3008,1749,x0,y60&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-08-20/ty-article/.highlight/00000198-c6e3-d658-ad9c-e6f744480000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-08-20",
+          "magazine_date": "2025-08-22",
+          "title": "פעם עצרו כאן שמאלנים במחנות. היום ישראלים עושים כאן בטן־גב",
+          "og_image": "https://img.haarets.co.il/bs/00000198-c6e3-d658-ad9c-e6f744480000/9a/a6/b52f855f46f5934d9b7784274af2/62697422.JPG?precrop=4368,2540,x0,y285&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-08-21/ty-article-face/.highlight/00000198-c6f4-dcce-a5bf-cff762c50000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-08-21",
+          "magazine_date": "2025-08-22",
+          "title": "לישי מירן לביא",
+          "og_image": "https://img.haarets.co.il/bs/00000198-c6f4-dcce-a5bf-cff762c50000/2a/ba/06ce9eac4dff9cb33f481a488a09/facetemplate1800x1200-1-5.jpg?precrop=1800,1046,x0,y30&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-08-20/ty-article-magazine/.highlight/00000198-c7cf-dd9f-a7db-cfffd76b0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-08-20",
+          "magazine_date": "2025-08-22",
+          "title": "\"הערבית משכה אותי לריקודי בטן. עשיתי דברים שנראים היום מופרעים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-c7cf-dd9f-a7db-cfffd76b0000/eb/95/cad838334da28087f47f8c59faa2/694183.jpg?precrop=2400,1395,x0,y118&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-08-20/ty-article/.highlight/00000198-c7e3-dcce-a5bf-cff376050000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-08-20",
+          "magazine_date": "2025-08-22",
+          "title": "אוטובוס דו־מפרקי חוסם צומת. הנהג הוא נתניהו",
+          "og_image": "https://img.haarets.co.il/bs/00000198-c7e3-dcce-a5bf-cff376050000/07/3c/5db332f5cc291bbc9e5aadbf18e7/2382196694.jpg?precrop=2011,1167,x37,y195&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-08-21/ty-article-midrug/.highlight/00000198-ccf7-dcce-a5bf-cdf7e4950000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-08-21",
+          "magazine_date": "2025-08-22",
+          "title": "איזה אלבום הייתם לוקחים לאי 1?",
+          "og_image": "https://img.haarets.co.il/bs/00000198-ccf7-dcce-a5bf-cdf7e4950000/5c/53/2a9e38f5419a979561f3b18eea8d/headline-20.jpg?precrop=2000,1162,x0,y286&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-08-21/ty-article/.highlight/00000198-c7e5-dc9d-abd9-dfff9f100000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-08-21",
+          "magazine_date": "2025-08-22",
+          "title": "זו התקלה הכי חמורה אי פעם ברכבת, מגיע לי שירות. \"בהחלט מתבצע שירות\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-c7e5-dc9d-abd9-dfff9f100000/02/7a/0eba76014772b7eadfb8af5de55a/sdddds.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-08-21/ty-article-quotes/.highlight/00000198-cce6-dc9d-abd9-dffe11200000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-08-21",
+          "magazine_date": "2025-08-22",
+          "title": "\"רה\"מ הוא הפוליטיקאי הכי לא מושחת בתולדות מדינת ישראל, לא מושחת בכלל\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-cce6-dc9d-abd9-dffe11200000/6f/f3/627e808749129e02221e68ed1899/701470.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-08-20/ty-article-20q/.highlight/00000198-c6e9-dcce-a5bf-cffb48870000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-08-20",
+          "magazine_date": "2025-08-22",
+          "title": "מה היה ג'ורג' הריסון הראשון לעשות מבין חברי הביטלס, בנובמבר 1968?",
+          "og_image": "https://img.haarets.co.il/bs/00000198-c6e9-dcce-a5bf-cffb48870000/1e/89/4131642749cabdd318fa3c1b7d82/396323.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-08-21/ty-article-magazine/.highlight/00000198-c77f-d2cb-a5fe-ff7f04320000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-08-21",
+          "magazine_date": "2025-08-22",
+          "title": "זה לא סתם קינוח. בפרדס חנה ממציאים מחדש את הגלידה",
+          "og_image": "https://img.haarets.co.il/bs/00000198-c77f-d2cb-a5fe-ff7f04320000/38/bd/59e3b5b340cda0f7ac381a7b2c7d/782172.jpg?precrop=1716,997,x0,y711&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-08-21/ty-article-magazine/.premium/00000198-cd0b-d15a-a3bd-df8bc9ef0001",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-08-21",
+          "magazine_date": "2025-08-22",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 22.8.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000198-cd0b-d15a-a3bd-df8bc9ef0001/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-08-21/ty-article/.premium/00000198-cd00-d1e9-abf9-df765d000000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-08-21",
+          "magazine_date": "2025-08-22",
+          "title": "קיימר על הגובה",
+          "og_image": "https://img.haarets.co.il/bs/00000198-cd00-d1e9-abf9-df765d000000/28/b0/af4c78d24c0bada52330f11bfe24/50941895.JPG?precrop=4064,2363,x0,y788&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-08-21/ty-article/.highlight/00000198-cd54-d1d0-af9d-dff5b3040000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-08-21",
+          "magazine_date": "2025-08-22",
+          "title": "הרב הראשי מבקש מן המזוקנים בארץ להחזיק בכיסם מספריים",
+          "og_image": "https://img.haarets.co.il/bs/00000198-cd54-d1d0-af9d-dff5b3040000/df/83/03eb15224f70ba82c94fb96d6cf0/mefursamot-3.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-08-21/ty-article/.premium/00000198-cbce-d1e9-abf9-dbfe0b4b0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-08-21",
+          "magazine_date": "2025-08-22",
+          "title": "\"האפשרות של עזרה מן החוץ היתה משהו שלא עלה אפילו על הדעת\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-cbce-d1e9-abf9-dbfe0b4b0000/43/b6/1dbf677a4c2b921b6b4f181f243b/urieps.JPG?precrop=1342,781,x0,y41&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2025-08-21/ty-article/.highlight/00000198-cd4d-dcce-a5bf-cd5fd6340000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2025-08-21",
+          "magazine_date": "2025-08-22",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000198-cd4d-dcce-a5bf-cd5fd6340000/00/c2/c066bf8f4edeac97e684a0edad40/rachel.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-08-21/ty-article/.premium/00000198-cd6d-dc9d-abd9-dfff32760001",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-08-21",
+          "magazine_date": "2025-08-22",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000198-cd6d-dc9d-abd9-dfff32760001/ba/4c/66d569c442de83dda83b3638fe02/ribooa-musaf-639.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-08-20/ty-article/.highlight/00000198-c7da-dd9f-a7db-cffad7e10000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-08-20",
+          "magazine_date": "2025-08-22",
+          "title": "עת למרי אזרחי יהודי־ערבי",
+          "og_image": "https://img.haarets.co.il/bs/00000198-c7da-dd9f-a7db-cffad7e10000/22/5d/e0b0964f4cb99f6c28f23f3701e4/524338.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "magazine_date": "2026-02-27",
+  "total_articles": 22,
+  "cover_image": "https://img.haarets.co.il/bs/0000019d-d3d6-d712-a5bf-d7d60e340000/f8/57/38bd848f4680bf3e6587a428c028/65467821.JPG?precrop=5464,6429,x0,y1739&width=317&height=373&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-02-25/ty-article-magazine/.highlight/0000019c-9039-d7dd-a9bc-b93b52e40000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-02-25/ty-article-magazine/.highlight/0000019c-9039-d7dd-a9bc-b93b52e40000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-02-25",
+          "magazine_date": "2026-02-27",
+          "title": "אם הבינה המלאכותית מתעלה על האדם, ייתכן שגם האדם מתעלה על אלוהים?",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-9039-d7dd-a9bc-b93b52e40000/18/8d/07a407744d27bc18ca4a0d7ef0af/adam.jpg?precrop=2636,1532,x470,y621&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-02-26/ty-article-magazine/.highlight/0000019c-9039-d930-ad9f-f4fd6f060000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-02-26",
+          "magazine_date": "2026-02-27",
+          "title": "\"היה צריך טרור כדי שהערבים ילכו\". מה באמת עשה צה\"ל ב-48'? תחקיר",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-9039-d930-ad9f-f4fd6f060000/55/96/df6a766c425c9e1c1e2ffb8381ee/64793098.JPG?precrop=2937,1706,x0,y63&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-02-26/ty-article-magazine/.highlight/0000019c-9605-d7dd-a9bc-bf0fb9520000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-02-26",
+          "magazine_date": "2026-02-27",
+          "title": "מה הופך אדם לחכם, ומדוע רשעות וחוכמה פשוט לא הולכות יחד",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-9605-d7dd-a9bc-bf0fb9520000/ee/73/c9fa9478452bbbe7e11335a5620e/64783915.JPG?precrop=3000,1744,x0,y0&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-02-26/ty-article-magazine/.highlight/0000019c-9943-dfa9-a7bd-dbebbfab0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-02-26",
+          "magazine_date": "2026-02-27",
+          "title": "זה סוכר נדיר שפועל הפוך מסוכר רגיל. האם נמצא האוזמפיק של הטבע?",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-9943-dfa9-a7bd-dbebbfab0000/02/63/55ea5d804f41877bcfdafe83a917/984988.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-02-26/ty-article/.highlight/0000019c-995b-dfa9-a7bd-dbfbfa590000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-02-26",
+          "magazine_date": "2026-02-27",
+          "title": "מה קרה באירוע המשפחתי, ולמה התחילו לקרוא לי \"רזית\"",
+          "og_image": "https://gif.haarets.co.il/bs/0000019c-995b-dfa9-a7bd-dbfbfa590000/78/75/511fadd84253bedba888ceb63233/neri-gif999999.gif?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-02-25/ty-article/.highlight/0000019c-947c-d930-ad9f-f4fd0c340000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-02-25",
+          "magazine_date": "2026-02-27",
+          "title": "בעידן שבו כולם משתילים שיער, האם קרחת היא סמל מין חדש?",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-947c-d930-ad9f-f4fd0c340000/06/22/126c19a448a1a257bff0de199664/695443.jpg?precrop=1600,930,x594,y33&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-02-25/ty-article/0000019c-94e3-dfa9-a7bd-d6ebfa810000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-02-25",
+          "magazine_date": "2026-02-27",
+          "title": "כלי מהפכני מאפשר לכל אחד להפוך למתכנת. חדשות טובות? תלוי את מי שואלים",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-94e3-dfa9-a7bd-d6ebfa810000/eb/e5/958a95b346e9aa797990c3659285/007278.jpg?precrop=2400,1395,x0,y118&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-02-25/ty-article/.highlight/0000019c-9444-d7dd-a9bc-bd4fcab20000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-02-25",
+          "magazine_date": "2026-02-27",
+          "title": "במקום לדון בהשלכות המלחמה, בישראל נשאבים לפנטזיות על נקמה תנ\"כית",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-9444-d7dd-a9bc-bd4fcab20000/ee/ab/b70391a84db5b2e58df139834e41/64803835.JPG?precrop=4000,2325,x0,y279&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-02-25/ty-article-face/.highlight/0000019c-9654-d930-ad9f-f6f5a7030000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-02-25",
+          "magazine_date": "2026-02-27",
+          "title": "אבי דבוש",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-9654-d930-ad9f-f6f5a7030000/67/cd/b5950b054268b60ffe1fe91d85d0/1o5a4376-1.jpg?precrop=2000,1163,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-02-25/ty-article-magazine/.highlight/0000019c-8f9a-d7dd-a9bc-bf9b51970000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-02-25",
+          "magazine_date": "2026-02-27",
+          "title": "\"כל החיים אמרו לי שאם אתה נמשך לנשים אז אתה גבר סטרייט. זה מאוד מבלבל\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-8f9a-d7dd-a9bc-bf9b51970000/ef/cb/55c676794b9a9f441f7e75f748ff/64789653.JPG?precrop=7328,4261,x0,y366&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-02-25/ty-article/.highlight/0000019c-9516-dc30-a3bd-d5ffe7910000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-02-25",
+          "magazine_date": "2026-02-27",
+          "title": "בדקה וחמש שניות מתגלות הפנטזיות הסמויות של אייל גולן",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-9516-dc30-a3bd-d5ffe7910000/ff/93/f1489b8b4630891abb185c8f898c/64816749.JPG?precrop=1679,977,x69,y56&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-02-25/ty-article-midrug/.highlight/0000019c-966e-dfa9-a7bd-d6efede40000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-02-25",
+          "magazine_date": "2026-02-27",
+          "title": "מנהלת הלובר מתפטרת בעקבות הפריצה למוזיאון. אבל האם העירו אותה??",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-966e-dfa9-a7bd-d6efede40000/62/ef/5d4d207e4175be7071b033af1975/006807.jpg?precrop=2400,1395,x0,y34&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-02-26/ty-article/.highlight/0000019c-950b-d981-a1be-97bba7480000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-02-26",
+          "magazine_date": "2026-02-27",
+          "title": "פירסמתם ש-90% מהרכיבים ממקור טבעי אבל כמעט הכל סינתטי. \"אתה נשמע כעוס\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-950b-d981-a1be-97bba7480000/fd/b3/b533077f47d28f3fc3925938320e/006073.jpg?precrop=1108,644,x0,y1101&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-02-25/ty-article-quotes/.highlight/0000019c-968b-d930-ad9f-f6ffd4fc0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-02-25",
+          "magazine_date": "2026-02-27",
+          "title": "\"אם כבר יוצאים למתקפה, הזמן הנכון הוא חודש אדר\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-968b-d930-ad9f-f6ffd4fc0000/f1/f8/dde49b0341c4a4831af4b47787a7/993854.jpg?precrop=1601,931,x0,y674&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-02-26/ty-article-20q/.highlight/0000019c-99b1-dfa9-a7bd-dbf9e7d40000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-02-26",
+          "magazine_date": "2026-02-27",
+          "title": "מתי התחפשה גולדה מאיר לאישה ערבייה?",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-99b1-dfa9-a7bd-dbf9e7d40000/de/b7/518c93874150b212f5037ae40ce3/811837.jpg?precrop=1940,1128,x0,y474&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2026-02-25/ty-article-magazine/.highlight/0000019c-94c8-da2e-afdd-95fc253c0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2026-02-25",
+          "magazine_date": "2026-02-27",
+          "title": "זו פיצה מיוחדת ומצוינת, והיא עשויה אך ורק ממרכיבים מקומיים",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-94c8-da2e-afdd-95fc253c0000/d3/42/4d2743cc43e0bf55fb210bf30699/1.jpg?precrop=1428,830,x0,y972&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-02-26/ty-article-magazine/.premium/0000019c-992f-d5d1-a1fd-db3fd71c0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-02-26",
+          "magazine_date": "2026-02-27",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 27.2.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-992f-d5d1-a1fd-db3fd71c0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-02-26/ty-article/.premium/0000019c-9925-d5d1-a1fd-db3707970000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-02-26",
+          "magazine_date": "2026-02-27",
+          "title": "פרידה מענק",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-9925-d5d1-a1fd-db3707970000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2026-02-26/ty-article/.premium/0000019c-9935-d930-ad9f-fdf585ec0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2026-02-26",
+          "magazine_date": "2026-02-27",
+          "title": "תל-אביב מקבלת פני אורחיה מטהראן",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-9935-d930-ad9f-fdf585ec0000/8f/1c/1b14554747bbbab259208d8cc5f5/mefursamot.jpg?precrop=1250,727,x0,y1175&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-02-26/ty-article/0000019c-993b-d981-a1be-9bbbe9120000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-02-26",
+          "magazine_date": "2026-02-27",
+          "title": "בגיל 16 ניצלה מטביעת ה\"פאטריה\". 21 שנה אח\"כ קיבלה את פרס ישראל",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-993b-d981-a1be-9bbbe9120000/b3/7f/3a5a0a374b0e8a8482b2a49f8af0/ora-kedem.jpg?precrop=1170,680,x0,y37&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-02-26/ty-article/.premium/0000019c-9937-d981-a1be-9bbfd2060000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-02-26",
+          "magazine_date": "2026-02-27",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-9937-d981-a1be-9bbfd2060000/3d/82/cc3fe28b440c99a53de9cf83c13e/ribooa-musaf-666.jpg?precrop=1083,630,x0,y214&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-02-25/ty-article/.highlight/0000019c-94be-d981-a1be-96becb080000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-02-25",
+          "magazine_date": "2026-02-27",
+          "title": "אין לנו יותר במי לבטוח, אז לפחות יש לנו בינה מלאכותית",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-94be-d981-a1be-96becb080000/b8/ba/7af3e916412a83e3fd195806b0f7/53303.jpg?precrop=2200,1279,x0,y295&width=1200&height=630&cmsprod"
+        }
+      ]
+    }
+  }
+}

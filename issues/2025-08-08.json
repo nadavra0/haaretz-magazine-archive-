@@ -1,0 +1,363 @@
+{
+  "magazine_date": "2025-08-08",
+  "total_articles": 26,
+  "cover_image": "https://img.haarets.co.il/bs/00000198-7e88-d50b-adba-7fcdbe6d0001/d5/19/f77747f14c4496106b7d2ec52c0a/shaar-14.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-08-06/ty-article-magazine/.highlight/00000198-7e70-d50b-adba-7ff5d1670000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-08-06/ty-article-magazine/.highlight/00000198-7e70-d50b-adba-7ff5d1670000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-08-06",
+          "magazine_date": "2025-08-08",
+          "title": "איך למדתי להפסיק לפחד מחיפוש חניה בתל אביב",
+          "og_image": "https://img.haarets.co.il/bs/00000198-7e70-d50b-adba-7ff5d1670000/e3/21/1647f932475ab6c443e6510a3411/766214.jpg?precrop=2400,1395,x0,y206&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-08-06/ty-article-magazine/.highlight/00000198-7e73-d0ce-a5de-ff73e8d40000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-08-06",
+          "magazine_date": "2025-08-08",
+          "title": "אין עננים? אז נייצר עננים. באוסטרליה נערך ניסוי נועז בהנדסת אקלים",
+          "og_image": "https://img.haarets.co.il/bs/00000198-7e73-d0ce-a5de-ff73e8d40000/56/93/945089e94722aaa08f1bbe6aa117/647557.jpg?precrop=2400,1395,x0,y206&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-08-06/ty-article-magazine/.highlight/00000198-7e77-d50b-adba-7ff7819f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-08-06",
+          "magazine_date": "2025-08-08",
+          "title": "בפתח תקוה חגגו השבוע \"ניצחון על ארגון הבריאות העולמי\". כן, מה ששמעתם",
+          "og_image": "https://img.haarets.co.il/bs/00000198-7e77-d50b-adba-7ff7819f0000/d1/d2/e97169c740e6829a82868a7d48a2/moran-1.jpg?precrop=2000,1162,x0,y74&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-08-06/ty-article-magazine/.highlight/00000198-7e7d-d8b5-a5fd-7ffd94530000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-08-06",
+          "magazine_date": "2025-08-08",
+          "title": "\"אנשים כותבים לי שהם מתעלפים, מקיאים, ילדים מאבדים הכרה. המצב קיצוני\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-7e7d-d8b5-a5fd-7ffd94530000/52/cd/1abf92a1435c9982fb0f9dd4cf1e/654303.jpg?precrop=2400,1396,x0,y50&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-08-06/ty-article/.highlight/00000198-7f5b-d343-a3db-ffff83380000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-08-06",
+          "magazine_date": "2025-08-08",
+          "title": "סוף־סוף הבנתי מה המטרה השלישית של המלחמה",
+          "og_image": "https://img.haarets.co.il/bs/00000198-7f5b-d343-a3db-ffff83380000/fb/b2/11acf3aa4f2886addfd21bc24d39/62551378.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-08-07/ty-article/.highlight/00000198-834e-d21c-a5bd-e77e6d2e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-08-07",
+          "magazine_date": "2025-08-08",
+          "title": "המקרה של יוסף חדאד הזכיר לי את הספר \"ערבי טוב\" של יורם קניוק",
+          "og_image": "https://img.haarets.co.il/bs/00000198-834e-d21c-a5bd-e77e6d2e0000/33/ee/e3a09c8844ce88bf96fdb56b0cf9/8-8-25-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-08-06/ty-article/.highlight/00000198-7ecf-d2e5-adb9-7eff21300000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-08-06",
+          "magazine_date": "2025-08-08",
+          "title": "כשהחוק הופך לבדיחה, גם המנהיגות הופכת למופע פרוורטי",
+          "og_image": "https://img.haarets.co.il/bs/00000198-7ecf-d2e5-adb9-7eff21300000/68/38/7a0b3b004b95a142ae959b7396b1/62446878.JPG?precrop=4000,2326,x0,y346&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-08-06/ty-article/.highlight/00000198-7f76-d76c-addf-ff7fb63d0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-08-06",
+          "magazine_date": "2025-08-08",
+          "title": "בישראל אתה סוג של אפס, מלקט פירורים. ברומניה אתה זוכה להשפיל את הזולת",
+          "og_image": "https://img.haarets.co.il/bs/00000198-7f76-d76c-addf-ff7fb63d0000/35/61/6a0c0ca944caa9f037e3a7778746/344017.jpg?precrop=2400,1395,x0,y244&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-08-06/ty-article/.highlight/00000198-7edf-d0ce-a5de-ffdf8f770000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-08-06",
+          "magazine_date": "2025-08-08",
+          "title": "פרדוקס החופשה: דווקא בחו\"ל, הישראלים נתקלים במציאות שביקשו להדחיק",
+          "og_image": "https://img.haarets.co.il/bs/00000198-7edf-d0ce-a5de-ffdf8f770000/41/64/7ce7cede4e33b81a5bdcb9ae0f6f/517625.jpg?precrop=2034,1183,x186,y121&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-08-06/ty-article-face/.highlight/00000198-7e94-d257-a1f9-fefd27ef0001",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-08-06",
+          "magazine_date": "2025-08-08",
+          "title": "יעל אדר",
+          "og_image": "https://img.haarets.co.il/bs/00000198-7e94-d257-a1f9-fefd27ef0001/5b/c9/bf7a1d8f40089174d54d99ff59ee/654042.jpg?precrop=2400,1396,x0,y141&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-08-06/ty-article-magazine/.highlight/00000198-8021-d21c-a5bd-e775de440000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-08-06",
+          "magazine_date": "2025-08-08",
+          "title": "\"אמרתי לה: אני רוצה אותך. זה היה כמו שידוך מהיקום\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-8021-d21c-a5bd-e775de440000/70/d7/660c96d14ae5966e6985af74f133/541786.jpg?precrop=2400,1395,x0,y157&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2025-08-06/ty-article-magazine/.highlight/00000198-7f80-d76c-addf-ffab66e10000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2025-08-06",
+          "magazine_date": "2025-08-08",
+          "title": "\"זה היה מופע התעמולה הגדול בהיסטוריה. מצמרר לקרוא את השבחים שהם קיבלו\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-7f80-d76c-addf-ffab66e10000/43/32/7229d4394bd5ac809ce720377c29/gsdgsdgdgd.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-08-06/ty-article/.highlight/00000198-800d-d76c-addf-802fcb9d0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-08-06",
+          "magazine_date": "2025-08-08",
+          "title": "לפתע אתה תוהה: יכול להיות שהוא זה שצודק? שבית המקדש אכן ייבנה?",
+          "og_image": "https://img.haarets.co.il/bs/00000198-800d-d76c-addf-802fcb9d0000/30/b9/e57f0fce48b4af73aada052d58e6/661545.jpg?precrop=2400,1394,x0,y184&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-08-07/ty-article-midrug/.highlight/00000198-853a-da2d-a9fa-f7bb3b290000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-08-07",
+          "magazine_date": "2025-08-08",
+          "title": "סידני סוויני מסעירה את ארה\"ב. לא שמעו שם על עידן עמדי",
+          "og_image": "https://img.haarets.co.il/bs/00000198-853a-da2d-a9fa-f7bb3b290000/af/35/e8c6fc614f40aa2b873e3213f7ce/headline-18.jpg?precrop=2000,1162,x0,y780&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-08-07/ty-article/.highlight/00000198-7f2e-dbc2-a99c-ff2e8a7b0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-08-07",
+          "magazine_date": "2025-08-08",
+          "title": "מיד אחרי שעמדי יצא נגד העצומה, הודעת שהוא מופיע. \"מה אתה רוצה להגיד?\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-7f2e-dbc2-a99c-ff2e8a7b0000/4e/4a/d9b674ec49a8bc276718dedd7a43/62553672.JPG?precrop=595,346,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-08-07/ty-article-quotes/.highlight/00000198-855c-da2d-a9fa-f7dff00c0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-08-07",
+          "magazine_date": "2025-08-08",
+          "title": "\"עשר שעות בלבד ב–7 באוקטובר הוא הסתיר את פניו, וזה מה שיצא מזה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-855c-da2d-a9fa-f7dff00c0000/05/10/c304c3aa44c3b820c74072b642d3/002901.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-08-06/ty-article-20q/.highlight/00000198-7e66-d2e5-adb9-7e7ff7400000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-08-06",
+          "magazine_date": "2025-08-08",
+          "title": "באיזו מדינה יש יותר קופים מבני אדם?",
+          "og_image": "https://img.haarets.co.il/bs/00000198-7e66-d2e5-adb9-7e7ff7400000/8d/a1/c3c46e0848029d15af4c57925f67/110056.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-08-06/ty-article/.highlight/00000198-7f55-d3d0-a79a-7ffdc6250000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-08-06",
+          "magazine_date": "2025-08-08",
+          "title": "זה היה אחד הגשרים האחרונים בין יהודים לערבים. גם אותו הרסו",
+          "og_image": "https://img.haarets.co.il/bs/00000198-7f55-d3d0-a79a-7ffdc6250000/55/62/9795061c4d36878647ff2bb77583/62539260.JPG?precrop=3840,2233,x0,y353&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-08-07/ty-article-magazine/.premium/00000198-844f-dfd7-a5df-bcef69ce0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-08-07",
+          "magazine_date": "2025-08-08",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 8.8.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000198-844f-dfd7-a5df-bcef69ce0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-08-07/ty-article/.premium/00000198-8435-d38b-a39e-a637d2ad0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-08-07",
+          "magazine_date": "2025-08-08",
+          "title": "בשבחי ארוניאן",
+          "og_image": "https://img.haarets.co.il/bs/00000198-8435-d38b-a39e-a637d2ad0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-08-07/ty-article/.premium/00000198-8459-d9db-a9be-875ba99e0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-08-07",
+          "magazine_date": "2025-08-08",
+          "title": "המכשיר הישראלי יסיר שיער מרגלי האנגליות",
+          "og_image": "https://img.haarets.co.il/bs/00000198-8459-d9db-a9be-875ba99e0000/d6/a9/98f979dc4e1ba0ba6a2cde8a2967/mefursamot.jpg?precrop=1250,727,x0,y1108&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-08-02/ty-article/00000198-6bae-d12c-a9b8-7baf77050000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-08-02",
+          "magazine_date": "2025-08-08",
+          "title": "\"אנשים התקשרו לשאול על הגדרות. הוא מאוד אהב את זה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-6bae-d12c-a9b8-7baf77050000/7d/53/5aa90aa2420c830aacf8e68be0da/38107.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-08-08/ty-article/00000198-8854-d15b-a1fd-fbdce0250000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-08-08",
+          "magazine_date": "2025-08-08",
+          "title": "מושל עזה התגאה: כך הצלחנו לחסל את הטרור בשנות ה-70",
+          "og_image": "https://img.haarets.co.il/bs/00000198-8854-d15b-a1fd-fbdce0250000/0f/60/d01e340f4c24befb7767e191ee97/822093.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2025-08-07/ty-article/.premium/00000198-8456-da2d-a9fa-f7df336d0000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2025-08-07",
+          "magazine_date": "2025-08-08",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000198-8456-da2d-a9fa-f7df336d0000/a7/bf/c51b497b4f6ebfc6690909849e92/caro.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-08-07/ty-article/.premium/00000198-845b-da2d-a9fa-f7db58b60000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-08-07",
+          "magazine_date": "2025-08-08",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000198-845b-da2d-a9fa-f7db58b60000/01/16/6de11b614b4c94cba891cf1616b5/ribooa-musaf-637-new.jpg?precrop=1084,630,x0,y303&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-08-06/ty-article/.highlight/00000198-801a-d76c-addf-803b15ac0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-08-06",
+          "magazine_date": "2025-08-08",
+          "title": "לא נוכל להגיד שלא ידענו",
+          "og_image": "https://img.haarets.co.il/bs/00000198-801a-d76c-addf-803b15ac0000/53/02/a277f12145e6ba637ddabee970f4/587435.jpg?precrop=2400,1396,x0,y71&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

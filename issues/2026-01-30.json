@@ -1,0 +1,314 @@
+{
+  "magazine_date": "2026-01-30",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/0000019c-057c-dec4-adfd-fd7df1620001/57/6e/28f24d64489185153742961c8ef3/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-01-28/ty-article/.highlight/0000019c-0558-df31-a1bd-fdfbb4720000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-01-28/ty-article/.highlight/0000019c-0558-df31-a1bd-fdfbb4720000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-01-28",
+          "magazine_date": "2026-01-30",
+          "title": "אני תמיד ממעיטה בחומרת הסבל הגופני או הנפשי שלי. ואני יודעת מה הסיבה",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-0558-df31-a1bd-fdfbb4720000/7c/00/787928c344e5a300770fce249432/30-1-26-web.jpg?&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-01-29/ty-article-magazine/.highlight/0000019c-0459-d51c-ab9e-575f72e10000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-01-29",
+          "magazine_date": "2026-01-30",
+          "title": "מתנגדי ההפיכה חווים סימפטומים של אבל, ממש כמו במוות של אדם קרוב",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-0459-d51c-ab9e-575f72e10000/02/57/5f5831cd4e028ddefec249e5b76c/430153.jpg?precrop=2400,1395,x0,y115&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-01-29/ty-article-magazine/.highlight/0000019c-0479-dc62-a5ff-ef7fd58d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-01-29",
+          "magazine_date": "2026-01-30",
+          "title": "סבא, תעזוב כבר את הטלפון: הגיע הזמן להודות, למבוגרים יש בעיית מסכים",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-0479-dc62-a5ff-ef7fd58d0000/da/b9/d8ad0c45497ab5841ea07f7df2f0/561185.jpg?precrop=1662,966,x342,y635&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-01-29/ty-article-magazine/.highlight/0000019c-0493-d037-afdd-9fbbf2ed0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-01-29",
+          "magazine_date": "2026-01-30",
+          "title": "האיש שחי באנונימיות בתל אביב, ושינה את חייהם של כל מי שפגשו בו",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-0493-d037-afdd-9fbbf2ed0000/fb/ae/e9d88457421aba53a8e952c215ac/257511.jpg?precrop=2293,1332,x61,y44&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-01-28/ty-article-magazine/.highlight/0000019c-04d1-dd8b-a79e-15d10b060000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-01-28",
+          "magazine_date": "2026-01-30",
+          "title": "מאחורי התסיסה באיראן עומד גם משבר מים, שהאייתוללות חוללו במו ידיהם",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-04d1-dd8b-a79e-15d10b060000/3c/fd/a944badb4f5f8c1c4cfe9906d099/563792.jpg?precrop=2400,1395,x0,y324&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-01-29/ty-article-magazine/.highlight/0000019c-08ef-dd8c-a1de-4fff40eb0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-01-29",
+          "magazine_date": "2026-01-30",
+          "title": "עימות חזותי: שני ציירים דגולים, אותו בית הספר, יריבות מוחלטת",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-08ef-dd8c-a1de-4fff40eb0000/b6/ca/4580ca624874ba0723ca4537cd1b/452453.jpg?precrop=2400,1396,x0,y152&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-01-29/ty-article/.highlight/0000019c-0921-dec4-adfd-fd6dd77b0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-01-29",
+          "magazine_date": "2026-01-30",
+          "title": "המרצים באקדמיה לא הושתקו בידי הימין. הם נכנעו מרצונם, מתוך פחדנות נוחה",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-0921-dec4-adfd-fd6dd77b0000/1b/09/05fc33e74891bbca12319564c55a/183614.jpg?precrop=2400,1395,x0,y108&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2026-01-28/ty-article/.highlight/0000019c-04a9-d570-a99c-cee926220000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2026-01-28",
+          "magazine_date": "2026-01-30",
+          "title": "מסע לשוני־צבעוני שחולף במעי של לווייתן ומסתיים במעבדה גרמנית",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-04a9-d570-a99c-cee926220000/40/7c/a71bc6d54f9989623e774c47213a/481056.jpg?precrop=2400,1395,x0,y206&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-01-28/ty-article/.highlight/0000019c-04c1-db56-ad9e-56f5ec1c0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-01-28",
+          "magazine_date": "2026-01-30",
+          "title": "התכנית לעתיד עזה מסמלת חידוש פוליטי בנוף, שעשוי להגיע למדינות נוספות",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-04c1-db56-ad9e-56f5ec1c0000/37/1a/860b81124f56a00874379150644c/64528934.JPG?precrop=2612,1519,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-01-28/ty-article-face/.highlight/0000019c-04e0-db56-ad9e-56f407630000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-01-28",
+          "magazine_date": "2026-01-30",
+          "title": "שמעון רדליך",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-04e0-db56-ad9e-56f407630000/41/c5/b8e8e8184515af39235d60a3ed35/541023.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-01-28/ty-article-magazine/.highlight/0000019c-04c9-dd89-abdd-2eef84850000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-01-28",
+          "magazine_date": "2026-01-30",
+          "title": "\"נכנסתי לסיפור קצר של פבלו אסקובר. הייתי מאוד קרוב להיתפס\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-04c9-dd89-abdd-2eef84850000/55/ad/320954014bab9932427c39eeaf7d/529804.jpg?precrop=2400,1395,x0,y175&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2026-01-28/ty-article-magazine/.highlight/0000019c-0537-d190-afff-57f747b40000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2026-01-28",
+          "magazine_date": "2026-01-30",
+          "title": "\"יום אחד המדינה שלחה את ידה לתוך המעברות ושלפה החוצה את האשכנזים\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-0537-d190-afff-57f747b40000/00/0f/a3047162458195eb0991194d1e1e/64545775.JPG?precrop=6000,3488,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-01-29/ty-article/.highlight/0000019c-05a8-d9e0-a59f-0faf723e0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-01-29",
+          "magazine_date": "2026-01-30",
+          "title": "תמותו, אבל לא בקטע רע: אנחנו חוזים במאמץ אובססיבי לטשטש בין חיים למוות",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-05a8-d9e0-a59f-0faf723e0000/fa/9c/d57c0930481aa8707b4b756171c9/64544145.JPG?precrop=315,183,x0,y136&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-01-28/ty-article-midrug/.highlight/0000019c-05f6-d9e0-a59f-0ff71bd30000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-01-28",
+          "magazine_date": "2026-01-30",
+          "title": "הספארי עובר לפארק אריאל שרון. מי שלא רצה אותו ברמת גן",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-05f6-d9e0-a59f-0ff71bd30000/bf/72/f3da8a78486d8e4c8c86129b241a/headline.jpg?precrop=2000,1162,x0,y612&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-01-29/ty-article/.highlight/0000019c-04b9-d2fd-a9de-c5bfdec20000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-01-29",
+          "magazine_date": "2026-01-30",
+          "title": "אתה מנצל את הופעותיך ב\"אולפן שישי\" כדי לקדם את עצמך פוליטית?",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-04b9-d2fd-a9de-c5bfdec20000/91/81/8629d9a44c73af2bc16657990461/64544840.JPG?precrop=6000,3488,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-01-28/ty-article-quotes/.highlight/0000019c-04e4-d043-a99e-2ef4f60a0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-01-28",
+          "magazine_date": "2026-01-30",
+          "title": "\"מדינת ישראל לא צריכה לממן פוליטיקאים כושלים\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-04e4-d043-a99e-2ef4f60a0000/4a/64/d6768e274005ab3e9bd15433eef9/834075.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-01-28/ty-article-20q/.highlight/0000019c-04d3-dd8b-a79e-15d334830000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-01-28",
+          "magazine_date": "2026-01-30",
+          "title": "באיזה שם ידועה יותר \"החזית העולמית האיסלאמית למאבק בצלבנים וביהודים\"?",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-04d3-dd8b-a79e-15d334830000/35/20/0d160acd4b3b9b2ad573d47f4960/588268.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2026-01-29/ty-article-magazine/.highlight/0000019c-0947-d7de-a99f-096fd59c0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2026-01-29",
+          "magazine_date": "2026-01-30",
+          "title": "בית מחוץ לבית: הנשים שמזינות קהילות באוכל טרי ומזין",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-0947-d7de-a99f-096fd59c0000/0c/9f/ab5fe9b94ac684c3c471e067e416/2.jpg?precrop=1428,830,x0,y432&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-01-29/ty-article-magazine/.premium/0000019c-09c6-dc8a-addd-2fe70d830000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-01-29",
+          "magazine_date": "2026-01-30",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 30.1.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-09c6-dc8a-addd-2fe70d830000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-01-29/ty-article/.premium/0000019c-09ca-de0b-a5de-5bfba3430000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-01-29",
+          "magazine_date": "2026-01-30",
+          "title": "אלוף בן 19",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-09ca-de0b-a5de-5bfba3430000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2026-01-24/ty-article/.premium/0000019b-f15b-deee-a9bf-f1ffc78f0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2026-01-24",
+          "magazine_date": "2026-01-30",
+          "title": "בפעם הראשונה בכנסת: מכות",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-f15b-deee-a9bf-f1ffc78f0000/89/7b/4b6dd4624e2f84cf5b2cda58bf1f/mefursamot.jpg?precrop=1250,727,x0,y882&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2026-01-29/ty-article/.premium/0000019c-09c3-d163-a3bc-adf7c28b0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2026-01-29",
+          "magazine_date": "2026-01-30",
+          "title": "ראש הממשלה: המציאות לא השתנתה: הערבים הם ערבים והים אותו ים",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-09c3-d163-a3bc-adf7c28b0000/a4/af/e18a366a42b78a1050ce442aa178/mefursamot.jpg?precrop=1250,727,x0,y971&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-01-29/ty-article/0000019c-0929-d311-a9bc-cbf994e80000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-01-29",
+          "magazine_date": "2026-01-30",
+          "title": "בגיל 13 סירבה לברך את היטלר: רחל גולד, ותיקת קיבוץ סעד, מתה בגיל 102",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-0929-d311-a9bc-cbf994e80000/bd/43/8fcff22a4d5b85e3486a7c606141/619219274-1639086627253455-3725232138412935176-n-1.jpg?precrop=797,463,x0,y242&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-01-28/ty-article/.highlight/0000019c-04d7-d163-a3bc-a4f796470000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-01-28",
+          "magazine_date": "2026-01-30",
+          "title": "איך אני אמור להרגיש לגבי עזה? אינני יודע, אינני מבין",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-04d7-d163-a3bc-a4f796470000/f1/06/ac89120a42069a5e2e619822838d/562467.jpg?precrop=2400,1395,x0,y228&width=1200&height=630&cmsprod"
+        }
+      ]
+    }
+  }
+}

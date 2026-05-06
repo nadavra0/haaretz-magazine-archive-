@@ -1,0 +1,323 @@
+{
+  "magazine_date": "2025-05-16",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/00000196-d2f0-db37-addf-f6f4a9a20001/aa/42/be40891a43f18521cb28d63a1805/shaar-8.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-05-14/ty-article/.highlight/00000196-cf81-d37b-a9de-efafb6e90000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-05-14/ty-article/.highlight/00000196-cf81-d37b-a9de-efafb6e90000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-05-14",
+          "magazine_date": "2025-05-16",
+          "title": "דיברתי עם חברתי בטלפון, אבל היא לא הצליחה לזכור על מה המליצה לי לכתוב",
+          "og_image": "https://gif.haarets.co.il/bs/00000196-cf81-d37b-a9de-efafb6e90000/5f/c0/393784874bffaa1dd4e4f4ee2b00/16-5-25-animation.gif?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-05-15/ty-article-magazine/.highlight/00000196-ce4c-d37b-a9de-ee6eacd00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-05-15",
+          "magazine_date": "2025-05-16",
+          "title": "לא פתרון שתי המדינות ולא מדינה אחת: לארגון ארץ לכולם יש פתרון שלישי",
+          "og_image": "https://img.haarets.co.il/bs/00000196-ce4c-d37b-a9de-ee6eacd00000/f7/19/29ea171e401686e050b009e0ec92/661634.jpg?precrop=1801,1047,x0,y581&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-05-15/ty-article-magazine/.highlight/00000196-ce4f-d0b3-afde-cf6f61700000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-05-15",
+          "magazine_date": "2025-05-16",
+          "title": "מיוגה עד טקסים פגאניים בגולן: פעם לעגנו לניו אייג', היום כולנו רוחניים",
+          "og_image": "https://img.haarets.co.il/bs/00000196-ce4f-d0b3-afde-cf6f61700000/83/30/f605439a47f0906fa8836641daee/61544871.JPG?precrop=2200,1280,x0,y188&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-05-15/ty-article-magazine/.highlight/00000196-ce4f-d37b-a9de-ee6fbcc80000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-05-15",
+          "magazine_date": "2025-05-16",
+          "title": "לתפוס תנין בלולאה, בין קוף שאגן לקוף עכביש: מסע אל הטבע הפרוע של בליז",
+          "og_image": "https://img.haarets.co.il/bs/00000196-ce4f-d37b-a9de-ee6fbcc80000/38/d5/50e6b95e4c42a9fbe249a835ca51/61558329.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-05-15/ty-article-magazine/.highlight/00000196-d2c0-db37-addf-f6e44a6d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-05-15",
+          "magazine_date": "2025-05-16",
+          "title": "\"המהפכה תתרחש ללא שפיכות דמים — אם השמאל יאפשר זאת\"",
+          "og_image": "https://img.haarets.co.il/bs/00000196-d2c0-db37-addf-f6e44a6d0000/2b/c5/95555b7b4868a113c609aa408a80/640975-1.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-05-14/ty-article-magazine/.highlight/00000196-ce0f-d37b-a9de-ee2f840a0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-05-14",
+          "magazine_date": "2025-05-16",
+          "title": "התערוכה של קאראווג'ו נעה בין ארוטיקה משתקת ליופי בלתי נסבל",
+          "og_image": "https://img.haarets.co.il/bs/00000196-ce0f-d37b-a9de-ee2f840a0000/4b/48/ffd138f042dfba9a0f78b4295ccf/651449.jpg?precrop=1454,845,x414,y379&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-05-14/ty-article-magazine/.highlight/00000196-ce56-d0b3-afde-cf76c5cd0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-05-14",
+          "magazine_date": "2025-05-16",
+          "title": "זה קרה באמצע היום. פתאום קם חבר קונגרס והכניס מכות רצח לעמיתו המכובד",
+          "og_image": "https://img.haarets.co.il/bs/00000196-ce56-d0b3-afde-cf76c5cd0000/71/e6/757d94084837a08e04fa727652a9/61535326.JPG?precrop=957,556,x0,y119&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-05-14/ty-article/.highlight/00000196-ce34-d37b-a9de-ee3ea9c30000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-05-14",
+          "magazine_date": "2025-05-16",
+          "title": "הסדר הליברלי קורס, ואפילו חילונים מתרפקים על דיני מלחמה מקראיים",
+          "og_image": "https://img.haarets.co.il/bs/00000196-ce34-d37b-a9de-ee3ea9c30000/fd/9f/4e3c9118429e817b9fa5beef97a9/674979.jpg?precrop=2400,1396,x0,y198&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-05-15/ty-article-face/.highlight/00000196-d3cc-db37-addf-f7ec59fd0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-05-15",
+          "magazine_date": "2025-05-16",
+          "title": "גיורא ענבר",
+          "og_image": "https://img.haarets.co.il/bs/00000196-d3cc-db37-addf-f7ec59fd0000/19/1e/464460b148e898ed3ffb3acf8e0b/facetemplate1800x1200-1-2.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-05-14/ty-article-magazine/.highlight/00000196-ce7f-d9a9-a99e-ff7f53f20000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-05-14",
+          "magazine_date": "2025-05-16",
+          "title": "\"הוא אמר לי: אני זוכר אותך מהאמבולנס. היית הדבר הכי יפה שראיתי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000196-ce7f-d9a9-a99e-ff7f53f20000/c9/5c/b7678eb842e7a01d2c9b76830d71/560870.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-05-14/ty-article-magazine/.highlight/00000196-cebf-d37b-a9de-eebf8d550000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-05-14",
+          "magazine_date": "2025-05-16",
+          "title": "איזנקוט, זה הזמן ל\"רצח אב\". או ליתר דיוק: המתת חסד",
+          "og_image": "https://img.haarets.co.il/bs/00000196-cebf-d37b-a9de-eebf8d550000/c8/57/070078bd4ac0840db53f85b4a3ea/145482.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-05-15/ty-article-midrug/.highlight/00000196-d3d1-d9a9-a99e-f3d517010000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-05-15",
+          "magazine_date": "2025-05-16",
+          "title": "ליאו ה-14. אף פעם לא עילאי",
+          "og_image": "https://img.haarets.co.il/bs/00000196-d3d1-d9a9-a99e-f3d517010000/9f/62/98d23968464aa4a4aa653a1942c4/665842.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-05-14/ty-article/.highlight/00000196-ce94-d9a9-a99e-ff9584340000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-05-14",
+          "magazine_date": "2025-05-16",
+          "title": "לטענתך המלחמה היא רק לטובת  נתניהו, אז למה אתה לא קורא לחיילים לסרב?",
+          "og_image": "https://img.haarets.co.il/bs/00000196-ce94-d9a9-a99e-ff9584340000/b1/05/4252b9824492a09b2c3ea52efe5a/62341.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-05-15/ty-article-quotes/.highlight/00000196-d452-d048-a7d7-dc765fda0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-05-15",
+          "magazine_date": "2025-05-16",
+          "title": "\"זה מופע ליצנות של היועמ\"שית\"",
+          "og_image": "https://img.haarets.co.il/bs/00000196-d452-d048-a7d7-dc765fda0000/8c/97/e0493a5b4dbf83a8541287c91ead/604375.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-05-14/ty-article-20q/.highlight/00000196-ceae-d048-a7d7-defeb3e50000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-05-14",
+          "magazine_date": "2025-05-16",
+          "title": "מי הזמרת שבזכותה התגלה שישראל זכאית להשתתף באירוויזיון?",
+          "og_image": "https://img.haarets.co.il/bs/00000196-ceae-d048-a7d7-defeb3e50000/0f/5a/814f5b00450f92e53f90d560d2bb/436337.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-05-15/ty-article-magazine/.highlight/00000196-cedd-d37b-a9de-eeff32410000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-05-15",
+          "magazine_date": "2025-05-16",
+          "title": "אחרי שנה וחצי, מסעדת R48 של רותי ברודו חוזרת עם ארוחת טעימות אסייתית",
+          "og_image": "https://img.haarets.co.il/bs/00000196-cedd-d37b-a9de-eeff32410000/a3/f6/3b96a4e54a86b4a64a4eab819227/78.jpg?precrop=1429,831,x0,y364&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-05-15/ty-article-magazine/.premium/00000196-d2ec-de9d-adf6-dbefaae70000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-05-15",
+          "magazine_date": "2025-05-16",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 16.5.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000196-d2ec-de9d-adf6-dbefaae70000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-05-15/ty-article/.premium/00000196-d2e1-d048-a7d7-daf7f8d20000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-05-15",
+          "magazine_date": "2025-05-16",
+          "title": "דרבי צרפתי",
+          "og_image": "https://img.haarets.co.il/bs/00000196-d2e1-d048-a7d7-daf7f8d20000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-05-15/ty-article/.premium/00000196-d2fc-de9d-adf6-dbff48540000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-05-15",
+          "magazine_date": "2025-05-16",
+          "title": "הומוסקסואלים התארחו בכנסת",
+          "og_image": "https://img.haarets.co.il/bs/00000196-d2fc-de9d-adf6-dbff48540000/c6/0b/01cd009348b7accd98b9e411f34f/mefursamot.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-05-10/ty-article/00000196-b8b0-dce0-abfe-fffcdf0a0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-05-10",
+          "magazine_date": "2025-05-16",
+          "title": "\"הכיתה היתה אוהל. ילדים למדו ללא כיסאות, שולחנות ולוח\"",
+          "og_image": "https://img.haarets.co.il/bs/00000196-b8b0-dce0-abfe-fffcdf0a0000/32/d2/80450421415391276bc06954e140/a.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-05-15/ty-article/00000196-d3c9-d048-a7d7-dbff9f0f0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-05-15",
+          "magazine_date": "2025-05-16",
+          "title": "שימר את מורשת אבותיו למרגלות הרי אטלס במרוקו",
+          "og_image": "https://img.haarets.co.il/bs/00000196-d3c9-d048-a7d7-dbff9f0f0000/72/a5/4487a6d54de9bdfca59ea86daf22/dmnat1958.png?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-05-15/ty-article/.premium/00000196-d300-dab2-a5f6-f3904f1d0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-05-15",
+          "magazine_date": "2025-05-16",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000196-d300-dab2-a5f6-f3904f1d0000/23/6a/df14bfc24388b4b8067c72f699cb/ribooa-musaf-625.jpg?precrop=1083,630,x0,y103&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-05-14/ty-article-magazine/.highlight/00000196-cebf-d37b-a9de-eebfc94c0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-05-14",
+          "magazine_date": "2025-05-16",
+          "title": "תורת הקוונטים לא כזו מסתורית",
+          "og_image": "https://img.haarets.co.il/bs/00000196-cebf-d37b-a9de-eebfc94c0000/7e/91/3f7ac12c404f8dfdb530a14d27fc/shaar.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": "https://img.haarets.co.il/bs/00000196-aa7f-dbb0-af9f-abff1b930001/7e/91/3f7ac12c404f8dfdb530a14d27fc/shaar.jpg?&width=620&height=729&cmsprod"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "magazine_date": "2025-04-18",
+  "total_articles": 22,
+  "cover_image": "https://img.haarets.co.il/bs/00000196-4286-d587-abb7-ea873dfd0001/d4/3f/fbda9e344dcba4b33353a2f8f69c/musaf-18-4.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-04-12/ty-article/.highlight/00000196-2a41-d78d-a1de-3e59aebf0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-04-12/ty-article/.highlight/00000196-2a41-d78d-a1de-3e59aebf0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-04-12",
+          "magazine_date": "2025-04-18",
+          "title": "פעם נסעתי לחו\"ל כדי לצבור חויוות, היום אני נוסעת רק בשביל לחיות",
+          "og_image": "https://gif.haarets.co.il/bs/00000196-2a41-d78d-a1de-3e59aebf0000/e8/59/64e92f854e5e90782f6c9e0107ef/11-4-25-animation.gif?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-04-17/ty-article-magazine/.highlight/00000196-3de4-d78d-a1de-3dfddba20000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-04-17",
+          "magazine_date": "2025-04-18",
+          "title": "זה כלב? זה עכבר? מסע לפנמה הטרופית בעקבות מכרסם עם קוגניציה יוצאת דופן",
+          "og_image": "https://img.haarets.co.il/bs/00000196-3de4-d78d-a1de-3dfddba20000/62/2d/465e18f347bc9b0653a8387faff0/61204352.JPG?precrop=3775%2C2195%2Cx0%2Cy71&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-04-17/ty-article-magazine/.highlight/00000196-3dfa-d587-abb7-bdfb89870000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-04-17",
+          "magazine_date": "2025-04-18",
+          "title": "מה גורם להתפרצויות ALS? תחלואה חריגה בהרי האלפים נותנת רמז יקר ערך",
+          "og_image": "https://img.haarets.co.il/bs/00000196-3dfa-d587-abb7-bdfb89870000/ae/0d/08e0cc7c4c7c882bf9a1c71180e4/61206837.JPG?precrop=2500%2C1453%2Cx0%2Cy547&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-04-17/ty-article-magazine/.highlight/00000196-3e0c-daed-a3d7-7e0f27d60000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-04-17",
+          "magazine_date": "2025-04-18",
+          "title": "בהר הרצל נפגשים תיירים נרגשים עם אמהות שלא רצו להיות גיבורות",
+          "og_image": "https://img.haarets.co.il/bs/00000196-3e0c-daed-a3d7-7e0f27d60000/93/49/ce5a66b4403daa0bf8d4ae30a238/331598.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-04-17/ty-article-magazine/.highlight/00000196-425f-d513-adb7-4f5f218d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-04-17",
+          "magazine_date": "2025-04-18",
+          "title": "\"אנחנו אלופים בלהדחיק\": על רקע הסדק בחיל האוויר, הטייסים מדברים",
+          "og_image": "https://img.haarets.co.il/bs/00000196-425f-d513-adb7-4f5f218d0000/b2/21/c6f973a64072a16f1c97ad4383ff/61221334.JPG?precrop=6000%2C3488%2Cx0%2Cy500&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-04-16/ty-article-magazine/.highlight/00000196-3e01-ddef-a5df-bffbd5b60000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-04-16",
+          "magazine_date": "2025-04-18",
+          "title": "בתוך ראש כרות בתערוכה התגלה סוד כמוס. הוא נועד לעיניו של אלוהים בלבד",
+          "og_image": "https://img.haarets.co.il/bs/00000196-3e01-ddef-a5df-bffbd5b60000/da/89/0dd8c5f24a71a0b39f248014ca57/61196146.JPG?precrop=2200%2C1279%2Cx0%2Cy802&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-04-16/ty-article/.highlight/00000196-3dd3-d646-ad96-fdfb01930000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-04-16",
+          "magazine_date": "2025-04-18",
+          "title": "המדינה נשרפת, והמרכז הליברלי שוב מציע \"אחדות\". רק שלא יקראו לו שמאלני",
+          "og_image": "https://img.haarets.co.il/bs/00000196-3dd3-d646-ad96-fdfb01930000/66/9a/2551defd478fb74939c587bbb262/61205519.JPG?precrop=5251%2C3053%2Cx163%2Cy1450&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-04-16/ty-article/.highlight/00000196-3dbc-dc5b-af96-7dbd0dc20000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-04-16",
+          "magazine_date": "2025-04-18",
+          "title": "בלי יחסי מין, בלי להקים משפחה. צעירים במערב מגלים את יתרונות ההתנזרות",
+          "og_image": "https://img.haarets.co.il/bs/00000196-3dbc-dc5b-af96-7dbd0dc20000/2c/50/1410586a47d994480090255bc4a0/694464.jpg?precrop=1453%2C845%2Cx0%2Cy65&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-04-17/ty-article-face/.highlight/00000196-44b9-ddef-a5df-dffb18590001",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-04-17",
+          "magazine_date": "2025-04-18",
+          "title": "מיקי גבע",
+          "og_image": "https://img.haarets.co.il/bs/00000196-44b9-ddef-a5df-dffb18590001/4d/73/7dcbed184ce583f3f80a9f3dba89/339933.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-04-16/ty-article-magazine/.highlight/00000196-3eb5-d124-a5d7-bef76f0d0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-04-16",
+          "magazine_date": "2025-04-18",
+          "title": "\"אני קוראת לתלמידים שלי אנטיגונה, הם מביאים כתר מבורגר קינג ונהנים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000196-3eb5-d124-a5d7-bef76f0d0000/b2/49/6c65608145c98ac94d5b0e08a741/255980.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-04-16/ty-article/.highlight/00000196-3f05-dc5b-af96-7fb541d20000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-04-16",
+          "magazine_date": "2025-04-18",
+          "title": "היא עלולה להישמע מוזר, אבל יש רק שאלה אחת שצריך לשאול את עמית סגל",
+          "og_image": "https://img.haarets.co.il/bs/00000196-3f05-dc5b-af96-7fb541d20000/8d/df/8eb65e364e7b8f801b906bcd530b/amit1.png?precrop=1314%2C764%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-04-17/ty-article-midrug/.highlight/00000196-44d0-ddef-a5df-dffbfe990000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-04-17",
+          "magazine_date": "2025-04-18",
+          "title": "שר הביטחון מתגאה במניעת סיוע הומניטרי. בהאג לא יודעים שזה ישראל כץ",
+          "og_image": "https://img.haarets.co.il/bs/00000196-44d0-ddef-a5df-dffbfe990000/11/81/f8b425f549f2badd60d56d5659e0/katz.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-04-16/ty-article/.highlight/00000196-3ef9-d587-abb7-befbee9f0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-04-16",
+          "magazine_date": "2025-04-18",
+          "title": "למה אתם לא מקבלים יותר נשים חוקרות למרחב השרון?\n\"צריך תמהיל נכון\"",
+          "og_image": "https://img.haarets.co.il/bs/00000196-3ef9-d587-abb7-befbee9f0000/f9/af/ab35c013488abade23f16086451a/61221403.JPG?precrop=800%2C465%2Cx0%2Cy13&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-04-17/ty-article-quotes/.highlight/00000196-44c4-d587-abb7-ecc7e50a0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-04-17",
+          "magazine_date": "2025-04-18",
+          "title": "\"אפשר לחשוב שלפני שבאתי היה בחברה הערבית שווייץ\"",
+          "og_image": "https://img.haarets.co.il/bs/00000196-44c4-d587-abb7-ecc7e50a0000/1b/ee/0addbaed411f9c1b416d9289fd45/331940.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-04-16/ty-article-20q/.highlight/00000196-3dd8-daed-a3d7-7fdbc8540000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-04-16",
+          "magazine_date": "2025-04-18",
+          "title": "לפי נשיא ארה\"ב דונלד טראמפ, מהי \"המילה היפה ביותר במילון\"?",
+          "og_image": "https://img.haarets.co.il/bs/00000196-3dd8-daed-a3d7-7fdbc8540000/43/cc/b9e2b72d41249a5ff66a1ccaa625/335757.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-04-16/ty-article-magazine/.highlight/00000196-3e95-ddef-a5df-bfff60600000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-04-16",
+          "magazine_date": "2025-04-18",
+          "title": "יש מתכונים שצריך בשבילם מיקסר. למתכונים האלה צריך שיח זעתר",
+          "og_image": "https://img.haarets.co.il/bs/00000196-3e95-ddef-a5df-bfff60600000/2e/19/cec37320458dac4420d3c4026509/1.jpg?precrop=2000%2C1163%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-04-17/ty-article-magazine/.premium/00000196-436e-d587-abb7-ebefe88d0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-04-17",
+          "magazine_date": "2025-04-18",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 18.4.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000196-436e-d587-abb7-ebefe88d0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-04-17/ty-article/.premium/00000196-435e-ddef-a5df-dfff31220000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-04-17",
+          "magazine_date": "2025-04-18",
+          "title": "קרבות מותחים בפריז",
+          "og_image": "https://img.haarets.co.il/bs/00000196-435e-ddef-a5df-dfff31220000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-04-17/ty-article/.premium/00000196-4366-d587-abb7-ebe75b9d0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-04-17",
+          "magazine_date": "2025-04-18",
+          "title": "הפלייסטיישן 2 הוכרז כ\"איום צבאי וסכנה לבריאות הציבור\"",
+          "og_image": "https://img.haarets.co.il/bs/00000196-4366-d587-abb7-ebe75b9d0000/33/f8/4dc0dd5648fcb0f6b8aaa4dd2240/mefursamot-18-4.jpg?precrop=1167%2C678%2Cx0%2Cy1392&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-04-17/ty-article/00000196-425e-dd47-ad9f-c2df79d30000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-04-17",
+          "magazine_date": "2025-04-18",
+          "title": "פרופ' אפי יער, הוגה \"מדד השלום\", מת עם התקווה",
+          "og_image": "https://img.haarets.co.il/bs/00000196-425e-dd47-ad9f-c2df79d30000/70/12/5806de554265ace5c33381346623/206141.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-04-17/ty-article/.premium/00000196-4363-dc5b-af96-6bf7ffbe0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-04-17",
+          "magazine_date": "2025-04-18",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000196-4363-dc5b-af96-6bf7ffbe0000/a9/5e/e17ac9aa4d259123833c82411179/lituf.jpg?precrop=1084%2C630%2Cx0%2Cy148&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-04-17/ty-article/.highlight/00000196-4267-d587-abb7-eae7f81e0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-04-17",
+          "magazine_date": "2025-04-18",
+          "title": "התגלה קרנף בחיפה",
+          "og_image": "https://img.haarets.co.il/bs/00000196-4267-d587-abb7-eae7f81e0000/a7/fe/ae49e295480ea147b2841fbd61ae/61139050.JPG?precrop=1066%2C620%2Cx0%2Cy198&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

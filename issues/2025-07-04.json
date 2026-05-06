@@ -1,0 +1,338 @@
+{
+  "magazine_date": "2025-07-04",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/00000197-ceb5-dcbf-abd7-dfbd36b40001/18/bf/612314fb4f898d4beef148af4b82/download.jfif?&width=1500&height=1981&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-07-03/ty-article-magazine/.highlight/00000197-cb7f-da1d-a5ff-eb7fc8920000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-07-03/ty-article-magazine/.highlight/00000197-cb7f-da1d-a5ff-eb7fc8920000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-07-03",
+          "magazine_date": "2025-07-04",
+          "title": "תנועות הנוער שותקות מול הזוועה בעזה, אך מתחת לפני השטח הרוחות סוערות",
+          "og_image": "https://img.haarets.co.il/bs/00000197-cb7f-da1d-a5ff-eb7fc8920000/6e/cc/0eee3cc0453d801f71e36591be6c/62135107.JPG?precrop=2115,1229,x379,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-07-03/ty-article-magazine/.highlight/00000197-cb80-da1d-a5ff-eb8654370000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-07-03",
+          "magazine_date": "2025-07-04",
+          "title": "סיפורו יוצא הדופן של אסיר ישראלי שהשתלב בהנהגת חמאס בכלא",
+          "og_image": "https://img.haarets.co.il/bs/00000197-cb80-da1d-a5ff-eb8654370000/ee/e1/8c95718e460082db216c7f51cd74/62126181.JPG?precrop=1920,1116,x0,y1345&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-07-03/ty-article-magazine/.highlight/00000197-cc86-da1d-a5ff-ec86c1380000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-07-03",
+          "magazine_date": "2025-07-04",
+          "title": "זו היתה מאורת סמים וזנות. עכשיו זה הבניין הכי חמוד בתל אביב",
+          "og_image": "https://img.haarets.co.il/bs/00000197-cc86-da1d-a5ff-ec86c1380000/b0/dd/fbf7b3c34a8b96cf9b8e5c89e858/245700.jpg?precrop=1601,931,x0,y317&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-07-03/ty-article-magazine/.highlight/00000197-cc9b-d78d-a39f-dddf29d70000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-07-03",
+          "magazine_date": "2025-07-04",
+          "title": "האם הדמוגרפיה תכריע את ישראל הליברלית? ובכן, לא כל כך מהר",
+          "og_image": "https://img.haarets.co.il/bs/00000197-cc9b-d78d-a39f-dddf29d70000/f7/aa/0ad52b1548dc8383be7d44bfa568/haaretz-cover-orthodox-long.jpg?precrop=936,544,x211,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-07-04/ty-article/.highlight/00000197-d3fe-d083-a3b7-fbff9a460000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-07-04",
+          "magazine_date": "2025-07-04",
+          "title": "תושבי ערד, קִראו את הטור הזה לפני שראש העיר לא ירשה לכם",
+          "og_image": "https://gif.haarets.co.il/bs/00000197-d3fe-d083-a3b7-fbff9a460000/9a/7e/25e3d4874b628bb9e02c3ab9c58c/4-7-25-animation.gif?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-07-02/ty-article/.highlight/00000197-ca50-da62-a9ff-eb5d06700000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-07-02",
+          "magazine_date": "2025-07-04",
+          "title": "אימהות איפשרו את קורבן הבנים במשך דורות. עכשיו הן מסרבות להמשיך לשתוק",
+          "og_image": "https://img.haarets.co.il/bs/00000197-ca50-da62-a9ff-eb5d06700000/b8/0b/e57e1a234fa99b11daf38bdbdd61/62066564.JPG?precrop=5765,3352,x715,y617&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-07-02/ty-article/.highlight/00000197-ca69-d78d-a39f-dbfd19490000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-07-02",
+          "magazine_date": "2025-07-04",
+          "title": "המלחמה הביאה גם הפוגה קטנה מהמיילים, מהמשימות. מכל הציפיות המתישות",
+          "og_image": "https://img.haarets.co.il/bs/00000197-ca69-d78d-a39f-dbfd19490000/db/0d/a7b20d60483c9bd0d99362602ba5/080845.jpg?precrop=1627,946,x433,y383&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-07-02/ty-article/.highlight/00000197-ca74-da1d-a5ff-ea76aafa0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-07-02",
+          "magazine_date": "2025-07-04",
+          "title": "מאחורי ההבטחות הגדולות של הבינה המלאכותית מסתתרת האמת הישנה והעגומה",
+          "og_image": "https://img.haarets.co.il/bs/00000197-ca74-da1d-a5ff-ea76aafa0000/9c/18/b4abe6144643ac0401e08fd571ea/267038.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2025-07-02/ty-article/00000197-ca56-d78d-a39f-dbd6c18b0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2025-07-02",
+          "magazine_date": "2025-07-04",
+          "title": "בין ישבן נפוח לפסלון שובב: מסע בעקבות המחלה המסתורית שהכתה בפלשתים",
+          "og_image": "https://img.haarets.co.il/bs/00000197-ca56-d78d-a39f-dbd6c18b0000/70/86/0c13488f454980a3da2ee1bb86fe/62135150.JPG?precrop=3224,1875,x520,y481&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-07-02/ty-article/.highlight/00000197-ca62-d78d-a39f-dbf68d920000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-07-02",
+          "magazine_date": "2025-07-04",
+          "title": "גם אם לא מדברים על הפשע שנעשה בשמנו בעזה, הוא קיים בכל שיחה",
+          "og_image": "https://img.haarets.co.il/bs/00000197-ca62-d78d-a39f-dbf68d920000/08/cf/4e73db9546898602d0305e39d6c4/62148124.JPG?precrop=5928,3445,x0,y465&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-07-03/ty-article-face/.highlight/00000197-cefb-dcbf-abd7-dfffe16e0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-07-03",
+          "magazine_date": "2025-07-04",
+          "title": "\"משמרות המהפכה אכפו חוקי צניעות גם על גברים. פעמיים עצרו אותי כילד\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-cefb-dcbf-abd7-dfffe16e0000/98/7c/d989ec3347c1b067e1b51ce5e275/download-5.jfif?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-07-02/ty-article-magazine/00000197-cae6-d083-a3b7-faf7f7190000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-07-02",
+          "magazine_date": "2025-07-04",
+          "title": "\"לאו חפר לנו מנהרה בבית. הוא אכל קיר, הגיע עד לברזל, ליסודות\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-cae6-d083-a3b7-faf7f7190000/c3/92/ef1bac444200b94d58567916adda/263168.jpg?precrop=2400,1395,x0,y208&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-07-02/ty-article/.highlight/00000197-cb83-d2cb-a79f-ffab9ff70000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-07-02",
+          "magazine_date": "2025-07-04",
+          "title": "אם הוא לא לגיטימי, אז ישראל לא לגיטימית",
+          "og_image": "https://img.haarets.co.il/bs/00000197-cb83-d2cb-a79f-ffab9ff70000/df/e0/4218f1ce48829934ced283718f32/62161647.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-07-03/ty-article-midrug/.highlight/00000197-cefc-d78d-a39f-dffca5660000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-07-03",
+          "magazine_date": "2025-07-04",
+          "title": "טראמפ מצטרף לצוות ההגנה של נתניהו. כסף הוא לא יראה מזה",
+          "og_image": "https://img.haarets.co.il/bs/00000197-cefc-d78d-a39f-dffca5660000/d2/b0/036fdebf4bdd85b0defe7fb540c6/download-4.jfif?precrop=1087,632,x0,y44&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-07-02/ty-article/.highlight/00000197-cad0-da1d-a5ff-ead6957f0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-07-02",
+          "magazine_date": "2025-07-04",
+          "title": "למה הצבעת בעד הדחתו של איימן עודה מהכנסת?\n\"הוא זילזל בי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-cad0-da1d-a5ff-ead6957f0000/92/93/ce7f01eb462ba3e066e91314bd7c/62161668.JPG?precrop=424,247,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-07-03/ty-article-quotes/.highlight/00000197-cf0f-dcbf-abd7-df3f73bd0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-07-03",
+          "magazine_date": "2025-07-04",
+          "title": "\"ההתיישבות ביהודה ושומרון היא הפנים היפות של מדינת ישראל\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-cf0f-dcbf-abd7-df3f73bd0000/2e/37/0532a7bd4a839f55e6bff8789cb2/213855.jpg?precrop=2400,1395,x0,y58&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-07-03/ty-article-20q/.highlight/00000197-cf29-d083-a3b7-ff7bd6810000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-07-03",
+          "magazine_date": "2025-07-04",
+          "title": "מה הסטיקר האחרון בשיר \"שירת הסטיקר\" ששרה להקת הדג נחש?",
+          "og_image": "https://img.haarets.co.il/bs/00000197-cf29-d083-a3b7-ff7bd6810000/59/65/c9dfcf094636aaadf23511cbc000/043243.jpg?precrop=2400,1395,x0,y24&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2025-07-03/ty-article-20q/.highlight/00000197-cf62-dcbf-abd7-df7f6b2c0000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2025-07-03",
+          "magazine_date": "2025-07-04",
+          "title": "20 שאלות לילדים ולילדות: איזו עיר ידועה בכינוי עיר האורות?",
+          "og_image": "https://img.haarets.co.il/bs/00000197-cf62-dcbf-abd7-df7f6b2c0000/92/86/5d7b865b46a8aca34c08a8dad121/270208.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-07-02/ty-article-magazine/.highlight/00000197-cad9-d083-a3b7-fafb57540000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-07-02",
+          "magazine_date": "2025-07-04",
+          "title": "\"הפטריות שאני מגדל עושות מה שבא להן. יש פה כאוס חינני\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-cad9-d083-a3b7-fafb57540000/d9/36/43fbb7d944079acbc83ce2569d09/2121.jpg?precrop=1333,775,x0,y344&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-07-03/ty-article-magazine/.premium/00000197-cf4e-dcbf-abd7-df7f6a2e0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-07-03",
+          "magazine_date": "2025-07-04",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 4.7.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000197-cf4e-dcbf-abd7-df7f6a2e0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-07-03/ty-article/.premium/00000197-cf4e-d78d-a39f-dfde489f0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-07-03",
+          "magazine_date": "2025-07-04",
+          "title": "קרבות עזים בטשקנט",
+          "og_image": "https://img.haarets.co.il/bs/00000197-cf4e-d78d-a39f-dfde489f0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-07-03/ty-article/00000197-d06c-da1d-a5ff-f06e03d00000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-07-03",
+          "magazine_date": "2025-07-04",
+          "title": "\"זה טלפון חכם. מעין מזכירה\": בגיל 85 מת הישראלי שהשיק את פלאפון",
+          "og_image": "https://img.haarets.co.il/bs/00000197-d06c-da1d-a5ff-f06e03d00000/ee/a9/9bce4ce54f34b74ff5eac8250d7b/d364-025.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-07-02/ty-article/.premium/00000197-cb34-da1d-a5ff-eb36a8440000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-07-02",
+          "magazine_date": "2025-07-04",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000197-cb34-da1d-a5ff-eb36a8440000/cb/63/4ebfbfdd4268b03a45a3150ef240/ribooa-musaf-632-new.jpg?precrop=1083,630,x0,y33&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-07-02/ty-article/.highlight/00000197-cb83-d2cb-a79f-ffabbbe60000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-07-02",
+          "magazine_date": "2025-07-04",
+          "title": "הדור הבא יישא באשמת הפשע שאנחנו מבצעים",
+          "og_image": "https://img.haarets.co.il/bs/00000197-cb83-d2cb-a79f-ffabbbe60000/3f/0b/e890213d48699cc36d0c5a5b86cd/185505.jpg?precrop=2400,1395,x0,y63&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

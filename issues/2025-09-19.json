@@ -1,0 +1,348 @@
+{
+  "magazine_date": "2025-09-19",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/00000199-5bd7-d907-a5db-7ff7a2f90001/06/eb/5caad41143d295b4a220cad3cdc1/shaar-19.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-09-18/ty-article-magazine/.highlight/00000199-5702-d0dc-afdb-d7b763570000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-09-18/ty-article-magazine/.highlight/00000199-5702-d0dc-afdb-d7b763570000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-09-18",
+          "magazine_date": "2025-09-19",
+          "title": "מירי רגב מציגה: שבועיים של טיול מחוף לחוף בארה\"ב על חשבון הציבור",
+          "og_image": "https://img.haarets.co.il/bs/00000199-5702-d0dc-afdb-d7b763570000/41/9c/a48157af4ec09b1717343aee2205/musaf-miriregevgoesamerica-17-09-2025-mirigoesamerica-shituf.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-09-18/ty-article-magazine/.highlight/00000199-5787-dc75-a1d9-57cf5b7a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-09-18",
+          "magazine_date": "2025-09-19",
+          "title": "מה קורה כש-145 גברים נתקעים על אי בודד בלי מזון? קורים דברים איומים",
+          "og_image": "https://img.haarets.co.il/bs/00000199-5787-dc75-a1d9-57cf5b7a0000/2e/6c/0bb2cd0d48998a73c6c2a947657c/085033.jpg?precrop=2400,1395,x0,y206&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-09-18/ty-article-magazine/.highlight/00000199-5789-dc75-a1d9-57cd10c30000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-09-18",
+          "magazine_date": "2025-09-19",
+          "title": "ברחתי לגן עדן, לאי נודיסטים מופלא ביוון (זה התברר כרעיון לא כל כך טוב)",
+          "og_image": "https://img.haarets.co.il/bs/00000199-5789-dc75-a1d9-57cd10c30000/bd/e4/5a0481264621a2eece8c88e04fd2/greece.jpg?precrop=1327,771,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-09-18/ty-article-magazine/.highlight/00000199-578a-d7b3-a599-ffaf83b20000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-09-18",
+          "magazine_date": "2025-09-19",
+          "title": "גדולי המומחים בעולם הגיעו לדיונים סגורים כדי להיערך ליום שאחרי נתניהו",
+          "og_image": "https://img.haarets.co.il/bs/00000199-578a-d7b3-a599-ffaf83b20000/4f/41/3597b35b4a6387c334713fde8b98/094392.jpg?precrop=2063,1199,x102,y30&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-09-18/ty-article-magazine/.highlight/00000199-578b-dc75-a1d9-57cff86e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-09-18",
+          "magazine_date": "2025-09-19",
+          "title": "הוא יורש אימפריה עם כוח בלתי נתפס. לאן ייקח את אמריקה? יש סיבות לדאגה",
+          "og_image": "https://img.haarets.co.il/bs/00000199-578b-dc75-a1d9-57cff86e0000/43/2f/1c9953f247bbbffa14f57ab91afb/064254.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-09-18/ty-article/.highlight/00000199-5771-dc75-a1d9-577ddcac0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-09-18",
+          "magazine_date": "2025-09-19",
+          "title": "האם נתניהו יודע מה עלה בגורלו של מלך ספרטה?",
+          "og_image": "https://img.haarets.co.il/bs/00000199-5771-dc75-a1d9-577ddcac0000/1e/06/e530f9a44e3bbf7b4dcb8fb1e8d3/63085405.JPG?precrop=3000,1745,x0,y12&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-09-18/ty-article/.highlight/00000199-5c40-d7ad-a1d9-5c7815220000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-09-18",
+          "magazine_date": "2025-09-19",
+          "title": "מה גרם לי לבכות בזמן ביצועי תזמורת המהפכה לשירים של להקת התרנגולים",
+          "og_image": "https://img.haarets.co.il/bs/00000199-5c40-d7ad-a1d9-5c7815220000/56/b2/40a5200340b7be565c52e3832a2a/19-9-25-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-09-18/ty-article/.highlight/00000199-5785-d0dc-afdb-d7b752c60000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-09-18",
+          "magazine_date": "2025-09-19",
+          "title": "72 אבנים מסתוריות ליד הכנרת עשויות להצביע על רגע דרמטי בתולדות הארץ",
+          "og_image": "https://img.haarets.co.il/bs/00000199-5785-d0dc-afdb-d7b752c60000/16/c0/6039b76144e2a9d51491bef10647/087487.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-09-18/ty-article/.highlight/00000199-578e-d0dc-afdb-d7bf6bb50000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-09-18",
+          "magazine_date": "2025-09-19",
+          "title": "כל הסימנים היו שם. האש שניצתה באמריקה שורפת גם את הבית שלנו",
+          "og_image": "https://img.haarets.co.il/bs/00000199-578e-d0dc-afdb-d7bf6bb50000/48/69/2ebe30dd4f8b9ff3c1394eb875e8/006784.jpg?precrop=1605,933,x0,y473&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-09-19/ty-article/.highlight/00000199-578f-d907-a5db-77ef3afd0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-09-19",
+          "magazine_date": "2025-09-19",
+          "title": "למעשים של ישראל יש קורבנות. הסיפור הזה הוא לא עלינו",
+          "og_image": "https://img.haarets.co.il/bs/00000199-578f-d907-a5db-77ef3afd0000/0d/62/a3b0bd964dbca95c7694228f2a1a/878072.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-09-17/ty-article-face/.highlight/00000199-56fe-d7ad-a1d9-56fe30f60000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-09-17",
+          "magazine_date": "2025-09-19",
+          "title": "איה זהבי פייגלין",
+          "og_image": "https://img.haarets.co.il/bs/00000199-56fe-d7ad-a1d9-56fe30f60000/be/77/7874d21e414ab940ac6f46f754ba/094240.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-09-17/ty-article-magazine/.highlight/00000199-573c-dd41-a1db-d77dce3e0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-09-17",
+          "magazine_date": "2025-09-19",
+          "title": "\"הוא היה ערס אשקלוני שמוריד לך את המכנסיים. קשה להסביר את המהפך\"",
+          "og_image": "https://img.haarets.co.il/bs/00000199-573c-dd41-a1db-d77dce3e0000/98/d9/d93aaa154696b86e2d701986b1c7/63043209.JPG?precrop=4181,2429,x0,y294&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-09-18/ty-article/.highlight/00000199-5829-d0dc-afdb-dabf26e90000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-09-18",
+          "magazine_date": "2025-09-19",
+          "title": "מאי גולן, אין דרך לצאת מזה",
+          "og_image": "https://img.haarets.co.il/bs/00000199-5829-d0dc-afdb-dabf26e90000/35/87/b58d0dab46e4aa25c794a28a6596/089162.jpg?precrop=2400,1395,x0,y60&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-09-19/ty-article-midrug/.highlight/00000199-5f28-d08f-a5fd-ffe978fc0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-09-19",
+          "magazine_date": "2025-09-19",
+          "title": "ספרטה. היה להם משרד למשימות לאומיות?",
+          "og_image": "https://img.haarets.co.il/bs/00000199-5f28-d08f-a5fd-ffe978fc0000/4c/09/1fa45bb643e7a2bb83919e15ef23/headline-24.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-09-18/ty-article/.highlight/00000199-5721-d865-a3bb-7fadb9c20000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-09-18",
+          "magazine_date": "2025-09-19",
+          "title": "למה את לא מפרסמת דוח על פשעי מלחמה מ–48'? \"לא רוצה להמשיך לדבר איתך\"",
+          "og_image": "https://img.haarets.co.il/bs/00000199-5721-d865-a3bb-7fadb9c20000/20/a0/80ea3ab84ae4b89ba5bf2da2f5d3/63067968.JPG?precrop=3648,2121,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-09-19/ty-article-quotes/.highlight/00000199-5f19-d7ad-a1d9-5f79864c0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-09-19",
+          "magazine_date": "2025-09-19",
+          "title": "\"את יושבת עם האדם הכי ערכי שראיינת בשנים האחרונות\"",
+          "og_image": "https://img.haarets.co.il/bs/00000199-5f19-d7ad-a1d9-5f79864c0000/c1/74/447c68f34c26872c2c8cc84cdb52/084307.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-09-17/ty-article-20q/.highlight/00000199-56ec-d0dc-afdb-d6ffbc6e0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-09-17",
+          "magazine_date": "2025-09-19",
+          "title": "בעונת הסיום של \"משחקי הכס\", איזה חפץ מודרני הופיע בטעות ליד דאינריז?",
+          "og_image": "https://img.haarets.co.il/bs/00000199-56ec-d0dc-afdb-d6ffbc6e0000/5c/79/0ce3d1f1474fb39f009331dddd16/493897.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-09-18/ty-article-magazine/.highlight/00000199-5790-d3b1-a7ff-77bad9900000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-09-18",
+          "magazine_date": "2025-09-19",
+          "title": "כשספרטה כבר כאן, פרחים מהמאה ה-19 מזכירים שיכול להיות כאן טוב יותר",
+          "og_image": "https://img.haarets.co.il/bs/00000199-5790-d3b1-a7ff-77bad9900000/2a/de/4a423fa845319ab53f3d7f00bc01/ami-zahavi-1.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-09-18/ty-article-magazine/.premium/00000199-5bec-d907-a5db-7feed02a0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-09-18",
+          "magazine_date": "2025-09-19",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 19.9.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000199-5bec-d907-a5db-7feed02a0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-09-18/ty-article/.premium/00000199-5be2-d7ad-a1d9-5bfa76ab0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-09-18",
+          "magazine_date": "2025-09-19",
+          "title": "הכרעה בסמרקנד",
+          "og_image": "https://img.haarets.co.il/bs/00000199-5be2-d7ad-a1d9-5bfa76ab0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-09-18/ty-article/.premium/00000199-5bf5-d907-a5db-7ff7dede0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-09-18",
+          "magazine_date": "2025-09-19",
+          "title": "\"יתד נאמן\": הסיליקון בחלב של תנובה כשר",
+          "og_image": "https://img.haarets.co.il/bs/00000199-5bf5-d907-a5db-7ff7dede0000/24/a3/ff4a120241b78b256ea5fae72a2b/mefursamot.jpg?precrop=1250,727,x0,y540&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-09-19/ty-article/00000199-60d0-da27-a3bd-7cdb87db0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-09-19",
+          "magazine_date": "2025-09-19",
+          "title": "שנה טובה, כדור רובה ומיטת תינוק: ניצה וולפנזון שימרה מורשת ארצישראלית",
+          "og_image": "https://img.haarets.co.il/bs/00000199-60d0-da27-a3bd-7cdb87db0000/a6/21/b40972d44cc484251593054c720d/474587540-8941947242600384-6035569174778785894-n.jpg?precrop=668,388,x0,y6&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2025-09-18/ty-article/.premium/00000199-5bdb-d7ad-a1d9-5bfb6f050000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2025-09-18",
+          "magazine_date": "2025-09-19",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000199-5bdb-d7ad-a1d9-5bfb6f050000/35/83/0d285a914e66b964dd6aab03a110/caro.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-09-18/ty-article/.premium/00000199-5bf7-d0dc-afdb-dbf7f8df0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-09-18",
+          "magazine_date": "2025-09-19",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000199-5bf7-d0dc-afdb-dbf7f8df0000/bd/78/1a7c62744636af4f13187c7f7c09/ribooa-musaf-643.jpg?precrop=1083,630,x0,y103&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-09-18/ty-article/.highlight/00000199-5828-dc75-a1d9-5f6ccd940000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-09-18",
+          "magazine_date": "2025-09-19",
+          "title": "אם כל כך טוב, למה כל כך רע?",
+          "og_image": "https://img.haarets.co.il/bs/00000199-5828-dc75-a1d9-5f6ccd940000/3c/48/bad9f0fb413daf4c8f2d01b00559/005473.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

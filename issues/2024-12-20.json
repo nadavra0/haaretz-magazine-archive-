@@ -1,0 +1,338 @@
+{
+  "magazine_date": "2024-12-20",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/00000193-de63-dc08-af97-deef3b300001/fe/a7/e260cba84dd3887ea717aa518561/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-12-19/ty-article-magazine/.highlight/00000193-d97f-d7f6-abf7-df7f6b500000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-19/ty-article-magazine/.highlight/00000193-d97f-d7f6-abf7-df7f6b500000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-19",
+          "magazine_date": "2024-12-20",
+          "title": "בלוקסמבורג יצרו תחבורה ציבורית מתקדמת - ובחינם. האם כך נראית מהפכה?",
+          "og_image": "https://img.haarets.co.il/bs/00000193-d97f-d7f6-abf7-df7f6b500000/14/d2/1d2f8e52427daf8f91db4518c8f8/59703710.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-19/ty-article-magazine/.highlight/00000193-d982-da9e-a997-fbfb39270000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-19",
+          "magazine_date": "2024-12-20",
+          "title": "\"אני מכונת הרעל\". שיחות עם תומכיו האדוקים של נתניהו",
+          "og_image": "https://img.haarets.co.il/bs/00000193-d982-da9e-a997-fbfb39270000/eb/43/6bb89cd34abdb60d0f698af8f01d/571904.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-19/ty-article-magazine/.highlight/00000193-da5e-d689-ab9b-daff68fc0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-19",
+          "magazine_date": "2024-12-20",
+          "title": "נתניהו תיאר לשופטים את מצבו הנפשי ערב הבחירות, ואז יצאה ממנו כל האמת",
+          "og_image": "https://img.haarets.co.il/bs/00000193-da5e-d689-ab9b-daff68fc0000/19/ee/f339718840e387443870f23fc57d/m1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-19/ty-article-magazine/.highlight/00000193-da5e-d7f6-abf7-de5e91f80000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-19",
+          "magazine_date": "2024-12-20",
+          "title": "ישבתי בדיוני המעצר של פעילי המחאה שמואשמים בטרור. שמעו, פחד אלוהים",
+          "og_image": "https://img.haarets.co.il/bs/00000193-da5e-d7f6-abf7-de5e91f80000/6c/85/45fbd88645c6ae06f4f7cfde2eda/871085.jpg?precrop=2400%2C1395%2Cx0%2Cy162&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-19/ty-article-magazine/.highlight/00000193-da5f-d8a1-ad9b-ff5fa22d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-19",
+          "magazine_date": "2024-12-20",
+          "title": "הרשתות החברתיות מזיקות? כן. לא. לא בדיוק",
+          "og_image": "https://img.haarets.co.il/bs/00000193-da5f-d8a1-ad9b-ff5fa22d0000/54/c7/0408d9834460b1021a264861bf59/sollar-gif-sharing.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-19/ty-article/.highlight/00000193-deda-da9e-a997-fffbc32e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-19",
+          "magazine_date": "2024-12-20",
+          "title": "למה הסרט המדכא שראיתי בברלין גרם לי דווקא להתרוממות רוח",
+          "og_image": "https://gif.haarets.co.il/bs/00000193-deda-da9e-a997-fffbc32e0000/76/58/16964fb3499e9e0e8a4e781280ac/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-12-18/ty-article-magazine/.highlight/00000193-d9ad-da9e-a997-fbff366e0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-12-18",
+          "magazine_date": "2024-12-20",
+          "title": "הציורים של אלי שמיר מציעים מבט נדיר על בני אדם. קוראים לזה אהבה",
+          "og_image": "https://img.haarets.co.il/bs/00000193-d9ad-da9e-a997-fbff366e0000/2f/33/07191c0448c8bcc1e1a73aadce63/59773706.JPG?precrop=1250%2C727%2Cx0%2Cy186&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-12-18/ty-article/.highlight/00000193-d9f3-d7f6-abf7-dff727510000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-12-18",
+          "magazine_date": "2024-12-20",
+          "title": "\"להציל את התורה\": כדי להצדיק עבריינות, בימין מגייסים גם את אלוהים",
+          "og_image": "https://img.haarets.co.il/bs/00000193-d9f3-d7f6-abf7-dff727510000/9b/b8/16ad03534c2595598f4f43597591/658480.jpg?precrop=1774%2C1031%2Cx266%2Cy333&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2024-12-18/ty-article/.highlight/00000193-d9a2-d3b3-a597-f9eee38f0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2024-12-18",
+          "magazine_date": "2024-12-20",
+          "title": "מבית לחם ועד ניו יורק, גם המילים העבריות כבשו את השפה האנגלית",
+          "og_image": "https://img.haarets.co.il/bs/00000193-d9a2-d3b3-a597-f9eee38f0000/a2/4d/8a0405a74238ac046715b18c423f/59777844.JPG?precrop=3269%2C1901%2Cx352%2Cy430&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-12-18/ty-article/.highlight/00000193-d9d1-d8a1-ad9b-fddb3b5e0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-12-18",
+          "magazine_date": "2024-12-20",
+          "title": "ChatGPT השיג את פריצת הדרך המיוחלת. כעת מתחילות הבעיות",
+          "og_image": "https://img.haarets.co.il/bs/00000193-d9d1-d8a1-ad9b-fddb3b5e0000/3d/c5/ee0c249d4a0094810e8dbd3cd2f9/59774512.JPG?precrop=5138%2C2987%2Cx0%2Cy160&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-12-18/ty-article-face/.highlight/00000193-d9c0-d7f6-abf7-dfd4e2030000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-12-18",
+          "magazine_date": "2024-12-20",
+          "title": "\"הרגשתי שהחיים הכינו אותי ל–7 באוקטובר. גם ההומור עזר, בלעדיו לא הייתי שורד\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-d9c0-d7f6-abf7-dfd4e2030000/71/a5/099b3af743feaac080e2b35a930c/934893.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-12-19/ty-article-magazine/.highlight/00000193-d9ff-d8a1-ad9b-fdff42620000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-12-19",
+          "magazine_date": "2024-12-20",
+          "title": "\"הכלב כל הזמן על תרופות פסיכיאטריות, כי ההומיאופתיות לא עובדות\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-d9ff-d8a1-ad9b-fdff42620000/a2/40/5ae6050448a48dbd94afdf528ed7/59760035.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-12-19/ty-article/.highlight/00000193-dfd8-d684-a9db-ffdc71ef0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-12-19",
+          "magazine_date": "2024-12-20",
+          "title": "ברגע אחד במשפט השבוע זה התברר - זה ייגמר בכלום",
+          "og_image": "https://img.haarets.co.il/bs/00000193-dfd8-d684-a9db-ffdc71ef0000/f4/55/4242a600442e9abb2807fd746833/bibi.JPG?precrop=2361%2C1372%2Cx406%2Cy1093&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-12-19/ty-article-magazine/.highlight/00000193-de0f-dc08-af97-deef342b0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-12-19",
+          "magazine_date": "2024-12-20",
+          "title": "אנחנו הכי קרובים לעסקה. מאז הפעם הקודמת שהיינו הכי קרובים לעסקה",
+          "og_image": "https://img.haarets.co.il/bs/00000193-de0f-dc08-af97-deef342b0000/4b/d8/d1b6ffff48b181b374d3983e4e41/headline.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-12-19/ty-article/.highlight/00000193-da0c-d7f6-abf7-de5cdecb0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-12-19",
+          "magazine_date": "2024-12-20",
+          "title": "מה הקטע לא להתגייס?\n\"מי שפוגע בלומדי תורה, פוגע בציונות האמיתית\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-da0c-d7f6-abf7-de5cdecb0000/f8/94/f0d507ed4866a8f8f4167eaed8a7/59791607.JPG?precrop=473%2C275%2Cx307%2Cy309&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-12-19/ty-article-magazine/.highlight/00000193-dee5-da9e-a997-ffffffd50002",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-12-19",
+          "magazine_date": "2024-12-20",
+          "title": null,
+          "og_image": null,
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-12-18/ty-article-20q/.highlight/00000193-d9b7-d5b6-adb7-fdb733940000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-12-18",
+          "magazine_date": "2024-12-20",
+          "title": "מי כונה בעולם הערבי \"הקצב מביירות\"?",
+          "og_image": "https://img.haarets.co.il/bs/00000193-d9b7-d5b6-adb7-fdb733940000/e2/f3/46852c8f47b7bc11ac2f856676d5/717433.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-12-19/ty-article-magazine/.highlight/00000193-d9c7-dc28-a5df-ffcfe3170000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-12-19",
+          "magazine_date": "2024-12-20",
+          "title": "תוכנית הגלעין: המזקקה שהופכת תמרים עזובים לאלכוהול משמח",
+          "og_image": "https://img.haarets.co.il/bs/00000193-d9c7-dc28-a5df-ffcfe3170000/49/75/9d9a2fd84a07b7e98c11c36b6f4e/1.jpg?precrop=2000%2C1162%2Cx0%2Cy18&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-12-19/ty-article-magazine/.premium/00000193-de05-da9e-a997-ffff14c90000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-12-19",
+          "magazine_date": "2024-12-20",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 20.12.2024",
+          "og_image": "https://img.haarets.co.il/bs/00000193-de05-da9e-a997-ffff14c90000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-12-19/ty-article/.premium/00000193-ddef-d8a1-ad9b-fdff11de0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-12-19",
+          "magazine_date": "2024-12-20",
+          "title": "העידן ההודי",
+          "og_image": "https://img.haarets.co.il/bs/00000193-ddef-d8a1-ad9b-fdff11de0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-12-19/ty-article/.premium/00000193-de0b-dc08-af97-deef0be90000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-12-19",
+          "magazine_date": "2024-12-20",
+          "title": "צפויים שינויים בממשלת סוריה",
+          "og_image": "https://img.haarets.co.il/bs/00000193-de0b-dc08-af97-deef0be90000/bf/92/04fd39854af2a6ae0e8ab4b9ec57/mefursamot.jpg?precrop=1250%2C727%2Cx0%2Cy2108&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-12-19/ty-article/00000193-e004-dc08-af97-e0efe2dd0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-12-19",
+          "magazine_date": "2024-12-20",
+          "title": "חוקר הג'נוסייד הבכיר יצא נגד עמיתיו: \"המלחמה בעזה לגיטימית\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-e004-dc08-af97-e0efe2dd0000/b2/74/688987d248a7a170b97a3106c46c/307996076.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-12-19/ty-article/.premium/00000193-de0d-d5b6-adb7-fe0ff9e40000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-12-19",
+          "magazine_date": "2024-12-20",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000193-de0d-d5b6-adb7-fe0ff9e40000/c5/9f/b3a614ae4976856ad67c179e584c/ribooa-musaf-604.jpg?precrop=1084%2C630%2Cx0%2Cy454&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-12-19/ty-article/.highlight/00000193-da24-de86-a9f3-fef7f4400000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-12-19",
+          "magazine_date": "2024-12-20",
+          "title": "כתבתם שלנשום זה פשוט ועשיתם לכולנו טריגר",
+          "og_image": "https://img.haarets.co.il/bs/00000193-da24-de86-a9f3-fef7f4400000/e7/65/312d0682492fa762c1e12158142e/0202n.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

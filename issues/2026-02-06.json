@@ -1,0 +1,318 @@
+{
+  "magazine_date": "2026-02-06",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/0000019c-2958-d663-a39c-3dfa94760001/9e/37/1e80bae24dfdacf14cb3f0201be4/shaar-8.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-02-04/ty-article-magazine/.highlight/0000019c-27ce-d3f5-a3be-77eff4100000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-02-04/ty-article-magazine/.highlight/0000019c-27ce-d3f5-a3be-77eff4100000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-02-04",
+          "magazine_date": "2026-02-06",
+          "title": "\"זה מהפכני. עברתי כל כך הרבה טיפולים בחיי ומעולם לא חוויתי דבר כזה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-27ce-d3f5-a3be-77eff4100000/35/25/cda41dcd4fa19a58da97b4bc57c3/dafna2.jpg?precrop=2000,1162,x0,y39&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-02-04/ty-article/.highlight/0000019c-2912-dba5-a59e-ff3217ee0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-02-04",
+          "magazine_date": "2026-02-06",
+          "title": "בחירות? יש 50 דרכים לשבש אותן",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-2912-dba5-a59e-ff3217ee0000/58/c1/6733502f4e5caa796d3e5a555d6b/64614045.JPG?&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-02-05/ty-article-magazine/.highlight/0000019c-27ca-db08-abdd-6fcacee10000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-02-05",
+          "magazine_date": "2026-02-06",
+          "title": "\"הם שטפו מהר את הדם מהרחובות, אבל לא נשכח מה ראינו. הזעם מבעבע\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-27ca-db08-abdd-6fcacee10000/d5/01/3bb730864876a2e43f51064279ef/611538.jpg?precrop=2196,1277,x138,y3&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-02-05/ty-article-magazine/.highlight/0000019c-27d4-dc80-a9be-2fd700340000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-02-05",
+          "magazine_date": "2026-02-06",
+          "title": "הילדים שהגיעו לאושוויץ נשלחו ישירות לתאי הגזים. לשלושה היה גורל שונה",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-27d4-dc80-a9be-2fd700340000/fd/25/06a405d141c88e2589f26d8047a3/625313.jpg?precrop=1576,916,x0,y290&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-02-05/ty-article-magazine/.highlight/0000019c-27d7-d17f-a3df-fff70bb20000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-02-05",
+          "magazine_date": "2026-02-06",
+          "title": "כאן גרים בכיף בין הסופר לזארה: בקניון אחד, חנויות הפכו לדירות",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-27d7-d17f-a3df-fff70bb20000/87/e8/4468e5cc4addb222d5f2bca79c88/611111.jpg?precrop=2327,1353,x0,y0&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-02-05/ty-article/.highlight/0000019c-2cc9-d001-ad9f-7cebc3dc0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-02-05",
+          "magazine_date": "2026-02-06",
+          "title": "על מה בעצם אנחנו מדברים כשאנחנו מדברים על כבוד",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-2cc9-d001-ad9f-7cebc3dc0000/09/88/c0ba32c3462c8699a6b567a75178/6-2-26-web.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-02-04/ty-article/.highlight/0000019c-2844-d4c5-a7bc-6cc497ff0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-02-04",
+          "magazine_date": "2026-02-06",
+          "title": "בהמתנה לטילים מאיראן, ההימורים הפכו למפלט האחרון מהמציאות",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-2844-d4c5-a7bc-6cc497ff0000/b7/53/6bd1fa57403ba5f71a238e732367/575418.jpg?precrop=1621,942,x779,y169&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-02-04/ty-article/.highlight/0000019c-2894-d17f-a3df-fff6c27a0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-02-04",
+          "magazine_date": "2026-02-06",
+          "title": "במאבק מול ה-AI, צעירים מנסים טרנד חדש: להשתעמם ולסבול",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-2894-d17f-a3df-fff6c27a0000/69/7d/f043c06b48cd9130301e2ae56bfe/pladash.jpg?precrop=1233,717,x107,y0&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-02-04/ty-article/.highlight/0000019c-28b1-db08-abdd-6bbbed070000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-02-04",
+          "magazine_date": "2026-02-06",
+          "title": "עבריין מתנכל לפרופסור בן 89, ומתעד בשידור חי. זו קריאת השכמה",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-28b1-db08-abdd-6bbbed070000/08/67/2f2b0dfa48f9aeaf5c3de0407066/567120.jpg?precrop=2400,1395,x0,y208&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-02-04/ty-article/.highlight/0000019c-28e3-db08-abdd-6beb661c0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-02-04",
+          "magazine_date": "2026-02-06",
+          "title": "לנקמה היהודית יש שורשים ארוכים, ובעזה סוף סוף השתחרר הרסן",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-28e3-db08-abdd-6beb661c0000/7a/62/cfeb8b7f4c0aa632f47258e2863b/102993.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-02-04/ty-article/.highlight/0000019c-2833-d3f5-a3be-7dfb10820000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-02-04",
+          "magazine_date": "2026-02-06",
+          "title": "בקרב בין ימין לשמאל, גם מיחזור ובשר הופכים למלחמת עולם",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-2833-d3f5-a3be-7dfb10820000/74/24/f2f72c804aecb36fa49c2b9649c8/64603153.JPG?precrop=1000,581,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-02-05/ty-article-face/.highlight/0000019c-2cf7-d663-a39c-3dff23aa0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-02-05",
+          "magazine_date": "2026-02-06",
+          "title": "עומר עציון",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-2cf7-d663-a39c-3dff23aa0000/14/32/98340054417ebc35b5a75d97bc8e/643203.jpg?precrop=2400,1395,x0,y85&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-02-04/ty-article-magazine/.highlight/0000019c-286e-dc80-a9be-2e7fcd6f0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-02-04",
+          "magazine_date": "2026-02-06",
+          "title": "\"בחודש הבא, בעזרת השם, היריב שלי יאבד הכרה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-286e-dc80-a9be-2e7fcd6f0000/6b/27/3650462c4bd2ad4ff97f447459e7/543983.jpg?precrop=2400,1395,x0,y69&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-02-04/ty-article/.highlight/0000019c-28f9-d0a5-a3be-e9ffcb2b0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-02-04",
+          "magazine_date": "2026-02-06",
+          "title": "מרדכי דוד וחברי הכנופיה שלו לא \"מציבים מראה\" בפני השמאל אלא בפני הימין",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-28f9-d0a5-a3be-e9ffcb2b0000/93/ea/e5100dd54b6892db2f79d56113d7/davis.jpg?precrop=2032,1181,x251,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-02-05/ty-article-midrug/.highlight/0000019c-2cfa-d37f-affc-6ffab2a00000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-02-05",
+          "magazine_date": "2026-02-06",
+          "title": "הדיפ־סטייט. ליד ואטורי הכל נראה דיפ",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-2cfa-d37f-affc-6ffab2a00000/68/0e/fb2e8c0d48d9aec37e334f4e7148/headline-8.jpg?precrop=2000,1163,x0,y210&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-02-05/ty-article/.highlight/0000019c-291a-d6dd-a3bc-7d3b491c0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-02-05",
+          "magazine_date": "2026-02-06",
+          "title": "אסור לאנשים לכבד את זכרו של מוחמד בכרי? \"לא בהרצליה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-291a-d6dd-a3bc-7d3b491c0000/18/6e/53957c8e494788bfb44469321022/707152.jpg?precrop=2400,1395,x0,y14&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-02-05/ty-article-quotes/.highlight/0000019c-2ced-d663-a39c-3def25b20000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-02-05",
+          "magazine_date": "2026-02-06",
+          "title": "\"כילדה צפתה בתקשורת הערבית, ובסקרנותה גילתה את הנרטיב הישראלי והציוני\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-2ced-d663-a39c-3def25b20000/5c/5d/8546569f4a3d909b81328ca4db0c/634741.jpg?precrop=2327,1353,x55,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-02-04/ty-article-20q/.highlight/0000019c-27db-dc80-a9be-2fdb2b2f0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-02-04",
+          "magazine_date": "2026-02-06",
+          "title": "באיזו מדינה נמצאת הנקודה העמוקה ביותר מעשה ידי אדם?",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-27db-dc80-a9be-2fdb2b2f0000/40/84/f4fc09484bc581a28aa5ed8261d7/102963.jpg?precrop=2400,1395,x0,y265&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2026-02-04/ty-article-20q/.highlight/0000019c-27e7-d3f5-a3be-77ef6ef30000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2026-02-04",
+          "magazine_date": "2026-02-06",
+          "title": "20 שאלות לילדים ולילדות: מה משמעות הביטוי \"לא דובים ולא יער\"?",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-27e7-d3f5-a3be-77ef6ef30000/e9/64/18e4ab1540c8bb0cc902f1a3c907/402766.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2026-02-04/ty-article-magazine/.highlight/0000019c-28fd-d663-a39c-3dff52190000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2026-02-04",
+          "magazine_date": "2026-02-06",
+          "title": "היזם ששואף להפוך את דגי הכנרת לחלק מהתפריט הישראלי",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-28fd-d663-a39c-3dff52190000/5e/ec/98aa93d245cf8a18b95084fc8ed1/1.jpg?precrop=1428,830,x0,y236&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-02-05/ty-article-magazine/.premium/0000019c-2d79-d001-ad9f-7dfb53690000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-02-05",
+          "magazine_date": "2026-02-06",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 6.2.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-2d79-d001-ad9f-7dfb53690000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-02-05/ty-article/.premium/0000019c-2cf8-d001-ad9f-7cfa9d310000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-02-05",
+          "magazine_date": "2026-02-06",
+          "title": "ניצחון אוזבקי בהולנד",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-2cf8-d001-ad9f-7cfa9d310000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-02-05/ty-article/0000019c-2d09-d5a5-a9dc-7daf747c0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-02-05",
+          "magazine_date": "2026-02-06",
+          "title": "זקן חברי האקדמיה למדעים: חוקר הפיזיקה הגרעינית יגאל תלמי מת בגיל 101",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-2d09-d5a5-a9dc-7daf747c0000/e6/d0/c7ad3f69424084d4893823db0e60/ty.png?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2026-02-05/ty-article/.premium/0000019c-2dac-d37f-affc-6fbcf5ab0000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2026-02-05",
+          "magazine_date": "2026-02-06",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-2dac-d37f-affc-6fbcf5ab0000/b5/67/2d9c126c46ada204a9affdf8ab5b/topshot-palestinian-israel-gaza-conflict.jpg?precrop=1772,1030,x0,y117&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-02-04/ty-article/.highlight/0000019c-2912-dba5-a59e-ff32164b0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-02-04",
+          "magazine_date": "2026-02-06",
+          "title": "אבל פוליטי לא מתאפיין רק בחרדה ודיכאון",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-2912-dba5-a59e-ff32164b0000/b6/b1/d3b67ff34e1399cbb556a407c077/623244.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "magazine_date": "2025-10-03",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/00000199-94fb-d0f3-a599-d6fbf2300001/1c/61/a8b2b5a54b47b7658c229d40aa8b/shaar-21.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-09-29/ty-article-magazine/.highlight/00000199-94d2-dc12-a5df-9ddb5e1b0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-09-29/ty-article-magazine/.highlight/00000199-94d2-dc12-a5df-9ddb5e1b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-09-29",
+          "magazine_date": "2025-10-03",
+          "title": "חייו המטלטלים של מיכאל פודולסקי, האיש שבית המשפט אישר לו למות",
+          "og_image": "https://img.haarets.co.il/bs/00000199-94d2-dc12-a5df-9ddb5e1b0000/ec/d5/4bed7c9341b3bcb4cf7f179f5450/podolsky-1.jpg?precrop=1690,982,x167,y505&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-09-30/ty-article/.highlight/00000199-9587-dc12-a5df-9d8fc1a10000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-09-30",
+          "magazine_date": "2025-10-03",
+          "title": "כמה מחשבות סביב הטיסה שהובילה את נתניהו לנאומו באו\"ם",
+          "og_image": "https://img.haarets.co.il/bs/00000199-9587-dc12-a5df-9d8fc1a10000/98/49/1277c8274222ac1d42a867604d2f/218314.jpg?precrop=2400,1395,x0,y189&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-10-01/ty-article-magazine/.highlight/00000199-9a50-ddb4-abdd-fbfc5a020000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-10-01",
+          "magazine_date": "2025-10-03",
+          "title": "שנתיים לטבח, אני מביט לאחור ותופס את הראש. גם לי חמקה הפתעת 8 באוקטובר",
+          "og_image": "https://img.haarets.co.il/bs/00000199-9a50-ddb4-abdd-fbfc5a020000/23/81/35fd44d4442eb11d49102cc57b53/208874.jpg?precrop=2400,1396,x0,y92&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-10-01/ty-article/00000199-9ec7-ddb4-abdd-ffff01c50000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-10-01",
+          "magazine_date": "2025-10-03",
+          "title": "שיר השנה בפופ הישראלי הוא עוד דוגמה לתרבות השקר שבה אנחנו חיים",
+          "og_image": "https://img.haarets.co.il/bs/00000199-9ec7-ddb4-abdd-ffff01c50000/0f/ff/ea5e685f4fd9b350b541819653c5/3-10-25-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-10-02/ty-article-magazine/.highlight/00000199-94d2-d4f2-a3b9-d7f7a7340000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-10-02",
+          "magazine_date": "2025-10-03",
+          "title": "ג'ון לנון הפך מרוצח חסר רחמים לסופר ועיתונאי מצליח, בעודו יושב בכלא",
+          "og_image": "https://img.haarets.co.il/bs/00000199-94d2-d4f2-a3b9-d7f7a7340000/ae/f8/01f9ffaf431c9e148e76ec65a1bc/215609.jpg?precrop=1921,1117,x0,y76&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-10-02/ty-article-magazine/.highlight/00000199-94d2-dc12-a5df-9ddb79ec0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-10-02",
+          "magazine_date": "2025-10-03",
+          "title": "שנים רציתי להגשים חלום ולטייל בקרוואן. חבל שהגשמתי",
+          "og_image": "https://img.haarets.co.il/bs/00000199-94d2-dc12-a5df-9ddb79ec0000/d2/4b/4d4252114a4696c4c83e13390fd9/094992.jpg?precrop=2400,1396,x0,y147&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-10-02/ty-article-magazine/.highlight/00000199-a48c-dc12-a5df-bd8f6c020000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-10-02",
+          "magazine_date": "2025-10-03",
+          "title": "ישבתי בריטריט בודהיסטי בצרפת. פתאום ניגשו אליי שני צעירים מעזה",
+          "og_image": "https://img.haarets.co.il/bs/00000199-a48c-dc12-a5df-bd8f6c020000/9d/7b/7bed480d4c54af5ce4f3d89275f6/270257.jpg?precrop=2400,1395,x0,y205&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-10-02/ty-article/.highlight/00000199-a4cf-ddb4-abdd-efffd16d0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-10-02",
+          "magazine_date": "2025-10-03",
+          "title": "המגפה הרסה את היכולת להבין את האחר. זה מסביר הרבה דברים על התקופה",
+          "og_image": "https://img.haarets.co.il/bs/00000199-a4cf-ddb4-abdd-efffd16d0000/c8/21/3d44d8ae442bb70851a0edcba932/601620.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-10-02/ty-article/.highlight/00000199-a68f-df33-a5dd-a6ff26d20000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-10-02",
+          "magazine_date": "2025-10-03",
+          "title": "שיפוט מוסרי ורגשות מתפרצים מהר, בעוצמה. זיופי ה-AI מחייבים זהירות",
+          "og_image": "https://img.haarets.co.il/bs/00000199-a68f-df33-a5dd-a6ff26d20000/fa/ad/8399133f4e27926befb916735661/545249471-2317287055355973-150958495068160968-n.jpeg?precrop=661,384,x42,y94&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-10-03/ty-article/.highlight/00000199-a6ae-df33-a5dd-a6ff00d80000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-10-03",
+          "magazine_date": "2025-10-03",
+          "title": "ליהודים יש יום אחד של עינוי. הנוצרים הפכו את זה להרגל, ושינו את העולם",
+          "og_image": "https://img.haarets.co.il/bs/00000199-a6ae-df33-a5dd-a6ff00d80000/d0/a7/ef3617da40e899deaa85f4369c7d/564307.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-10-02/ty-article-face/.highlight/00000199-a444-dde8-a9f9-bdfca37f0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-10-02",
+          "magazine_date": "2025-10-03",
+          "title": "ארטיום דולגופיאט",
+          "og_image": "https://img.haarets.co.il/bs/00000199-a444-dde8-a9f9-bdfca37f0000/a4/be/48326a324ecd8fc8d15df58eccf4/268594.jpg?precrop=2400,1396,x0,y64&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-10-02/ty-article-magazine/.highlight/00000199-95f7-d4f2-a3b9-d7f7deae0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-10-02",
+          "magazine_date": "2025-10-03",
+          "title": "\"בגיל 12 שטפתי רצפות, בגיל 15 הייתי מזכירה. בגיל 18 ברחתי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000199-95f7-d4f2-a3b9-d7f7deae0000/3e/53/5184ca1b4288ab3e5b63a05e8b01/129939.jpg?precrop=2400,1395,x0,y116&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-10-02/ty-article/.highlight/00000199-9603-d0f3-a599-d6e358e90000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-10-02",
+          "magazine_date": "2025-10-03",
+          "title": "יש משהו מוזר וחסר מודעות בתלונה השכיחה על \"ילדים עם מסכים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000199-9603-d0f3-a599-d6e358e90000/ef/22/e10436224c969a5f904b156bf8a4/712731.jpg?precrop=1711,995,x39,y490&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-10-03/ty-article-midrug/.highlight/00000199-a739-dde8-a9f9-bfb9d6ef0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-10-03",
+          "magazine_date": "2025-10-03",
+          "title": "גל ההכרה בפלסטין. המשמעות המעשית: עוד אופציה בארץ־עיר",
+          "og_image": "https://img.haarets.co.il/bs/00000199-a739-dde8-a9f9-bfb9d6ef0000/91/5e/f2611fe44014b4d79714fe0a6c36/headline-27.jpg?precrop=2000,1163,x0,y930&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-09-30/ty-article/.highlight/00000199-957c-df33-a5dd-957f5e510000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-09-30",
+          "magazine_date": "2025-10-03",
+          "title": "אתה מתנגד לוועדת חקירה ולא מציין שבנך היה בכיר באוגדת עזה ב–7 באוקטובר",
+          "og_image": "https://img.haarets.co.il/bs/00000199-957c-df33-a5dd-957f5e510000/dd/83/668a565344238fd0895a28132fa1/63230879.JPG?precrop=2058,1196,x2754,y898&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-10-03/ty-article-quotes/.highlight/00000199-a717-dc12-a5df-bf1ff5410000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-10-03",
+          "magazine_date": "2025-10-03",
+          "title": "\"רכשתי זרע בחו\"ל, מאוד יוקרתי, פרימיום אם יורשה לי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000199-a717-dc12-a5df-bf1ff5410000/42/22/75a2812740e0badc2ffa9529b3d2/431311.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-10-02/ty-article-20q/.highlight/00000199-a47a-df33-a5dd-a47f9f820000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-10-02",
+          "magazine_date": "2025-10-03",
+          "title": "איזו סדרת טלוויזיה מובילה במספר הקללות שנאמרו בפרק הסיום שלה?",
+          "og_image": "https://img.haarets.co.il/bs/00000199-a47a-df33-a5dd-a47f9f820000/a6/57/9e90b7584fd1a582366eb6de58fa/47458665.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2025-10-02/ty-article-20q/.highlight/00000199-a483-d0f3-a599-e6e3c9e70000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2025-10-02",
+          "magazine_date": "2025-10-03",
+          "title": "20 שאלות לילדים ולילדות: באיזה מקצוע נשבעים בשבועת היפוקרטס?",
+          "og_image": "https://img.haarets.co.il/bs/00000199-a483-d0f3-a599-e6e3c9e70000/89/88/efd88b1443b490ca8fa86a681e61/hippocrates-rubens.jpg?precrop=1024,595,x0,y96&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-10-03/ty-article-magazine/.highlight/00000199-a743-dc12-a5df-bf4b076f0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-10-03",
+          "magazine_date": "2025-10-03",
+          "title": "המג'הול משתלט על שוק התמרים, וזה עלול להיות מסוכן לחקלאים",
+          "og_image": "https://img.haarets.co.il/bs/00000199-a743-dc12-a5df-bf4b076f0000/3a/ae/d9fbdb264b9fb314150dd55920e4/269093.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-10-02/ty-article-magazine/.premium/00000199-a3fe-d0f3-a599-e7ffa3fb0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-10-02",
+          "magazine_date": "2025-10-03",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 3.10.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000199-a3fe-d0f3-a599-e7ffa3fb0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-10-02/ty-article/.premium/00000199-a3fc-df33-a5dd-a7ff29af0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-10-02",
+          "magazine_date": "2025-10-03",
+          "title": "מי ומי ב\"מועמדים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000199-a3fc-df33-a5dd-a7ff29af0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-10-03/ty-article/00000199-a93b-dc12-a5df-b93befb60000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-10-03",
+          "magazine_date": "2025-10-03",
+          "title": "בשמחת תורה נשלח לתאי הגז, וניצל. בחודש שעבר נפטר מרדכי אדלר בגיל 95",
+          "og_image": "https://img.haarets.co.il/bs/00000199-a93b-dc12-a5df-b93befb60000/47/0d/47a619ae4febb990054669689bb1/eldar.jpg?precrop=900,523,x0,y146&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2025-10-02/ty-article/.premium/00000199-a403-dde8-a9f9-bdbb54a90000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2025-10-02",
+          "magazine_date": "2025-10-03",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000199-a403-dde8-a9f9-bdbb54a90000/98/7b/9693679e415988eba8e137facf9e/un-assembly.jpg?precrop=1772,1030,x0,y151&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-10-02/ty-article/.premium/00000199-a406-dc12-a5df-bd0f9dcd0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-10-02",
+          "magazine_date": "2025-10-03",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000199-a406-dc12-a5df-bd0f9dcd0000/54/27/df192aba497aaa5827ff5201e05d/ribooa-musaf-645.jpg?precrop=1083,630,x0,y181&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-10-02/ty-article/.highlight/00000199-9614-dc12-a5df-9f1f20960000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-10-02",
+          "magazine_date": "2025-10-03",
+          "title": "פרופ' שליים גר רחוק מכאן ואינו מבין את המתרחש",
+          "og_image": "https://img.haarets.co.il/bs/00000199-9614-dc12-a5df-9f1f20960000/49/6b/f42452f04cf792c8288ec9abd350/127616.jpg?precrop=1603,932,x0,y678&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

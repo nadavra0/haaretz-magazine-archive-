@@ -1,0 +1,348 @@
+{
+  "magazine_date": "2025-03-21",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/00000195-af50-dc54-a397-efd21f4f0001/be/56/c59c99124bedbfa3fa67bcece4de/mh213.jpeg?&width=1500&height=1981&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-03-19/ty-article-magazine/.highlight/00000195-af7d-d1f3-af95-bfff11780000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-03-19/ty-article-magazine/.highlight/00000195-af7d-d1f3-af95-bfff11780000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-03-19",
+          "magazine_date": "2025-03-21",
+          "title": "בסרביה ובגיאורגיה זה עבד. זה מה שצריך לעשות כדי להציל את המדינה",
+          "og_image": "https://img.haarets.co.il/bs/00000195-af7d-d1f3-af95-bfff11780000/b3/71/27e2a39a4c83a65827cf844dd26a/60877323.JPG?precrop=5808%2C3377%2Cx0%2Cy241&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-03-19/ty-article/.highlight/00000195-ae30-d1fd-a1dd-afb496220000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-03-19",
+          "magazine_date": "2025-03-21",
+          "title": "מה ריחם של 85 העמודים שכתב יריב לוין על גלי בהרב־מיארה",
+          "og_image": "https://img.haarets.co.il/bs/00000195-ae30-d1fd-a1dd-afb496220000/43/80/db94f1524990b705eaffb2b2781f/10577.jpg?precrop=2200%2C1279%2Cx0%2Cy218&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-03-20/ty-article-magazine/.highlight/00000195-af29-d26d-a1fd-efa9d4bb0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-03-20",
+          "magazine_date": "2025-03-21",
+          "title": "מיכאל ספרד: הגיע הזמן שאנשי המחאה יכירו את הצד האפל של בג\"ץ",
+          "og_image": "https://img.haarets.co.il/bs/00000195-af29-d26d-a1fd-efa9d4bb0000/bb/2a/011db2734123ad10d33f47902957/60835615.JPG?precrop=7776%2C4521%2Cx0%2Cy666&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-03-20/ty-article-magazine/.highlight/00000195-af2a-df4c-a1df-afbe68090000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-03-20",
+          "magazine_date": "2025-03-21",
+          "title": "בשוודיה חוקרים גם מקרים גבוליים במיטה. אפשר להיכלא על \"אונס ברשלנות\"",
+          "og_image": "https://img.haarets.co.il/bs/00000195-af2a-df4c-a1df-afbe68090000/cb/d6/7e1952bb4cadb39118c3b4d2a3a9/60847106.JPG?precrop=4950%2C2878%2Cx97%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-03-20/ty-article-magazine/.highlight/00000195-af2c-d9db-a3bf-ff2fcda30000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-03-20",
+          "magazine_date": "2025-03-21",
+          "title": "נסיך הבוהמה של תל אביב סיים את חייו לבד, במוסד בג'לג'וליה",
+          "og_image": "https://img.haarets.co.il/bs/00000195-af2c-d9db-a3bf-ff2fcda30000/78/b3/bdd6033b4a9a92a96a0ec66870fb/948096.jpg?precrop=1286%2C748%2Cx21%2Cy831&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-03-20/ty-article/.highlight/00000195-b384-de74-add7-bb9f9d480000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-03-20",
+          "magazine_date": "2025-03-21",
+          "title": "האופן שבו בחר דניאל כהנמן לסיים את חייו מטריד אותי וגם מעורר בי השראה",
+          "og_image": "https://gif.haarets.co.il/bs/00000195-b384-de74-add7-bb9f9d480000/b0/e5/7fc00fe74d4794232ae1f27c4ebd/21-3-25-animation.gif?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-03-19/ty-article/.highlight/00000195-ae64-d860-a1bf-efe5815b0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-03-19",
+          "magazine_date": "2025-03-21",
+          "title": "כשממליצים על קצת פחות דמוקרטיה, המשמעות ברורה: יותר כוח לעשירים",
+          "og_image": "https://img.haarets.co.il/bs/00000195-ae64-d860-a1bf-efe5815b0000/0a/21/e65bfdb44b48921e5d7797202b49/60861473.JPG?precrop=5465%2C3177%2Cx0%2Cy318&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-03-19/ty-article/.highlight/00000195-aeb3-df4c-a1df-aebf6ba70000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-03-19",
+          "magazine_date": "2025-03-21",
+          "title": "זו אחת החידות הגדולות של הקרימינולוגיה: לאן נעלמו הרוצחים הסדרתיים?",
+          "og_image": "https://img.haarets.co.il/bs/00000195-aeb3-df4c-a1df-aebf6ba70000/61/b6/57482ad54014a9981b21a7e714eb/60874815.JPG?precrop=2590%2C1506%2Cx505%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-03-20/ty-article/.highlight/00000195-aed2-d1fd-a1dd-afd62ff20000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-03-20",
+          "magazine_date": "2025-03-21",
+          "title": "דווקא אלי שרעבי, שאיבד הכל, יכול ללמד אותנו משהו על אושר",
+          "og_image": "https://img.haarets.co.il/bs/00000195-aed2-d1fd-a1dd-afd62ff20000/04/6e/2afdb2654133ba0e21cdf9ef3ab0/60862175.JPG?precrop=2921%2C1698%2Cx109%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-03-19/ty-article/.highlight/00000195-ae4c-d9db-a3bf-ff6fb57f0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-03-19",
+          "magazine_date": "2025-03-21",
+          "title": "הפעם, גובר החשש שהחושך ינצח את האור",
+          "og_image": "https://img.haarets.co.il/bs/00000195-ae4c-d9db-a3bf-ff6fb57f0000/7d/4b/18a3cc8d42718ff46242af4623b5/114150.jpg?precrop=1519%2C883%2Cx0%2Cy478&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-03-21/ty-article-face/.highlight/00000195-b061-dc54-a397-f3f386c70000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-03-21",
+          "magazine_date": "2025-03-21",
+          "title": "יעקב זדה-דניאל",
+          "og_image": "https://img.haarets.co.il/bs/00000195-b061-dc54-a397-f3f386c70000/74/c9/cbe8c3b84be49fb011b8c7d27cde/download.jpeg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-03-19/ty-article-magazine/.highlight/00000195-ae44-df4c-a1df-aefc71440000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-03-19",
+          "magazine_date": "2025-03-21",
+          "title": "\"הייתי נבוכה, אבל קיבלתי החלטה - אני הולכת לדבר עם אנשים. אמצא דרך\"",
+          "og_image": "https://img.haarets.co.il/bs/00000195-ae44-df4c-a1df-aefc71440000/d8/ce/b697196c4675bb65c1bc11fdf8ff/60862182.JPG?precrop=6982%2C4059%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2025-03-19/ty-article-magazine/.highlight/00000195-ae30-df4c-a1df-aebc5bd30000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2025-03-19",
+          "magazine_date": "2025-03-21",
+          "title": "\"כשאני עם הפטריות, אני בן אדם אחר. אני אומר לך את זה עכשיו ומצטמרר\"",
+          "og_image": "https://img.haarets.co.il/bs/00000195-ae30-df4c-a1df-aebc5bd30000/b3/ef/db281085485db41f85b04d1c8253/60858434.JPG?precrop=5568%2C3237%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-03-19/ty-article/.highlight/00000195-af57-debb-a5b5-af773e3e0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-03-19",
+          "magazine_date": "2025-03-21",
+          "title": "שיריה החדשים של אילה חסון נחשפו בשידור חי: \"קנאת עולם\" ו\"שפוטים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000195-af57-debb-a5b5-af773e3e0000/6a/62/8095488e44a9898b82b34db935aa/aaaa.png?precrop=831%2C483%2Cx196%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-03-21/ty-article-midrug/.highlight/00000195-b26f-d1f3-af95-b2ff8f7c0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-03-21",
+          "magazine_date": "2025-03-21",
+          "title": "\"עוז וחרב\". היו לכם חודשיים, למען השם",
+          "og_image": "https://img.haarets.co.il/bs/00000195-b26f-d1f3-af95-b2ff8f7c0000/74/1c/9d508f614f68b02c89fbc54cd2cd/m-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-03-19/ty-article/.highlight/00000195-ae7e-d1fd-a1dd-affe83840000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-03-19",
+          "magazine_date": "2025-03-21",
+          "title": "איך הכוח של שב\"כ מסכן אותי כעיתונאי שמאלן?\n\"אתה בבעיה קשה!\"",
+          "og_image": "https://img.haarets.co.il/bs/00000195-ae7e-d1fd-a1dd-affe83840000/0f/c2/a918792941ab8afb358aaa57f23e/60877786.JPG?precrop=3456%2C2009%2Cx0%2Cy258&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-03-21/ty-article-quotes/.highlight/00000195-b095-debb-a5b5-b3f74d8e0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-03-21",
+          "magazine_date": "2025-03-21",
+          "title": "\"אנחנו מפטרים את מי שחי בקונספציה הקודמת, את מי שלא מתפקד\"",
+          "og_image": "https://img.haarets.co.il/bs/00000195-b095-debb-a5b5-b3f74d8e0000/1b/6f/04bce20f4c08a21e6b60c74b1402/091343.jpg?precrop=1846%2C1073%2Cx208%2Cy284&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-03-20/ty-article-20q/.highlight/00000195-b080-d1f3-af95-b0daecc30000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-03-20",
+          "magazine_date": "2025-03-21",
+          "title": "ב–2022 השיק אילון מאסק בושם. באיזה ריח?",
+          "og_image": "https://img.haarets.co.il/bs/00000195-b080-d1f3-af95-b0daecc30000/fb/3d/67aaecbd48df961a87f74372688b/964992.jpg?precrop=2400%2C1396%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-03-20/ty-article-magazine/.premium/00000195-b2b3-d1f3-af95-b2fb16160000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-03-20",
+          "magazine_date": "2025-03-21",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 21.3.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000195-b2b3-d1f3-af95-b2fb16160000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-03-20/ty-article/.premium/00000195-b2aa-debb-a5b5-b3fbabf10000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-03-20",
+          "magazine_date": "2025-03-21",
+          "title": "הקרבה הרפתקנית",
+          "og_image": "https://img.haarets.co.il/bs/00000195-b2aa-debb-a5b5-b3fbabf10000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-03-20/ty-article/.premium/00000195-b2ca-d3d1-a19f-f7de09e60000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-03-20",
+          "magazine_date": "2025-03-21",
+          "title": "ציוד מחשוב מתוחכם מלווה משפט דמיאניוק",
+          "og_image": "https://img.haarets.co.il/bs/00000195-b2ca-d3d1-a19f-f7de09e60000/db/c5/4fabd69547c496725ca47274dea3/mefursamot.jpg?precrop=1250%2C727%2Cx0%2Cy584&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-03-20/ty-article/00000195-b25b-d7ff-afbd-ba7b9cd40000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-03-20",
+          "magazine_date": "2025-03-21",
+          "title": "בגיל 101 מתה אמו של יורם, שנותר בן 20",
+          "og_image": "https://img.haarets.co.il/bs/00000195-b25b-d7ff-afbd-ba7b9cd40000/49/6f/ba8ef64e498580118a118d3b91de/ypypypypy.png?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2025-03-20/ty-article/.premium/00000195-b2c6-de74-add7-bbdf59c60000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2025-03-20",
+          "magazine_date": "2025-03-21",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000195-b2c6-de74-add7-bbdf59c60000/54/1e/8d7774494fb98d6f7ef691add3b8/caro.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-03-20/ty-article/.premium/00000195-b2ce-d1f3-af95-b2de922e0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-03-20",
+          "magazine_date": "2025-03-21",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000195-b2ce-d1f3-af95-b2de922e0000/33/b3/de673cb44927808bfb12eda81579/ribooa-musaf-617.jpg?precrop=1083%2C630%2Cx0%2Cy70&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-03-20/ty-article/.highlight/00000195-afce-d1f3-af95-bfded91e0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-03-20",
+          "magazine_date": "2025-03-21",
+          "title": "הכתבה על בנט היא ההספד שכותבת על עצמה השארית המסמורטטת של השמאל",
+          "og_image": "https://img.haarets.co.il/bs/00000195-afce-d1f3-af95-bfded91e0000/ce/2d/c6a20ed94ceeb5c891b7a882689a/bennet-2.jpg?precrop=1025%2C596%2Cx165%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

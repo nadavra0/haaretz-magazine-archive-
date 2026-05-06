@@ -1,0 +1,295 @@
+{
+  "magazine_date": "2026-01-23",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/0000019b-e089-d253-a19f-e49b5ee50001/ba/94/a6729b544d4b924aeca7a554f036/shaar-7.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-01-21/ty-article-magazine/.highlight/0000019b-e046-d4f5-a7ff-f5d7a1560000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-01-21/ty-article-magazine/.highlight/0000019b-e046-d4f5-a7ff-f5d7a1560000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-01-21",
+          "magazine_date": "2026-01-23",
+          "title": "בואו, אנחנו קצת מגזימים: חוקרת ישראלית גילתה הטיה פסיכולוגית לא ידועה",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e046-d4f5-a7ff-f5d7a1560000/8f/d0/4ef991d7416ba75339c4cc605825/haaretz-feelings-v1-286.jpg?precrop=2000,1162,x0,y109&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-01-21/ty-article-magazine/.highlight/0000019b-e047-d10b-ab9f-f0dfc0d00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-01-21",
+          "magazine_date": "2026-01-23",
+          "title": "זה הקיבוץ שלקח את החיים השיתופיים הכי רחוק שאפשר. והוא בכלל באמריקה",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e047-d10b-ab9f-f0dfc0d00000/a2/b9/4ebe8c6f4e15b3269ff64d82391a/449777.jpg?precrop=2400,1395,x0,y320&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-01-21/ty-article-magazine/.highlight/0000019b-e047-d253-a19f-e4d77b4d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-01-21",
+          "magazine_date": "2026-01-23",
+          "title": "היא היתה העיניים של העולם בעזה. אז ישראל דאגה שהיא לא תוכל לחזור",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e047-d253-a19f-e4d77b4d0000/e8/c8/a27bcb5b42098fa9c3f5fbc54694/328692.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-01-21/ty-article-magazine/.highlight/0000019b-e047-d91e-ad9b-f16f14ee0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-01-21",
+          "magazine_date": "2026-01-23",
+          "title": "עשרות אלפי ישראלים זכאים לאזרחות הודית. זה הרבה יותר טוב ממה שזה נשמע",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e047-d91e-ad9b-f16f14ee0000/ef/a1/f87b89d943459d822bef369fb927/465549.jpg?&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-01-21/ty-article/.highlight/0000019b-e0c2-d4bd-a3db-fbe2bd2f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-01-21",
+          "magazine_date": "2026-01-23",
+          "title": "למה בעצם צריך להסתפק בביטול עבירת מרמה והפרת אמונים?",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e0c2-d4bd-a3db-fbe2bd2f0000/22/91/179c568a4da1b7759f45f194b288/64479739.JPG?&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-01-21/ty-article/.highlight/0000019b-e0cf-df88-af9f-f3cf283d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-01-21",
+          "magazine_date": "2026-01-23",
+          "title": "האירוע המצער במעון הזכיר לי את הפרס לעידוד הילודה של בן־גוריון",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e0cf-df88-af9f-f3cf283d0000/be/fd/f0f509dc4f3086e10c235f13109f/23-1-26-web.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-01-21/ty-article/.highlight/0000019b-e072-d4f5-a7ff-f5f3a40a0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-01-21",
+          "magazine_date": "2026-01-23",
+          "title": "ההתנערות מגור קהתי היא פרימה מוחלטת של החוזה בין המדינה לאזרחיה",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e072-d4f5-a7ff-f5f3a40a0000/61/d5/be2fdd194aca838422dc1d62b1c6/663054.jpg?precrop=1565,910,x0,y428&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-01-21/ty-article/.highlight/0000019b-e0a6-df3f-a3bb-fffe9c3c0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-01-21",
+          "magazine_date": "2026-01-23",
+          "title": "טרנד בארה\"ב: אלפי צעירים מאוננים יחד בצ'אט במשך שעות כדי להגיע להארה",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e0a6-df3f-a3bb-fffe9c3c0000/cb/d0/dd5960994521a87ce8707a707929/64477959.JPG?precrop=3729,2168,x0,y832&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-01-22/ty-article/.highlight/0000019b-e50a-dc5a-afff-f75e81830000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-01-22",
+          "magazine_date": "2026-01-23",
+          "title": "מאחורי סכר עצום שהתגלה בירושלים ניצבים משבר אקלים חריף, ופתרון מבריק",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e50a-dc5a-afff-f75e81830000/65/24/079b5e654cfea46e1bf8b69dd237/64465914.JPG?precrop=2667,1551,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-01-21/ty-article/.highlight/0000019b-e062-d195-a9bb-ea6308e80000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-01-21",
+          "magazine_date": "2026-01-23",
+          "title": "גם בשנות ה-70 שמאלנים קווירים תמכו באש\"ף, אלא שאז הם גם חטפו מטוסים",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e062-d195-a9bb-ea6308e80000/10/90/9ba4d3ca47d9ac8b6775937fd7bd/490868.jpg?precrop=2010,1169,x0,y104&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-01-21/ty-article-face/.highlight/0000019b-e0c0-d302-a9df-f1f89f6d0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-01-21",
+          "magazine_date": "2026-01-23",
+          "title": "ליטל שוורץ",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e0c0-d302-a9df-f1f89f6d0000/83/e5/50f3355d4074a0a782c9ca3fac4c/461904.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-01-21/ty-article-magazine/.highlight/0000019b-e0a9-df88-af9f-f3efb59b0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-01-21",
+          "magazine_date": "2026-01-23",
+          "title": "\"הייתי כתבת, עורכת, ראש מערכת. עשיתי הכל\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e0a9-df88-af9f-f3efb59b0000/10/2d/2645e9ad4a18af9b70ba11a08af6/64447974.JPG?precrop=7468,4342,x0,y269&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-01-21/ty-article/.highlight/0000019b-e114-df88-af9f-f3562b5f0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-01-21",
+          "magazine_date": "2026-01-23",
+          "title": "עירית לינור התכוונה ללגלג על השמאל. זה יצא יותר חושפני מכפי שתיכננה",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e114-df88-af9f-f3562b5f0000/ea/10/6f34d017417ea9273be95162d9fc/64480872.JPG?precrop=2172,1262,x1939,y1178&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-01-21/ty-article-midrug/.highlight/0000019b-e244-d302-a9df-f37ce5ae0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-01-21",
+          "magazine_date": "2026-01-23",
+          "title": "אפילו לזובין מהטה נמאס מאיתנו. לבד ננצח",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e244-d302-a9df-f37ce5ae0000/a0/30/cffc63984034ada0183fdfb08fbb/384293.jpg?precrop=2400,1395,x0,y98&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-01-22/ty-article/.highlight/0000019b-e0c6-d1e6-a99b-e2e7e8910000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-01-22",
+          "magazine_date": "2026-01-23",
+          "title": "למה מינו אותך למתאם פעולות הממשלה בשטחים? \"תן דוגמה למישהו יותר טוב\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e0c6-d1e6-a99b-e2e7e8910000/ee/f3/5a99d93a470d9cfeb78641eadb27/64466951.JPG?precrop=5760,3349,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-01-21/ty-article-quotes/.highlight/0000019b-e0c4-df88-af9f-f3c677bf0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-01-21",
+          "magazine_date": "2026-01-23",
+          "title": "\"הסיפור של 7 באוקטובר הוא סיפור טקטי נקודתי\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e0c4-df88-af9f-f3c677bf0000/4e/eb/3349932843e0b555165e0232edd9/003665.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-01-21/ty-article-20q/.highlight/0000019b-e07c-d253-a19f-e4ff20680000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-01-21",
+          "magazine_date": "2026-01-23",
+          "title": "לאיזה גיל הגיעה החתולה המבוגרת ביותר אי פעם?",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e07c-d253-a19f-e4ff20680000/a5/2a/19b318b0466ab4ec048c62e6e66d/464916.jpg?precrop=944,549,x667,y868&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-01-22/ty-article-magazine/.premium/0000019b-e5c7-d174-a3bf-edff55f20000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-01-22",
+          "magazine_date": "2026-01-23",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 23.1.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e5c7-d174-a3bf-edff55f20000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-01-22/ty-article/.premium/0000019b-e5cb-dc5a-afff-f7dfbaa70000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-01-22",
+          "magazine_date": "2026-01-23",
+          "title": "טעויות של גדולים",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e5cb-dc5a-afff-f7dfbaa70000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-01-22/ty-article/.premium/0000019b-e518-de75-a1bf-e57d69e00000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-01-22",
+          "magazine_date": "2026-01-23",
+          "title": "איש המוסד שסיפר: האיראנים ביקשו מאיתנו לחסל את חומייני",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e518-de75-a1bf-e57d69e00000/e7/32/51be82ff7f24af9e93793e8386b0/3154703836.jpg?precrop=2200,1278,x0,y125&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2026-01-22/ty-article/.premium/0000019b-e5cf-d4bd-a3db-ffefad4e0000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2026-01-22",
+          "magazine_date": "2026-01-23",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e5cf-d4bd-a3db-ffefad4e0000/2f/3c/21927dee4f5f975ac5f55bd90982/caro.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-01-22/ty-article/.premium/0000019b-e5d2-da0e-a5db-e5da212b0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-01-22",
+          "magazine_date": "2026-01-23",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e5d2-da0e-a5db-e5da212b0000/82/91/1f30c70a49a1ab7256edaccbd1ee/ribooa-musaf-661.jpg?precrop=1083,630,x0,y181&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-01-21/ty-article/.highlight/0000019b-e127-d4bd-a3db-fbe7c3dc0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-01-21",
+          "magazine_date": "2026-01-23",
+          "title": "שב\"ס מתעלל באסירים. זה עוד יכול לקרות גם לכם",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-e127-d4bd-a3db-fbe7c3dc0000/b8/24/aba235d04b9a9665e607cdef91c8/302092.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    }
+  }
+}

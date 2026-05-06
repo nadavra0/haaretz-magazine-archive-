@@ -1,0 +1,343 @@
+{
+  "magazine_date": "2025-10-31",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/0000019a-2f34-d856-a9ff-6fbfaf520001/ee/27/57a15c9246b0a5c47b73604e4ef4/shaar-24.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-10-29/ty-article-magazine/.highlight/0000019a-2d0d-d4aa-a9fa-2fcd130b0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-10-29/ty-article-magazine/.highlight/0000019a-2d0d-d4aa-a9fa-2fcd130b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-10-29",
+          "magazine_date": "2025-10-31",
+          "title": "מרגישים אאוטסיידרים? מעדיפים להיות לבד? ייתכן שאתם פשוט אוטרוברטים",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-2d0d-d4aa-a9fa-2fcd130b0000/3d/20/18d5b6564c65832cf4bca041dafd/london62.jpg?precrop=2000,1163,x0,y640&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-10-30/ty-article-magazine/.highlight/0000019a-2f1f-d4aa-a9fa-2fdfbda90000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-10-30",
+          "magazine_date": "2025-10-31",
+          "title": "זה לא דמיוני כמו שזה נשמע: אנחנו מתקרבים לרגע שבו נוכל לחזות את העתיד",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-2f1f-d4aa-a9fa-2fdfbda90000/5f/f1/b0928e76467fa8f460a79fff8a71/future.jpg?precrop=2000,1163,x0,y443&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-10-30/ty-article-magazine/.highlight/0000019a-2f77-ddf1-a1db-ffffc2110000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-10-30",
+          "magazine_date": "2025-10-31",
+          "title": "\"ישראל היא כבר לא ממש דמוקרטיה. חציתם את הקו לעבר משטר סמכותני\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-2f77-ddf1-a1db-ffffc2110000/7c/e3/496455a44ee28aeffa7ded328f8d/601046.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-10-30/ty-article-magazine/.highlight/0000019a-327f-d804-a9df-3a7f32550000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-10-30",
+          "magazine_date": "2025-10-31",
+          "title": "במסע אל שבטים שפושטים זה על זה, אפשר להתחקות אחר מקורות האלימות",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-327f-d804-a9df-3a7f32550000/fb/20/073986594d9db2e76c021a188fa8/600750.jpg?precrop=2040,1186,x152,y174&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-10-30/ty-article/.highlight/0000019a-3374-ddf1-a1db-fffdfb670000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-10-30",
+          "magazine_date": "2025-10-31",
+          "title": "איך הפכה הצגה גרועה שהייתי בה להרהור נוגה על ההתמכרות שלי לקניות",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-3374-ddf1-a1db-fffdfb670000/c8/40/b84a223e4629a5823012fc66271e/31-10.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-10-30/ty-article/.highlight/0000019a-337a-d804-a9df-3b7a154e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-10-30",
+          "magazine_date": "2025-10-31",
+          "title": "למה טרחתי לעתור לבג\"ץ כל השנים האלה? בגלל הספרייה הסודית",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-337a-d804-a9df-3b7a154e0000/65/3a/6fa4082a4fceaee8610d41aaf3d8/266028.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-10-29/ty-article/.highlight/0000019a-2f43-d4aa-a9fa-2fc7bea50000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-10-29",
+          "magazine_date": "2025-10-31",
+          "title": "הימין הפך את הסכסוך לדרך חיים, וגם הליברלים מפחדים לחזור לנורמליות",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-2f43-d4aa-a9fa-2fc7bea50000/1e/d1/a9ec9eb64ad588b0cd9eb6c92e96/63565787.JPG?precrop=5822,3384,x983,y1016&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-10-29/ty-article/.highlight/0000019a-2f60-db3e-affa-bf6403a40000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-10-29",
+          "magazine_date": "2025-10-31",
+          "title": "פרשת השוחד זיעזעה את הסוכנות. אבי ידע מה מוטל עליו לעשות",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-2f60-db3e-affa-bf6403a40000/32/d3/e30d4d6342068bf20902294b43a3/63564092.JPG?precrop=2048,1191,x0,y643&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-10-29/ty-article/.highlight/0000019a-2fd5-d36c-a3bf-bfd5c6d50000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-10-29",
+          "magazine_date": "2025-10-31",
+          "title": "במקרה הכי גרוע, דוב יטרוף אותך למוות. לא הייתי דואגת מזה",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-2fd5-d36c-a3bf-bfd5c6d50000/a6/9f/ebf35b254959adb091a0c8fa63bd/756092.jpg?precrop=2400,1396,x0,y100&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-10-29/ty-article/.highlight/0000019a-303c-dac5-a79e-bdbdfa540000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-10-29",
+          "magazine_date": "2025-10-31",
+          "title": "אנשים לא סתם \"מוצאים את מותם\". כדי לחזור למציאות צריך לחזור לדבר עברית",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-303c-dac5-a79e-bdbdfa540000/d5/a3/9322a4c74b6f9f4fdd06ab325af7/400993.jpg?precrop=1366,794,x713,y136&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-10-29/ty-article/.highlight/0000019a-2f34-d856-a9ff-6fbf5a220000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-10-29",
+          "magazine_date": "2025-10-31",
+          "title": "למגזר החילוני יש פרויקט קולוניזציה חדש: אגן הים התיכון",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-2f34-d856-a9ff-6fbf5a220000/31/9c/fda74ed64de3bb562cbca8b4d39f/115195.jpg?precrop=2400,1396,x0,y157&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-10-30/ty-article-face/.highlight/0000019a-2d09-db3e-affa-bf0df5620000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-10-30",
+          "magazine_date": "2025-10-31",
+          "title": "יריב פישר",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-2d09-db3e-affa-bf0df5620000/5f/3b/fdb830754eb6b2f47750f144c505/facetemplate1800x1200-1-6.jpg?precrop=1800,1046,x0,y28&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-10-29/ty-article-magazine/.highlight/0000019a-3020-d856-a9ff-7eab93650000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-10-29",
+          "magazine_date": "2025-10-31",
+          "title": "\"לכלבה שלי קוראים גאוות ישראל. היא זכתה בתואר אלופת העולם\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-3020-d856-a9ff-7eab93650000/2f/b5/721214ac40d8b6066cb49ff70abf/466536.jpg?precrop=2205,1282,x195,y234&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-10-29/ty-article/.highlight/0000019a-3036-ddf1-a1db-fcffe83f0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-10-29",
+          "magazine_date": "2025-10-31",
+          "title": "רצח רבין לא היה רק פוליטי. הוא היה גם רצח אופי",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-3036-ddf1-a1db-fcffe83f0000/ae/2c/5bc332f84adfab7544cfb18304e3/63591170.JPG?precrop=4669,2713,x65,y147&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-10-30/ty-article-midrug/.highlight/0000019a-3456-d856-a9ff-7efff0760000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-10-30",
+          "magazine_date": "2025-10-31",
+          "title": "ישראלים שמודאגים מהמועמד לראשות העיר ניו יורק. מזל שאתם בקריית אונו",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-3456-d856-a9ff-7efff0760000/d0/4c/9cda9ed248ef8ba75f37f8e1719b/headline-31.jpg?precrop=2000,1163,x0,y342&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-10-30/ty-article/.highlight/0000019a-3043-dd4f-a3be-38cf3a480000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-10-30",
+          "magazine_date": "2025-10-31",
+          "title": "הציבור לא חש שזה הניצחון המוחלט. \"כי עוד לא סיימנו! המלחמה לא נגמרה!\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-3043-dd4f-a3be-38cf3a480000/8d/a0/2c0a3bff4729a5c9b86fa5b26428/017040.jpg?precrop=1640,954,x424,y387&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-10-30/ty-article-20q/.highlight/0000019a-2d01-d4aa-a9fa-2fc539f30000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-10-30",
+          "magazine_date": "2025-10-31",
+          "title": "הדרכון של איזו מדינה מדורג ראשון בדירוג הדרכונים החזקים בעולם?",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-2d01-d4aa-a9fa-2fc539f30000/0e/8e/65fa454f49c28733e55fdf8990be/441239.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-10-29/ty-article-magazine/.highlight/0000019a-3002-db3e-affa-bf06744b0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-10-29",
+          "magazine_date": "2025-10-31",
+          "title": "הוא עבד במסעדות יוקרה, וכעת פותח מסעדה שאפתנית משלו. המיקום: מצפה רמון",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-3002-db3e-affa-bf06744b0000/1b/db/f2beebde45c18bbe7134e5ccfe79/1.jpg?precrop=1428,830,x0,y874&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-10-30/ty-article-magazine/.premium/0000019a-34f8-d856-a9ff-7efb24250000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-10-30",
+          "magazine_date": "2025-10-31",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 31.10.2025",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-34f8-d856-a9ff-7efb24250000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-10-30/ty-article/.premium/0000019a-3507-da7a-abdb-bf97fd210000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-10-30",
+          "magazine_date": "2025-10-31",
+          "title": "אובדן וסערה",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-3507-da7a-abdb-bf97fd210000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-10-30/ty-article/.premium/0000019a-3501-d36c-a3bf-b5551f300000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-10-30",
+          "magazine_date": "2025-10-31",
+          "title": "הסיגריה - פרט חיוני המלווה את החייל בכל מקום. אנא הבנתכם לעדיפות זו",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-3501-d36c-a3bf-b5551f300000/53/34/19bdc3114fe4898945f4f0d6c155/mefursamot.jpg?precrop=1250,727,x0,y2079&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-10-30/ty-article/0000019a-3578-d856-a9ff-7ffb2d0c0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-10-30",
+          "magazine_date": "2025-10-31",
+          "title": "\"ראיתי בזה שליחות\": בגיל 86 מת בונה העוגבים של ישראל",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-3578-d856-a9ff-7ffb2d0c0000/2f/43/11675d1d42e9b7dbbbb5028a1681/shy-levy-4455.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2025-10-30/ty-article/.premium/0000019a-34fc-d66f-a1df-34fca4af0000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2025-10-30",
+          "magazine_date": "2025-10-31",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-34fc-d66f-a1df-34fca4af0000/e9/5e/97aeb0a64b0f8e240f39713bc805/israel-palestinians-west-bank-settlers.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-10-30/ty-article/.premium/0000019a-3516-da7a-abdb-bf9669820000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-10-30",
+          "magazine_date": "2025-10-31",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-3516-da7a-abdb-bf9669820000/58/e1/d5844bd143c7ae2d434ba6ca9b23/ribooa-musaf-649.jpg?precrop=1083,630,x0,y9&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-10-29/ty-article/.highlight/0000019a-3054-d4aa-a9fa-32d4e3360000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-10-29",
+          "magazine_date": "2025-10-31",
+          "title": "נגמרו לנו התירוצים. איך נסביר את המתרחש בגדה?",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-3054-d4aa-a9fa-32d4e3360000/c8/5c/19fe57664dd78c55870c630b492e/63488410.JPG?precrop=3600,2093,x0,y232&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

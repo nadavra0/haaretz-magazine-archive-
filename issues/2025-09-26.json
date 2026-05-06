@@ -1,0 +1,333 @@
+{
+  "magazine_date": "2025-09-26",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/00000199-765d-db6e-a5d9-f67d59e60001/43/b4/205f04f0467fb7dda3762a22bf02/shaar-20.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-09-25/ty-article-magazine/.highlight/00000199-75f2-db6e-a5d9-f7fe58c00000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-09-25/ty-article-magazine/.highlight/00000199-75f2-db6e-a5d9-f7fe58c00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "ההיסטוריון הישראלי שמאס בציונות, וניצב כעת לצד חמאס",
+          "og_image": "https://img.haarets.co.il/bs/00000199-75f2-db6e-a5d9-f7fe58c00000/49/6b/f42452f04cf792c8288ec9abd350/127616.jpg?precrop=1603,932,x0,y678&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-09-25/ty-article-magazine/.highlight/00000199-763f-db6e-a5d9-f67f03860000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "מחקרים מגלים: במשך רוב שנות המין האנושי, לנשים היה מעמד שווה לגברים",
+          "og_image": "https://img.haarets.co.il/bs/00000199-763f-db6e-a5d9-f67f03860000/ad/81/acd1561d40f1b35a6c97f4045d23/gideon-1.jpg?precrop=1025,596,x163,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-09-25/ty-article-magazine/.highlight/00000199-7cbe-d04a-adfd-7dbe005f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "ימנים מאושרים יותר מאשר שמאלנים. הולך ומתברר שזאת עובדה",
+          "og_image": "https://img.haarets.co.il/bs/00000199-7cbe-d04a-adfd-7dbe005f0000/7c/1e/bd5a99b74a20a7b18f33413bac46/happyright-shituf.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-09-25/ty-article/.highlight/00000199-812a-dc2d-abfd-cb2fbed50000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "היה לי פעם רעיון לכתיבת ספר, ופתאום הגיבור הזכיר לי את נתניהו וספרטה",
+          "og_image": "https://img.haarets.co.il/bs/00000199-812a-dc2d-abfd-cb2fbed50000/37/26/344bd690438aa8ff6baf752a3eeb/26-9-25-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-09-25/ty-article/.highlight/00000199-7dee-d04a-adfd-7dee5eee0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "כך הפכה הממשלה את מחאת האמהות לכלי בשירות המערכת",
+          "og_image": "https://img.haarets.co.il/bs/00000199-7dee-d04a-adfd-7dee5eee0000/9e/7d/5ba136014e169b24931fa3a94258/607171.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-09-25/ty-article/.highlight/00000199-813e-d04a-adfd-bd3e68aa0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "אפילו התאגידים בארה\"ב מציבים חללים לשנ\"צ. אנחנו לפני מהפכה ביחס לשינה",
+          "og_image": "https://img.haarets.co.il/bs/00000199-813e-d04a-adfd-bd3e68aa0000/1e/f1/c8dfd5cf4adab47f6849b5986b13/sleep.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2025-09-25/ty-article/.highlight/00000199-7dc7-d27b-affd-7fd76fbd0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "מתברר שיש מילים כל כך מיוחדות, שרק מילים אחרות יכולות לתאר אותן",
+          "og_image": "https://img.haarets.co.il/bs/00000199-7dc7-d27b-affd-7fd76fbd0000/3c/e2/cfd4f03546aa8211298884ed54a9/165769.jpg?precrop=1645,956,x0,y628&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-09-25/ty-article/.highlight/00000199-7ddb-db6e-a5d9-ffffe4180000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "הדת היא לא הבעיה שלנו. היא הפתרון למשבר הגדול של הדמוקרטיה",
+          "og_image": "https://img.haarets.co.il/bs/00000199-7ddb-db6e-a5d9-ffffe4180000/21/11/4d9f9b8a4531aa2dbcd2afa382ed/165904.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-09-25/ty-article-face/.highlight/00000199-75e6-daea-adff-7fe76b360000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "בני ברבש",
+          "og_image": "https://img.haarets.co.il/bs/00000199-75e6-daea-adff-7fe76b360000/1e/e9/9e7b3c004b89ab290b5b37a0c39f/165582.jpg?precrop=2400,1395,x0,y134&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-09-25/ty-article-magazine/.highlight/00000199-6c77-db6e-a5d9-fe7fb7d20000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "\"אמריקה היא כמו אפוקליפסת זומבים. אז מה זה קצת אזעקות\"",
+          "og_image": "https://img.haarets.co.il/bs/00000199-6c77-db6e-a5d9-fe7fb7d20000/4a/bc/974f9e3f41b9adad3f948b96468f/63103205.JPG?precrop=4355,2530,x0,y246&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2025-09-25/ty-article-magazine/.highlight/00000199-6c86-d27b-affd-7e9613260000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "חולי OCD פתחו את ביתם בפני חוקרים, וחשפו איך נראים חיים שהם טקס מתמשך",
+          "og_image": "https://img.haarets.co.il/bs/00000199-6c86-d27b-affd-7e9613260000/57/d4/5efcd929421d96bcf4e475b1d073/63103252.JPG?precrop=8192,4763,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-09-25/ty-article/.highlight/00000199-6c90-daea-adff-7ff31a990000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "הסרטונים האלה צצים ברשתות כפטריות אחרי ההרס. הרוע הפך פה בן בית",
+          "og_image": "https://img.haarets.co.il/bs/00000199-6c90-daea-adff-7ff31a990000/bd/87/5ebd295543858a0d1a836da0ebb6/63135636.JPG?precrop=535,311,x0,y223&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-09-25/ty-article-midrug/.highlight/00000199-7db4-df8f-afbd-fdfd072b0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "איראן, פיג'י וישראל כץ: ועדת המדרוג מסכמת שנה",
+          "og_image": "https://img.haarets.co.il/bs/00000199-7db4-df8f-afbd-fdfd072b0000/34/5e/317825af492fbe0acad7484919c1/headline-26.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-09-25/ty-article/.highlight/00000199-6c74-d134-a1ff-fd7c5fb00000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "אתה צריך את האמריקאים כדי לפגוש את ראש הממשלה? \"כן, זו הזיה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000199-6c74-d134-a1ff-fd7c5fb00000/af/01/20b98b3348b0b9d49a30fda80cb3/63135639.JPG?precrop=3983,2314,x3574,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-09-25/ty-article-quotes/.highlight/00000199-75e9-db6e-a5d9-f7edd25c0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "\"מה שאני יודע על נתניהו, והרבה לא יודעים, זה שהוא אדם עם לב ענקי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000199-75e9-db6e-a5d9-f7edd25c0000/44/b2/f78dffc34d629521a4cac514bafa/107760.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-09-25/ty-article-20q/.highlight/00000199-75da-d04a-adfd-7dda2b770000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "מהי המדינה היחידה בעולם שבדגל שלה אין צבע אדום, לבן או כחול?",
+          "og_image": "https://img.haarets.co.il/bs/00000199-75da-d04a-adfd-7dda2b770000/bf/21/07e891984179b812aca6cd5491cc/711150.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-09-25/ty-article-magazine/.highlight/00000199-8163-db6e-a5d9-d76fdb640000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "זן ואמנות הרכבת הכריך: סיפורה של יצירת פאר קולינרית בפלורנטין",
+          "og_image": "https://img.haarets.co.il/bs/00000199-8163-db6e-a5d9-d76fdb640000/0f/46/b13e0bef48238ef2efc4e2fd0ef1/165356.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-09-25/ty-article-magazine/.premium/00000199-8036-d04a-adfd-bd3611c70000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 26.9.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000199-8036-d04a-adfd-bd3611c70000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-09-25/ty-article/.premium/00000199-804b-daea-adff-bfebc8710000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "מפגש במעלית",
+          "og_image": "https://img.haarets.co.il/bs/00000199-804b-daea-adff-bfebc8710000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-09-25/ty-article/.premium/00000199-8057-daea-adff-bff70d6c0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "תנועת ההתנגדות האיסלאמית - החמאס - הוצאה אל מחוץ לחוק",
+          "og_image": "https://img.haarets.co.il/bs/00000199-8057-daea-adff-bff70d6c0000/2f/94/a66ee8304509ad1eb2acb8de317a/mefursamot.jpg?precrop=1250,727,x0,y1173&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-09-25/ty-article/00000199-8210-d04a-adfd-bf10cce90000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "\"כל מי שהרים יד על יהודים שילם מחיר\": אחרון האחים ביילסקי מת בגיל 98",
+          "og_image": "https://img.haarets.co.il/bs/00000199-8210-d04a-adfd-bf10cce90000/05/17/6b0a079345788634ffc58afbbe14/e7ef107f-50c7-4445-88ef-365d9f2d7b63.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-09-25/ty-article/.premium/00000199-8053-daea-adff-bff352020000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000199-8053-daea-adff-bff352020000/20/76/07646c444599954551643ecddc8d/ribooa-musaf-644.jpg?precrop=1083,630,x0,y226&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-09-25/ty-article/.highlight/00000199-6caf-d04a-adfd-7dafdf710000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-09-25",
+          "magazine_date": "2025-09-26",
+          "title": "כולם רוצים סיפורים פשוטים בשחור־לבן",
+          "og_image": "https://img.haarets.co.il/bs/00000199-6caf-d04a-adfd-7dafdf710000/0d/62/a3b0bd964dbca95c7694228f2a1a/878072.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

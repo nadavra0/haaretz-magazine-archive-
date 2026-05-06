@@ -1,0 +1,323 @@
+{
+  "magazine_date": "2025-05-30",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/00000197-1901-d392-a7f7-190ff1470000/cd/c1/27202a614e4d93b043096d9f720d/shaar-9.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-05-29/ty-article-magazine/.highlight/00000197-166a-d97f-afb7-56eef4dd0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-05-29/ty-article-magazine/.highlight/00000197-166a-d97f-afb7-56eef4dd0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-05-29",
+          "magazine_date": "2025-05-30",
+          "title": "ארה\"ב משנה את פניה, וחוקר הפשיזם הבולט מאוניברסיטת ייל עוזב לקנדה",
+          "og_image": "https://img.haarets.co.il/bs/00000197-166a-d97f-afb7-56eef4dd0000/c9/7e/bf10ab3a4335811d24f60a55e56a/61623431.JPG?precrop=5232,3042,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-05-29/ty-article-magazine/.highlight/00000197-166b-d57f-a7d7-3eebccf50000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-05-29",
+          "magazine_date": "2025-05-30",
+          "title": "כמעט כמו לשתות חומוס עם קש: קפה-טחינה הפך למשקה הכי לוהט בניו יורק",
+          "og_image": "https://img.haarets.co.il/bs/00000197-166b-d57f-a7d7-3eebccf50000/46/1b/338c3e3540ffb27a3625adfef62a/61706635.JPG?precrop=592,344,x132,y22&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-05-29/ty-article-magazine/.highlight/00000197-166b-d97f-afb7-56ef7dba0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-05-29",
+          "magazine_date": "2025-05-30",
+          "title": "דם, ציפורניים, חרדות, צה\"ל, אורגיות ונדל\"ן. הרבה נדל\"ן",
+          "og_image": "https://img.haarets.co.il/bs/00000197-166b-d97f-afb7-56ef7dba0000/c9/19/0c7edeed4efe97ea2332691d8bb8/61470446.JPG?precrop=3060,1780,x0,y1085&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-05-29/ty-article-magazine/.highlight/00000197-18f2-d57f-a7d7-3ef227b20000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-05-29",
+          "magazine_date": "2025-05-30",
+          "title": "היא ביקרה בעזה וראתה את הזוועה מקרוב. חמישה מקרים לא נותנים לה מנוח",
+          "og_image": "https://img.haarets.co.il/bs/00000197-18f2-d57f-a7d7-3ef227b20000/69/86/e8f5045a483aaeffcfac3baa4e54/599988.jpg?precrop=2400,1395,x0,y13&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-05-29/ty-article/.highlight/00000197-1bcf-d57f-a7d7-3fefa0530000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-05-29",
+          "magazine_date": "2025-05-30",
+          "title": "לאור מה שמתחולל בעזה, איזה טעם יש במסעות חינוכיים לאושוויץ",
+          "og_image": "https://gif.haarets.co.il/bs/00000197-1bcf-d57f-a7d7-3fefa0530000/75/40/e39e7e3b41e1aba1f2f0073bd86d/30-5-25-animation.gif?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-05-28/ty-article/.highlight/00000197-1680-d0e9-abd7-3fa00e460000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-05-28",
+          "magazine_date": "2025-05-30",
+          "title": "איך אפשר לשיר על אהבת הארץ בזמן שהמדינה פונה נגד אזרחיה?",
+          "og_image": "https://img.haarets.co.il/bs/00000197-1680-d0e9-abd7-3fa00e460000/e3/62/e1f0018c459c9c9bd62a2b424b8e/416919.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-05-28/ty-article/.highlight/00000197-16b1-d97f-afb7-56bd4ea70000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-05-28",
+          "magazine_date": "2025-05-30",
+          "title": "לעשות למוות את המוות: חזרה לעלילות סיזיפוס מציעה נחמה מפתיעה",
+          "og_image": "https://img.haarets.co.il/bs/00000197-16b1-d97f-afb7-56bd4ea70000/66/cd/73f8d30149ebb270e5bc8fdcaea6/61706977.JPG?precrop=2688,1563,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-05-28/ty-article/.highlight/00000197-1698-df22-a9d7-9efa7f0b0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-05-28",
+          "magazine_date": "2025-05-30",
+          "title": "כדי להבין את הלך הרוח האלים שהשתלט על ישראל, צריך להביט לבית הלבן",
+          "og_image": "https://img.haarets.co.il/bs/00000197-1698-df22-a9d7-9efa7f0b0000/9e/c5/a0e1d72b4460943ab6c7d5ce2ccb/811019.jpg?precrop=2400,1396,x0,y205&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-05-29/ty-article-face/.highlight/00000197-1912-df22-a9d7-9ff233800000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-05-29",
+          "magazine_date": "2025-05-30",
+          "title": "איימוס איינו",
+          "og_image": "https://img.haarets.co.il/bs/00000197-1912-df22-a9d7-9ff233800000/b1/ea/7faecbcd4cf3861007572ade3349/facetemplate1800x1200-1-4.jpg?precrop=1800,1046,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-05-28/ty-article-magazine/.highlight/00000197-174a-df22-a9d7-9ffa00300000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-05-28",
+          "magazine_date": "2025-05-30",
+          "title": "\"רציתי להתגייס לצבא אוקראינה להילחם בפוטין. ענו 'בוא'. זה הזמן למות\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-174a-df22-a9d7-9ffa00300000/a6/0d/74fb01c14ce7b1b203f3e2638303/61719211.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-05-28/ty-article/.highlight/00000197-174a-df22-a9d7-9ffa18b30000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-05-28",
+          "magazine_date": "2025-05-30",
+          "title": "מינוי זיני לראשות שב\"כ שם זרקור רב עוצמה על סופרלטיב פופולרי ומתעתע",
+          "og_image": "https://img.haarets.co.il/bs/00000197-174a-df22-a9d7-9ffa18b30000/56/2f/a22b4dfc41c3aa655709682fbcb5/623451-12.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-05-29/ty-article-midrug/.highlight/00000197-1b90-d392-a7f7-1b9e2b440000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-05-29",
+          "magazine_date": "2025-05-30",
+          "title": "יום ירושלים. שתידבק כבר לשוננו לחיכנו ונגמור עם זה",
+          "og_image": "https://img.haarets.co.il/bs/00000197-1b90-d392-a7f7-1b9e2b440000/e7/c2/4c2921b5456aa94f7cb5bc1e8a90/headline-8.jpg?precrop=2000,1162,x0,y402&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-05-28/ty-article/.highlight/00000197-16f0-d97f-afb7-56fc0d130000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-05-28",
+          "magazine_date": "2025-05-30",
+          "title": "למה אריה דרעי לא מגיע לכנסת?\n\"אני אעביר הלאה את הפנייה שלך\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-16f0-d97f-afb7-56fc0d130000/72/ab/1dfc15a049ad942b8c9522a68273/61731198.JPG?precrop=4020,2336,x502,y700&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-05-29/ty-article-quotes/.highlight/00000197-1917-d392-a7f7-191f62430000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-05-29",
+          "magazine_date": "2025-05-30",
+          "title": "\"הגעתי הבוקר לזירת הפיגוע בוושינגטון, העברתי מסר חד וברור נגד קטר\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-1917-d392-a7f7-191f62430000/c7/2e/e4e99c894799b527206d9f41f627/839131.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-05-28/ty-article-20q/.highlight/00000197-1626-df22-a9d7-9ef6c60e0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-05-28",
+          "magazine_date": "2025-05-30",
+          "title": "בכדור הארץ השקיעה אדומה. מה צבע השקיעה במאדים?",
+          "og_image": "https://img.haarets.co.il/bs/00000197-1626-df22-a9d7-9ef6c60e0000/91/b0/f8014bb54cd0a17ad681db36c8fd/607451.jpg?precrop=1548,901,x108,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-05-28/ty-article-magazine/.highlight/00000197-16fa-d0e9-abd7-3ffa10110000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-05-28",
+          "magazine_date": "2025-05-30",
+          "title": "הוא ויתר על 3 כוכבי מישלן כדי להתמקד בחלום אחר. הוא הגשים אותו בפריז",
+          "og_image": "https://img.haarets.co.il/bs/00000197-16fa-d0e9-abd7-3ffa10110000/ab/69/b93e1f1d47ec873015dd95130b3c/61730921.JPG?precrop=3543,2060,x0,y276&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-05-29/ty-article-magazine/.premium/00000197-1c10-d57f-a7d7-3ef2dae00000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-05-29",
+          "magazine_date": "2025-05-30",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 30.5.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000197-1c10-d57f-a7d7-3ef2dae00000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-05-29/ty-article/.premium/00000197-1c03-d392-a7f7-1d0f43130000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-05-29",
+          "magazine_date": "2025-05-30",
+          "title": "פעמיים כי טוב",
+          "og_image": "https://img.haarets.co.il/bs/00000197-1c03-d392-a7f7-1d0f43130000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-05-29/ty-article/.premium/00000197-1c1d-d0e9-abd7-3dbd03b30000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-05-29",
+          "magazine_date": "2025-05-30",
+          "title": "האפיפיור מזכיר: השטן עודנו חי ופועל בעולם",
+          "og_image": "https://img.haarets.co.il/bs/00000197-1c1d-d0e9-abd7-3dbd03b30000/3e/82/bcbb7e244a488159a638894a622c/mefursamot.jpg?precrop=1250,727,x0,y296&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-05-29/ty-article/00000197-1b3d-d0e9-abd7-3fbd653a0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-05-29",
+          "magazine_date": "2025-05-30",
+          "title": "\"עם מותו מתה גם ירושלים של פעם\": הבוהמיין דוד מונשיין מת בגיל 83",
+          "og_image": "https://img.haarets.co.il/bs/00000197-1b3d-d0e9-abd7-3fbd653a0000/5c/61/aa27d00d41318b575000f8e6ca24/694486.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-05-26/ty-article/.premium/00000197-0bcd-d3df-addf-9bcf24fa0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-05-26",
+          "magazine_date": "2025-05-30",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000197-0bcd-d3df-addf-9bcf24fa0000/c9/5d/f9e4aa4e48b583e2210557945b8a/ribooa-musaf-626.jpg?precrop=1083,630,x0,y14&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-05-29/ty-article/.premium/00000197-1c20-d0e9-abd7-3da072270000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-05-29",
+          "magazine_date": "2025-05-30",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000197-1c20-d0e9-abd7-3da072270000/37/3f/2019935642128e115625bdeede70/ribooa-musaf-627.jpg?precrop=1083,630,x0,y113&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-05-28/ty-article/.highlight/00000197-1771-d97f-afb7-57fde0140000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-05-28",
+          "magazine_date": "2025-05-30",
+          "title": "מוסף הארץ, מה זה הסקר הזה שנתתם לו במה? למה? בסטטיסטיקה אתם מבינים?",
+          "og_image": "https://img.haarets.co.il/bs/00000197-1771-d97f-afb7-57fde0140000/6a/be/a295a4d94f8a8afd64f8fb010c86/501900.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "magazine_date": "2025-01-03",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/00000194-2277-dcc4-a1d7-3bf736420001/39/62/d49f05374405b8f0322d9bf845b8/shaar-1.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-01-02/ty-article-magazine/.highlight/00000194-21b8-d973-a796-3bfbeedf0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-01-02/ty-article-magazine/.highlight/00000194-21b8-d973-a796-3bfbeedf0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-01-02",
+          "magazine_date": "2025-01-03",
+          "title": "מי הדליף את סודות הגרעין שנים לפני ואנונו? מסמכי הגרעין נחשפים",
+          "og_image": "https://img.haarets.co.il/bs/00000194-21b8-d973-a796-3bfbeedf0000/2d/fe/d7b0da7b4f2f899352958c392147/59905506.JPG?precrop=220%2C128%2Cx279%2Cy93&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-01-02/ty-article-magazine/.highlight/00000194-21bb-da14-adb7-77ffd9920000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-01-02",
+          "magazine_date": "2025-01-03",
+          "title": "דגנית חשבה שיש לה התקף חרדה, ואז קיבלה אבחנה: פציעה מוסרית",
+          "og_image": "https://img.haarets.co.il/bs/00000194-21bb-da14-adb7-77ffd9920000/f8/fe/d9334d664eb9abda4f32ea52ded0/moral-volnrability-2-main.jpg?precrop=782%2C455%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-01-02/ty-article-magazine/.highlight/00000194-21bb-df33-a7b5-b1bf16970000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-01-02",
+          "magazine_date": "2025-01-03",
+          "title": "\"פעם בנים היו בונים מטוס ואז מגלים שיש בנות בעולם. אנו הפסיכים שנתקעו\"",
+          "og_image": "https://img.haarets.co.il/bs/00000194-21bb-df33-a7b5-b1bf16970000/97/e6/1db7604440f4858fba3f6066c86d/016347.jpg?precrop=2400%2C1395%2Cx0%2Cy206&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-01-02/ty-article-magazine/.highlight/00000194-21be-df33-a7b5-b1beb6f00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-01-02",
+          "magazine_date": "2025-01-03",
+          "title": "מי רוכש דירות בג'סר א-זרקא? (עתידות: בקרוב ייבנה שם בית כנסת)",
+          "og_image": "https://img.haarets.co.il/bs/00000194-21be-df33-a7b5-b1beb6f00000/59/c1/01d144fb40a297f3bc96e7f16aa5/59904335.JPG?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-01-02/ty-article-magazine/.highlight/00000194-227e-d973-a796-3b7fa0bc0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-01-02",
+          "magazine_date": "2025-01-03",
+          "title": "\"אנחנו לא רוצים למות\": עדויות פלסטיניות מהתופת בצפון הרצועה",
+          "og_image": "https://img.haarets.co.il/bs/00000194-227e-d973-a796-3b7fa0bc0000/84/59/16dacbcd4b2aa7fbb10fa514a91f/59924213.JPG?precrop=3409%2C1980%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-01-02/ty-article/.highlight/00000194-2685-d29f-a5b4-2ebfab280000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-01-02",
+          "magazine_date": "2025-01-03",
+          "title": "למה גדעון סער מפחיד אותי יותר מכל אנשי הקואליציה",
+          "og_image": "https://gif.haarets.co.il/bs/00000194-2685-d29f-a5b4-2ebfab280000/52/ca/fca08f50403089c0537919a7185f/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-01-01/ty-article/.highlight/00000194-21d1-da14-adb7-77fdfca30000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-01-01",
+          "magazine_date": "2025-01-03",
+          "title": "אתה קורא מאמר ודופק את הראש בקיר. איזה תענוג!",
+          "og_image": "https://img.haarets.co.il/bs/00000194-21d1-da14-adb7-77fdfca30000/10/d9/395a48e54c7daf903161ee6d658b/156901.jpg?precrop=2400%2C1395%2Cx0%2Cy157&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-01-01/ty-article/.highlight/00000194-21ee-d973-a796-3bff48580000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-01-01",
+          "magazine_date": "2025-01-03",
+          "title": "אין לנו ילדים למלחמות מיותרות? הישראלים דווקא חושבים אחרת",
+          "og_image": "https://img.haarets.co.il/bs/00000194-21ee-d973-a796-3bff48580000/fb/a4/dbe596ba45c4a46c50c4307f087a/59907952.JPG?precrop=3648%2C2120%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-01-01/ty-article/.highlight/00000194-2202-d973-a796-3b532fed0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-01-01",
+          "magazine_date": "2025-01-03",
+          "title": "בדיון הסוער על אנטישמיות בגרמניה, היהודים הם רק כלי במאבק גדול יותר",
+          "og_image": "https://img.haarets.co.il/bs/00000194-2202-d973-a796-3b532fed0000/45/0a/98dde4014a5984dce9bb653d11a6/59913161.JPG?precrop=3543%2C2060%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2025-01-01/ty-article/.highlight/00000194-21f9-df33-a7b5-b1fd5c560000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2025-01-01",
+          "magazine_date": "2025-01-03",
+          "title": "מאחורי המילה \"הַלְוַאי\" יש אלפי שנים של כמיהה אנושית",
+          "og_image": "https://img.haarets.co.il/bs/00000194-21f9-df33-a7b5-b1fd5c560000/91/85/ef38ec6947b793f89921b431bc73/59905366.JPG?precrop=5542%2C3222%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-01-01/ty-article/.highlight/00000194-21c6-df33-a7b5-b1fe0d710000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-01-01",
+          "magazine_date": "2025-01-03",
+          "title": "פולין נחשבה במשך שנים למדינה חשוכה ומקרטעת. כעת היא נקודת אור באפלה",
+          "og_image": "https://img.haarets.co.il/bs/00000194-21c6-df33-a7b5-b1fe0d710000/32/6b/24d62f7e426e9f10de266d870f2e/59921971.JPG?precrop=5472%2C3181%2Cx0%2Cy154&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-01-02/ty-article-face/.highlight/00000194-2700-ddb6-afdd-77e797120002",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-01-02",
+          "magazine_date": "2025-01-03",
+          "title": "\"אני עדיין קצת נבהלת מכל חשיפה או פרסום, אבל לא כשאני על הבמה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000194-2700-ddb6-afdd-77e797120002/00/d1/a70c90524bd1b46ff2f8590aad63/044038.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-01-01/ty-article-magazine/.highlight/00000194-2206-da14-adb7-767e83790000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-01-01",
+          "magazine_date": "2025-01-03",
+          "title": "\"בחדר מיון כל טעות עלולה לעלות בחיי אדם. אני אוהב להיות במקום הזה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000194-2206-da14-adb7-767e83790000/38/1e/cf1905e7425988609639e80bc14a/865096.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-01-02/ty-article/.highlight/00000194-261c-dd68-a3be-e6fc34860000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-01-02",
+          "magazine_date": "2025-01-03",
+          "title": "ואז רוכב הקטנוע של וולט הטיח בי: סע, סע כבר, יא שמאלני",
+          "og_image": "https://img.haarets.co.il/bs/00000194-261c-dd68-a3be-e6fc34860000/ea/e9/54547f064852af416c03e6875701/145568.jpg?precrop=2400%2C1395%2Cx0%2Cy12&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-01-02/ty-article-magazine/.highlight/00000194-26bc-dcc4-a1d7-3fbca2ed0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-01-02",
+          "magazine_date": "2025-01-03",
+          "title": "אלון מאסק הולך לנהל את העולם. מזל שטראמפ יהיה שם כדי לרסן אותו",
+          "og_image": "https://img.haarets.co.il/bs/00000194-26bc-dcc4-a1d7-3fbca2ed0000/31/3d/52736f294f90a9176e622314e740/headline.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-01-01/ty-article/.highlight/00000194-21fd-dcc4-a1d7-39fd08100000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-01-01",
+          "magazine_date": "2025-01-03",
+          "title": "למה הנשיא שוקל להתערב לטובת הנגד? \"זה נשקל, זה בעבודה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000194-21fd-dcc4-a1d7-39fd08100000/1d/c1/56fbdcb84270baa74114cab92128/882027.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-01-02/ty-article-magazine/.highlight/00000194-2706-d29f-a5b4-2fbe8c720002",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-01-02",
+          "magazine_date": "2025-01-03",
+          "title": "\"יש הרבה הישגים לממשלה - הטבות לחיילי צה\"ל, לאלמנות, למשפחות החטופים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000194-2712-da14-adb7-777e0ec30000/8e/02/999629314f0b89b9b9380026de34/123641.jpg?precrop=2400,1395,x0,y0&height=630&width=1200&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-01-01/ty-article-20q/.highlight/00000194-2250-da14-adb7-767c04840000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-01-01",
+          "magazine_date": "2025-01-03",
+          "title": "מהי החיה היחידה שנחשבת לבת אלמוות?",
+          "og_image": "https://img.haarets.co.il/bs/00000194-2250-da14-adb7-767c04840000/46/a1/2911a4af4be988b145a7430333a7/80808.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2025-01-01/ty-article-20q/.free/00000194-2266-dd68-a3be-e6e6019b0000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2025-01-01",
+          "magazine_date": "2025-01-03",
+          "title": "20 שאלות לילדים ולילדות: על שם מי נקרא שדה התעופה הראשי של ישראל?",
+          "og_image": "https://img.haarets.co.il/bs/00000194-2266-dd68-a3be-e6e6019b0000/ad/13/ac8f407b474fa6d9b60d44333374/129245.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-01-02/ty-article-magazine/.premium/00000194-2620-d29f-a5b4-2ebabc390000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-01-02",
+          "magazine_date": "2025-01-03",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 3.1.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000194-2620-d29f-a5b4-2ebabc390000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-01-02/ty-article/.premium/00000194-2621-ddb6-afdd-77e78ff30000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-01-02",
+          "magazine_date": "2025-01-03",
+          "title": "סקנדל במכנסיים",
+          "og_image": "https://img.haarets.co.il/bs/00000194-2621-ddb6-afdd-77e78ff30000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-01-02/ty-article-opinion/.premium/00000194-266e-ddb6-afdd-77ef2fe60000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-01-02",
+          "magazine_date": "2025-01-03",
+          "title": "\"אם שר החוץ הטריח עצמו להתקשר אלי, חשבתי שהוא עומד להטיל פצצה עולמית\" | דעה",
+          "og_image": "https://img.haarets.co.il/bs/00000194-266e-ddb6-afdd-77ef2fe60000/e3/2c/564414794a3e911cf43afaa2ad7e/044401.jpg?precrop=2400%2C1395%2Cx0%2Cy138&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-01-02/ty-article/.premium/00000194-26ba-d29f-a5b4-2ebad1520000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-01-02",
+          "magazine_date": "2025-01-03",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000194-26ba-d29f-a5b4-2ebad1520000/e0/ab/ba661d88407dac0076a666c71b4f/ribooa-musaf-606-1.jpg?precrop=1083%2C630%2Cx0%2Cy186&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-01-02/ty-article/00000194-261b-da14-adb7-767fea740000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-01-02",
+          "magazine_date": "2025-01-03",
+          "title": "הרצוג מתהלך בסביבת נתניהו כמי שפוסע בשדה מוקשים",
+          "og_image": "https://img.haarets.co.il/bs/00000194-261b-da14-adb7-767fea740000/61/7b/9bee7db54a8eb167115b32b79f38/996469.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

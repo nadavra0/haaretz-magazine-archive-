@@ -1,0 +1,295 @@
+{
+  "magazine_date": "2025-12-26",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/0000019b-5096-d866-abff-7af76d120001/f5/60/73e821184b91bf471ca00b6596d1/shaar-3.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-12-24/ty-article/.highlight/0000019b-5078-d866-abff-7a793b940000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-12-24/ty-article/.highlight/0000019b-5078-d866-abff-7a793b940000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-12-24",
+          "magazine_date": "2025-12-26",
+          "title": "מה אפשר ללמוד מאפלטון על המצב של מדינת ישראל",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-5078-d866-abff-7a793b940000/cd/37/9c0b1e7a457286fb53951f1c5d93/64246175.JPG?&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-12-25/ty-article-magazine/.highlight/0000019b-5007-df6b-a7db-f517ee860000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-12-25",
+          "magazine_date": "2025-12-26",
+          "title": "מורה ביסודי הפגינה בקפלן, והוזמנה לשימוע. סעיף האישום: העלבת הממשלה",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-5007-df6b-a7db-f517ee860000/f6/ac/ac535b7d4a109c1f80bb8d940ca1/yael2.jpg?precrop=2000,1162,x0,y217&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-12-25/ty-article-magazine/.highlight/0000019b-5026-d7a5-abbb-5af770360000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-12-25",
+          "magazine_date": "2025-12-26",
+          "title": "\"אני מבקש, למענכם: תכירו בעוולות שנעשו בשמכם. זה חיוני לעתיד שלכם\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-5026-d7a5-abbb-5af770360000/02/21/61cc15d14635983a4d91df3cda28/029943.jpg?precrop=2400,1396,x0,y258&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-12-25/ty-article-magazine/.highlight/0000019b-503d-d02f-a7ff-d0ffd1340000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-12-25",
+          "magazine_date": "2025-12-26",
+          "title": "היא חשבה שגדלה בבית אמריקאי רגיל. יום אחד גילתה שסבא שלה היה מרגל נאצי",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-503d-d02f-a7ff-d0ffd1340000/3f/f1/6eb41091486a914cdc145deca442/186100.jpg?precrop=1505,875,x95,y308&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-12-25/ty-article-magazine/.highlight/0000019b-5078-d7a5-abbb-5afd8b8f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-12-25",
+          "magazine_date": "2025-12-26",
+          "title": "איך שומרים על איכות חיים בזיקנה? שאלו את פרופ' ברונו לוננפלד, רק בן 99",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-5078-d7a5-abbb-5afd8b8f0000/d7/2f/2f00d4b4494886958d1bbe257409/186306.jpg?precrop=1601,931,x0,y510&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-12-25/ty-article/.highlight/0000019b-5585-d2b2-affb-57efb2ab0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-12-25",
+          "magazine_date": "2025-12-26",
+          "title": "למה צופי ערוץ 14 מאושרים יותר מקוראי \"הארץ\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-5585-d2b2-affb-57efb2ab0000/1a/90/8e5ef78445379a9723c3859c099d/26-12-25-web.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-12-24/ty-article/.highlight/0000019b-4b27-df6b-a7db-ff378df70000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-12-24",
+          "magazine_date": "2025-12-26",
+          "title": "מיקי זוהר מציע 100 אלף שקל תמורת לחיצת יד. לא תקחי?",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-4b27-df6b-a7db-ff378df70000/e3/3f/6c93e3154195b0f601f1f4a9d58e/208156.jpg?precrop=1601,931,x0,y68&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-12-25/ty-article/.highlight/0000019b-4b36-df6b-a7db-ff37c4550000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-12-25",
+          "magazine_date": "2025-12-26",
+          "title": "המשבר עם החרדים עמוק וקיצוני יותר ממה שנהוג לחשוב. הוא לא ייפתר בחקיקה",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-4b36-df6b-a7db-ff37c4550000/5a/47/08607d7d4d97bd82a01e5c3ff2b8/318508.jpg?precrop=2400,1395,x0,y201&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-12-25/ty-article/.highlight/0000019b-54fb-d1ec-a59f-f5ff3aa60000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-12-25",
+          "magazine_date": "2025-12-26",
+          "title": "ראשון לציון היא העיר הממוצעת והמשעממת בעולם. זה בדיוק הקסם שלה",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-54fb-d1ec-a59f-f5ff3aa60000/d4/eb/da11675a4658ae4f2760eb673cae/rishon-1.jpg?precrop=1500,872,x0,y39&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-12-25/ty-article/.highlight/0000019b-54e9-d02f-a7ff-d4fba94e0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-12-25",
+          "magazine_date": "2025-12-26",
+          "title": "כולנו צריכים לחגוג את יום הולדתו של ישו, אבל גם ללמוד ממנו לקח",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-54e9-d02f-a7ff-d4fba94e0000/4d/54/b1307b114234b3be81199fb91e90/211261.jpg?precrop=2400,1395,x0,y47&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-12-25/ty-article-face/.highlight/0000019b-526d-d02f-a7ff-d2ff6a950000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-12-25",
+          "magazine_date": "2025-12-26",
+          "title": "חיים רומנו",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-526d-d02f-a7ff-d2ff6a950000/2a/39/4f9e02064b1e811523129f740426/208121.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-12-24/ty-article-magazine/.highlight/0000019b-5077-d6df-adbb-5fff09fa0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-12-24",
+          "magazine_date": "2025-12-26",
+          "title": "\"אני מתגעגעת אבל אני יודעת שעדיף לבת שלי כאן. יש פה שמים כחולים וחופש\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-5077-d6df-adbb-5fff09fa0000/cb/05/c9d40e2a416d8e4c96bcb615be14/64212585.JPG?precrop=7500,4360,x0,y338&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-12-24/ty-article/.highlight/0000019b-50a0-d02f-a7ff-d0fbc3660000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-12-24",
+          "magazine_date": "2025-12-26",
+          "title": "נוכלת פוליטית משווקת נכסים בפריים לוקיישן בריזורט בבת ים. קונים?",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-50a0-d02f-a7ff-d0fbc3660000/75/5e/bc82a53b42e1bfe2a916ebb2c8fe/shaked.jpg?precrop=489,284,x325,y309&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-12-25/ty-article-midrug/.highlight/0000019b-54cb-d904-a3bf-f5dbbc260000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-12-25",
+          "magazine_date": "2025-12-26",
+          "title": "טרור החנוכיות. פתאום שמענו פו",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-54cb-d904-a3bf-f5dbbc260000/b4/ee/076c3416489aaaa888fac41b4eeb/headline-4.jpg?precrop=2000,1162,x0,y428&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-12-25/ty-article-quotes/.highlight/0000019b-5272-df6b-a7db-f77719ce0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-12-25",
+          "magazine_date": "2025-12-26",
+          "title": "\"קודם רבין, אחר כך נתניהו\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-5272-df6b-a7db-f77719ce0000/3f/8e/f6d791f94c7bb04776c67d2b5b8c/537114.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-12-25/ty-article-20q/.highlight/0000019b-525f-d2b2-affb-567fc5980000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-12-25",
+          "magazine_date": "2025-12-26",
+          "title": "מי האדם היחיד בשם אוסקר שזכה אי פעם באוסקר?",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-525f-d2b2-affb-567fc5980000/0f/da/fd9933c1469eb9536df130a6676f/616271.jpg?precrop=2400,1395,x0,y97&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-12-25/ty-article-magazine/.highlight/0000019b-5532-d2b2-affb-577e319e0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-12-25",
+          "magazine_date": "2025-12-26",
+          "title": "הצצה נדירה לסמטאות הקטנות של טוקיו, ולסצינת האוכל המצוינת של המקומיים",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-5532-d2b2-affb-577e319e0000/58/50/c0130bea4a8a96f97a7aad4d2518/1.jpg?precrop=2100,1221,x0,y1145&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-12-25/ty-article-magazine/.premium/0000019b-5560-d866-abff-7f71cca70000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-12-25",
+          "magazine_date": "2025-12-26",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 26.12.2025",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-5560-d866-abff-7f71cca70000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-12-25/ty-article/.premium/0000019b-5561-d1ec-a59f-f5efcbcd0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-12-25",
+          "magazine_date": "2025-12-26",
+          "title": "פסגת מומבאי",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-5561-d1ec-a59f-f5efcbcd0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-12-25/ty-article/.premium/0000019b-5581-d866-abff-7ff12d180000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-12-25",
+          "magazine_date": "2025-12-26",
+          "title": "הכנסת אישרה חוק האוסר שכפול בני אדם",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-5581-d866-abff-7ff12d180000/b7/54/6ecfebec4e09a3604b394200b371/mefursamot.jpg?precrop=1250,727,x0,y1898&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-12-25/ty-article/.premium/0000019b-5659-d1ec-a59f-f7dfb10e0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-12-25",
+          "magazine_date": "2025-12-26",
+          "title": "\"ובכל זאת, יש אולי סיכוי לשלום\", כתב הדיפלומט שגורש ממלזיה לפני מותו",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-5659-d1ec-a59f-f7dfb10e0000/49/6e/d5ef95f54551811b91ab5c16b694/mosheye.jpg?precrop=1100,640,x25,y15&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2025-12-25/ty-article/.premium/0000019b-557e-d02f-a7ff-d5ff11660000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2025-12-25",
+          "magazine_date": "2025-12-26",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-557e-d02f-a7ff-d5ff11660000/c9/b8/91e24087452dbf8c30384a504f40/caro.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-12-24/ty-article/.highlight/0000019b-50d5-d02f-a7ff-d0df523c0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-12-24",
+          "magazine_date": "2025-12-26",
+          "title": "לא הייתי ממהר לזלזל בשושלת החשמונאית",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-50d5-d02f-a7ff-d0df523c0000/63/d5/3d96bac84d48936bfdb1e902ba72/kaminski2009-6495.jpg?precrop=2400,1395,x0,y14&width=1200&height=630&cmsprod"
+        }
+      ]
+    }
+  }
+}

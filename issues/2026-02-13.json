@@ -1,0 +1,328 @@
+{
+  "magazine_date": "2026-02-13",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/0000019c-4d17-d363-a3dd-efbf740f0001/8a/4e/c3349ed94e49b07f8bfa58b42a7b/shaar-9.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-02-11/ty-article/.highlight/0000019c-4d5f-db0d-a9bc-5ddff1810000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-02-11/ty-article/.highlight/0000019c-4d5f-db0d-a9bc-5ddff1810000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-02-11",
+          "magazine_date": "2026-02-13",
+          "title": "הדיונים על חוק ההוצאה להורג הבהירו לי שהמדינה הזאת איבדה את דרכה",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-4d5f-db0d-a9bc-5ddff1810000/d1/70/e164e97d40b796b50804c10d0bd6/13-2-26-web.jpg?&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-02-12/ty-article-magazine/.highlight/0000019c-4cba-d63c-abff-ddfedd1a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-02-12",
+          "magazine_date": "2026-02-13",
+          "title": "הוא ננטש על ידי אמו ונזרק מהפנימייה. היום הוא האיש הכי מפחיד באמריקה",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-4cba-d63c-abff-ddfedd1a0000/78/92/7495b5de47ae90984e957f8425e8/64677280.JPG?&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-02-12/ty-article-magazine/.highlight/0000019c-4cbb-d150-ab9f-debf3df40000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-02-12",
+          "magazine_date": "2026-02-13",
+          "title": "קיליאן ז'ורנט דוחק את הגוף לקצה. המוות אורב לו בכל פינה",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-4cbb-d150-ab9f-debf3df40000/cf/a6/73776d2b463cbd1bb6a5fed9031b/64657976.JPG?precrop=5505,3201,x0,y1124&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-02-12/ty-article-magazine/.highlight/0000019c-4cbb-d5d5-a5fc-fdbb425c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-02-12",
+          "magazine_date": "2026-02-13",
+          "title": "\"הייתי חדור זעם, כל מה שרציתי זה להרוג יהודים\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-4cbb-d5d5-a5fc-fdbb425c0000/d3/06/7c4c968141a7976e6764ad31b763/64655603.JPG?precrop=1471,855,x0,y228&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-02-11/ty-article/.highlight/0000019c-4cc9-d834-abbe-7fcf1d8f0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-02-11",
+          "magazine_date": "2026-02-13",
+          "title": "בלי להתכוון, בגינת הכלבים בטוסקנה מצאתי את עצמי עוסק בהסברה ישראלית",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-4cc9-d834-abbe-7fcf1d8f0000/bc/de/7a5f2fce417b852f4a9115b8a643/64667945.JPG?precrop=6000,3488,x0,y0&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-02-11/ty-article/.highlight/0000019c-4cdc-d150-ab9f-defee29f0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-02-11",
+          "magazine_date": "2026-02-13",
+          "title": "ג'ף בזוס נשבע להגן על חופש העיתונות. כעת הוא מחסל עיתון שלם במו ידיו",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-4cdc-d150-ab9f-defee29f0000/4e/83/c695f93147ccbe8ba7e21e529e9f/660213.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2026-02-11/ty-article/.highlight/0000019c-4cc4-d150-ab9f-def6034b0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2026-02-11",
+          "magazine_date": "2026-02-13",
+          "title": "גם לפרזנטציות המשעממות ביותר יש היסטוריה דרמטית",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-4cc4-d150-ab9f-def6034b0000/2f/5f/d32ce72746eaa8ed3edeb23f414f/64667047.JPG?precrop=6000,3488,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-02-11/ty-article/.highlight/0000019c-4c81-daf8-afbd-ffafc1210000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-02-11",
+          "magazine_date": "2026-02-13",
+          "title": "העירום נעלם מהמרחב הציבורי, והסיבות לכך עגומות",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-4c81-daf8-afbd-ffafc1210000/39/cd/336f698c46f8b850816c4879afc9/111.jpg?precrop=2000,1163,x0,y19&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-02-12/ty-article-face/.highlight/0000019c-4cf9-d5d5-a5fc-fdfb7ada0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-02-12",
+          "magazine_date": "2026-02-13",
+          "title": "\"סינוואר הגיע אלינו בהפתעה למנהרה. הוא היה צ'ארמר, ידע איך להיות נחמד\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-4cf9-d5d5-a5fc-fdfb7ada0000/d3/0f/e6de1305432b82de23020c6e2995/719520.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-02-11/ty-article-magazine/.highlight/0000019c-4ce2-d363-a3dd-eefe075e0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-02-11",
+          "magazine_date": "2026-02-13",
+          "title": "\"לגור בניו יורק ולעשות כסף? זה כל כך מגוחך\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-4ce2-d363-a3dd-eefe075e0000/16/47/44f807a74fb6b61c5c0fd487dcbc/543850.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2026-02-12/ty-article-magazine/.highlight/0000019c-4d26-d4f1-affc-7daf80ce0000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2026-02-12",
+          "magazine_date": "2026-02-13",
+          "title": "\"הרבה מהמחלות שאנחנו רואים היום הן תוצאה של המעבר להליכה על שתיים\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-4d26-d4f1-affc-7daf80ce0000/7e/01/ad1a70c04ff98077b03a1275819d/699016.jpg?precrop=1746,1015,x654,y588&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-02-11/ty-article/.highlight/0000019c-4d11-d363-a3dd-efbdb1d70000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-02-11",
+          "magazine_date": "2026-02-13",
+          "title": "למה חייך איזנקוט: על דקה ורבע חשובות במיוחד בראיון שנתן לרוני קובן",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-4d11-d363-a3dd-efbdb1d70000/55/e1/391f610d4f5899f9b6f39f559a45/64680430.JPG?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-02-11/ty-article-midrug/.highlight/0000019c-4e6d-d093-a7bd-6e6d775e0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-02-11",
+          "magazine_date": "2026-02-13",
+          "title": "האינדונזים באים. הסירו דאגה מלבכם",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-4e6d-d093-a7bd-6e6d775e0000/cc/db/997fd92d47099fbf950e2c45c47b/headline-9.jpg?precrop=2000,1163,x0,y432&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-02-12/ty-article/.highlight/0000019c-4d1b-d5d5-a5fc-fdbbe93c0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-02-12",
+          "magazine_date": "2026-02-13",
+          "title": "למה אל על העלו מחירים בזמן המלחמה?\n\"לא ידעתי שעלו המחירים\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-4d1b-d5d5-a5fc-fdbbe93c0000/cf/5b/0fcf5e8447f0a4693ae4eeb33c6c/27439.jpg?precrop=2083,1211,x139,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-02-11/ty-article-quotes/.highlight/0000019c-4e64-d150-ab9f-def6a87b0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-02-11",
+          "magazine_date": "2026-02-13",
+          "title": "\"מצפה מהתעשייה להבין שהדרך לתמוך בהסברה היא קמפיין לאיפור או טיפוח\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-4e64-d150-ab9f-def6a87b0000/0b/6c/e9a23393462e830ad2fe0dcffd96/406567.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-02-11/ty-article-20q/.highlight/0000019c-4e3f-d093-a7bd-6e7fe8a70000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-02-11",
+          "magazine_date": "2026-02-13",
+          "title": "המטבע של איזו מדינה הוא בעל הערך הנמוך ביותר בעולם כיום?",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-4e3f-d093-a7bd-6e7fe8a70000/aa/43/dee607b340fc9143f5d5660b5913/017162.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2026-02-11/ty-article-magazine/.highlight/0000019c-4d00-d4f1-affc-7d89b3f00000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2026-02-11",
+          "magazine_date": "2026-02-13",
+          "title": "פוקז' בבנגקוק היא מסעדה שמציעה חסד נדיר: מטבח מקומי שעשוי ביד אוהבת",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-4d00-d4f1-affc-7d89b3f00000/66/78/2fa705da488ba6a94f85be6caaa5/1.jpg?precrop=1860,1081,x0,y1156&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-02-12/ty-article-magazine/.premium/0000019c-519c-d093-a7bd-79fc55510000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-02-12",
+          "magazine_date": "2026-02-13",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 13.2.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-519c-d093-a7bd-79fc55510000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-02-12/ty-article/.premium/0000019c-51a4-dc30-a9de-d3fdf82a0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-02-12",
+          "magazine_date": "2026-02-13",
+          "title": "תקוות גדולות בנגב",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-51a4-dc30-a9de-d3fdf82a0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2026-02-12/ty-article/.premium/0000019c-51ab-d7ec-a5bf-51bb8add0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2026-02-12",
+          "magazine_date": "2026-02-13",
+          "title": "נחמן שי דרש להסיר התשדיר עם הילד שמחקה אותו",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-51ab-d7ec-a5bf-51bb8add0000/7e/fc/5f5a6f2d4f379597856a38afd76a/mefursamot.jpg?precrop=1250,727,x0,y630&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-02-12/ty-article/0000019c-5090-d5d5-a5fc-fdb260340000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-02-12",
+          "magazine_date": "2026-02-13",
+          "title": "\"משהו בתוכי ממשיך לחזור שוב ושוב: בשביל מה?\" רעיה הרניק, 2026-1933",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-5090-d5d5-a5fc-fdb260340000/05/52/c68cb99f4d67996f204a0f69dbd2/081336.jpg?precrop=1735,1009,x0,y233&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-02-13/ty-article/.premium/0000019c-55ee-d5d5-a5fc-fdeeeb8f0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-02-13",
+          "magazine_date": "2026-02-13",
+          "title": "ראש המל\"ל לשעבר תא\"ל במיל' דני ארדיטי מת בגיל 75",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-55ee-d5d5-a5fc-fdeeeb8f0000/0e/cd/43fc66dc46d08e387db410fbca94/danih.jpg?precrop=450,262,x0,y101&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-02-12/ty-article/.premium/0000019c-2dbb-de12-ab9e-adffd7960000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-02-12",
+          "magazine_date": "2026-02-13",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-2dbb-de12-ab9e-adffd7960000/de/b5/255eb8064f7fa6faca174d957b47/ribooa-musaf-663-new-new.jpg?precrop=1083,630,x0,y110&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-02-12/ty-article/.premium/0000019c-51a9-d7ec-a5bf-51bba5fb0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-02-12",
+          "magazine_date": "2026-02-13",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-51a9-d7ec-a5bf-51bba5fb0000/af/33/2682e3914fb6a0ded652c15a2433/ribooa-musaf-664.jpg?precrop=1083,630,x0,y211&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-02-12/ty-article/.highlight/0000019c-4d20-d150-ab9f-dfb62aae0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-02-12",
+          "magazine_date": "2026-02-13",
+          "title": "כשלא יודעים להתמודד, שולחים את הבריונים",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-4d20-d150-ab9f-dfb62aae0000/ff/a9/1362d7f745d3a1f0b759a9a24c5b/625235.jpg?precrop=2400,1395,x0,y172&width=1200&height=630&cmsprod"
+        }
+      ]
+    }
+  }
+}

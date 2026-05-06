@@ -1,0 +1,333 @@
+{
+  "magazine_date": "2025-02-14",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/00000194-f9f4-d00a-adfc-f9f756480001/1d/00/18e4849647f59ef1b1ebac6ccea2/shaar-4.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-02-13/ty-article-magazine/.highlight/00000194-f99a-d3a7-a1fc-f9fe52740000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-02-13/ty-article-magazine/.highlight/00000194-f99a-d3a7-a1fc-f9fe52740000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-02-13",
+          "magazine_date": "2025-02-14",
+          "title": "כולם עושים הרבה פחות סקס. למה אצל בנות 60-45 קורה דווקא ההיפך?",
+          "og_image": "https://img.haarets.co.il/bs/00000194-f99a-d3a7-a1fc-f9fe52740000/1c/31/b7fd53894db381cef3b79d932bc4/geyser-shituf.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-02-13/ty-article-magazine/.highlight/00000194-f9b8-dd66-a3b4-ffbea68f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-02-13",
+          "magazine_date": "2025-02-14",
+          "title": "\"אגרוף\", \"הייתי בועט בו\": משהו רע מאוד, אלים ממש, יצא פתאום מנתניהו",
+          "og_image": "https://img.haarets.co.il/bs/00000194-f9b8-dd66-a3b4-ffbea68f0000/cd/76/cfa248574008bdb19abefba59521/bibitestimony8day4.jpg?precrop=1573%2C915%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-02-13/ty-article-magazine/.highlight/00000194-f9cf-df1c-ad94-fbefafbc0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-02-13",
+          "magazine_date": "2025-02-14",
+          "title": "זוהי אזעקת אמת. גל טיהורים מתרחש בארה\"ב. טראמפ מבצע הפיכה על סטרואידים",
+          "og_image": "https://img.haarets.co.il/bs/00000194-f9cf-df1c-ad94-fbefafbc0000/d1/4a/48237b0640889d54f3274615967f/498768.jpg?precrop=2400%2C1396%2Cx0%2Cy126&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-02-13/ty-article/.highlight/00000194-ff03-db1f-a5dd-ff8343340000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-02-13",
+          "magazine_date": "2025-02-14",
+          "title": "התנהגותם של ביבי ושרה שוללת סופית את האפשרות שיש דבר כזה לב יהודי",
+          "og_image": "https://gif.haarets.co.il/bs/00000194-ff03-db1f-a5dd-ff8343340000/b0/8e/3e65b462409f924da8a41ed29a6a/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-02-12/ty-article-magazine/.highlight/00000194-fa76-d00a-adfc-faf732800000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-02-12",
+          "magazine_date": "2025-02-14",
+          "title": "ידיעת הזהב הגיעה, אך המודיעין הנאצי התעקש: האניגמה לא נפרצה",
+          "og_image": "https://img.haarets.co.il/bs/00000194-fa76-d00a-adfc-faf732800000/7e/10/6a4a783c4b1395112b6daec4dfa2/german-submarine-u-515-afire-and-sinking-on-9-april-1944-80-g-227198.jpg?precrop=2338%2C1359%2Cx0%2Cy492&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-02-12/ty-article/.highlight/00000194-fa39-df1c-ad94-fb3fdfb20000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-02-12",
+          "magazine_date": "2025-02-14",
+          "title": "טילים נוחתים לנו על הראש, ואנחנו מתפעלים מהטכנולוגיה",
+          "og_image": "https://img.haarets.co.il/bs/00000194-fa39-df1c-ad94-fb3fdfb20000/cd/a2/342394c4486bb33027462d5673e0/613116.jpg?precrop=2400%2C1395%2Cx0%2Cy52&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2025-02-12/ty-article/00000194-fa86-df1c-ad94-fbae1f810000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2025-02-12",
+          "magazine_date": "2025-02-14",
+          "title": "תכשיט, שפה או שן חדה: המילה שלא החליטה מה היא רוצה להיות",
+          "og_image": "https://img.haarets.co.il/bs/00000194-fa86-df1c-ad94-fbae1f810000/17/f1/740a8b5e43c0a13c260b97e59e95/516366.jpg?precrop=1967%2C1143%2Cx146%2Cy464&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-02-12/ty-article/.highlight/00000194-fa6d-dd66-a3b4-ffff320a0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-02-12",
+          "magazine_date": "2025-02-14",
+          "title": "אחרי שכבר ניסה הכל, השמאל יצטרך לאמץ שיטה חדשה: להתחנן לרחמים",
+          "og_image": "https://img.haarets.co.il/bs/00000194-fa6d-dd66-a3b4-ffff320a0000/76/05/e5ca655c4d1d9eefb8405974f5e7/60420164.JPG?precrop=4956%2C2880%2Cx0%2Cy211&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-02-12/ty-article-face/.highlight/00000194-f9a7-db1f-a5dd-f9a7a4be0002",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-02-12",
+          "magazine_date": "2025-02-14",
+          "title": "אביגיל אריאלי: \"אני עוד חולמת על משחק ומרגישה החמצה על קריירה שאולי לא מימשתי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000194-f9a7-db1f-a5dd-f9a7a4be0002/f5/19/f9f27269439e849057933b22517f/528471.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-02-13/ty-article-magazine/.highlight/00000194-fa5f-db1f-a5dd-fadf4b1b0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-02-13",
+          "magazine_date": "2025-02-14",
+          "title": "\"אני חילונית מהשומרון. פה ושם זורקים אבן, אבל האוויר והירוק מדהימים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000194-fa5f-db1f-a5dd-fadf4b1b0000/6a/7d/f2b99c8d48c4a9d1d2e8c4cb35ba/60403468.JPG?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2025-02-13/ty-article-magazine/.highlight/00000194-fa67-d3a7-a1fc-fb6f19a60000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2025-02-13",
+          "magazine_date": "2025-02-14",
+          "title": "\"חיילים חוזרים הביתה, והאמהות שלהם מפחדות מהם\"",
+          "og_image": "https://img.haarets.co.il/bs/00000194-fa67-d3a7-a1fc-fb6f19a60000/0f/9e/7453be024c9f9d607b619cb3e3cb/60419565.JPG?precrop=7476%2C4347%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-02-13/ty-article/.highlight/00000194-fe0d-dd66-a3b4-ffbfa4550000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-02-13",
+          "magazine_date": "2025-02-14",
+          "title": "5 דקות של ריב חתולים עסיסי ברדיו חושפות: הביביזם נמצא ברגעיו האחרונים",
+          "og_image": "https://img.haarets.co.il/bs/00000194-fe0d-dd66-a3b4-ffbfa4550000/ee/a0/ac7ec13148f2bbd6b30fbf4f70d1/bard.png?precrop=933%2C542%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-02-13/ty-article-magazine/.highlight/00000194-fec7-df1c-ad94-ffef4d7a0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-02-13",
+          "magazine_date": "2025-02-14",
+          "title": "יצחק עמית מושבע לנשיא העליון. מי שמכיר מכיר",
+          "og_image": "https://img.haarets.co.il/bs/00000194-fec7-df1c-ad94-ffef4d7a0000/dc/41/cd25ebe6432db1f4017d9217bc8c/headline.jpg?precrop=2000%2C1162%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-02-12/ty-article/.highlight/00000194-f9fd-d00a-adfc-f9ff1db60000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-02-12",
+          "magazine_date": "2025-02-14",
+          "title": "ד\"ר, אתה אומר שהפרוטוקולים של זקני ציון זה נכון? \"כן, לא מתבייש בזה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000194-f9fd-d00a-adfc-f9ff1db60000/54/58/1af8b5b64b3a89a1bf2174c235db/60434490.JPG?precrop=750%2C436%2Cx0%2Cy176&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-02-11/ty-article-magazine/.highlight/00000194-db4f-d6d4-a3d6-ffef8e6d0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-02-11",
+          "magazine_date": "2025-02-14",
+          "title": "\"מאי גולן מאוד מקשיבה לתכנים שלי בנושא שמירת הלשון\"",
+          "og_image": "https://img.haarets.co.il/bs/00000194-db67-d390-a1b6-ffe736bd0000/c3/50/2ae8b3a24475b62acd349d86a4b1/180886.jpg?height=630&width=1200&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-02-12/ty-article-20q/.highlight/00000194-f99e-dd66-a3b4-ffbea5d00000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-02-12",
+          "magazine_date": "2025-02-14",
+          "title": "באיזה מקום דורג נתניהו בדירוג הפוליטיקאים העשירים בישראל ב-2019?",
+          "og_image": "https://img.haarets.co.il/bs/00000194-f99e-dd66-a3b4-ffbea5d00000/40/db/60f12d3a4969933f52575cf4e526/472641.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-02-12/ty-article-magazine/.highlight/00000194-fa23-dd66-a3b4-ffbf41cf0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-02-12",
+          "magazine_date": "2025-02-14",
+          "title": "מגלף החלומות: השווארמה החדשה של אחד השפים הטובים בארץ",
+          "og_image": "https://img.haarets.co.il/bs/00000194-fa23-dd66-a3b4-ffbf41cf0000/68/75/23cdbaa242ebae86d98fd75d8a8c/2.jpg?precrop=1428%2C830%2Cx0%2Cy564&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-02-13/ty-article-magazine/.premium/00000194-febc-dd66-a3b4-ffbef2bc0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-02-13",
+          "magazine_date": "2025-02-14",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 14.2.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000194-febc-dd66-a3b4-ffbef2bc0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-02-13/ty-article/00000194-feb5-db1f-a5dd-feb52ad90000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-02-13",
+          "magazine_date": "2025-02-14",
+          "title": "אשדוד בצמרת",
+          "og_image": "https://img.haarets.co.il/bs/00000194-feb5-db1f-a5dd-feb52ad90000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-02-13/ty-article/.premium/00000194-fec3-d00a-adfc-fed751a50000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-02-13",
+          "magazine_date": "2025-02-14",
+          "title": "התעלמות מנושא השבי",
+          "og_image": "https://img.haarets.co.il/bs/00000194-fec3-d00a-adfc-fed751a50000/4b/6c/d2919fe444049b78ed53ea09f4f9/mefursamot.jpg?precrop=1250%2C727%2Cx0%2Cy788&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-02-14/ty-article/00000195-02be-d069-abdd-c2bfbb030000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-02-14",
+          "magazine_date": "2025-02-14",
+          "title": "\"כאן יכולתי להילחם על חירותי\": השוטר יעקב נודלמן נפטר בגיל 101",
+          "og_image": "https://img.haarets.co.il/bs/00000195-02be-d069-abdd-c2bfbb030000/12/6c/668ae5df40818ff248ad02a6272a/69426195-2846820228679851-7712358956793856000-n.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-02-13/ty-article/.premium/00000194-fec4-dd66-a3b4-fffeb1fe0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-02-13",
+          "magazine_date": "2025-02-14",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000194-fec4-dd66-a3b4-fffeb1fe0000/1e/7d/036413384b53865e935c6f19f86c/ribooa-musaf-612.jpg?precrop=1083%2C630%2Cx0%2Cy447&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-02-13/ty-article/.highlight/00000194-fe0f-d00a-adfc-fedf8fab0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-02-13",
+          "magazine_date": "2025-02-14",
+          "title": "אז מה היה בעצם במסאפר יטא ב-1980?",
+          "og_image": "https://img.haarets.co.il/bs/00000194-fe0f-d00a-adfc-fedf8fab0000/cb/b5/835e5ea84691bc8101aabbf63b4d/795681.jpg?precrop=2400%2C1395%2Cx0%2Cy37&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

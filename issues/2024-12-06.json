@@ -1,0 +1,333 @@
+{
+  "magazine_date": "2024-12-06",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/00000193-9395-d408-a7d3-bbdd9abc0001/b1/b3/629107ef4de0b54545a5c33849bc/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-12-04/ty-article-magazine/.highlight/00000193-9147-d408-a7d3-bbdf5a2a0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-04/ty-article-magazine/.highlight/00000193-9147-d408-a7d3-bbdf5a2a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-04",
+          "magazine_date": "2024-12-06",
+          "title": "דידי מנוסי היה סאטיריקן בוהמיין ומתירני. בנו הלך הכי רחוק שאפשר",
+          "og_image": "https://img.haarets.co.il/bs/00000193-9147-d408-a7d3-bbdf5a2a0000/c0/62/63eb0d434fb78832d54b326ec369/59542700.JPG?precrop=4317%2C2510%2Cx0%2Cy2211&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-04/ty-article-magazine/.highlight/00000193-916e-d408-a7d3-bbff28200000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-04",
+          "magazine_date": "2024-12-06",
+          "title": "למה אף אחד לא סיפר לנו שצריך לשים דאודורנט בלילה ולא בבוקר?",
+          "og_image": "https://img.haarets.co.il/bs/00000193-916e-d408-a7d3-bbff28200000/b2/f9/ada307ac4f6f8f8139441af6c180/792122.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-05/ty-article-magazine/.highlight/00000193-915a-d2e5-a9b3-bd5eec520000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-05",
+          "magazine_date": "2024-12-06",
+          "title": "התושבים מגורשים. שר בכיר קורא לדילול האוכלוסייה. כך נראה טיהור אתני",
+          "og_image": "https://img.haarets.co.il/bs/00000193-915a-d2e5-a9b3-bd5eec520000/52/39/a129c3134f50b82a8681c98d2855/59589792.JPG?precrop=5045%2C2931%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-05/ty-article-magazine/.highlight/00000193-916d-d006-a7d3-db7d98cc0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-05",
+          "magazine_date": "2024-12-06",
+          "title": "היסטוריון אסף אלפי ראיות לפשעי מלחמה בעזה. התמונה שמתקבלת מחרידה",
+          "og_image": "https://gif.haarets.co.il/bs/00000193-916d-d006-a7d3-db7d98cc0000/8b/5b/28d0808643beaab5cbc72cb73266/war-crimes-homepage-1.gif?precrop=769%2C447%2Cx148%2Cy88&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-05/ty-article-magazine/.highlight/00000193-9180-d930-afb3-d5805dcd0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-05",
+          "magazine_date": "2024-12-06",
+          "title": "צמחונית וחיה על העצים: מה ידוע על אמנו הקדמונית שחיה לפני 3 מיליון שנה",
+          "og_image": "https://img.haarets.co.il/bs/00000193-9180-d930-afb3-d5805dcd0000/1b/af/d44ff0914c96927f0ca068ceeb6a/59604452.JPG?precrop=1132%2C658%2Cx0%2Cy43&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-05/ty-article-magazine/.highlight/00000193-93ad-d794-a3ff-dbed694b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-05",
+          "magazine_date": "2024-12-06",
+          "title": "כל כך מעט צריך | שיר מאת דויד גרוסמן",
+          "og_image": "https://img.haarets.co.il/bs/00000193-93ad-d794-a3ff-dbed694b0000/49/a7/48ab725148f18e96522c360e0d17/861219.jpg?precrop=2400%2C1395%2Cx0%2Cy206&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-12-04/ty-article-magazine/.highlight/00000193-927b-d2e5-a9b3-be7f66800000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-12-04",
+          "magazine_date": "2024-12-06",
+          "title": "המינויים של טראמפ בלתי נתפסים. בוושינגטון מתרחשת רעידת אדמה",
+          "og_image": "https://img.haarets.co.il/bs/00000193-927b-d2e5-a9b3-be7f66800000/41/29/e2081c0e47de967c5449137ca3f5/59589789.JPG?precrop=4057%2C2359%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-12-04/ty-article/.highlight/00000193-91d7-d408-a7d3-bbdfac7c0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-12-04",
+          "magazine_date": "2024-12-06",
+          "title": "מוסריות הצבא נמדדת במדד בולט אחד. במבחן הזה, צה\"ל נכשל",
+          "og_image": "https://img.haarets.co.il/bs/00000193-91d7-d408-a7d3-bbdfac7c0000/6d/fe/99f94bfc4d448f24ef1c82ae2df9/59605281.JPG?precrop=1824%2C1060%2Cx0%2Cy45&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-12-04/ty-article/.highlight/00000193-91ed-d408-a7d3-bbfd4dee0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-12-04",
+          "magazine_date": "2024-12-06",
+          "title": "כשהוא כתוב בשיר, גם מתכון לסלט יכול לקרוע את הלב",
+          "og_image": "https://img.haarets.co.il/bs/00000193-91ed-d408-a7d3-bbfd4dee0000/0d/c9/417713e2483aba54f314d2b70c1e/49973450.JPG?precrop=5008%2C2912%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2024-12-04/ty-article/.highlight/00000193-91bd-dfe8-a5db-fbfd07380000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2024-12-04",
+          "magazine_date": "2024-12-06",
+          "title": "המילה אַשְׁכָּרָה נדדה בכל העולם. בעברית נוספה לה משמעות מיוחדת",
+          "og_image": "https://img.haarets.co.il/bs/00000193-91bd-dfe8-a5db-fbfd07380000/10/1b/296f05374b1486146379b5d19d91/646386.jpg?precrop=2400%2C1395%2Cx0%2Cy28&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-12-05/ty-article/.highlight/00000193-91c4-d273-ab9f-dffff4400000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-12-05",
+          "magazine_date": "2024-12-06",
+          "title": "העולם משתנה באופן רדיקלי, וגם אנחנו נצטרך להשתנות",
+          "og_image": "https://img.haarets.co.il/bs/00000193-91c4-d273-ab9f-dffff4400000/ef/04/e2f4ee8e42d7a3fe3f92fe969b7d/651986.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-12-04/ty-article-face/.highlight/00000193-913b-d273-ab9f-df7b07d70002",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-12-04",
+          "magazine_date": "2024-12-06",
+          "title": "מאיה ראכלין",
+          "og_image": "https://img.haarets.co.il/bs/00000193-913b-d273-ab9f-df7b07d70002/1b/8a/f60a4d1849419aff024dbbbfb445/782689.jpg?precrop=2400%2C1395%2Cx0%2Cy19&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-12-04/ty-article-magazine/.highlight/00000193-92ae-d273-ab9f-dfffc91e0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-12-04",
+          "magazine_date": "2024-12-06",
+          "title": "\"צרפתים הם לפעמים סגורים. ישראלים אוהבים חידושים, סקרנים ולא מפחדים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-92ae-d273-ab9f-dfffc91e0000/1d/03/2582acc44a7c8959cd08290f2530/59589833.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-12-04/ty-article/.highlight/00000193-923e-d006-a7d3-da3f6dc40000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-12-04",
+          "magazine_date": "2024-12-06",
+          "title": "למה ג'ו ביידן צודק בכך שחנן את בנו האנטר",
+          "og_image": "https://img.haarets.co.il/bs/00000193-923e-d006-a7d3-da3f6dc40000/04/d1/7d13fc964e44a5698fb55baeff1a/59607358.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-12-05/ty-article-magazine/.highlight/00000193-9640-d794-a3ff-dfcd68310000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-12-05",
+          "magazine_date": "2024-12-06",
+          "title": "חילופי האש בצפון. איפה המחויבות לפורמט?",
+          "og_image": "https://img.haarets.co.il/bs/00000193-9640-d794-a3ff-dfcd68310000/ef/82/fd4de4fa44c1bd243a2bead26ac0/headline.jpg?precrop=2000%2C1163%2Cx0%2Cy714&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-12-04/ty-article/.highlight/00000193-9222-dac2-add3-b76a1f670000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-12-04",
+          "magazine_date": "2024-12-06",
+          "title": "למה ביטלו לך הרצאה במרכז האקדמי פרס?\n\"רצון לסתום פיות\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-9222-dac2-add3-b76a1f670000/f8/53/818eaf7e4e748ce2a65f143c0fd9/59589842.JPG?precrop=6546%2C3806%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-12-04/ty-article-magazine/.highlight/00000193-934b-d273-ab9f-df7bccfa0002",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-12-04",
+          "magazine_date": "2024-12-06",
+          "title": "\"החטופים עוד לא חוזרים, אבל כוכבי הפסטיגל דווקא כן\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-9354-d6ba-afdb-9bfc346a0000/21/8e/d59af4cb45a1bb13b648605843ed/684836.jpg?precrop=1836,1068,x267,y64&height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-12-04/ty-article-20q/.highlight/00000193-9124-d006-a7d3-db358f670000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-12-04",
+          "magazine_date": "2024-12-06",
+          "title": "בין אילו שתי מדינות פרצה מלחמה בעקבות תקרית גשר מרקו פולו?",
+          "og_image": "https://img.haarets.co.il/bs/00000193-9124-d006-a7d3-db358f670000/38/89/66b8b083457589b2a7690dbad1d0/030962.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2024-12-04/ty-article-20q/.free/00000193-912f-d006-a7d3-db3fd0180000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2024-12-04",
+          "magazine_date": "2024-12-06",
+          "title": "20 שאלות לילדים ולילדות: כמה מהשטח של כדור הארץ מכוסה מים (באחוזים)?",
+          "og_image": "https://img.haarets.co.il/bs/00000193-912f-d006-a7d3-db3fd0180000/68/e7/dca32d2c4170980f2a19d801989c/701546.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-12-05/ty-article-magazine/.premium/00000193-9632-d006-a7d3-de375f450000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-12-05",
+          "magazine_date": "2024-12-06",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 6.12.2024",
+          "og_image": "https://img.haarets.co.il/bs/00000193-9632-d006-a7d3-de375f450000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-12-05/ty-article/.premium/00000193-9624-d6ba-afdb-9fbcad470000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-12-05",
+          "magazine_date": "2024-12-06",
+          "title": "קרבות בסינגפור",
+          "og_image": "https://img.haarets.co.il/bs/00000193-9624-d6ba-afdb-9fbcad470000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-12-06/ty-article/00000193-9ab2-ddde-addb-fab668150000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-12-06",
+          "magazine_date": "2024-12-06",
+          "title": "האיש שהכניס את ארכיון המדינה לעידן הדיגיטלי",
+          "og_image": "https://img.haarets.co.il/bs/00000193-9ab2-ddde-addb-fab668150000/d5/30/cc018bca04fe68d0344a8e716222/670546318.jpg?precrop=2172%2C1262%2Cx28%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-12-05/ty-article/.premium/00000193-9637-d408-a7d3-bfff38d70000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-12-05",
+          "magazine_date": "2024-12-06",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000193-9637-d408-a7d3-bfff38d70000/15/92/9599a3374c06a5fe5e6185dfc5ff/ribooa-musaf-602.jpg?precrop=1083%2C630%2Cx0%2Cy73&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-12-04/ty-article/.highlight/00000193-923e-d408-a7d3-bbffbf290000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-12-04",
+          "magazine_date": "2024-12-06",
+          "title": "לפקד על טנק אתן יודעות, ולהדוף גבר מטרידן - לא?",
+          "og_image": "https://img.haarets.co.il/bs/00000193-923e-d408-a7d3-bbffbf290000/16/0e/092a0e684be3bfe5d85e9ecbe016/780138-2.jpg?precrop=2400%2C1395%2Cx0%2Cy52&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

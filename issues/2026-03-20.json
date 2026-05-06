@@ -1,0 +1,309 @@
+{
+  "magazine_date": "2026-03-20",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/0000019d-00d5-df92-a9df-e9d5efad0001/30/6d/f0dff8bd4b9d9aff3bf42b0f392f/shaar-12.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-03-18/ty-article-magazine/.highlight/0000019c-fbe7-df92-a9df-fbe734b70000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-03-18/ty-article-magazine/.highlight/0000019c-fbe7-df92-a9df-fbe734b70000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-03-18",
+          "magazine_date": "2026-03-20",
+          "title": "\"התאהבתי במיכל עד מעל לראש ולא חשבתי על ההשלכות. באיראן בטח יתלו אותי\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-fbe7-df92-a9df-fbe734b70000/f6/58/17026f064e17a559ff871f12aad9/282305.jpg?precrop=1074,625,x129,y1277&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-03-18/ty-article-magazine/.highlight/0000019c-ffb6-df92-a9df-fff6b9b60000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-03-18",
+          "magazine_date": "2026-03-20",
+          "title": "40 שנה לתעלומה: האם רשת סודית שפעלה באירופה מעורבת ברצח ראש ממשלה?",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-ffb6-df92-a9df-fff6b9b60000/1c/64/823a48a240ac987eddf0f9bafd52/175202.jpg?precrop=1586,922,x0,y1029&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-03-18/ty-article-magazine/.highlight/0000019c-ffbb-da5c-a3bc-ffbbe9610000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-03-18",
+          "magazine_date": "2026-03-20",
+          "title": "למה להסתפק בכוס אחת? בארה\"ב שותים דלי קפה עם חמש מנות אספרסו",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-ffbb-da5c-a3bc-ffbbe9610000/5f/db/99c6d5e84160bb385cf8c57ae9ed/coffeebucket-shituf.jpg?&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-03-18/ty-article-magazine/.highlight/0000019c-ffc1-df92-a9df-ffc176640000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-03-18",
+          "magazine_date": "2026-03-20",
+          "title": "כך הפכה ראשון לציון לחממה של זנות במסווה של מכוני ספא",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-ffc1-df92-a9df-ffc176640000/26/3e/99b9dd86471488df26e6ae88ba53/288173.jpg?precrop=2321,1349,x0,y746&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-03-18/ty-article/.highlight/0000019d-012b-df92-a9df-e9eb343f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-03-18",
+          "magazine_date": "2026-03-20",
+          "title": "על הקשר בין אלכוהוליזם לבין המלחמה של טראמפ באיראן",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-012b-df92-a9df-e9eb343f0000/ca/ff/d0ffe1ca4bcb98d88d33aa758f5f/65066676.JPG?&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-03-19/ty-article/.highlight/0000019d-0587-df92-a9df-edc729570000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-03-19",
+          "magazine_date": "2026-03-20",
+          "title": "הכרתי לא מעט אנשים שקרנים בחיי, אבל נתניהו וטראמפ הם הגדולים ביותר",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-0587-df92-a9df-edc729570000/f5/bc/5ff85cbc495ba26093c228ad42de/20-3-26-web.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-03-18/ty-article/.highlight/0000019d-00a3-d386-a5ff-40b3ef5e0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-03-18",
+          "magazine_date": "2026-03-20",
+          "title": "מהפכת ה-AI עלולה לגזול מהרשת את ההנאה האהובה ביותר: ללכת לאיבוד",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-00a3-d386-a5ff-40b3ef5e0000/a8/b4/9c768e0a479abef0a2ecf9fe6f30/00226790.jpg?precrop=2400,1395,x0,y190&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-03-18/ty-article/.highlight/0000019d-0110-d088-a5fd-b319ea940000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-03-18",
+          "magazine_date": "2026-03-20",
+          "title": "בחסות המלחמה, בימין מקדמים קמפיין להרחבת גבולות המדינה והתנחלות בלבנון",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-0110-d088-a5fd-b319ea940000/1f/9d/3745065f423cbaad634c09bac13c/photo-2024-09-23-22-41-33-1024x576.jpg?precrop=991,576,x0,y0&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-03-18/ty-article/.highlight/0000019d-0132-d46f-affd-91be90580000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-03-18",
+          "magazine_date": "2026-03-20",
+          "title": "המשיחיות, חכמי הדת ותחושת הנרדפות: לשיעים וליהודים יש מורשת משותפת",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-0132-d46f-affd-91be90580000/1b/05/43afad0e42a89925b1f52eca364f/238968.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-03-18/ty-article/.highlight/0000019d-00dd-da5c-a3bd-0edf43a30000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-03-18",
+          "magazine_date": "2026-03-20",
+          "title": "המלחמה חושפת את האמת  של ההוויה הישראלית: לא חיים, מלחמה",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-00dd-da5c-a3bd-0edf43a30000/96/f1/6a644fde435182779e3488cf4ae4/291615.jpg?precrop=2400,1396,x0,y105&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-03-19/ty-article-face/.highlight/0000019d-045f-da5c-a3bd-0e5f016d0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-03-19",
+          "magazine_date": "2026-03-20",
+          "title": "מאיה קוסובר",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-045f-da5c-a3bd-0e5f016d0000/56/00/cc7b536745d9b04d4bfbb9f46937/297974.jpg?precrop=2400,1395,x0,y56&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-03-18/ty-article-magazine/.highlight/0000019d-00be-d088-a5fd-b2bf262c0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-03-18",
+          "magazine_date": "2026-03-20",
+          "title": "\"אין שם כלום. קליפה. ואז אתה חוזר לפה, יש שמש. אנשים נחמדים. איזה טיל\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-00be-d088-a5fd-b2bf262c0000/11/1a/7a8b9a784ff99878c49efcdf2662/65036103.JPG?precrop=7208,4191,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-03-18/ty-article/.highlight/0000019d-0147-da5c-a3bd-0f470c7b0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-03-18",
+          "magazine_date": "2026-03-20",
+          "title": "זה דבר משמעותי. מאוד משמעותי. הכי משמעותי",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-0147-da5c-a3bd-0f470c7b0000/83/c5/6e289f6d48f2bf9c5637040670cc/299151.jpg?precrop=1810,1052,x248,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-03-19/ty-article-midrug/.highlight/0000019d-05dc-d46f-affd-95de6e580000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-03-19",
+          "magazine_date": "2026-03-20",
+          "title": "הבינה המלאכותית בשירות גילה גמליאל. פשוט A",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-05dc-d46f-affd-95de6e580000/73/f2/c28c367f41ef9edc039df710fa8a/headline-12.jpg?precrop=2000,1163,x0,y35&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-03-19/ty-article/.highlight/0000019d-014f-d868-afdd-dddf918a0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-03-19",
+          "magazine_date": "2026-03-20",
+          "title": "למה הבניין של חברת מקורות מוקף בדגלי ארה\"ב?\n\"השותפות מאפשרת לנו להמשיך לתפקד\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-014f-d868-afdd-dddf918a0000/a6/c5/d71ec4bb4116b72161bfec161aed/65059654.JPG?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-03-19/ty-article-quotes/.highlight/0000019d-0463-d46f-affd-94ffc6aa0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-03-19",
+          "magazine_date": "2026-03-20",
+          "title": "\"אנחנו סומכים קודם כל על הקדוש ברוך הוא, ואחר כך על הצבא שלנו\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-0463-d46f-affd-94ffc6aa0000/b0/64/bbc790594502a4db55cf76a2976d/094943.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-03-18/ty-article-20q/.highlight/0000019c-fbdd-d69b-a3bc-ffff978e0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-03-18",
+          "magazine_date": "2026-03-20",
+          "title": "איזה ניצחון מציין שער הניצחון בפריז?",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-fbdd-d69b-a3bc-ffff978e0000/48/59/e63c2f274802b1a3602f929223db/801286.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2026-03-18/ty-article-magazine/.highlight/0000019d-0163-da2a-a1bd-4373eabf0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2026-03-18",
+          "magazine_date": "2026-03-20",
+          "title": "\"הפער גדל. אנשים לא רוצים בכלל לשמוע את המילה ערבי\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-0163-da2a-a1bd-4373eabf0000/fc/f6/7be95f7d4688bd2c084618e3cf4d/1.jpg?precrop=1428,830,x0,y454&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-03-19/ty-article-magazine/.premium/0000019d-0640-df92-a9df-efc0a4c60000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-03-19",
+          "magazine_date": "2026-03-20",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 20.3.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-0640-df92-a9df-efc0a4c60000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2026-03-19/ty-article/.premium/0000019d-0658-d088-a5fd-b65931660000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2026-03-19",
+          "magazine_date": "2026-03-20",
+          "title": "המלחמה לא תכונן דמוקרטיה",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-0658-d088-a5fd-b65931660000/55/d2/0123ed19473982c010e8575d213a/mefursamot.jpg?precrop=1250,727,x0,y346&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-03-19/ty-article/0000019d-058b-df92-a9df-edcb62b20000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-03-19",
+          "magazine_date": "2026-03-20",
+          "title": "ב-1956 קיבל צל\"ש. בששת הימים - את עיטור העוז. השבוע מת אשר דר בן 94",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-058b-df92-a9df-edcb62b20000/7b/5e/055214614c4b8711e6adc1a479d0/d307-078.jpg?precrop=3072,1785,x0,y213&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2026-03-19/ty-article/.premium/0000019d-0633-d46f-affd-96bf38860000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2026-03-19",
+          "magazine_date": "2026-03-20",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-0633-d46f-affd-96bf38860000/bf/a3/f289cde44f79b2fbfd54ac9c4806/car.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-03-19/ty-article/.premium/0000019d-065a-da5c-a3bd-0e5ad0a20000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-03-19",
+          "magazine_date": "2026-03-20",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-065a-da5c-a3bd-0e5ad0a20000/01/0b/79f0119445049e1ee012c83717fb/ribooa-musaf-669.jpg?precrop=1083,630,x0,y168&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-03-18/ty-article/.highlight/0000019d-0158-d46f-affd-91deb3ce0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-03-18",
+          "magazine_date": "2026-03-20",
+          "title": "יש לנו מה ללמוד מאיראן על שילוב דת ולימודי ליבה",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-0158-d46f-affd-91deb3ce0000/eb/06/8c0ee34b4a4ca522873f994f4c29/295040.jpg?precrop=1761,1024,x0,y343&width=1200&height=630&cmsprod"
+        }
+      ]
+    }
+  }
+}

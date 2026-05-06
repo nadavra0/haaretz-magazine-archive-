@@ -1,0 +1,291 @@
+{
+  "magazine_date": "2026-03-13",
+  "total_articles": 22,
+  "cover_image": "https://img.haarets.co.il/bs/0000019c-ddb7-dc10-abdc-dff7a2530001/d2/bc/1279d0a8483ca7433e5d54e730e0/shaar-11.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-03-11/ty-article-magazine/.highlight/0000019c-db98-d9b7-a5fd-dfda78bc0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-03-11/ty-article-magazine/.highlight/0000019c-db98-d9b7-a5fd-dfda78bc0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-03-11",
+          "magazine_date": "2026-03-13",
+          "title": "הרמזים מובילים למסקנה חותכת: גרמניה מימנה בחשאי את הכור בדימונה",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-db98-d9b7-a5fd-dfda78bc0000/e6/2a/fa682d164fa5a530b2fe0d382a91/615573.jpg?precrop=2400,1395,x0,y33&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-03-11/ty-article-magazine/.highlight/0000019c-dba9-d24b-a5df-dff9ce0c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-03-11",
+          "magazine_date": "2026-03-13",
+          "title": "מצאתי מקלט מהאזעקות במבנה בוץ ב-500 שקל ללילה",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-dba9-d24b-a5df-dff9ce0c0000/02/a6/913a01c244f896c4c02711ab4685/140731.jpg?precrop=2400,1395,x0,y21&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-03-11/ty-article/.highlight/0000019c-dd17-d3d8-afdf-fd3f1ef10000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-03-11",
+          "magazine_date": "2026-03-13",
+          "title": "למה אנשים החמיאו לי אחרי שדירתי נפגעה במטח הטילים",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-dd17-d3d8-afdf-fd3f1ef10000/47/3c/f10d2c844029b95eae16d7ad20d7/13-3-26-web.jpg?&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-03-12/ty-article-magazine/.highlight/0000019c-db85-d24b-a5df-dfdd525f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-03-12",
+          "magazine_date": "2026-03-13",
+          "title": "אנחנו חושבים שאנחנו מבינים מה רואים בתמונות האלה. אנחנו לא",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-db85-d24b-a5df-dfdd525f0000/64/65/f4b02c8541838802b44dede082f3/mushrooms-shituf.jpg?&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-03-12/ty-article-magazine/.highlight/0000019c-dbb2-d9b7-a5fd-dffa1ebd0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-03-12",
+          "magazine_date": "2026-03-13",
+          "title": "הוא אדם חסר רחמים ופילוסוף מבריק. מי היה עלי לאריג'אני, האיש החזק באיראן",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-dbb2-d9b7-a5fd-dffa1ebd0000/c1/9f/7cc18d4f403999d458e97d733e17/larigiani-promotionwhitebackground.png?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-03-11/ty-article/.highlight/0000019c-dd11-d3d8-afdf-fd3b59d00000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-03-11",
+          "magazine_date": "2026-03-13",
+          "title": "המלחמה שברה את הטאבו, ובימין האמריקאי מדברים בגלוי על התנערות מישראל",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-dd11-d3d8-afdf-fd3b59d00000/69/32/e03e0c074641bda73681dfb81237/64980294.JPG?precrop=6500,3779,x0,y0&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-03-12/ty-article-magazine/.highlight/0000019c-e167-d24b-a5df-efffdae90000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-03-12",
+          "magazine_date": "2026-03-13",
+          "title": "מבט אל הטבע ודייריו עשוי ללמד אותנו להבין את המציאות, ולא לברוח ממנה",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-e167-d24b-a5df-efffdae90000/10/b3/5e3986694eed82ca303b8349d082/common-kestrel-4.jpg?precrop=1761,1024,x0,y71&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2026-03-11/ty-article/.highlight/0000019c-dcf0-d798-a1fd-defd54cf0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2026-03-11",
+          "magazine_date": "2026-03-13",
+          "title": "כך עבר מונח טכני מבית המטבחיים ללב החיים הסואנים בישראל",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-dcf0-d798-a1fd-defd54cf0000/02/1d/472807be4537a770cfba2f94a49d/64954415.JPG?precrop=2699,1569,x0,y15&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-03-11/ty-article/.highlight/0000019c-dca2-d3be-a7fd-fff2bc7d0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-03-11",
+          "magazine_date": "2026-03-13",
+          "title": "מדינה שיוצאת למלחמה רק כי \"יש הזדמנות\" היא מדינה שהתמכרה למוות",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-dca2-d3be-a7fd-fff2bc7d0000/43/5e/ce1b5ba6429f89407dd1724921bb/176697.jpg?precrop=2400,1396,x0,y145&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-03-12/ty-article-face/.highlight/0000019c-e0ea-d3be-a7fd-effaf7fa0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-03-12",
+          "magazine_date": "2026-03-13",
+          "title": "ישי שריד",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-e0ea-d3be-a7fd-effaf7fa0000/96/d6/6ad2735342b5b96c691fcecdbe49/196656.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-03-11/ty-article-magazine/.highlight/0000019c-dd1c-d3d8-afdf-fd3ef6ac0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-03-11",
+          "magazine_date": "2026-03-13",
+          "title": "\"אני והאיראנים נפלנו באותה מיסקונספציה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-dd1c-d3d8-afdf-fd3ef6ac0000/a8/40/6a047f914f378f390696c551474e/125595.jpg?precrop=2400,1395,x0,y145&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-03-11/ty-article/.highlight/0000019c-dd46-d3d8-afdf-fd7e652d0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-03-11",
+          "magazine_date": "2026-03-13",
+          "title": "נתניהו לא קורא את המפה ולא מבין את ההיסטוריה. גם הפעם הוא טועה",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-dd46-d3d8-afdf-fd7e652d0000/f5/0b/06fcac884b1ab5844c5ed851b6e3/844173.jpg?precrop=1274,741,x578,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-03-12/ty-article-midrug/.highlight/0000019c-e105-da9e-a19d-f7974f460000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-03-12",
+          "magazine_date": "2026-03-13",
+          "title": "לצה\"ל יש תוכניות לשבועות ויותר. קטע, גם לנו היו",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-e105-da9e-a19d-f7974f460000/bb/23/db9c02a24452add8133253be082e/headline-11.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-03-12/ty-article/.highlight/0000019c-dcfe-de04-adfd-ddff76ca0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-03-12",
+          "magazine_date": "2026-03-13",
+          "title": "למה הממשלה לא מפרסמת את יעדי המלחמה?\n\"הציבור לא צריך לדעת מזה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-dcfe-de04-adfd-ddff76ca0000/c5/d5/c162dd184c349318d69d06551ffc/64970087.JPG?precrop=2958,1720,x0,y250&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-03-12/ty-article-quotes/.highlight/0000019c-e0f4-dc10-abdc-f2f426cc0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-03-12",
+          "magazine_date": "2026-03-13",
+          "title": "\"האישה החדשה לא מפחדת מהמילה כניעה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-e0f4-dc10-abdc-f2f426cc0000/42/15/14eb685a4b6198e64befe7f3a05d/288211.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-03-11/ty-article-20q/.highlight/0000019c-dbbf-d3d8-afdf-fbbfa1840000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-03-11",
+          "magazine_date": "2026-03-13",
+          "title": "באיזו מדינה אפשר לקנות מסטיקים רק בבית מרקחת או אצל רופא שיניים?",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-dbbf-d3d8-afdf-fbbfa1840000/90/28/8c1c98544fd6a1ff16c910a1c4f9/1354608.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2026-03-12/ty-article-magazine/.highlight/0000019c-e197-d9d9-ad9f-ffdf827a0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2026-03-12",
+          "magazine_date": "2026-03-13",
+          "title": "שמן זית מהמדבר: המהפך האורגני של כרם שדה בוקר",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-e197-d9d9-ad9f-ffdf827a0000/46/41/79ba704d45e692ed0dbe19e3b615/347413.jpg?precrop=1715,997,x0,y371&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-03-12/ty-article-magazine/.premium/0000019c-e217-da17-a3be-f3b7382d0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-03-12",
+          "magazine_date": "2026-03-13",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 13.3.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-e217-da17-a3be-f3b7382d0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-03-12/ty-article/.premium/0000019c-e203-d016-adbe-f39ba02f0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-03-12",
+          "magazine_date": "2026-03-13",
+          "title": "הכרעה דרמטית",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-e203-d016-adbe-f39ba02f0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2026-03-12/ty-article/.premium/0000019c-e21e-dd7c-a79d-ea7e74280000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2026-03-12",
+          "magazine_date": "2026-03-13",
+          "title": "צוואת סטאלין: אפשר לחיות בשלום",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-e21e-dd7c-a79d-ea7e74280000/33/78/e71f80c84ffea347c8871ce61684/mefursamot.jpg?precrop=1250,727,x0,y1361&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-03-13/ty-article/0000019c-e711-d504-a39f-ef5511fe0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-03-13",
+          "magazine_date": "2026-03-13",
+          "title": "הטבח של רפא\"ל פנה לרב גורן: \"שחיילים רעבים יקללו את ה' או שאבשל בשבת\"?",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-e711-d504-a39f-ef5511fe0000/8d/93/82823d5c41858b2d37c79be5e597/luz-missile-1961.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-03-11/ty-article/.highlight/0000019c-dd3a-d608-afdc-fdfebc840000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-03-11",
+          "magazine_date": "2026-03-13",
+          "title": "כמה חשוב לפרום את הדיכוטומיה המעוותת לגבי גבריות",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-dd3a-d608-afdc-fdfebc840000/a1/1a/33825ac3464a8d481abc3de2c15e/52352.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    }
+  }
+}

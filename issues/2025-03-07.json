@@ -1,0 +1,318 @@
+{
+  "magazine_date": "2025-03-07",
+  "total_articles": 22,
+  "cover_image": "https://img.haarets.co.il/bs/00000195-6a99-d7b0-af95-eebb74070001/58/ea/4d453d0c4377a16f46c9b1ca57ac/shaar-5.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-03-06/ty-article-magazine/.highlight/00000195-65e1-dac6-a997-ffe926560000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-03-06/ty-article-magazine/.highlight/00000195-65e1-dac6-a997-ffe926560000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-03-06",
+          "magazine_date": "2025-03-07",
+          "title": "\"טראמפ אנטישמי, ישראל משעממת אותו\". ראיון עם הביוגרף של נשיא ארה\"ב",
+          "og_image": "https://gif.haarets.co.il/bs/00000195-65e1-dac6-a997-ffe926560000/3d/a8/be4d74fb4d2d9331cefe77246afd/trumpface-hompeage.gif?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-03-06/ty-article-magazine/.highlight/00000195-660c-da40-a5fd-ee9f1bc70000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-03-06",
+          "magazine_date": "2025-03-07",
+          "title": "ממה אתם מפחדים? שיחה עם האינטלקטואל הכי חשוב בימין",
+          "og_image": "https://img.haarets.co.il/bs/00000195-660c-da40-a5fd-ee9f1bc70000/93/7b/0cabd00b46efb8d44f84e84e21fb/494229.jpg?precrop=2400%2C1395%2Cx0%2Cy171&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-03-06/ty-article/.highlight/00000195-665b-dfba-af95-f67fbd800000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-03-06",
+          "magazine_date": "2025-03-07",
+          "title": "השר קיש, תכיר את הבוט רבי גמליאל, שיסביר לך על הטבח במערת המכפ...",
+          "og_image": "https://img.haarets.co.il/bs/00000195-665b-dfba-af95-f67fbd800000/37/59/c9d59e2142f4b97816b9cc8d3b62/60700653.JPG?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-03-06/ty-article/.highlight/00000195-6b41-d55d-a39f-ff7b432c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-03-06",
+          "magazine_date": "2025-03-07",
+          "title": "ב. מיכאל, שהלך לעולמו, הספיק לראות איך המדינה קורסת",
+          "og_image": "https://gif.haarets.co.il/bs/00000195-6b41-d55d-a39f-ff7b432c0000/df/47/1b1f20864ffcbcb326c881998952/7-3-25-animation.gif?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-03-06/ty-article-magazine/.highlight/00000195-6675-d88e-a3f7-767d5b850000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-03-06",
+          "magazine_date": "2025-03-07",
+          "title": "בלב עזה, עם כיפה ותפילין: הקשר הבלתי־ייאמן בין הרב פרומן למנהיג חמאס",
+          "og_image": "https://img.haarets.co.il/bs/00000195-6675-d88e-a3f7-767d5b850000/8d/b9/d4927d3a4be681dc620f7a59a8c5/757235.jpg?precrop=2400%2C1395%2Cx0%2Cy50&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-03-06/ty-article/.highlight/00000195-6647-d6cd-a1dd-77677fba0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-03-06",
+          "magazine_date": "2025-03-07",
+          "title": "אנחנו מספרים לעצמנו שמיחזור הוא טוב לסביבה. ההפך הוא הנכון",
+          "og_image": "https://img.haarets.co.il/bs/00000195-6647-d6cd-a1dd-77677fba0000/a9/47/01b65c744e20936cacdb7dac1c34/60671567.JPG?precrop=4724%2C2746%2Cx0%2Cy125&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-03-06/ty-article/.highlight/00000195-6632-da40-a5fd-eebbc4850000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-03-06",
+          "magazine_date": "2025-03-07",
+          "title": "הסרט על קפקא לא עוסק בספרות. זה סיפור על עסקנים ומאכערים",
+          "og_image": "https://img.haarets.co.il/bs/00000195-6632-da40-a5fd-eebbc4850000/c2/bb/8de066a6d2e2c72cdfccad815afb/552421171.jpg?precrop=1334%2C775%2Cx307%2Cy67&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-03-05/ty-article-face/.highlight/00000195-6647-dfba-af95-f67f8a060002",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-03-05",
+          "magazine_date": "2025-03-07",
+          "title": "איילת רזין בית־אור: \"ליוויתי כמה חטופות שחזרו מהשבי. הציבור יודע קמצוץ מהגיהנום שהן עברו\"",
+          "og_image": "https://img.haarets.co.il/bs/00000195-6647-dfba-af95-f67f8a060002/04/6e/e26398f74014a9774afba9d7062c/802027.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-03-05/ty-article-magazine/.highlight/00000195-65fe-d593-a1b5-efffe5010000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-03-05",
+          "magazine_date": "2025-03-07",
+          "title": "\"בגיל 45 רציתי להכיר את עצמי. יצאתי למסע של 21 אלף ק\"מ באוטובוס ישן\"",
+          "og_image": "https://img.haarets.co.il/bs/00000195-65fe-d593-a1b5-efffe5010000/a6/e3/f8b31e274f589e1c2d7e79950782/60671151.JPG?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2025-03-06/ty-article-magazine/.highlight/00000195-66a9-d88e-a3f7-76ad874b0000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2025-03-06",
+          "magazine_date": "2025-03-07",
+          "title": "\"הג'יהאדיסט המשוגע ששולט בסוריה הפך לפרגמטי? הניתוחים שלנו אופטימיים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000195-66a9-d88e-a3f7-76ad874b0000/f5/34/cccf4fcb4400947d0ecb25bdad95/60698753.JPG?precrop=4608%2C2679%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-03-05/ty-article/.highlight/00000195-66b9-d88e-a3f7-76bd24140000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-03-05",
+          "magazine_date": "2025-03-07",
+          "title": "אלה 95 דקות שמראות לנו בדיוק מה נהיה מאיתנו. וזה כואב, כל כך כואב",
+          "og_image": "https://img.haarets.co.il/bs/00000195-66b9-d88e-a3f7-76bd24140000/3e/a5/3bfe08a74b8aba97eedce24bcf71/no-other-land.jpg?precrop=1859%2C1080%2Cx55%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-03-06/ty-article-midrug/.highlight/00000195-6bce-db55-ad95-ebefe0870000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-03-06",
+          "magazine_date": "2025-03-07",
+          "title": "טראמפ מקפיא את הסיוע לאוקראינה. איך הוא אמור לקנות עכשיו חליפה?",
+          "og_image": "https://img.haarets.co.il/bs/00000195-6bce-db55-ad95-ebefe0870000/e0/52/4556f19649abb64b003ca757e7ee/headline-2.jpg?precrop=2000%2C1163%2Cx0%2Cy160&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-03-06/ty-article/.highlight/00000195-6663-d7b0-af95-e67b24d20000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-03-06",
+          "magazine_date": "2025-03-07",
+          "title": "מה אתם מכניסים את קושמרו לעשות סקי בסוריה? זו סתם התגרות",
+          "og_image": "https://img.haarets.co.il/bs/00000195-6663-d7b0-af95-e67b24d20000/a3/60/1bca9e4d4d39ac25244ef2f5b9e9/kush.png?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-03-05/ty-article-quotes/.highlight/00000195-4239-d806-a7f5-ea3b6ebe0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-03-05",
+          "magazine_date": "2025-03-07",
+          "title": "\"יש כאן רפורמה שכל חלומות הימין יכולים להתגשם\"",
+          "og_image": "https://img.haarets.co.il/bs/00000195-4239-d806-a7f5-ea3b6ebe0000/dd/18/8fef4df94b549fece81be93c75b1/186809.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-03-05/ty-article-20q/.highlight/00000195-65e0-dac6-a997-ffe90e650000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-03-05",
+          "magazine_date": "2025-03-07",
+          "title": "מי מכונה \"אבי הטרנספר\"?",
+          "og_image": "https://img.haarets.co.il/bs/00000195-65e0-dac6-a997-ffe90e650000/0c/f5/ef994ed4441092109021d0085d3f/448224.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2025-03-05/ty-article-20q/.free/00000195-65ea-d95a-a1dd-7fff2e000000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2025-03-05",
+          "magazine_date": "2025-03-07",
+          "title": "20 שאלות לילדים ולילדות: באיזו מדינה הומצא משחק הלֶגוֹ?",
+          "og_image": "https://img.haarets.co.il/bs/00000195-65ea-d95a-a1dd-7fff2e000000/c6/a0/f07c1eab446eb96b8fc6e5690203/50813.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-03-06/ty-article-magazine/.premium/00000195-6b85-d55d-a39f-ffbf29dd0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-03-06",
+          "magazine_date": "2025-03-07",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 7.3.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000195-6b85-d55d-a39f-ffbf29dd0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-03-06/ty-article/.premium/00000195-6b85-d20b-a1b7-fbcf13960000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-03-06",
+          "magazine_date": "2025-03-07",
+          "title": "פרידה מאלוף",
+          "og_image": "https://img.haarets.co.il/bs/00000195-6b85-d20b-a1b7-fbcf13960000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-03-06/ty-article/00000195-6a98-d20b-a1b7-fbdf52c30000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-03-06",
+          "magazine_date": "2025-03-07",
+          "title": "בגיל 102: מת הקצין הבריטי, שחצה את הקווים וסייע לצה\"ל במלחמת העצמאות",
+          "og_image": "https://img.haarets.co.il/bs/00000195-6a98-d20b-a1b7-fbdf52c30000/4b/b9/420a63e749f081944de003a1aa97/7.png?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2025-03-06/ty-article/.premium/00000195-6ba6-d46d-a3f7-ebef45ab0000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2025-03-06",
+          "magazine_date": "2025-03-07",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000195-6ba6-d46d-a3f7-ebef45ab0000/72/f0/b72c4d32425098356f63510b080a/caro-reg.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-03-06/ty-article/.premium/00000195-6ba9-d38b-a3f7-ffff724e0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-03-06",
+          "magazine_date": "2025-03-07",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000195-6ba9-d38b-a3f7-ffff724e0000/66/d4/9ffa4e3f4841bdf1c3b68a6c11c3/ribooa-musaf-615.jpg?precrop=1083%2C630%2Cx0%2Cy219&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-03-05/ty-article/.highlight/00000195-6677-d88e-a3f7-767feafa0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-03-05",
+          "magazine_date": "2025-03-07",
+          "title": "הדימוי של המדינה כבן־אדם הוא דימוי מסוכן",
+          "og_image": "https://img.haarets.co.il/bs/00000195-6677-d88e-a3f7-767feafa0000/61/b2/72dd9f1346c583f1b3d71c062157/623445.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

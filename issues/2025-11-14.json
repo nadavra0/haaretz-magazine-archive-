@@ -1,0 +1,323 @@
+{
+  "magazine_date": "2025-11-14",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/0000019a-78de-d1ab-a3fa-7cde67ec0001/73/0f/c413b2154ffe8e63dcb640830591/shaar1411.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-11-12/ty-article/.highlight/0000019a-7809-d1ab-a3fa-7cdf03740000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-11-12/ty-article/.highlight/0000019a-7809-d1ab-a3fa-7cdf03740000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-11-12",
+          "magazine_date": "2025-11-14",
+          "title": "הסיפור על הפצ\"רית, הסבתא, הזאב והצייד",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-7809-d1ab-a3fa-7cdf03740000/f4/57/7bbdee92456397122e6885c996ab/63753468.JPG?precrop=4987,2899,x0,y0&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-11-13/ty-article-magazine/.highlight/0000019a-72bc-de53-ab9a-7ebfd03e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-11-13",
+          "magazine_date": "2025-11-14",
+          "title": "באתר חשאי בארה\"ב נשמר כל מה שפורסם אי־פעם בישראל — למקרה שהמדינה תיעלם",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-72bc-de53-ab9a-7ebfd03e0000/dc/fa/ec14ec014c598ab3dda22a47f286/282473.jpg?precrop=2400,1396,x0,y202&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-11-13/ty-article-magazine/.highlight/0000019a-72d3-d4d2-a99b-73d306ca0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-11-13",
+          "magazine_date": "2025-11-14",
+          "title": "עולים מרוסיה מנסים להבין את ישראל דרך צפייה בצ'רלי וחצי ומדורת השבט",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-72d3-d4d2-a99b-73d306ca0000/17/18/1306912348339ecdfbff21b5dc17/737794.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-11-13/ty-article-magazine/.highlight/0000019a-77cf-d326-a3ff-f7df78e10000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-11-13",
+          "magazine_date": "2025-11-14",
+          "title": "בזמן שהזדעזענו מיאיר נתניהו, נחשו מי כן התברג לקונגרס הציוני",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-77cf-d326-a3ff-f7df78e10000/f9/e0/4d4561d04ada95bcde9c46e29ee5/757892.jpg?precrop=2052,1193,x130,y0&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-11-13/ty-article-magazine/.highlight/0000019a-780b-d6d8-af9b-7e5f7af20000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-11-13",
+          "magazine_date": "2025-11-14",
+          "title": "שני סיפורים מופרכים מלבים את הסכסוך על הארץ. אין לו שום סיבה אמיתית",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-780b-d6d8-af9b-7e5f7af20000/46/26/461290b7491194b82d2fdf910abf/758030.jpg?&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-11-13/ty-article/.highlight/0000019a-7c2c-d1ab-a3fa-7cfea74b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-11-13",
+          "magazine_date": "2025-11-14",
+          "title": "אחרי שנים של התנגדות, לא היתה לי ברירה והתחלתי לאמץ אורח חיים ספורטיבי",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-7c2c-d1ab-a3fa-7cfea74b0000/71/0d/898868d0460e98161cf0b3589097/14-11-25-web.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-11-12/ty-article/.highlight/0000019a-780a-d6d8-af9b-7e5f1b240000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-11-12",
+          "magazine_date": "2025-11-14",
+          "title": "לפעמים, הבעיה ב-AI טמונה דווקא בתשובות הנכונות שהוא מספק",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-780a-d6d8-af9b-7e5f1b240000/82/87/d0731aa84493a9c1fae368a821f4/63729588.JPG?precrop=5271,3063,x0,y356&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-11-12/ty-article/.highlight/0000019a-7836-dbc0-a39e-7837b1390000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-11-12",
+          "magazine_date": "2025-11-14",
+          "title": "מי יעז היום לקרוא ספר בעברית ברכבת התחתית של רומא, לונדון או פריז?",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-7836-dbc0-a39e-7837b1390000/2b/85/4c533a4c4b488957aed4179d5121/994850.jpg?precrop=2400,1395,x0,y8&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-11-13/ty-article/.highlight/0000019a-7c56-d259-af9a-fedfd4cb0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-11-13",
+          "magazine_date": "2025-11-14",
+          "title": "המלך גונב אדמה מאחד האזרחים. זו ההיסטוריה שהתנ\"ך השאיר לנו",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-7c56-d259-af9a-fedfd4cb0000/a7/32/184970a7478782a36b58702a20ab/235809.jpg?precrop=2400,1396,x0,y205&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-11-12/ty-article/.highlight/0000019a-781c-d259-af9a-fedf88a00000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-11-12",
+          "magazine_date": "2025-11-14",
+          "title": "צרחות כטיפול קבוצתי ומועדון מעריצים לסופרמרקט: הטרנדים החמים של הסתיו",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-781c-d259-af9a-fedf88a00000/e0/66/b3ab3fcb400895103cbc2e5939f0/177865.jpg?precrop=1709,993,x0,y527&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-11-13/ty-article-face/.highlight/0000019a-7cb1-d326-a3ff-fcb949940000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-11-13",
+          "magazine_date": "2025-11-14",
+          "title": "לינור אברג'יל",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-7cb1-d326-a3ff-fcb949940000/93/9e/3d2fcb15478980093618ff1c3009/765694.jpg?precrop=2400,1395,x0,y78&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-11-12/ty-article-magazine/.highlight/0000019a-7882-d1ab-a3fa-7cdee5d70000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-11-12",
+          "magazine_date": "2025-11-14",
+          "title": "\"הערכתי שיש 18% סיכוי שהיא תגיד כן. והיא באמת אמרה — לא\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-7882-d1ab-a3fa-7cdee5d70000/c5/de/ad71faac4a7790c1bc45c2d4791c/63722350.JPG?precrop=4176,2427,x0,y301&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-11-12/ty-article/.highlight/0000019a-789f-d1ab-a3fa-7cdf5d3e0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-11-12",
+          "magazine_date": "2025-11-14",
+          "title": "אישה התפתלה מכאב, בחורה צעירה רק רצתה לעזור. זה נגמר רע",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-789f-d1ab-a3fa-7cdf5d3e0000/f2/e7/81eb9d3e29f392f2cf8a7424c5a9/4238321615.jpg?precrop=2449,1423,x0,y210&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-11-13/ty-article-midrug/.highlight/0000019a-7cd0-d326-a3ff-fcd99a570000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-11-13",
+          "magazine_date": "2025-11-14",
+          "title": "נתניהו נבחר ליו\"ר הליכוד. בא לשכונה בחור חדש",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-7cd0-d326-a3ff-fcd99a570000/df/fc/8be232e04348929d7d1d79b5c131/headline.jpg?precrop=2000,1163,x0,y266&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-11-13/ty-article/.highlight/0000019a-785d-d6d8-af9b-7e5f36b40000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-11-13",
+          "magazine_date": "2025-11-14",
+          "title": "לא ברור לכם שהיועמ\"שית לא צריכה להתערב? \"אתה נשמע כמו מכונת הרעל\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-785d-d6d8-af9b-7e5f36b40000/d0/3a/bc42de944703a096abeb630163d5/63756652.JPG?precrop=4499,2616,x0,y187&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-11-13/ty-article-quotes/.highlight/0000019a-7cbf-d326-a3ff-fcbf55a50000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-11-13",
+          "magazine_date": "2025-11-14",
+          "title": "\"אשתי לא שותה בקבוק ביום... (היא) אישה בגודל מתון\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-7cbf-d326-a3ff-fcbf55a50000/44/c2/d2f42bb2429f924a71f2efaf11fe/009859.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-11-12/ty-article-20q/.highlight/0000019a-72ac-d1ab-a3fa-7efee25e0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-11-12",
+          "magazine_date": "2025-11-14",
+          "title": "למה התייחס דוד בן־גוריון במילים \"כסרטן בגוף האומה\"?",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-72ac-d1ab-a3fa-7efee25e0000/7e/6a/e8366f554f5a8765f714dd59a4d6/510625.jpg?precrop=2359,1372,x0,y635&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-11-12/ty-article-magazine/.highlight/0000019a-7863-d4d2-a99b-7b7391880000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-11-12",
+          "magazine_date": "2025-11-14",
+          "title": "בועה של עולם פשוט: סוף סוף גם ליפו יש שוק איכרים משלה",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-7863-d4d2-a99b-7b7391880000/92/ae/9064644142b1ba447df792c32e1a/1.jpg?precrop=2000,1162,x0,y106&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-11-13/ty-article-magazine/0000019a-7d3e-d1ab-a3fa-7dfe9d460000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-11-13",
+          "magazine_date": "2025-11-14",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 14.11.2025",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-7d3e-d1ab-a3fa-7dfe9d460000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-11-13/ty-article/.premium/0000019a-7d42-d326-a3ff-fd5b49000000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-11-13",
+          "magazine_date": "2025-11-14",
+          "title": "תחבולות בגואה",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-7d42-d326-a3ff-fd5b49000000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-11-13/ty-article/.premium/0000019a-7d50-d259-af9a-ffdfcfa40000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-11-13",
+          "magazine_date": "2025-11-14",
+          "title": "שונו מועדי פתיחתה של תערוכת \"עולם המקינטוש 95\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-7d50-d259-af9a-ffdfcfa40000/5d/c6/444b9f754615a97ec845e1d54107/mefursamot.jpg?precrop=1250,727,x0,y1078&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-11-13/ty-article/0000019a-7c1a-d259-af9a-fedfd5e10000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-11-13",
+          "magazine_date": "2025-11-14",
+          "title": "\"הקיף את העולם פעמיים\": האצן והפיסיקאי אליהו קומאי מת בגיל 93",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-7c1a-d259-af9a-fedfd5e10000/bf/fb/b61e3290495a8261964d9cdbcce9/1000187604.jpg?precrop=1238,720,x0,y42&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2025-11-13/ty-article/.premium/0000019a-7d48-d1ab-a3fa-7dde81dd0000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2025-11-13",
+          "magazine_date": "2025-11-14",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-7d48-d1ab-a3fa-7dde81dd0000/9d/1a/239cb04f440a85de8306cb162899/crao.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-11-13/ty-article/.premium/0000019a-7d4b-d259-af9a-ffdf4ecf0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-11-13",
+          "magazine_date": "2025-11-14",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-7d4b-d259-af9a-ffdf4ecf0000/4a/02/4172b2db41d487567321053e5a63/ribooa-musaf-651.jpg?precrop=1083,630,x0,y201&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-11-12/ty-article/.highlight/0000019a-786c-d4d2-a99b-7b7d824f0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-11-12",
+          "magazine_date": "2025-11-14",
+          "title": "על גורלם של כלבים וגורלם של אנשים",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-786c-d4d2-a99b-7b7d824f0000/64/60/b4cd1f6045b3b3d676cca0798ae8/63665628.JPG?precrop=5568,3236,x0,y476&width=1200&height=630&cmsprod"
+        }
+      ]
+    }
+  }
+}

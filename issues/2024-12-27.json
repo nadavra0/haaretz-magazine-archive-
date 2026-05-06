@@ -1,0 +1,353 @@
+{
+  "magazine_date": "2024-12-27",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/00000193-f938-d657-a39f-ffb9aec30001/dd/7b/1a631d14413daeb0f47f71f8c404/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-12-24/ty-article-magazine/.highlight/00000193-f8f9-d657-a39f-fef99afa0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-24/ty-article-magazine/.highlight/00000193-f8f9-d657-a39f-fef99afa0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-24",
+          "magazine_date": "2024-12-27",
+          "title": "קודם כל בואי נרחיק טלפונים. עכשיו אספר לך מהי גרסת נתניהו",
+          "og_image": "https://img.haarets.co.il/bs/00000193-f8f9-d657-a39f-fef99afa0000/9a/f8/5333698240ff8aeca67cb37b441b/776356.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-25/ty-article-magazine/.highlight/00000193-fd78-dcea-a1ff-ff79217a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-25",
+          "magazine_date": "2024-12-27",
+          "title": "מטפלים בישלו פסיכואנליזה עם בודהיזם והגישו בחינם. התוצאות מפתיעות",
+          "og_image": "https://img.haarets.co.il/bs/00000193-fd78-dcea-a1ff-ff79217a0000/ee/51/588b5d944635822f0cffbb27b67d/59837675.JPG?precrop=4608%2C2678%2Cx0%2Cy191&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-25/ty-article/.highlight/00000193-fe3e-ddda-a393-ffbe4a870000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-25",
+          "magazine_date": "2024-12-27",
+          "title": "מה גיליתי בכרך פסקי הדין הישן שהיה מוטל על ספסל בגינת דובנוב",
+          "og_image": "https://img.haarets.co.il/bs/00000193-fe3e-ddda-a393-ffbe4a870000/1c/a9/387699af4a1db02d9dfd1b7d1272/59866877.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-26/ty-article-magazine/.highlight/00000193-fd76-df9e-ab97-fdf681410000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-26",
+          "magazine_date": "2024-12-27",
+          "title": "האם אייכמן רצח נער יהודי במו ידיו? התעלומה סוף-סוף נפתרה",
+          "og_image": "https://img.haarets.co.il/bs/00000193-fd76-df9e-ab97-fdf681410000/9d/9c/c21b67eb49e88f72e4e8c1d3b127/59838379.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-26/ty-article-magazine/.highlight/00000193-fd78-d456-a7d7-fffd43860000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-26",
+          "magazine_date": "2024-12-27",
+          "title": "נמל התעופה בחיפה התניע מחדש. כמה שזה עלוב, ככה זה נהדר",
+          "og_image": "https://img.haarets.co.il/bs/00000193-fd78-d456-a7d7-fffd43860000/cb/a7/1a5b19934cc4851efe2477173885/59849109.JPG?precrop=4872%2C2831%2Cx0%2Cy217&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-26/ty-article/.highlight/00000194-02dd-d686-a9ff-0afda3e80000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-26",
+          "magazine_date": "2024-12-27",
+          "title": "בזמן האחרון נתקלתי בטענה שישו היה בעצם פלסטיני. האם יש דבר מגוחך מזה",
+          "og_image": "https://gif.haarets.co.il/bs/00000194-02dd-d686-a9ff-0afda3e80000/e5/73/f269e8c840ff97b898fd34e48b90/27-12-24-animation.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-12-25/ty-article-magazine/00000193-fdf4-df9e-ab97-fdf6d7bb0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-12-25",
+          "magazine_date": "2024-12-27",
+          "title": "האם המוזות באמת שותקות? מסע בלשי בעקבות אימרה עתיקה ולא כל כך נכונה",
+          "og_image": "https://img.haarets.co.il/bs/00000193-fdf4-df9e-ab97-fdf6d7bb0000/a9/d2/8ad0c7e6471a92d7815b75ca50e5/610811.jpg?precrop=2400%2C1396%2Cx0%2Cy205&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-12-25/ty-article/.highlight/00000193-fd7c-d57a-a5f3-fd7c06390000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-12-25",
+          "magazine_date": "2024-12-27",
+          "title": "זה אולי נשמע מטורף, אבל לדמיין זה הדבר היחיד שעדיין מפיח בי תקווה",
+          "og_image": "https://img.haarets.co.il/bs/00000193-fd7c-d57a-a5f3-fd7c06390000/aa/f4/8f6b6d654991914e3b34133f8f1d/59857637.JPG?precrop=5097%2C2963%2Cx0%2Cy44&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-12-25/ty-article/.highlight/00000193-fdd4-d304-afb7-fdf775470000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-12-25",
+          "magazine_date": "2024-12-27",
+          "title": "כולנו נתונים בטראומה מתמשכת, ולא בטוח שנזכה אי פעם לריפוי",
+          "og_image": "https://img.haarets.co.il/bs/00000193-fdd4-d304-afb7-fdf775470000/c4/ee/05c7d7c74ef3b9765aa85678e85e/815939.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-12-25/ty-article-face/.highlight/00000193-fd9c-df9e-ab97-fdde1c290002",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-12-25",
+          "magazine_date": "2024-12-27",
+          "title": "יובל כספין",
+          "og_image": "https://img.haarets.co.il/bs/00000193-fd9c-df9e-ab97-fdde1c290002/0b/5a/8865dc114a428a053b2da0c9476a/994671.jpg?precrop=2400%2C1395%2Cx0%2Cy113&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-12-25/ty-article-magazine/.highlight/00000193-fe32-d7f1-a1b7-ffffda3b0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-12-25",
+          "magazine_date": "2024-12-27",
+          "title": "\"הושבתי את ההורים לשיחה, ואמרתי — אנחנו לא קמים מהשולחן בלי החלטה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-fe32-d7f1-a1b7-ffffda3b0000/0b/59/72da6e34434a93af4167c8197de2/59846082.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2024-12-25/ty-article-magazine/.highlight/00000193-fe44-d5fd-a7f3-ff7cfe870000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2024-12-25",
+          "magazine_date": "2024-12-27",
+          "title": "עברית-חרדית, יש דבר כזה. יודעים למשל מה זה צול?",
+          "og_image": "https://img.haarets.co.il/bs/00000193-fe44-d5fd-a7f3-ff7cfe870000/50/6e/a199d83a4b4e863c7fd21a01734a/59865151.JPG?precrop=8055%2C4683%2Cx0%2Cy690&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-12-26/ty-article/.highlight/00000193-fe33-ddaa-afdf-fffb28e80000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-12-26",
+          "magazine_date": "2024-12-27",
+          "title": "מהי המשמעות האמיתית של 47 סימני הקריאה שהקלידה שרה נתניהו",
+          "og_image": "https://img.haarets.co.il/bs/00000193-fe33-ddaa-afdf-fffb28e80000/df/d9/85092a1a4ccc9c6d0418a90cf707/.jpg?precrop=1703%2C990%2Cx232%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-12-26/ty-article-magazine/.highlight/00000194-02db-d686-a9ff-0aff44c00000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-12-26",
+          "magazine_date": "2024-12-27",
+          "title": "2024 נגמרת. כיף זה לא היה",
+          "og_image": "https://img.haarets.co.il/bs/00000194-02db-d686-a9ff-0aff44c00000/12/93/e4bcbc0f483c8af541983f77c63d/headline.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-12-25/ty-article/.highlight/00000193-fde7-df9e-ab97-fde777ab0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-12-25",
+          "magazine_date": "2024-12-27",
+          "title": "למה אתם מנסים להפוך את הנַּגָּד לגיבור? \"הוא התנדב כל החיים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-fde7-df9e-ab97-fde777ab0000/2d/fd/b899ce564e1283ced02d1d65ad76/59866844.JPG?precrop=1350%2C785%2Cx0%2Cy27&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-12-26/ty-article-magazine/.highlight/00000194-02bc-d81e-a5dd-4ffd57ef0002",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-12-26",
+          "magazine_date": "2024-12-27",
+          "title": "\"יש לך לפעמים החלקות ככה שאתה נראה כמו ניסים ואטורי של הצבא\"",
+          "og_image": "https://img.haarets.co.il/bs/00000194-02c6-dafc-addf-f3fe6e630000/d8/50/74be777445aa944cbd33e29ec6e8/123643.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-12-25/ty-article-20q/.highlight/00000193-fd8d-d4c9-a5bb-ffcd5bab0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-12-25",
+          "magazine_date": "2024-12-27",
+          "title": "מה שם המשפחה של קיטי, הידועה בכינוי \"הלו קיטי\"?",
+          "og_image": "https://img.haarets.co.il/bs/00000193-fd8d-d4c9-a5bb-ffcd5bab0000/5d/14/f473db7a420c84a743f8712b7a71/432292.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-12-25/ty-article-magazine/.highlight/00000193-fd87-d4c9-a5bb-ffcf7bf20000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-12-25",
+          "magazine_date": "2024-12-27",
+          "title": "עבור הנשים האלה, גם חממה של 6 מ\"ר יכולה לחולל שינוי עצום",
+          "og_image": "https://img.haarets.co.il/bs/00000193-fd87-d4c9-a5bb-ffcf7bf20000/bb/27/5731870940bc89cb2fa2ce605078/1.jpg?precrop=1428%2C830%2Cx0%2Cy666&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-12-26/ty-article-magazine/.premium/00000194-02c9-d81e-a5dd-4ffd5fc50000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-12-26",
+          "magazine_date": "2024-12-27",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 27.12.2024",
+          "og_image": "https://img.haarets.co.il/bs/00000194-02c9-d81e-a5dd-4ffd5fc50000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-12-26/ty-article/.premium/00000194-02cd-dafc-addf-f3fd7c6c0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-12-26",
+          "magazine_date": "2024-12-27",
+          "title": "סוגרים שנה",
+          "og_image": "https://img.haarets.co.il/bs/00000194-02cd-dafc-addf-f3fd7c6c0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-12-26/ty-article/.premium/00000194-02d9-dafc-addf-f3fd9b250000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-12-26",
+          "magazine_date": "2024-12-27",
+          "title": "תזמורת צה\"ל בעזה",
+          "og_image": "https://img.haarets.co.il/bs/00000194-02d9-dafc-addf-f3fd9b250000/20/cf/7a84e8e94feb8395e982ec6cb110/mefursamot.jpg?precrop=1250%2C727%2Cx0%2Cy4279&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-12-26/ty-article/.premium/00000193-efca-d10a-a797-efeb2c5a0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-12-26",
+          "magazine_date": "2024-12-27",
+          "title": "מצא את האל בסיני (ואולי אפילו היתה לו בת זוג)",
+          "og_image": "https://img.haarets.co.il/bs/00000193-efca-d10a-a797-efeb2c5a0000/94/81/0cdf90a64f8880aaaf6db9c46094/1.jpg?precrop=3371%2C1960%2Cx0%2Cy287&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2024-12-26/ty-article/.premium/00000194-02d1-dcee-afdd-aad16c870000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2024-12-26",
+          "magazine_date": "2024-12-27",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000194-02d1-dcee-afdd-aad16c870000/1f/ad/17a814ed4a76aee9ab0e1b5b7d1a/caro.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-12-26/ty-article/.premium/00000194-02d6-dde5-a7df-92f7ccc30000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-12-26",
+          "magazine_date": "2024-12-27",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000194-02d6-dde5-a7df-92f7ccc30000/b7/c7/7674459f49b8a949642bd9abafa5/ribooa-musaf-605.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-12-25/ty-article-magazine/.highlight/00000193-fe33-df5b-a9b3-fe3703250000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-12-25",
+          "magazine_date": "2024-12-27",
+          "title": "כשנתניהו ייעלם מהפוליטיקה כולנו נינצל? חישבו שנית",
+          "og_image": "https://img.haarets.co.il/bs/00000193-fe33-df5b-a9b3-fe3703250000/5f/6a/b2744ef640bbb6d5f458295f3b23/571910.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}
