@@ -1,3 +1,4 @@
+import { useState, useMemo } from 'react'
 import './Grid.css'
 
 const PLACEHOLDER_COLORS = [
@@ -11,6 +12,18 @@ function shortDate(iso) {
 }
 
 export default function Grid({ issues, onSelect, formatDate }) {
+  const years = useMemo(() => {
+    const ys = [...new Set(issues.map(i => i.magazine_date.slice(0, 4)))].sort().reverse()
+    return ys
+  }, [issues])
+
+  const [selectedYear, setSelectedYear] = useState(() => years[0] ?? null)
+
+  const filtered = useMemo(
+    () => issues.filter(i => i.magazine_date.startsWith(selectedYear)),
+    [issues, selectedYear]
+  )
+
   if (!issues.length) {
     return (
       <div className="grid-empty">
@@ -21,12 +34,23 @@ export default function Grid({ issues, onSelect, formatDate }) {
 
   return (
     <div>
+      <div className="year-tabs">
+        {years.map(y => (
+          <button
+            key={y}
+            className={`year-tab ${y === selectedYear ? 'active' : ''}`}
+            onClick={() => setSelectedYear(y)}
+          >
+            {y}
+          </button>
+        ))}
+      </div>
       <div className="grid-heading">
-        <h2>כל הגיליונות</h2>
-        <span className="grid-count">{issues.length} מוספים</span>
+        <h2>גיליונות {selectedYear}</h2>
+        <span className="grid-count">{filtered.length} מוספים</span>
       </div>
       <div className="grid">
-        {issues.map((issue, i) => (
+        {filtered.map((issue, i) => (
           <button
             key={issue.magazine_date}
             className="card"
