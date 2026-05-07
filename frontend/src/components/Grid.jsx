@@ -11,7 +11,7 @@ function shortDate(iso) {
   return `${String(d).padStart(2,'0')}.${String(m).padStart(2,'0')}.${y}`
 }
 
-export default function Grid({ issues, onSelect, formatDate }) {
+export default function Grid({ issues, readDates = new Set(), onSelect, formatDate }) {
   const years = useMemo(() => {
     const ys = [...new Set(issues.map(i => i.magazine_date.slice(0, 4)))].sort().reverse()
     return ys
@@ -73,6 +73,9 @@ export default function Grid({ issues, onSelect, formatDate }) {
                 </div>
               )}
               <div className="card-overlay" />
+              {readDates.has(issue.magazine_date) && (
+                <div className="card-read-badge" title="נקרא">✓</div>
+              )}
             </div>
             <div className="card-footer">
               <div className="card-date">{formatDate(issue.magazine_date)}</div>

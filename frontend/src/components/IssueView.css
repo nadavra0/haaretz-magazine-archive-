@@ -8,7 +8,14 @@
   color: var(--text-muted);
 }
 
-/* ── Back button ── */
+/* ── Nav bar (back + read toggle) ── */
+.issue-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 28px;
+}
+
 .btn-back {
   background: none;
   border: 1px solid var(--border);
@@ -18,13 +25,32 @@
   font-size: 13px;
   font-family: inherit;
   cursor: pointer;
-  margin-bottom: 28px;
   transition: color 0.15s, border-color 0.15s;
   display: inline-flex;
   align-items: center;
   gap: 6px;
 }
 .btn-back:hover { color: var(--text); border-color: #555; }
+
+.btn-read-toggle {
+  background: none;
+  border: 1.5px solid var(--border);
+  color: var(--text-muted);
+  padding: 7px 16px;
+  border-radius: 6px;
+  font-size: 13px;
+  font-family: inherit;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+}
+.btn-read-toggle:hover {
+  border-color: #4caf50;
+  color: #4caf50;
+}
+.btn-read-toggle.read {
+  border-color: #4caf50;
+  color: #4caf50;
+}
 
 /* ── Hero ── */
 .issue-hero {

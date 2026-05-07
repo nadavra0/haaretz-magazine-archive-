@@ -80,7 +80,7 @@ function Section({ name, articles, defaultOpen }) {
   )
 }
 
-export default function IssueView({ issue, onBack, formatDate }) {
+export default function IssueView({ issue, isRead, onToggleRead, onBack, formatDate }) {
   if (!issue) {
     return (
       <div className="issue-loading">
@@ -94,9 +94,12 @@ export default function IssueView({ issue, onBack, formatDate }) {
 
   return (
     <div className="issue-view">
-      <button className="btn-back" onClick={onBack}>
-        ← חזרה לארכיון
-      </button>
+      <div className="issue-nav">
+        <button className="btn-back" onClick={onBack}>← חזרה לארכיון</button>
+        <button className={`btn-read-toggle ${isRead ? 'read' : ''}`} onClick={onToggleRead}>
+          {isRead ? '✓ נקרא' : 'סמן כנקרא'}
+        </button>
+      </div>
 
       <div className="issue-hero">
         {issue.cover_image ? (
