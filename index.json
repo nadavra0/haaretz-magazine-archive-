@@ -1,6 +1,12 @@
 {
   "issues": [
     {
+      "magazine_date": "2026-05-08",
+      "total_articles": 12,
+      "section_count": 8,
+      "cover_image": "https://img.haarets.co.il/bs/0000019d-fd92-dced-a19f-ffb7220e0001/b2/03/e2d1683d4e7082b2efa936cc1375/shaar-19.jpg?&width=1500&height=1980&cmsprod"
+    },
+    {
       "magazine_date": "2026-05-01",
       "total_articles": 26,
       "section_count": 18,
@@ -26,8 +32,8 @@
     },
     {
       "magazine_date": "2026-04-03",
-      "total_articles": 25,
-      "section_count": 19,
+      "total_articles": 17,
+      "section_count": 15,
       "cover_image": "https://img.haarets.co.il/bs/0000019d-4370-dd44-a79d-db77e7c10001/85/61/22769ab944eca0b5a60a772271c0/shaar-14.jpg?&width=1500&height=1980&cmsprod"
     },
     {
@@ -58,7 +64,7 @@
       "magazine_date": "2026-02-27",
       "total_articles": 22,
       "section_count": 17,
-      "cover_image": "https://img.haarets.co.il/bs/0000019d-d3d6-d712-a5bf-d7d60e340000/f8/57/38bd848f4680bf3e6587a428c028/65467821.JPG?precrop=5464,6429,x0,y1739&width=317&height=373&cmsprod"
+      "cover_image": "https://img.haarets.co.il/bs/0000019c-95db-d981-a1be-97fb1b340001/67/60/e35908e44632bfbafb22f63369d6/mu1.jfif?&width=1500&height=1981&cmsprod"
     },
     {
       "magazine_date": "2026-02-20",
@@ -106,7 +112,7 @@
       "magazine_date": "2026-01-02",
       "total_articles": 24,
       "section_count": 19,
-      "cover_image": "https://img.haarets.co.il/bs/0000019d-d3d6-d712-a5bf-d7d60e340000/f8/57/38bd848f4680bf3e6587a428c028/65467821.JPG?precrop=5464,3177,x0,y2714&width=600&height=349&cmsprod"
+      "cover_image": "https://img.haarets.co.il/bs/0000019b-747b-d581-a7db-757ff7b60001/71/ab/7a8e75374c27bb68e9c83adefc4c/shaar-4.jpg?&width=1500&height=1980&cmsprod"
     },
     {
       "magazine_date": "2025-12-26",
@@ -118,7 +124,7 @@
       "magazine_date": "2025-12-19",
       "total_articles": 24,
       "section_count": 18,
-      "cover_image": "https://img.haarets.co.il/bs/0000019d-d3d6-d712-a5bf-d7d60e340000/f8/57/38bd848f4680bf3e6587a428c028/65467821.JPG?precrop=5464,3177,x0,y2714&width=600&height=349&cmsprod"
+      "cover_image": null
     },
     {
       "magazine_date": "2025-12-12",
@@ -310,7 +316,7 @@
       "magazine_date": "2025-05-09",
       "total_articles": 21,
       "section_count": 16,
-      "cover_image": "https://img.haarets.co.il/bs/0000019d-d3d6-d712-a5bf-d7d60e340000/f8/57/38bd848f4680bf3e6587a428c028/65467821.JPG?precrop=5464,6429,x0,y1739&width=317&height=373&cmsprod"
+      "cover_image": "https://img.haarets.co.il/bs/00000196-aa7f-dbb0-af9f-abff1b930001/7e/91/3f7ac12c404f8dfdb530a14d27fc/shaar.jpg?&width=1500&height=1980&cmsprod"
     },
     {
       "magazine_date": "2025-05-02",
@@ -346,7 +352,7 @@
       "magazine_date": "2025-03-28",
       "total_articles": 21,
       "section_count": 17,
-      "cover_image": "https://gif.haarets.co.il/bs/00000195-d7f0-da82-abdf-fffdc2580000/81/cd/3c073e43499bb1a64b8048e80553/28-3-25-animation.gif?width=1200&height=630&cmsprod=&watermark=htz-2025"
+      "cover_image": "https://img.haarets.co.il/bs/00000195-d60e-d1f1-a7d5-f6ee33400001/86/a2/c038fcb14e7e9aaa54df6245265b/shaar.jpg?&width=1500&height=1980&cmsprod"
     },
     {
       "magazine_date": "2025-03-21",
@@ -376,7 +382,7 @@
       "magazine_date": "2025-02-21",
       "total_articles": 23,
       "section_count": 17,
-      "cover_image": "https://gif.haarets.co.il/bs/00000195-1eef-db0c-a1b5-feff34ad0000/56/b6/dc1d788946159d13b913e2f0ea97/21-2-25-animation.gif?width=1200&height=630&cmsprod=&watermark=htz-2025"
+      "cover_image": "https://gif.haarets.co.il/bs/00000195-1eef-db0c-a1b5-feff34ad0000/56/b6/dc1d788946159d13b913e2f0ea97/21-2-25-animation.gif?&width=1500&height=1980&cmsprod"
     },
     {
       "magazine_date": "2025-02-14",
@@ -443,8 +449,326 @@
       "total_articles": 24,
       "section_count": 17,
       "cover_image": "https://img.haarets.co.il/bs/00000193-9395-d408-a7d3-bbdd9abc0001/b1/b3/629107ef4de0b54545a5c33849bc/shaar.jpg?&width=1500&height=1980&cmsprod"
+    },
+    {
+      "magazine_date": "2024-11-29",
+      "total_articles": 24,
+      "section_count": 18,
+      "cover_image": "https://gif.haarets.co.il/bs/00000193-7382-d9e3-ab9b-77d3ac700000/92/56/17e777f1456182bb9677e743182b/29-11-24-animation.gif?width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-11-22",
+      "total_articles": 22,
+      "section_count": 17,
+      "cover_image": "https://img.haarets.co.il/bs/00000193-4438-d66c-ad97-ddfe2e850000/0c/05/6d57fcaa40aa86ba43ab12648bbc/637776.jpg?precrop=1601%2C931%2Cx0%2Cy518&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-11-15",
+      "total_articles": 26,
+      "section_count": 18,
+      "cover_image": "https://img.haarets.co.il/bs/00000193-251b-d707-a9d3-7dbb870b0000/f8/df/eb040a2d4580a7026aa950d00895/542915.jpg?precrop=1715%2C997%2Cx0%2Cy550&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-11-08",
+      "total_articles": 25,
+      "section_count": 18,
+      "cover_image": "https://gif.haarets.co.il/bs/00000193-05d5-dacb-a9db-17ff26130000/13/a2/c09744584743b561b9f5bd899bf3/8-11-24-animation.gif?precrop=1311%2C762%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-11-01",
+      "total_articles": 23,
+      "section_count": 16,
+      "cover_image": "https://gif.haarets.co.il/bs/00000192-e20c-dcb9-a9db-efed8fb00000/59/57/f5705551457a837ba524e560878b/1-11-24-animation.gif?width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-10-25",
+      "total_articles": 23,
+      "section_count": 17,
+      "cover_image": "https://img.haarets.co.il/bs/00000192-ae82-d5ff-ad92-bf87b28e0000/47/92/0eac788b43ffb1e341f2b0f70a01/287179.jpg?precrop=2400%2C1395%2Cx0%2Cy143&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-10-18",
+      "total_articles": 22,
+      "section_count": 17,
+      "cover_image": "https://gif.haarets.co.il/bs/00000192-9a6d-dd7e-a1b3-fa7df65e0000/2c/02/718a47df452cac3755e1f0b75f52/18-10-24-animation.gif?width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-10-11",
+      "total_articles": 25,
+      "section_count": 18,
+      "cover_image": "https://img.haarets.co.il/bs/00000192-6b49-dfca-adb7-7bd9fe8d0000/e1/0e/152b620e4cf19af69cf973b1c130/58774352.JPG?precrop=4593%2C2670%2Cx0%2Cy3251&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-10-04",
+      "total_articles": 20,
+      "section_count": 17,
+      "cover_image": "https://gif.haarets.co.il/bs/00000192-42fe-df25-a3be-c6ff501f0000/71/ec/b2ea4e4b4f4096b225963464cd86/4-10-24-animation.gif?width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-09-27",
+      "total_articles": 38,
+      "section_count": 19,
+      "cover_image": "https://img.haarets.co.il/bs/00000192-2897-d08a-a7ba-38d71b250000/7d/82/94d182cd4d99a72b496005e979ab/04.jpg?precrop=2000%2C1163%2Cx0%2Cy480&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-09-20",
+      "total_articles": 22,
+      "section_count": 17,
+      "cover_image": "https://img.haarets.co.il/bs/00000192-047b-d1bc-a1ff-267f8dd50000/49/ce/7fe9464b4879b64bfb21614f3b69/877957.jpg?precrop=1808%2C1052%2Cx0%2Cy785&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-09-13",
+      "total_articles": 25,
+      "section_count": 18,
+      "cover_image": "https://gif.haarets.co.il/bs/00000191-e18e-de6f-a9fb-f5def3820000/38/2c/865a4eab4da8a2dd8be0588f96bf/13-9-24-animation.gif?width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-09-06",
+      "total_articles": 21,
+      "section_count": 16,
+      "cover_image": "https://img.haarets.co.il/bs/00000191-bccc-db99-a1d1-bdfee5930000/a6/bf/852248db49918b379ef5c326dcda/weed-sharing.png?width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-08-30",
+      "total_articles": 27,
+      "section_count": 19,
+      "cover_image": "https://img.haarets.co.il/bs/00000191-985f-df1e-a9f3-ff5f5f3d0000/a2/17/a77efce74f3e9d903a5e88a90c5f/coma-sharing.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-08-23",
+      "total_articles": 23,
+      "section_count": 18,
+      "cover_image": "https://img.haarets.co.il/bs/00000191-745c-dacb-afb3-fdff07250000/31/d0/62b3e591499ca4ab6dd27ee24226/elderlycouples-shituf.jpg?precrop=1042%2C606%2Cx7%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-08-16",
+      "total_articles": 26,
+      "section_count": 17,
+      "cover_image": "https://img.haarets.co.il/bs/00000191-4fdd-d140-a5ff-7fff0f0a0000/3f/cd/9290bf9c4f7690b6cc64de263ba1/443820735-18439801402062011-6606275734548421010-n.jpg?precrop=1440%2C837%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-08-09",
+      "total_articles": 23,
+      "section_count": 16,
+      "cover_image": "https://img.haarets.co.il/bs/00000191-2ccc-d0b3-a7b1-3ecc80940000/b7/6d/d0d050864b33acc837773ba8e728/57932569.JPG?precrop=3600%2C2092%2Cx0%2Cy116&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-08-02",
+      "total_articles": 24,
+      "section_count": 18,
+      "cover_image": "https://img.haarets.co.il/bs/00000191-07e0-df85-a399-eff6db0e0000/5e/16/23651bf64386b0321a0f7fbdd2e9/57758699.JPG?precrop=3089%2C1796%2Cx0%2Cy154&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-07-26",
+      "total_articles": 24,
+      "section_count": 17,
+      "cover_image": "https://img.haarets.co.il/bs/00000190-e42b-d548-a3ba-eeebfae10000/f7/7d/accba09a4f59a46341ce116510a8/tzah.jpg?precrop=1969%2C1145%2Cx0%2Cy547&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-07-19",
+      "total_articles": 26,
+      "section_count": 19,
+      "cover_image": "https://img.haarets.co.il/bs/00000190-bfa8-d3e0-a5fd-ffbd1b280000/1f/eb/a1a7fee54f0dbc6166470c274794/story.jpg?precrop=2690%2C1563%2Cx0%2Cy1631&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-07-12",
+      "total_articles": 21,
+      "section_count": 17,
+      "cover_image": "https://img.haarets.co.il/bs/00000190-9c23-d007-a5f3-be7bbfb30000/45/a5/eed95f554510a405b973171324e7/57516899.JPG?precrop=6000%2C3488%2Cx0%2Cy149&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-07-05",
+      "total_articles": 27,
+      "section_count": 17,
+      "cover_image": "https://img.haarets.co.il/bs/00000190-740e-d705-a7f5-fcff0f460000/f1/fd/93a4a9c74b9bb30753e37c5773f9/33506.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-06-28",
+      "total_articles": 24,
+      "section_count": 17,
+      "cover_image": "https://img.haarets.co.il/bs/00000190-5340-de5e-abd0-fb722eaa0000/da/4d/0cf2040d42b6be1aa9cf80fbc8be/50079-2.jpg?precrop=2374%2C1381%2Cx12%2Cy11&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-06-21",
+      "total_articles": 26,
+      "section_count": 19,
+      "cover_image": "https://img.haarets.co.il/bs/00000190-2fd4-d5f5-a5d6-effe55540000/40/00/4b8518dd43fbac644ebce8b2161a/57225659.JPG?precrop=3600%2C2092%2Cx0%2Cy278&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-06-14",
+      "total_articles": 21,
+      "section_count": 15,
+      "cover_image": "https://gif.haarets.co.il/bs/00000190-0d94-d621-abfa-5fb5f9930000/4d/98/d8ca62d14d0fb80cf8515e61b893/14-6-24-animation.gif?width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-06-07",
+      "total_articles": 24,
+      "section_count": 19,
+      "cover_image": "https://img.haarets.co.il/bs/0000018f-e6b4-d11f-a5cf-e7bf17c40000/f9/49/8ad3327342cb9f8f0d2849627caf/59307.jpg?precrop=1629%2C947%2Cx0%2Cy309&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-05-31",
+      "total_articles": 23,
+      "section_count": 18,
+      "cover_image": "https://img.haarets.co.il/bs/0000018f-bf3e-d5c5-a3ff-ff3f2e0a0000/db/92/8dde1cc34f1e809291f9fcf009e4/barakhiramidf.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-05-24",
+      "total_articles": 22,
+      "section_count": 16,
+      "cover_image": "https://img.haarets.co.il/bs/0000018f-9f9a-da35-a3af-dfbad9310000/0c/04/069fb280419b989798a491d77c0b/56857353.JPG?precrop=4032%2C2344%2Cx0%2Cy519&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-05-17",
+      "total_articles": 24,
+      "section_count": 17,
+      "cover_image": "https://img.haarets.co.il/bs/0000018f-7c03-d430-a38f-fde7c4d00000/9e/2c/9f890bbe4342858ecf584acede40/20240510-135205.jpg?precrop=804%2C467%2Cx635%2Cy914&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-05-10",
+      "total_articles": 24,
+      "section_count": 17,
+      "cover_image": "https://img.haarets.co.il/bs/0000018f-583f-d348-a7bf-febff88d0000/c4/b2/925802ac61b857c645575da93296/577403692.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-05-03",
+      "total_articles": 23,
+      "section_count": 17,
+      "cover_image": "https://img.haarets.co.il/bs/0000018f-3278-d8c4-afef-3ffc85380000/ae/28/ce844e9f4df0b44af62c47f3e5b3/80563.jpg?precrop=2400%2C1396%2Cx0%2Cy7&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-04-26",
+      "total_articles": 21,
+      "section_count": 15,
+      "cover_image": "https://img.haarets.co.il/bs/0000018f-0f6c-dc39-a9cf-bfeedda40000/2c/78/bb61d20343f1a8baf8de548a085a/56514559.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-04-19",
+      "total_articles": 25,
+      "section_count": 18,
+      "cover_image": "https://img.haarets.co.il/bs/0000018e-e89e-d95b-afbe-fe9f118d0000/43/94/c474472a4797a6f93501e18d52ee/56386611.JPG?precrop=2623%2C1525%2Cx0%2Cy323&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-04-12",
+      "total_articles": 25,
+      "section_count": 17,
+      "cover_image": "https://img.haarets.co.il/bs/0000018e-c767-dd23-a3cf-e7e7e7ca0000/00/ef/fe770e0a4c1f8e3b77dad2251a02/56291737.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-04-05",
+      "total_articles": 23,
+      "section_count": 17,
+      "cover_image": "https://img.haarets.co.il/bs/0000018e-a36e-d2c1-adcf-e76ece790000/be/3d/ec51658a49d7bb45a382b02ebf9e/56210556.JPG?precrop=4606%2C2678%2Cx0%2Cy3070&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-03-29",
+      "total_articles": 25,
+      "section_count": 16,
+      "cover_image": "https://img.haarets.co.il/bs/0000018e-7f85-d680-a1cf-ff871e7d0000/0d/80/e2d1ff494477a46378754e387e12/07978.jpg?precrop=2322%2C1350%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-03-22",
+      "total_articles": 23,
+      "section_count": 17,
+      "cover_image": "https://img.haarets.co.il/bs/0000018e-56f4-d4d9-a19f-57f622010000/0c/32/dd2a08c24a50893ee3035d008e05/sharing-02.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-03-15",
+      "total_articles": 23,
+      "section_count": 17,
+      "cover_image": "https://img.haarets.co.il/bs/0000018e-3762-d60e-a1ee-f767aa8f0000/38/7c/bea34ed8462a82196b78835918cd/23101.jpg?precrop=1603%2C932%2Cx0%2Cy966&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-03-08",
+      "total_articles": 24,
+      "section_count": 19,
+      "cover_image": "https://img.haarets.co.il/bs/0000018e-139e-d058-adbe-7bfedec90000/2a/98/61e979864efa9ef7b9cd631b5b4b/46250.jpg?precrop=1540%2C895%2Cx8%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-03-01",
+      "total_articles": 25,
+      "section_count": 18,
+      "cover_image": "https://img.haarets.co.il/bs/0000018d-ef6b-d401-a3dd-ef7bb9b10000/9d/fc/03a6cae5494995ffef109993083d/55744434.JPG?precrop=5028%2C2923%2Cx0%2Cy2206&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-02-23",
+      "total_articles": 25,
+      "section_count": 18,
+      "cover_image": "https://img.haarets.co.il/bs/0000018d-cbf9-d09f-a3df-ebfd44260000/66/18/958f0aaa446bb5d235b2b1ec08f0/84345.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-02-16",
+      "total_articles": 24,
+      "section_count": 17,
+      "cover_image": "https://img.haarets.co.il/bs/0000018d-a3a8-d42f-adcd-ebe8f7690000/58/d6/931320894d8ea04886c030a3c4f4/55504513.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-02-09",
+      "total_articles": 25,
+      "section_count": 18,
+      "cover_image": "https://img.haarets.co.il/bs/0000018d-7e42-daa1-a9fd-7e4a90030000/37/65/6803c9a74237b8eac55e76d9f695/47212.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-02-02",
+      "total_articles": 17,
+      "section_count": 10,
+      "cover_image": "https://img.haarets.co.il/bs/0000018d-5ea6-d0fc-a9bd-5efff35b0000/b4/c6/0ddbf13f438ebb845017be3a6920/02520.jpg?precrop=1601%2C931%2Cx0%2Cy855&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-01-26",
+      "total_articles": 23,
+      "section_count": 16,
+      "cover_image": "https://img.haarets.co.il/bs/0000018d-39f6-d3a5-afdf-7df7c9b40000/c0/1f/635ccacd442485e7b094cc701bfe/tzach1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-01-19",
+      "total_articles": 25,
+      "section_count": 18,
+      "cover_image": "https://gif.haarets.co.il/bs/0000018d-1702-d7c2-a1cd-37ce97c80000/f8/fe/17ded7aa465ca34ea186f14ddc28/19-1-24-animation.gif?width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-01-12",
+      "total_articles": 24,
+      "section_count": 16,
+      "cover_image": "https://img.haarets.co.il/bs/0000018c-f387-d431-a7df-ffbffde80000/0d/ef/69787fe4473b997495697cb0dafa/raphael-ezekiels-vision2.jpg?precrop=1681%2C977%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2024-01-05",
+      "total_articles": 25,
+      "section_count": 17,
+      "cover_image": "https://img.haarets.co.il/bs/0000018c-cee8-ddba-abad-cee93a690000/a7/13/fa904ddc4ae5b36627cc9e7cb29a/55020950.JPG?precrop=5760%2C3349%2Cx0%2Cy468&width=1200&height=630&cmsprod=&watermark=htz-2024"
+    },
+    {
+      "magazine_date": "2023-12-29",
+      "total_articles": 22,
+      "section_count": 16,
+      "cover_image": "https://img.haarets.co.il/bs/0000018c-aaf0-d22d-a3dd-bff9c4ad0000/b9/fc/03b650dd4353bfc91ec119cba1f3/54959690.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023"
+    },
+    {
+      "magazine_date": "2023-12-22",
+      "total_articles": 25,
+      "section_count": 18,
+      "cover_image": "https://gif.haarets.co.il/bs/0000018c-8763-da81-a1bc-cff7e8520000/c2/7f/35c3fee0490996771976d7195e32/22-12-23-animation.gif?width=1200&height=630&cmsprod=&watermark=htz-2023"
+    },
+    {
+      "magazine_date": "2023-12-15",
+      "total_articles": 25,
+      "section_count": 17,
+      "cover_image": "https://img.haarets.co.il/bs/0000018c-6394-de43-affd-f796f3aa0000/57/1f/d66cf8b84bc786b85975ae70e6e2/54721571.JPG?precrop=3889%2C2262%2Cx271%2Cy553&width=1200&height=630&cmsprod=&watermark=htz-2023"
+    },
+    {
+      "magazine_date": "2023-12-08",
+      "total_articles": 25,
+      "section_count": 16,
+      "cover_image": "https://img.haarets.co.il/bs/0000018c-3ee8-d68f-a38c-3efa13c20000/66/ec/2764875b45f19b9893f290e322a8/huggy-bottle-shituf.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023"
+    },
+    {
+      "magazine_date": "2023-12-01",
+      "total_articles": 1,
+      "section_count": 1,
+      "cover_image": null
     }
   ],
-  "last_updated": "2026-05-06T09:43:51.643368",
-  "total_issues": 74
+  "last_updated": "2026-05-08T00:05:12.104518",
+  "total_issues": 128
 }

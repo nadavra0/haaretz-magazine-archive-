@@ -1,0 +1,363 @@
+{
+  "magazine_date": "2024-07-19",
+  "total_articles": 26,
+  "cover_image": "https://img.haarets.co.il/bs/00000190-bfa8-d3e0-a5fd-ffbd1b280000/1f/eb/a1a7fee54f0dbc6166470c274794/story.jpg?precrop=2690%2C1563%2Cx0%2Cy1631&width=1200&height=630&cmsprod=&watermark=htz-2024",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-07-17/ty-article-magazine/.highlight/00000190-bfa8-d3e0-a5fd-ffbd1b280000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-07-17/ty-article-magazine/.highlight/00000190-bfa8-d3e0-a5fd-ffbd1b280000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-07-17",
+          "magazine_date": "2024-07-19",
+          "title": "איך גיליתי שרק ארבע דרגות של הפרדה עומדות ביני לבין אליהו הנביא",
+          "og_image": "https://img.haarets.co.il/bs/00000190-bfa8-d3e0-a5fd-ffbd1b280000/1f/eb/a1a7fee54f0dbc6166470c274794/story.jpg?precrop=2690%2C1563%2Cx0%2Cy1631&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-07-17/ty-article-magazine/.highlight/00000190-c00a-d211-a5da-ed4ba5750000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-07-17",
+          "magazine_date": "2024-07-19",
+          "title": "37 מעלות ביוון, 38 בספרד, 39 בקפריסין. ועדיין, יש לאן לברוח",
+          "og_image": "https://img.haarets.co.il/bs/00000190-c00a-d211-a5da-ed4ba5750000/7a/ce/8b8d37504c05845ab4e37af7ce7d/cyprus.jpg?precrop=701%2C408%2Cx0%2Cy18&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-07-17/ty-article-magazine/.highlight/00000190-c083-db81-a3f7-f29fcce00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-07-17",
+          "magazine_date": "2024-07-19",
+          "title": "כבר כמעט הספדנו את תעשיית תחליפי הבשר, ואז נתקלנו בסטארט־אפ ישראלי קטן",
+          "og_image": "https://img.haarets.co.il/bs/00000190-c083-db81-a3f7-f29fcce00000/40/e4/6cd41344429fa4e47d1e2181f32a/23549.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-07-17/ty-article-magazine/.highlight/00000190-c084-d458-a3d7-ebe7597b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-07-17",
+          "magazine_date": "2024-07-19",
+          "title": "עליית הרבע מיליון: פוטין סידר לישראל הגירת ענק של ליברלים",
+          "og_image": "https://img.haarets.co.il/bs/00000190-c084-d458-a3d7-ebe7597b0000/93/6a/cd18079e45a9bd8292aad6b3fa7b/08014.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-07-17/ty-article/.highlight/00000190-c094-d3e0-a5fd-ebb5d5db0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-07-17",
+          "magazine_date": "2024-07-19",
+          "title": "קרפיון או כריש? מה למדנו על נתניהו מדוח ועדת החקירה בעניין הצוללות",
+          "og_image": "https://img.haarets.co.il/bs/00000190-c094-d3e0-a5fd-ebb5d5db0000/51/96/eedc9cc649408f7bbe35e82f2987/57653126.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-07-17/ty-article-magazine/.highlight/00000190-c000-d3a7-a79e-c253cae60000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-07-17",
+          "magazine_date": "2024-07-19",
+          "title": "טלטלה פוליטית, בגידת הגוף וקשר עם גבר צעיר: אחרית ימיו של מיכלאנג'לו",
+          "og_image": "https://img.haarets.co.il/bs/00000190-c000-d3a7-a79e-c253cae60000/9f/51/f3dd86c44daf917d8571e270aee4/screenshot-2024-07-17-at-18-31-38.png?precrop=1556%2C905%2Cx0%2Cy588&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-07-17/ty-article/.highlight/00000190-bfbc-de8b-adfc-bfbc43cf0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-07-17",
+          "magazine_date": "2024-07-19",
+          "title": "בחור קטן בדרום כרתים מצאתי את גן עדן. נשארתי חודש שלם",
+          "og_image": "https://img.haarets.co.il/bs/00000190-bfbc-de8b-adfc-bfbc43cf0000/ca/42/ba5d3c444cd6a82ae6767908a8f3/03393.jpg?precrop=2400%2C1396%2Cx0%2Cy61&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-07-17/ty-article/.highlight/00000190-bfe9-d2f8-abdb-bfedd6d10000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-07-17",
+          "magazine_date": "2024-07-19",
+          "title": "הלקח הגרמני: צריך פחות סיסמאות ויותר מהחיים עצמם",
+          "og_image": "https://img.haarets.co.il/bs/00000190-bfe9-d2f8-abdb-bfedd6d10000/db/2d/7d2682d141c1b31b3b4745948b40/57628414.JPG?precrop=3143%2C1827%2Cx0%2Cy1030&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2024-07-17/ty-article/.highlight/00000190-bfb6-d3e0-a5fd-ffb7e03d0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2024-07-17",
+          "magazine_date": "2024-07-19",
+          "title": "מכתב למערכת \"הארץ\" טען שהעיתון שגה בלשונו. האמנם?",
+          "og_image": "https://img.haarets.co.il/bs/00000190-bfb6-d3e0-a5fd-ffb7e03d0000/cf/54/d46bff8045e7860f06e612544763/57640236.JPG?precrop=1933%2C1124%2Cx0%2Cy45&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-07-17/ty-article/.highlight/00000190-bfd0-d2f8-abdb-bff42d830000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-07-17",
+          "magazine_date": "2024-07-19",
+          "title": "רק במדינה אחת עדיין מסכימים להקריב ילדים במלחמה: ישראל",
+          "og_image": "https://img.haarets.co.il/bs/00000190-bfd0-d2f8-abdb-bff42d830000/8c/6d/319b5e4140e695fbbe1a98be0575/57640189.JPG?precrop=1600%2C930%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-07-17/ty-article-face/.highlight/00000190-c137-de8b-adfc-d93727160002",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-07-17",
+          "magazine_date": "2024-07-19",
+          "title": "\"אבא נלחם ככל יכולתו. כואב לי לראות אותו מקבל מכות בכנסת\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-c137-de8b-adfc-d93727160002/52/46/1fd1725242f998f1f0b470327832/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-07-17/ty-article-magazine/.highlight/00000190-c09f-de8b-adfc-d9bf42b90000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-07-17",
+          "magazine_date": "2024-07-19",
+          "title": "\"לא רציתי להיות רופאה בישראל. רציתי קריירה וגם חיים נורמליים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-c09f-de8b-adfc-d9bf42b90000/ec/b9/8da94d5f487985775c5c394439bd/57623895.JPG?precrop=8192%2C4763%2Cx0%2Cy446&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-07-17/ty-article-magazine/.highlight/00000190-c0fe-db81-a3f7-f2fe0b630000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-07-17",
+          "magazine_date": "2024-07-19",
+          "title": "הצל הישראלי קיבל הכרה רשמית. עלייתו לקדמת הבמה עוד תתברר כרגע חשוב",
+          "og_image": "https://img.haarets.co.il/bs/00000190-c0fe-db81-a3f7-f2fe0b630000/33/6a/19cb455a4c43b4ad6cc1d636f25c/22596.jpg?precrop=1809%2C1052%2Cx47%2Cy250&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-07-18/ty-article-magazine/.highlight/00000190-c4f3-db81-a3f7-f6ff76d10000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-07-18",
+          "magazine_date": "2024-07-19",
+          "title": "עוצמה יהודית משבשת את פעילות הקואליציה. איך מבחינים בעצם?",
+          "og_image": "https://img.haarets.co.il/bs/00000190-c4f3-db81-a3f7-f6ff76d10000/c1/f6/614ac01e46328b77e86819ee4089/headline-m.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-07-17/ty-article/.highlight/00000190-c074-d2f8-abdb-e47412000000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-07-17",
+          "magazine_date": "2024-07-19",
+          "title": "למה נתת דרגות קצונה למי שאמר שהשמאל הוא האויב? \"תגיש תלונה במשטרה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-c074-d2f8-abdb-e47412000000/09/2c/9b3ddd9b463dafae8a4deb81c0f5/57652249.JPG?precrop=7094%2C4125%2Cx0%2Cy276&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-07-17/ty-article-magazine/.highlight/00000190-c13c-de8b-adfc-d93c14970000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-07-17",
+          "magazine_date": "2024-07-19",
+          "title": "\"זה לא רק אני, כל אנגליה עזרו לי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-c16a-db81-a3f7-f3feb9860000/75/f2/cf8337144295bb6034f3a77e295c/696589.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-07-17/ty-article-20q/.highlight/00000190-c00b-d3a7-a79e-c25b23f10000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-07-17",
+          "magazine_date": "2024-07-19",
+          "title": "לאיזו חיה קשור שמו של המאכל בוריטו?",
+          "og_image": "https://img.haarets.co.il/bs/00000190-c00b-d3a7-a79e-c25b23f10000/8d/0d/2858bfb89049cb230b54e9b4c659/3666601488.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-07-17/ty-article-magazine/.highlight/00000190-c043-de8b-adfc-d9635b1d0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-07-17",
+          "magazine_date": "2024-07-19",
+          "title": "לא חייבים לנסוע ליפן. גם בישראל מגדלים בשר וואגיו משובח",
+          "og_image": "https://img.haarets.co.il/bs/00000190-c043-de8b-adfc-d9635b1d0000/e3/3a/e1cfaf0c4bdaa7023006df0434d7/06856.jpg?precrop=2400%2C1396%2Cx0%2Cy113&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-07-18/ty-article-magazine/.premium/00000190-c4d5-d3e0-a5fd-eff53cdb0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-07-18",
+          "magazine_date": "2024-07-19",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 19.7.2024",
+          "og_image": "https://img.haarets.co.il/bs/00000190-c4d5-d3e0-a5fd-eff53cdb0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-07-18/ty-article/.premium/00000190-c4d1-db81-a3f7-f6ddf5b30000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-07-18",
+          "magazine_date": "2024-07-19",
+          "title": "החיפזון מהשטן",
+          "og_image": "https://img.haarets.co.il/bs/00000190-c4d1-db81-a3f7-f6ddf5b30000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-07-18/ty-article/.premium/00000190-c4e3-d3a7-a79e-c6f3aee10000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-07-18",
+          "magazine_date": "2024-07-19",
+          "title": "משפחה גדולה - מורידה מנת משכל",
+          "og_image": "https://img.haarets.co.il/bs/00000190-c4e3-d3a7-a79e-c6f3aee10000/51/99/8fd2c1e34d229b48177d6a2f2f88/mefursamot.jpg?precrop=1250%2C727%2Cx0%2Cy2188&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-07-14/ty-article/00000190-b05d-df47-a7bf-b05fc9420000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-07-14",
+          "magazine_date": "2024-07-19",
+          "title": "בגיל 99: מת השגריר הישראלי שנחטף לחודשיים בקולומביה",
+          "og_image": "https://img.haarets.co.il/bs/00000190-b05d-df47-a7bf-b05fc9420000/b3/1c/830384de4f71b75e3b9c80dc6827/screenshot-2024-07-14-105704.png?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-07-18/ty-article/00000190-c4dc-d258-a3ff-e4dd7b870000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-07-18",
+          "magazine_date": "2024-07-19",
+          "title": "\"צעקתי, המשיח הגיע\": מת גבריאל בן שמחון, מראשוני מעפילי מרוקו",
+          "og_image": "https://img.haarets.co.il/bs/00000190-c4dc-d258-a3ff-e4dd7b870000/4f/4e/3245362f422fa27983b233a842b8/1212.webp?precrop=1189%2C692%2Cx311%2Cy180&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2024-07-18/ty-article/.premium/00000190-c4dd-d3e0-a5fd-effd70a10000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2024-07-18",
+          "magazine_date": "2024-07-19",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000190-c4dd-d3e0-a5fd-effd70a10000/35/78/0e8dfcab4714af9d7df526fd8b13/caro.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-07-18/ty-article/.premium/00000190-c4e1-d2f8-abdb-e4e54e760000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-07-18",
+          "magazine_date": "2024-07-19",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000190-c4e1-d2f8-abdb-e4e54e760000/c3/4f/654494344b5497b5e0ac07d577f0/ribooa-musaf-582.jpg?precrop=1083%2C630%2Cx0%2Cy106&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-07-17/ty-article/.highlight/00000190-c11c-d3a7-a79e-c35f652c0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-07-17",
+          "magazine_date": "2024-07-19",
+          "title": "מי לא רוצה להיות מאושר?! אבל יש בעיה",
+          "og_image": "https://img.haarets.co.il/bs/00000190-c11c-d3a7-a79e-c35f652c0000/09/e4/e0aa08cc4f93a4539a3c0a7ed886/57543951.JPG?precrop=7360%2C4279%2Cx0%2Cy633&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

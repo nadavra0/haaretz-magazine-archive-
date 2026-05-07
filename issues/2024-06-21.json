@@ -1,0 +1,363 @@
+{
+  "magazine_date": "2024-06-21",
+  "total_articles": 26,
+  "cover_image": "https://img.haarets.co.il/bs/00000190-2fd4-d5f5-a5d6-effe55540000/40/00/4b8518dd43fbac644ebce8b2161a/57225659.JPG?precrop=3600%2C2092%2Cx0%2Cy278&width=1200&height=630&cmsprod=&watermark=htz-2024",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-06-19/ty-article-magazine/.highlight/00000190-2fd4-d5f5-a5d6-effe55540000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-06-19/ty-article-magazine/.highlight/00000190-2fd4-d5f5-a5d6-effe55540000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-06-19",
+          "magazine_date": "2024-06-21",
+          "title": "היא היתה בת 17, וחיזרה אחרי גבר בן 47. עכשיו היא לא בטוחה שזה מה שקרה",
+          "og_image": "https://img.haarets.co.il/bs/00000190-2fd4-d5f5-a5d6-effe55540000/40/00/4b8518dd43fbac644ebce8b2161a/57225659.JPG?precrop=3600%2C2092%2Cx0%2Cy278&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-06-19/ty-article-magazine/.highlight/00000190-3042-d340-a1f8-384667f00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-06-19",
+          "magazine_date": "2024-06-21",
+          "title": "הוא נראה כמו קפה, מרענן כמו קפה, עם טעם של קפה — אבל הוא לא באמת קפה",
+          "og_image": "https://img.haarets.co.il/bs/00000190-3042-d340-a1f8-384667f00000/46/a0/ccb3b0db40bc8d7f868e0c11769b/57153729.JPG?precrop=4000%2C2326%2Cx0%2Cy445&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-06-19/ty-article/.highlight/00000190-308e-d39e-a999-76ceb0c80000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-06-19",
+          "magazine_date": "2024-06-21",
+          "title": "מה קרה לכותבי מאמרי הדעה של עיתון \"הארץ\" ואיך הם הגיעו להרי ההימלאיה",
+          "og_image": "https://img.haarets.co.il/bs/00000190-308e-d39e-a999-76ceb0c80000/1a/c4/e4b16cf9439aa3abe7a7d6076c35/762024.jpg?precrop=2400%2C1395%2Cx0%2Cy208&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-06-20/ty-article-magazine/.highlight/00000190-325b-d39e-a999-76df14e90000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-06-20",
+          "magazine_date": "2024-06-21",
+          "title": "רבים נוהגים לספק תחזיות קודרות על עתיד ירושלים. הם לגמרי מפספסים",
+          "og_image": "https://img.haarets.co.il/bs/00000190-325b-d39e-a999-76df14e90000/0f/56/9a3b93c2444b87b2484cf90d6259/57270382.JPG?precrop=6720%2C3907%2Cx0%2Cy573&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-06-20/ty-article-magazine/.highlight/00000190-325c-d690-a190-f2df07bc0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-06-20",
+          "magazine_date": "2024-06-21",
+          "title": "עיר אחרי עיר, פרצתי בבכי. יצאתי למסע בחוף המערבי, והגעתי לגיהנום",
+          "og_image": "https://img.haarets.co.il/bs/00000190-325c-d690-a190-f2df07bc0000/a3/59/34aee818485398f2b6e45a03b8ad/18115.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-06-20/ty-article/.highlight/00000190-3559-d700-a7f0-bdfbe3ef0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-06-20",
+          "magazine_date": "2024-06-21",
+          "title": "מאז 7 באוקטובר אני מרגישה יותר יהודייה וציונית מאי פעם. בעיקר בברלין",
+          "og_image": "https://gif.haarets.co.il/bs/00000190-3559-d700-a7f0-bdfbe3ef0000/d8/ae/34d0fb854b88a4bccd1293f90b9f/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-06-19/ty-article/.highlight/00000190-3027-d39e-a999-76ef965c0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-06-19",
+          "magazine_date": "2024-06-21",
+          "title": "אנחנו כבר יודעים שמה שלא הורג, מחשל. מחקרים מסבירים מדוע",
+          "og_image": "https://img.haarets.co.il/bs/00000190-3027-d39e-a999-76ef965c0000/31/6d/2047cdcc45c99e9815318334639c/57262872.JPG?precrop=2205%2C1282%2Cx0%2Cy64&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-06-19/ty-article/.highlight/00000190-3049-d340-a1f8-384d96160000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-06-19",
+          "magazine_date": "2024-06-21",
+          "title": "כשהמדינה מסכנת את הנפש, גם חדר הטיפולים צריך להשתנות",
+          "og_image": "https://img.haarets.co.il/bs/00000190-3049-d340-a1f8-384d96160000/ca/72/d8bcec2e4ec4b7b40243d9f0c8cc/57263158.JPG?precrop=5472%2C3180%2Cx0%2Cy418&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2024-06-19/ty-article/.highlight/00000190-313a-dc02-a7d8-f13e6a2c0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2024-06-19",
+          "magazine_date": "2024-06-21",
+          "title": "איתמר בן־אב\"י טען שיצר אלפי מילים בעברית. המציאות מעט שונה",
+          "og_image": "https://img.haarets.co.il/bs/00000190-313a-dc02-a7d8-f13e6a2c0000/07/e2/2ce727984b589612f537018c5cbf/57272464.JPG?precrop=252%2C147%2Cx0%2Cy2&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-06-19/ty-article/.highlight/00000190-2fe5-d4fa-ad9d-efed9c370000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-06-19",
+          "magazine_date": "2024-06-21",
+          "title": "האם נותרו עדיין אנשים שמסוגלים לקרוא יותר מפסקה אחת בעברית?",
+          "og_image": "https://img.haarets.co.il/bs/00000190-2fe5-d4fa-ad9d-efed9c370000/af/e2/b0e707b04da0a109d6cd0bf27f59/578314.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-06-20/ty-article-face/.highlight/00000190-3536-d4fa-ad9d-ff3fcc2a0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-06-20",
+          "magazine_date": "2024-06-21",
+          "title": "\"שלחו אותנו לניר עוז אבל הגענו מאוחר מדי. תחושת ההחמצה לא עוזבת אותי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-3536-d4fa-ad9d-ff3fcc2a0000/a0/46/be3c0fc942d9a11445d6bf1396cf/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-06-19/ty-article-magazine/.highlight/00000190-301d-d700-a7f0-bdffe7ac0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-06-19",
+          "magazine_date": "2024-06-21",
+          "title": "\"עמדתי להשתקע בניו־זילנד. ואז אמא שלו נכנסה להריון ורצתה לעבור ללטביה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-301d-d700-a7f0-bdffe7ac0000/a3/42/b72361724360a2c397c16fda498e/57257840.JPG?precrop=8192%2C4763%2Cx0%2Cy623&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2024-06-19/ty-article-magazine/.highlight/00000190-3062-d340-a1f8-386612920000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2024-06-19",
+          "magazine_date": "2024-06-21",
+          "title": "\"עבור צעירי דרום קוריאה, תושבי הצפון זרים לגמרי. זו אפילו לא אותה שפה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-3062-d340-a1f8-386612920000/6f/c0/5d40bdc64624af2946f4b0597fed/ira-jpg222222222222.jpg?precrop=2000%2C1163%2Cx0%2Cy148&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-06-19/ty-article-magazine/.highlight/00000190-30a2-d690-a190-f0a74e460000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-06-19",
+          "magazine_date": "2024-06-21",
+          "title": "איזנקוט הוא האיש הכי חשוב בזירה הציבורית. הוא צריך להיות המנהיג הבא",
+          "og_image": "https://img.haarets.co.il/bs/00000190-30a2-d690-a190-f0a74e460000/41/96/28f013484b2ca33e07105cdbcd5a/57290265.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-06-20/ty-article-magazine/.highlight/00000190-355b-d6fa-abb4-77ff82950000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-06-20",
+          "magazine_date": "2024-06-21",
+          "title": "החוקרים במכון ויצמן שובתים. שגולדקנופף יאיץ חלקיקים",
+          "og_image": "https://img.haarets.co.il/bs/00000190-355b-d6fa-abb4-77ff82950000/f8/19/f61b351a471e96655bae2a597cb0/headline-m.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-06-17/ty-article/.highlight/00000190-2513-df11-a3b9-a51767510000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-06-17",
+          "magazine_date": "2024-06-21",
+          "title": "\"אז תכתוב שאני אלימה. בסדר? תכתוב שאני תוקפנית. תוסיף את זה לפנתיאון\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-2513-df11-a3b9-a51767510000/d4/95/3a348a8d4db0b411a583dc1f11f0/57255486.JPG?precrop=4368%2C2540%2Cx0%2Cy126&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-06-20/ty-article-magazine/.highlight/00000190-3537-d39e-a999-77ff903e0002",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-06-20",
+          "magazine_date": "2024-06-21",
+          "title": "\"לא אמרתי שזה שלטון לא טוב, אני אומר שהשלטון לא מתפקד\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-3545-d340-a1f8-3d45e6f40000/4c/10/d66ac4824877a78aea35dbf57914/25593.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-06-19/ty-article-20q/.highlight/00000190-2f90-d340-a1f8-2f94ece20000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-06-19",
+          "magazine_date": "2024-06-21",
+          "title": "\"הראשון שהבין את גודל האירוע\", אמר דן כנר על נתניהו. איזה אירוע?",
+          "og_image": "https://img.haarets.co.il/bs/00000190-2f90-d340-a1f8-2f94ece20000/71/f6/a1c4a3a44d258d405c0f9f0286f2/39488.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-06-20/ty-article-magazine/.premium/00000190-350d-d340-a1f8-3d0d89f40000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-06-20",
+          "magazine_date": "2024-06-21",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 21.6.2024",
+          "og_image": "https://img.haarets.co.il/bs/00000190-350d-d340-a1f8-3d0d89f40000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-06-20/ty-article/.premium/00000190-3509-d4fa-ad9d-ff09d1f40000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-06-20",
+          "magazine_date": "2024-06-21",
+          "title": "קרבות בטשקנט",
+          "og_image": "https://img.haarets.co.il/bs/00000190-3509-d4fa-ad9d-ff09d1f40000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-06-20/ty-article/.premium/00000190-3554-d700-a7f0-bdf6668d0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-06-20",
+          "magazine_date": "2024-06-21",
+          "title": "פסיכיאטר סובייטי: הדת גורמת לשיגעון",
+          "og_image": "https://img.haarets.co.il/bs/00000190-3554-d700-a7f0-bdf6668d0000/7b/ab/f32089bd4410a8227567829cdcbb/mefursamot.jpg?precrop=1250%2C727%2Cx0%2Cy51&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-06-15/ty-article/00000190-1caf-dee3-af9b-dfbfdd610000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-06-15",
+          "magazine_date": "2024-06-21",
+          "title": "נהג המשאית שהתאמן בזמן פריקת הסחורה היה לאלוף ישראל בשחמט",
+          "og_image": "https://img.haarets.co.il/bs/00000190-1caf-dee3-af9b-dfbfdd610000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-06-20/ty-article/00000190-34ff-d4fa-ad9d-ffffbd070000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-06-20",
+          "magazine_date": "2024-06-21",
+          "title": "השכנים המוסלמים קברו את אחד מאחרוני יהודי תימן",
+          "og_image": "https://img.haarets.co.il/bs/00000190-34ff-d4fa-ad9d-ffffbd070000/79/3c/3018a2fa472c88ecf62bb5eb54e5/https-img-youtube-com-vi-9v2npp4livs-0.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2024-06-20/ty-article/.premium/00000190-3512-d39e-a999-77de478b0000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2024-06-20",
+          "magazine_date": "2024-06-21",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000190-3512-d39e-a999-77de478b0000/a9/8e/3be60580418e9b19ad7a8925e2c8/caroweb.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-06-20/ty-article/.premium/00000190-3515-d39e-a999-77df50220000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-06-20",
+          "magazine_date": "2024-06-21",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000190-3515-d39e-a999-77df50220000/44/b4/7779544a4989b1010a8adba9c917/ribooa-musaf-578-new.jpg?precrop=1083%2C630%2Cx0%2Cy139&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-06-19/ty-article/.highlight/00000190-306e-d340-a1f8-386e7d240000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-06-19",
+          "magazine_date": "2024-06-21",
+          "title": "הנשמה מתה ב–7 באוקטובר, גברת דיימון",
+          "og_image": "https://img.haarets.co.il/bs/00000190-306e-d340-a1f8-386e7d240000/b6/50/af0c64784339a7961f276b3e89ff/41695.jpg?precrop=1803%2C1048%2Cx0%2Cy548&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

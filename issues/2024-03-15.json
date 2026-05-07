@@ -1,0 +1,323 @@
+{
+  "magazine_date": "2024-03-15",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/0000018e-3762-d60e-a1ee-f767aa8f0000/38/7c/bea34ed8462a82196b78835918cd/23101.jpg?precrop=1603%2C932%2Cx0%2Cy966&width=1200&height=630&cmsprod=&watermark=htz-2024",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-03-13/ty-article-magazine/.highlight/0000018e-3762-d60e-a1ee-f767aa8f0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-03-12/ty-article/.highlight/0000018e-33f1-da0e-a78f-fffdf0cb0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-03-12",
+          "magazine_date": "2024-03-15",
+          "title": "מכירים את האגדה על הלמינגים שקופצים מראש הצוק? אז ככה אנחנו",
+          "og_image": "https://gif.haarets.co.il/bs/0000018e-33f1-da0e-a78f-fffdf0cb0000/37/8e/a755973a44acbff5e2f0c184b242/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-03-13/ty-article-magazine/.highlight/0000018e-3762-d60e-a1ee-f767aa8f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-03-13",
+          "magazine_date": "2024-03-15",
+          "title": "\"האישה הכי יפה בעזה\" נמלטה מהרצועה באישון ליל. ומה יהיה איתה עכשיו?",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-3762-d60e-a1ee-f767aa8f0000/38/7c/bea34ed8462a82196b78835918cd/23101.jpg?precrop=1603%2C932%2Cx0%2Cy966&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-03-13/ty-article-magazine/.highlight/0000018e-3763-d60e-a1ee-f76729cb0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-03-13",
+          "magazine_date": "2024-03-15",
+          "title": "זו טוסקנה של ישראל, והמראות יוצאי דופן. אי אפשר לא ליהנות פה ממעט נחמה",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-3763-d60e-a1ee-f76729cb0000/61/41/ae0be4264d01a089fff369e4e61b/26940-2.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-03-13/ty-article-magazine/.highlight/0000018e-3764-d60e-a1ee-f765079f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-03-13",
+          "magazine_date": "2024-03-15",
+          "title": "חשבו שהתותחנים סובלים מפוסט טראומה. מתברר שהם סובלים מפגיעה מוחית",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-3764-d60e-a1ee-f765079f0000/67/dc/2f6f08c249708ab542b5526672c0/55924422.JPG?precrop=5472%2C3180%2Cx0%2Cy33&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-03-14/ty-article-magazine/.highlight/0000018e-3764-df5e-a5fe-f7fca66b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-03-14",
+          "magazine_date": "2024-03-15",
+          "title": "הוא הציל נשים, הוא סיכן נשים. הרופא המוערך שמצא עצמו כלוא עם רוצחים",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-3764-df5e-a5fe-f7fca66b0000/ac/83/0514a8f04dd6afdd534131eef2fc/05924.jpg?precrop=1603%2C932%2Cx0%2Cy486&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-03-13/ty-article-magazine/.highlight/0000018e-325a-df45-afaf-3f7f64430000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-03-13",
+          "magazine_date": "2024-03-15",
+          "title": "מכונת ההסברה הצליחה: נמצא המכנה המשותף הנמוך ביותר",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-325a-df45-afaf-3f7f64430000/64/cf/58be4d8049b4935568ababd1e9a4/417453307-10161467577548410-5227199029278828333-n.jpg?precrop=720%2C419%2Cx0%2Cy3&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-03-13/ty-article-magazine/.highlight/0000018e-3269-df45-afaf-3f7f72c50000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-03-13",
+          "magazine_date": "2024-03-15",
+          "title": "דפקו אותך? הרווחת. קיפחו אותך? ניצחת. גם ישראל הפכה לקורבניסטן",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-3269-df45-afaf-3f7f72c50000/9d/9f/f874483843d59182a3a1a69645e8/55937093.JPG?precrop=2856%2C1660%2Cx897%2Cy762&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-03-13/ty-article/.highlight/0000018e-3230-d86c-abae-3679676f0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-03-13",
+          "magazine_date": "2024-03-15",
+          "title": "ההורים הפכו לאימת המערכת, והמורים והמנהלים פוחדים. פוחדים מאוד",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-3230-d86c-abae-3679676f0000/d6/8c/2359f8614701bb09812e5bf1cfe0/556009.jpg?precrop=1884%2C1095%2Cx159%2Cy22&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2024-03-12/ty-article/.highlight/0000018e-324e-df45-afaf-3f7f0b260000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2024-03-12",
+          "magazine_date": "2024-03-15",
+          "title": "האם שושנה היא בכלל ורד, או שאולי הפרח הזה לא התקיים מעולם?",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-324e-df45-afaf-3f7f0b260000/54/51/b21aa9994026a4b72b2fa982a5ea/55923794.JPG?precrop=2048%2C1191%2Cx0%2Cy336&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-03-13/ty-article-face/.highlight/0000018e-38b1-dc74-adbe-bcb779b50000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-03-13",
+          "magazine_date": "2024-03-15",
+          "title": "\"אני בת של פדופיל. הייתי בטוחה שזה מה שקורה לכל הילדות\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-38b1-dc74-adbe-bcb779b50000/8f/0c/f83fdb0743618ca6334ab1e9bbbe/facetemplate1800x1200-1.jpg?precrop=1800%2C1046%2Cx0%2Cy26&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-03-13/ty-article-magazine/.highlight/0000018e-325c-d2be-a9ae-bedfd60d0004",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-03-13",
+          "magazine_date": "2024-03-15",
+          "title": "\"היינו קמות בחמש בבוקר והולכות לחלוב פרות. ככה זה היה אצלנו\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-325c-d2be-a9ae-bedfd60d0004/91/22/c95cb44e4b21a061fcffea74099e/79960.jpg?precrop=2400%2C1395%2Cx0%2Cy163&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-03-13/ty-article-magazine/.highlight/0000018e-36d6-d9f7-a5ee-f6df75010000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-03-13",
+          "magazine_date": "2024-03-15",
+          "title": "מישהו במקרה יודע מה הקשר בין יואב גלנט לארקדי דוכין?",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-36d6-d9f7-a5ee-f6df75010000/65/62/26745e0b435bb03d09947b8b8063/alon.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-03-13/ty-article-magazine/.highlight/0000018e-38aa-d2fd-a1fe-3dfbf7620000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-03-13",
+          "magazine_date": "2024-03-15",
+          "title": "מרואן עיסא חי או מת. החיסול של שרדינגר",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-38aa-d2fd-a1fe-3dfbf7620000/1c/07/95bbcf634e8ab45e36d1adf8219d/headline-m.jpg?precrop=1563%2C909%2Cx0%2Cy198&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-03-13/ty-article/.highlight/0000018e-32df-d897-a58f-b7dfad0b0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-03-13",
+          "magazine_date": "2024-03-15",
+          "title": "מה הבעיה שלכם עם העברת ילדים יתומים מעזה לגדה? \"כל תנודה צריך לתאם\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-32df-d897-a58f-b7dfad0b0000/af/d1/a9decbf34fb3a17d6c9770b1e42c/55938020.JPG?precrop=6000%2C3488%2Cx0%2Cy147&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-03-13/ty-article-magazine/.highlight/0000018e-38b4-dffc-a38e-f8f76b130000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-03-13",
+          "magazine_date": "2024-03-15",
+          "title": "\"כן עוברות לי מחשבות של אולי להוציא שירים שקטים\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-38c7-d2fd-a1fe-3df7f60e0000/67/d2/a134007049879f56c77c7812f77e/45389.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-03-13/ty-article-20q/.highlight/0000018e-37b8-d9a1-a5cf-37bd2a9d0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-03-13",
+          "magazine_date": "2024-03-15",
+          "title": "מה עשו פנחס רוזן ב-1951 ולוי אשכול ב-1961 ולא ניתן לעשות כיום?",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-37b8-d9a1-a5cf-37bd2a9d0000/2f/7e/8a54231c4dcaba00b7d6aa1cbac8/823900.jpg?precrop=2200%2C1279%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-03-13/ty-article-magazine/.highlight/0000018e-32c3-d42b-a3fe-7bef3cb80000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-03-13",
+          "magazine_date": "2024-03-15",
+          "title": "זה מקום נדיר, שעדיין מייצרים בו מוצרי חלב טובים בקנה מידה קטן",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-32c3-d42b-a3fe-7bef3cb80000/d1/3a/83c85d9a46bcad69edcf4ffbb917/2.jpg?precrop=1333%2C775%2Cx0%2Cy330&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-03-14/ty-article-magazine/.premium/0000018e-39d8-d21d-a3ef-3bde9eae0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-03-14",
+          "magazine_date": "2024-03-15",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 15.3.2024",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-39d8-d21d-a3ef-3bde9eae0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-03-14/ty-article/.highlight/0000018e-39e0-d877-a9ff-79fedf140000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-03-14",
+          "magazine_date": "2024-03-15",
+          "title": "עילוי אוזבקי",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-39e0-d877-a9ff-79fedf140000/e8/b8/f05ccfbb4eb0af533f033f8e5046/586px-nodirbek-abdusattorov-in-2024-cropped.jpg?precrop=586%2C341%2Cx0%2Cy25&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-03-13/ty-article/.highlight/0000018e-38cb-d21d-a3ef-3bcf91c30000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-03-13",
+          "magazine_date": "2024-03-15",
+          "title": "הסתייגות בשגרירות ישראל בארה\"ב ממינוי נתניהו",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-38cb-d21d-a3ef-3bcf91c30000/a7/85/d079b27a46b3bd66ad12ad92ce55/mefursamot.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-03-14/ty-article/0000018e-3c26-df9c-a7ae-3db77b4f0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-03-14",
+          "magazine_date": "2024-03-15",
+          "title": "\"מרגע שנסעתי לעזה שום דבר בארץ לא עניין אותי\": תמר פלג מתה בגיל 97",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-3c26-df9c-a7ae-3db77b4f0000/15/a5/ac75622e564743c97d7a0dc5d24e/820755713.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-03-14/ty-article/.premium/0000018e-39d5-d2fd-a1fe-3df5ce7a0001",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-03-14",
+          "magazine_date": "2024-03-15",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-39d5-d2fd-a1fe-3df5ce7a0001/67/5f/a8c080f74627bbeacb24700fffa0/ribooa-musaf-564-new.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-03-13/ty-article/.highlight/0000018e-36d6-d9f7-a5ee-f6df98810000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-03-13",
+          "magazine_date": "2024-03-15",
+          "title": "אנחנו לא רציונליים, וגם אין לנו מודעות עצמית",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-36d6-d9f7-a5ee-f6df98810000/39/6d/d9612eab4aa59281cb07a825fa4e/95506.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

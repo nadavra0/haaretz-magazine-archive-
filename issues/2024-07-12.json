@@ -1,0 +1,303 @@
+{
+  "magazine_date": "2024-07-12",
+  "total_articles": 21,
+  "cover_image": "https://img.haarets.co.il/bs/00000190-9c23-d007-a5f3-be7bbfb30000/45/a5/eed95f554510a405b973171324e7/57516899.JPG?precrop=6000%2C3488%2Cx0%2Cy149&width=1200&height=630&cmsprod=&watermark=htz-2024",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-07-10/ty-article-magazine/.highlight/00000190-9c23-d007-a5f3-be7bbfb30000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-07-10/ty-article-magazine/.highlight/00000190-9c23-d007-a5f3-be7bbfb30000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-07-10",
+          "magazine_date": "2024-07-12",
+          "title": "החרדים לקחו מבנותיהם מאות מיליונים למפעל החזרה בתשובה. כך הוא נראה",
+          "og_image": "https://img.haarets.co.il/bs/00000190-9c23-d007-a5f3-be7bbfb30000/45/a5/eed95f554510a405b973171324e7/57516899.JPG?precrop=6000%2C3488%2Cx0%2Cy149&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-07-10/ty-article-magazine/.highlight/00000190-9cb8-d41c-abfc-defcbcb10000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-07-10",
+          "magazine_date": "2024-07-12",
+          "title": "הן לא היו מרוצות מההנהגה שלהן. אז בגיל 89, הן אירגנו הפיכה",
+          "og_image": "https://img.haarets.co.il/bs/00000190-9cb8-d41c-abfc-defcbcb10000/e2/24/e53135684374b43dedfccd6faff6/57518507.JPG?precrop=5045%2C2934%2Cx156%2Cy425&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-07-11/ty-article-magazine/.highlight/00000190-9d25-dc15-a191-bd3fc2530000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-07-11",
+          "magazine_date": "2024-07-12",
+          "title": "הם היו שמאלנים ורדיקליים מדי בשביל ישראל כבר לפני 50 שנה. והיום?",
+          "og_image": "https://img.haarets.co.il/bs/00000190-9d25-dc15-a191-bd3fc2530000/16/ad/cceb761348a3b2c93538c3d0f8f5/96003.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-07-11/ty-article/.highlight/00000190-a26c-d03e-a5fd-bbfe4c3c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-07-11",
+          "magazine_date": "2024-07-12",
+          "title": "לאזרחים כבר יש ציפיות כל כך נמוכות מהמדינה, עד שכל דבר נחשב לנס",
+          "og_image": "https://gif.haarets.co.il/bs/00000190-a26c-d03e-a5fd-bbfe4c3c0000/cd/57/ee64f84e4cb8bee76ceca8c91d8b/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-07-11/ty-article/.highlight/00000190-9c05-dc22-a79f-bd0f59c00000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-07-11",
+          "magazine_date": "2024-07-12",
+          "title": "הציונים הגבוהים של ישראל במדד האושר הם בלוף אחד גדול",
+          "og_image": "https://img.haarets.co.il/bs/00000190-9c05-dc22-a79f-bd0f59c00000/1f/c1/fdfe5f3f4e2da176db68bebfdb3a/000690.jpg?precrop=2400%2C1396%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-07-11/ty-article/.highlight/00000190-9c19-d087-a59e-ff3de0e50000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-07-11",
+          "magazine_date": "2024-07-12",
+          "title": "איך לחנך ילדים מאושרים במציאות אומללה? בהוטן מלמדת לקח חשוב",
+          "og_image": "https://img.haarets.co.il/bs/00000190-9c19-d087-a59e-ff3de0e50000/09/e4/e0aa08cc4f93a4539a3c0a7ed886/57543951.JPG?precrop=7360%2C4279%2Cx0%2Cy633&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-07-10/ty-article/.highlight/00000190-9bfe-de9b-ad99-fffe36660000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-07-10",
+          "magazine_date": "2024-07-12",
+          "title": "השמאל חייב להפסיק לומר לכולם למה הם טועים. יש משהו שאנחנו לא רואים",
+          "og_image": "https://img.haarets.co.il/bs/00000190-9bfe-de9b-ad99-fffe36660000/f8/80/913fdf544a82a04b57439110a92e/erl-king-8c18e6.jpg?precrop=1045%2C608%2Cx175%2Cy203&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-07-10/ty-article-face/.highlight/00000190-9d6f-d03e-a5fd-9dffba810000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-07-10",
+          "magazine_date": "2024-07-12",
+          "title": "\"נעמדתי בכיתה ועם דמעות שאלתי למה כולם רבים. הילדים הסתכלו עליי מוזר\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-9d6f-d03e-a5fd-9dffba810000/04/f6/8d6961b8406b8bb8bcae6604db09/facetemplate1800x1200-1.jpg?precrop=1800%2C1046%2Cx0%2Cy51&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-07-10/ty-article-magazine/.highlight/00000190-9cb6-d0fe-a3d8-9cb6b5830000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-07-10",
+          "magazine_date": "2024-07-12",
+          "title": "\"אנחנו נשואים 15 שנה. זו החופשה הראשונה שלנו בחו\"ל ביחד\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-9cb6-d0fe-a3d8-9cb6b5830000/c5/41/46c5faf74202985d76f9051b093c/58540.jpg?precrop=2400%2C1395%2Cx0%2Cy80&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2024-07-10/ty-article-magazine/.highlight/00000190-9c8d-d03e-a5fd-9dbf84210000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2024-07-10",
+          "magazine_date": "2024-07-12",
+          "title": "\"לעתים, רצח עומד בזיקה לתענוגות החושים. הרוצח חווה הנאה חושית עמוקה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-9c8d-d03e-a5fd-9dbf84210000/01/b5/405103804657a377b9bf411fb69a/57558624.JPG?precrop=8192%2C4763%2Cx0%2Cy321&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-07-11/ty-article-magazine/.highlight/00000190-9d07-ddf1-abb6-fdc7a3dd0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-07-11",
+          "magazine_date": "2024-07-12",
+          "title": "למשך שעה וחצי הייתי במדינה אחרת, פשוטה, צנועה ורגישה. זה היה כל כך יפה",
+          "og_image": "https://img.haarets.co.il/bs/00000190-9d07-ddf1-abb6-fdc7a3dd0000/ee/4b/50ea40b24eb4a0f43151c38148be/30060.jpg?precrop=2400%2C1396%2Cx0%2Cy308&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-07-11/ty-article-magazine/.highlight/00000190-a0c4-dbad-adfc-f4ddc7c50000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-07-11",
+          "magazine_date": "2024-07-12",
+          "title": "רפורמיסט נבחר לנשיא איראן. בסדר, גם יריב לוין רפורמיסט",
+          "og_image": "https://img.haarets.co.il/bs/00000190-a0c4-dbad-adfc-f4ddc7c50000/b5/65/a1b6c50f419f909038934605c15b/headline-m.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-07-10/ty-article/.highlight/00000190-9c72-d07e-a798-bef3ae940000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-07-10",
+          "magazine_date": "2024-07-12",
+          "title": "למה שב\"ס עושה יחסי ציבור לבן גביר? \"אני לא עסוק בלהצדיק את עצמי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-9c72-d07e-a798-bef3ae940000/b2/89/bbcab53e4b3a9308fbc7857b464e/mehabel.png?precrop=1581%2C920%2Cx287%2Cy8&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-07-11/ty-article-magazine/.highlight/00000190-a1b6-d03e-a5fd-b9b6282b0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-07-11",
+          "magazine_date": "2024-07-12",
+          "title": "\"אם היא היתה רמטכ\"ל לא היה 7 באוקטובר\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-a1ea-dd20-abfa-ffff05a20000/7d/ea/470771ac4c9497dfcd893fe1d1e4/016927.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-07-10/ty-article-20q/.highlight/00000190-96a6-dae0-a59d-96be8f650000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-07-10",
+          "magazine_date": "2024-07-12",
+          "title": "איזה ח\"כ מכהן אמר: \"החלום שלי זה להביא D9 ולפוצץ את ביהמ\"ש העליון\"?",
+          "og_image": "https://img.haarets.co.il/bs/00000190-96a6-dae0-a59d-96be8f650000/15/f4/ba72db11404f8e9c166eec52c4ce/617523.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-07-10/ty-article-magazine/.highlight/00000190-9bf1-d591-a7ff-fff305310000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-07-10",
+          "magazine_date": "2024-07-12",
+          "title": "זו סדרת קוקטיילים ייחודית, ברמה שטרם ראינו כמוה בישראל",
+          "og_image": "https://img.haarets.co.il/bs/00000190-9bf1-d591-a7ff-fff305310000/9f/fd/5add70e24a1c9f1e777d57828e6e/1.jpg?precrop=1429%2C831%2Cx0%2Cy614&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-07-11/ty-article-magazine/.premium/00000190-a0b9-da1a-adf0-a6bde7110000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-07-11",
+          "magazine_date": "2024-07-12",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 12.7.2024",
+          "og_image": "https://img.haarets.co.il/bs/00000190-a0b9-da1a-adf0-a6bde7110000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-07-11/ty-article/.premium/00000190-a0a8-ddf1-abb6-ede9e6210000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-07-11",
+          "magazine_date": "2024-07-12",
+          "title": "פסגת בוקרשט",
+          "og_image": "https://img.haarets.co.il/bs/00000190-a0a8-ddf1-abb6-ede9e6210000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-07-11/ty-article/.premium/00000190-a0c0-da1a-adf0-a6dd07480000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-07-11",
+          "magazine_date": "2024-07-12",
+          "title": "הרב יוסף: \"אם יש לנו ראש ממשלה שלא מתאים, זו אשמתנו ולא אשמתו\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-a0c0-da1a-adf0-a6dd07480000/70/6d/cdaf0b6446cc872e09938ba75a15/mefursamot.jpg?precrop=1250%2C727%2Cx0%2Cy1118&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-07-11/ty-article/.premium/00000190-a0bd-d03e-a5fd-b9bfe2360000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-07-11",
+          "magazine_date": "2024-07-12",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000190-a0bd-d03e-a5fd-b9bfe2360000/9f/61/6c57009e4ab5854ebc5315060ef3/ribooa-musaf-581.jpg?precrop=1083%2C630%2Cx0%2Cy231&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-07-10/ty-article/.highlight/00000190-9d1e-d0fe-a3d8-9d9ef32b0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-07-10",
+          "magazine_date": "2024-07-12",
+          "title": "הילדים האלה כבר לא יעלו למעלה ויצפו במסכים",
+          "og_image": "https://img.haarets.co.il/bs/00000190-9d1e-d0fe-a3d8-9d9ef32b0000/af/c3/48ec45a9499a997fd5e008a07bac/16533.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

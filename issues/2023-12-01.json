@@ -1,0 +1,23 @@
+{
+  "magazine_date": "2023-12-01",
+  "total_articles": 1,
+  "cover_image": null,
+  "cover_article_url": null,
+  "sections": {
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2023-12-01/ty-article/0000018c-26b8-db3a-a1be-37ffd1d40000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2023-12-01",
+          "magazine_date": "2023-12-01",
+          "title": "רק אחרי שנים בישראל, יצרן החנוכיות שעלה מבגדד גילה לבנו את סודו העצוב",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-26b8-db3a-a1be-37ffd1d40000/bb/02/8de6b4234357a00a1502f6d14b1e/pxl-20231127-100638924-mp.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

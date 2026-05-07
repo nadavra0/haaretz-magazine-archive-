@@ -1,0 +1,338 @@
+{
+  "magazine_date": "2024-03-29",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/0000018e-7f85-d680-a1cf-ff871e7d0000/0d/80/e2d1ff494477a46378754e387e12/07978.jpg?precrop=2322%2C1350%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-03-27/ty-article-magazine/.highlight/0000018e-7f85-d680-a1cf-ff871e7d0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-03-27/ty-article-magazine/.highlight/0000018e-7f85-d680-a1cf-ff871e7d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "הגענו לסוף עידן ההאצה, ובקרוב האנושות תתכווץ. האם זה מה שיציל אותנו?",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-7f85-d680-a1cf-ff871e7d0000/0d/80/e2d1ff494477a46378754e387e12/07978.jpg?precrop=2322%2C1350%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-03-27/ty-article-magazine/.highlight/0000018e-7f86-d96c-af9f-7fc7a6370000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "אחד מכל חמישה חרדים תומך בביטול הפטור מגיוס. האם יש פה הזדמנות לשינוי?",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-7f86-d96c-af9f-7fc7a6370000/a0/59/989e3f6a45d6b04b96f7a329decf/10135-2.jpg?precrop=2400%2C1395%2Cx0%2Cy123&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-03-27/ty-article-magazine/.highlight/0000018e-7f89-d8a5-addf-7fbb5d720000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "אז מי באמת עמד מאחורי רצח קסטנר? מחקר חושף חומרים חדשים בפרשה",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-7f89-d8a5-addf-7fbb5d720000/50/4c/6965b41b4be1bcd789cf77d809df/kestner-promotion.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-03-27/ty-article-magazine/.highlight/0000018e-7fa8-df6d-a7ef-ffe9c8620000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "\"שיט זו הרפתקה לאנשים שהקריירה נתקעה להם. בים אנחנו פורחים\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-7fa8-df6d-a7ef-ffe9c8620000/27/c2/6b6a303e42e8a9f1d8409087fdfb/56101543.JPG?precrop=5301%2C3083%2Cx0%2Cy2758&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-03-27/ty-article-magazine/.highlight/0000018e-8062-d49b-a3bf-f47f49810000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "\"אני חוקר משברים הומניטריים כבר 20 שנה, ולא ראיתי שיעורים כאלה של רעב\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-8062-d49b-a3bf-f47f49810000/7f/e0/291e973e47e692abcd91b4abce9f/56131651.JPG?precrop=2174%2C1264%2Cx0%2Cy683&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-03-27/ty-article/.highlight/0000018e-7fcd-d8a5-addf-7fff01500000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "הכלב שלי והמלחמה הפכו אותי פתאום לאדם חברותי",
+          "og_image": "https://gif.haarets.co.il/bs/0000018e-7fcd-d8a5-addf-7fff01500000/aa/f9/5bfcc8fe4280b99b87a5191d0d57/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-03-27/ty-article/.highlight/0000018e-8017-dc05-abef-abdfcede0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "מי ימשוך סוף סוף בידית עצירת החירום של המדינה",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-8017-dc05-abef-abdfcede0000/ef/54/36056bb848c8acecd0fa44ea69c5/619853.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-03-27/ty-article/.highlight/0000018e-7f85-d9f5-a7ae-7f8d646d0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "יש מדינות שלומדות מטעויות, שמתקדמות. אצלנו אוהבים להעלות גרה",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-7f85-d9f5-a7ae-7f8d646d0000/36/87/072d8af74bb9a679a9076f92fbf8/71126-031448.jpg?precrop=2400%2C1395%2Cx0%2Cy32&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-03-27/ty-article/.highlight/0000018e-7f8f-df6d-a7ef-ffcf8bc20000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "תרבות האוכל מעצבת את האינטימיות הישראלית, וגם את הצדדים האלימים שלה",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-7f8f-df6d-a7ef-ffcf8bc20000/a1/62/39617fe043d78649712ce5960407/56113140.JPG?precrop=4468%2C2596%2Cx664%2Cy340&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-03-27/ty-article/.highlight/0000018e-7fa5-d96c-af9f-7fe5694b0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "שתי משפחות שכולות הדגימו כיצד נראים שני מפעלי הנצחה שונים בתכלית",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-7fa5-d96c-af9f-7fe5694b0000/a7/8a/f47cc4624752b9cd42126eab5429/321.jpg?precrop=1467%2C853%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-03-27/ty-article/.highlight/0000018e-7fc0-d8a5-addf-7ff3d0720000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "כלי AI כבר יוצרים סרטונים מציאותיים. בקרוב הם גם יותאמו אלינו אישית",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-7fc0-d8a5-addf-7ff3d0720000/61/a8/4e06cbbb48b3a7267c2e30394e11/capture.JPG?precrop=1082%2C629%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-03-27/ty-article/.highlight/0000018e-7f27-d9f5-a7ae-7f2ff5cf0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "גם מי שרחוק מהנצרות יכול ללמוד ממנה שיעור חשוב",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-7f27-d9f5-a7ae-7f2ff5cf0000/b6/b4/3dd4c3be4c12b05cb0c9dfa8623a/56130073.JPG?precrop=2952%2C1716%2Cx0%2Cy34&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-03-27/ty-article-face/.highlight/0000018e-8029-dc05-abef-abe9f1de0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "\"52 שנים אני מנגן על אותה גיטרה. כל עוד אני מנגן אני לא מרגיש את הגיל\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-8029-dc05-abef-abe9f1de0000/84/30/9abea33c40aea91fa1925d717192/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-03-27/ty-article-magazine/.highlight/0000018e-7ffa-de8e-adae-7ffa1a3c0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "\"ילדים מתקשרים אליי אנונימית ומספרים על הבעיות שלהם. זה הגורל שלי\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-7ffa-de8e-adae-7ffa1a3c0000/bd/e7/cb2adaee431991f1d7512b162551/01236.jpg?precrop=2400%2C1395%2Cx0%2Cy92&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-03-27/ty-article/.highlight/0000018e-8096-d49b-a3bf-f49fea710000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "עוד התקפלות מביכה: מתי הוחלט שאסור לשנות החלטה או להחליף דעה?",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-8096-d49b-a3bf-f49fea710000/75/94/92d66f224ac5a89002cc4857c05a/56750.jpg?precrop=2400%2C1395%2Cx0%2Cy6&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-03-28/ty-article-magazine/.highlight/0000018e-8411-dfb9-afde-ecdf4b430000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-03-28",
+          "magazine_date": "2024-03-29",
+          "title": "הכנסת יוצאת לפגרה. ואם צריך את חנוך מילביצקי דחוף?",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-8411-dfb9-afde-ecdf4b430000/cc/67/809dba2c450a9583372801fa8598/headline-m.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-03-27/ty-article-magazine/.highlight/0000018e-806e-dc24-a9be-e17f74fd0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "אנו קוראים לשינוי המונח 'פגרת כנסת', למונח שאינו עלול להשתמע כחופשה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-80a9-d5aa-abdf-f9bb50d80000/c7/68/5bae9db24c44950c5c5f7cc96179/030658.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-03-27/ty-article-20q/.highlight/0000018e-7fa8-d680-a1cf-ffaf06e30000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "לאיזו עיר באירופה מתיר החוק לנשיא ארה\"ב לפלוש בלי אישור מראש?",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-7fa8-d680-a1cf-ffaf06e30000/cc/0e/2f7f762d49988425194ab9e66809/60022.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-03-27/ty-article-magazine/.highlight/0000018e-8041-de8e-adae-acf1805b0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "בין האזעקות לחדירות הכטב\"ם, הם מגדלים את אחד הדגים הטעימים בישראל",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-8041-de8e-adae-acf1805b0000/a1/49/2f7a51394c3da8e45d2d89866e50/07260.jpg?precrop=1776%2C1033%2Cx243%2Cy286&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-03-27/ty-article-magazine/.premium/0000018e-8167-d0d3-a98e-d7ff021b0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 29.3.2024",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-8167-d0d3-a98e-d7ff021b0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-03-27/ty-article/.premium/0000018e-8163-ddea-a1de-836f32be0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "תחרות המועמדים יוצאת לדרך",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-8163-ddea-a1de-836f32be0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-03-27/ty-article/.premium/0000018e-8176-df27-adee-a7fe46980000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "מנהיגינו אינם מקפידים לשמש דוגמה אישית בשמירה על החוק",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-8176-df27-adee-a7fe46980000/ea/8f/4f903bbd4861841fd08a9ca5691c/mefursamot.jpg?precrop=1250%2C727%2Cx0%2Cy1211&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2024-03-27/ty-article/.premium/0000018e-816c-d49b-a3bf-f57f6cc20000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-816c-d49b-a3bf-f57f6cc20000/50/4b/f35327e74d838462c635c26304f4/caro-photo.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-03-27/ty-article/.premium/0000018e-8171-d0d3-a98e-d7ffc29c0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-8171-d0d3-a98e-d7ffc29c0000/2b/80/45542cf04f868b6098e7f625943d/ribooa-musaf-566-1.jpg?precrop=1084%2C630%2Cx0%2Cy300&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-03-27/ty-article/.highlight/0000018e-808f-d5aa-abdf-f99f14ae0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-03-27",
+          "magazine_date": "2024-03-29",
+          "title": "גם את זהבה גלאון היו מגרשים היום מבצלם",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-808f-d5aa-abdf-f99f14ae0000/97/6a/218fdf7e498cb8fc30192beaa63c/56007272.JPG?precrop=1920%2C1116%2Cx0%2Cy122&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

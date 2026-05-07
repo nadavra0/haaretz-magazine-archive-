@@ -1,0 +1,323 @@
+{
+  "magazine_date": "2024-03-22",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/0000018e-56f4-d4d9-a19f-57f622010000/0c/32/dd2a08c24a50893ee3035d008e05/sharing-02.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-03-20/ty-article-magazine/.highlight/0000018e-56f4-d4d9-a19f-57f622010000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-03-20/ty-article-magazine/.highlight/0000018e-56f4-d4d9-a19f-57f622010000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-03-20",
+          "magazine_date": "2024-03-22",
+          "title": "כשמקשיבים לשיחות בין אפי נוה לשופט הבכיר קשה להאמין למה ששומעים. חשיפה",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-56f4-d4d9-a19f-57f622010000/0c/32/dd2a08c24a50893ee3035d008e05/sharing-02.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-03-20/ty-article-magazine/.highlight/0000018e-5b89-d949-afae-5b8f11cc0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-03-20",
+          "magazine_date": "2024-03-22",
+          "title": "\"היו במסיבה אנשים שרצו להזעיק עזרה, ופשוט התאבנו. הם הראשונים שנרצחו\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-5b89-d949-afae-5b8f11cc0000/6a/de/43f0c5f445969e4cb29b9a6f0a0b/tomer.jpg?precrop=1200%2C698%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-03-20/ty-article-magazine/.highlight/0000018e-5b8a-d830-a79e-fbdbf24a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-03-20",
+          "magazine_date": "2024-03-22",
+          "title": "7 באוקטובר קורע מבפנים את ארגון בצלם. זה נגמר בהדחה של בכיר — ותביעה",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-5b8a-d830-a79e-fbdbf24a0000/97/6a/218fdf7e498cb8fc30192beaa63c/56007272.JPG?precrop=1920%2C1116%2Cx0%2Cy122&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-03-20/ty-article-magazine/.highlight/0000018e-5c27-d0e5-afbe-dd37ceb90000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-03-20",
+          "magazine_date": "2024-03-22",
+          "title": "הם סבלו מדיכאון קשה, וכלום לא עזר. קטמין נתן להם הזדמנות לחיים חדשים",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-5c27-d0e5-afbe-dd37ceb90000/b8/ef/7b7e5c244d9bab1778e6d8b423eb/66020.jpg?precrop=1603%2C932%2Cx0%2Cy975&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-03-21/ty-article/.highlight/0000018e-610d-d03d-a7ff-e1ef48fb0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-03-21",
+          "magazine_date": "2024-03-22",
+          "title": "אם לא חזרתי לעשן גם אחרי אירועי אוקטובר, אני כנראה בדרך הנכונה",
+          "og_image": "https://gif.haarets.co.il/bs/0000018e-610d-d03d-a7ff-e1ef48fb0000/fa/e7/4017d194485a8bda22704c5c7121/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-03-20/ty-article/.highlight/0000018e-5b7d-d949-afae-5bffb2b40000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-03-20",
+          "magazine_date": "2024-03-22",
+          "title": "חמאס כבר מצטיין בלוחמה פסיכולוגית. עיתון צה\"לי בערבית מנסה להשיב מלחמה",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-5b7d-d949-afae-5bffb2b40000/ef/37/cc0a4aaa40998281e82c0c2372ed/ggxj2sxwyaag2dy.png?precrop=440%2C256%2Cx76%2Cy464&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-03-20/ty-article/.highlight/0000018e-5bcc-d4f6-a9be-dbee86c50000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-03-20",
+          "magazine_date": "2024-03-22",
+          "title": "חוקר של מאות חברות שקרסו: \"המקצוע המסוכן ביותר למדינה כיום — עורך דין\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-5bcc-d4f6-a9be-dbee86c50000/b8/a9/2ce012ba41948b801c3e241b5497/33.png?precrop=1296%2C754%2Cx0%2Cy24&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-03-20/ty-article/.highlight/0000018e-5be8-d830-a79e-fbfbf04b0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-03-20",
+          "magazine_date": "2024-03-22",
+          "title": "נדרשו פחות מ-200 מלים כדי להציג את האוניברסיטה העברית בעליבותה",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-5be8-d830-a79e-fbfbf04b0000/7d/2a/6192ab29455583b8965010f6e979/nskl.png?precrop=1101%2C640%2Cx123%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-03-20/ty-article/.highlight/0000018e-5b71-d9a8-a5ae-fffd81630000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-03-20",
+          "magazine_date": "2024-03-22",
+          "title": "ג'ודית באטלר היא האינטלקטואלית החשובה בעולם, אך גם היא נעשתה שטחית",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-5b71-d9a8-a5ae-fffd81630000/03/38/95d1727c470d8a07661578445799/56036458.JPG?precrop=1260%2C733%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-03-20/ty-article-face/.highlight/0000018e-5b13-d4f6-a9be-db3b19040000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-03-20",
+          "magazine_date": "2024-03-22",
+          "title": "\"כאשת שמאל איחלו לי למות בדרכים שונות לאורך השנים. לאחרונה זה נהיה מאוד יצירתי\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-5b13-d4f6-a9be-db3b19040000/d9/cb/6d78bca54634873201a4a83bbbd0/facetemplate1800x1200-1.jpg?precrop=1800%2C1046%2Cx0%2Cy2&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-03-20/ty-article-magazine/.highlight/0000018e-5c0a-d830-a79e-ff5bf2ee0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-03-20",
+          "magazine_date": "2024-03-22",
+          "title": "\"בסן פרנסיסקו ראיתי עוני קיצוני, אפילו בסרטים לא רואים כזה. כמו בהודו\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-5c0a-d830-a79e-ff5bf2ee0000/06/a0/2b9b7fbe4678a98a2ec0ab62abde/56017213.JPG?precrop=7368%2C4283%2Cx0%2Cy511&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-03-20/ty-article/.highlight/0000018e-5c7b-d224-abae-dfffd18e0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-03-20",
+          "magazine_date": "2024-03-22",
+          "title": "האם מי שמצטט את \"1984\" מבין את הבעיה בלצטט את \"1984\"?",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-5c7b-d224-abae-dfffd18e0000/26/6f/a044ee1c44c69f91a29d630f7743/1984.jpg?precrop=1653%2C961%2Cx124%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-03-21/ty-article-magazine/.highlight/0000018e-614c-dfcf-a1be-79fc5b660000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-03-21",
+          "magazine_date": "2024-03-22",
+          "title": "87%? למה לא מאה?!",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-614c-dfcf-a1be-79fc5b660000/07/d1/e038b9c043d2a8e2229cb581a722/headline-m.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-03-19/ty-article/.highlight/0000018e-5611-d282-a19f-7fd178020000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-03-19",
+          "magazine_date": "2024-03-22",
+          "title": "למה אסרתם על ילדה נכה להגיע למסיבת פורים? \"אי אפשר שכל אחד ייכנס\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-5611-d282-a19f-7fd178020000/cd/f9/a4a38e5d45da9f0e267ceb684059/56021543.JPG?precrop=3908%2C2271%2Cx366%2Cy705&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-03-21/ty-article-magazine/.highlight/0000018e-6243-d541-a78e-ffcba4eb0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-03-21",
+          "magazine_date": "2024-03-22",
+          "title": "\"אתה מוקף באנשים שלא יודעים לחבר מילה למילה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-624d-d66c-a7fe-676f40550000/d5/de/a6713d6b485d8061d3cfb9dae266/58895-7.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-03-20/ty-article-20q/.highlight/0000018e-5aca-d9a8-a5ae-fecf88130000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-03-20",
+          "magazine_date": "2024-03-22",
+          "title": "לפי ההערכה הרווחת, מה שיעור האנשים השמאליים בעולם?",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-5aca-d9a8-a5ae-fecf88130000/54/71/c96f8b784277ae7bdb5dce94e02a/598086.jpg?precrop=2071%2C1205%2Cx0%2Cy205&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-03-20/ty-article-magazine/.highlight/0000018e-5c07-d830-a79e-ff5741550000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-03-20",
+          "magazine_date": "2024-03-22",
+          "title": "הלילה הזה כולנו עושים על האש: המטבח הייחודי של היהדות הקראית",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-5c07-d830-a79e-ff5741550000/51/76/2a17ff084d929ee1fd5638dea0db/2.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-03-21/ty-article-magazine/.premium/0000018e-623c-d507-a1cf-62fe5b950000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-03-21",
+          "magazine_date": "2024-03-22",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 22.3.2024",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-623c-d507-a1cf-62fe5b950000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-03-21/ty-article/.highlight/0000018e-6243-d134-a58f-63f7914d0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-03-21",
+          "magazine_date": "2024-03-22",
+          "title": "כישלון נדיר",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-6243-d134-a58f-63f7914d0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-03-21/ty-article/.highlight/0000018e-6240-d541-a78e-ffcb3fe50001",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-03-21",
+          "magazine_date": "2024-03-22",
+          "title": "נתניהו - האיש הנכון במקום הנכון",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-6240-d541-a78e-ffcb3fe50001/f0/7f/3e4d09024ff7a3f82e70dc3e6e4e/mefursamot.jpg?precrop=1250%2C727%2Cx0%2Cy1927&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-03-21/ty-article/0000018e-6053-d03d-a7ff-e1f757760000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-03-21",
+          "magazine_date": "2024-03-22",
+          "title": "\"מוטב לחשוב על מה שיש, גם אם הוא מועט\": ותיקת בית אלפא מתה בגיל 100",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-6053-d03d-a7ff-e1f757760000/29/36/27ece3bd400887858641266bafe3/whatsapp-image-2024-03-21-at-11-25-39-b74614bf.jpg?precrop=1600%2C931%2Cx0%2Cy53&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-03-21/ty-article/.premium/0000018e-6242-d541-a78e-ffcb665f0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-03-21",
+          "magazine_date": "2024-03-22",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-6242-d541-a78e-ffcb665f0000/94/de/7fd04db64ef08a44e6dbce203060/ribooa-musaf-565.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-03-20/ty-article/.highlight/0000018e-5c75-d0f0-a5af-5f772ec00000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-03-20",
+          "magazine_date": "2024-03-22",
+          "title": "ד\"ר אילן הלוי אינו מסכן. הרשלנות שלו פושעת",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-5c75-d0f0-a5af-5f772ec00000/43/5e/5a90877145d2b5180a403af3f8c0/05919.jpg?precrop=1603%2C932%2Cx0%2Cy910&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

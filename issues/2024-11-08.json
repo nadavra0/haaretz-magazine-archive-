@@ -1,0 +1,348 @@
+{
+  "magazine_date": "2024-11-08",
+  "total_articles": 25,
+  "cover_image": "https://gif.haarets.co.il/bs/00000193-05d5-dacb-a9db-17ff26130000/13/a2/c09744584743b561b9f5bd899bf3/8-11-24-animation.gif?precrop=1311%2C762%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-11-07/ty-article/.highlight/00000193-05d5-dacb-a9db-17ff26130000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-11-06/ty-article-magazine/.highlight/00000193-01e6-dd44-a197-bdee5afc0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-11-06",
+          "magazine_date": "2024-11-08",
+          "title": "זהו רגע של אפלה גדולה. אך האם בטראמפיזם יש גם נקודת אור?",
+          "og_image": "https://img.haarets.co.il/bs/00000193-01e6-dd44-a197-bdee5afc0000/8e/84/d9e28a9d426c9395decc5e71a939/499152-2.jpg?precrop=2400%2C1395%2Cx0%2Cy167&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-11-07/ty-article-magazine/.highlight/00000193-01da-d599-a7f7-0bfb74720000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-11-07",
+          "magazine_date": "2024-11-08",
+          "title": "זה הקו האחרון בקרב נגד קריסת האקלים. הרוח האנושית תעמוד פה למבחן גורלי",
+          "og_image": "https://img.haarets.co.il/bs/00000193-01da-d599-a7f7-0bfb74720000/ab/5b/383cafab4ae28d2d319f068e418d/483747.jpg?precrop=2400%2C1395%2Cx0%2Cy27&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-11-07/ty-article-magazine/.highlight/00000193-02d9-d59a-a59f-8adf78670000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-11-07",
+          "magazine_date": "2024-11-08",
+          "title": "אין זו אגדה: חוקר מצא היכן שכנה הממלכה היהודית המפוארת ששגשגה באפריקה",
+          "og_image": "https://img.haarets.co.il/bs/00000193-02d9-d59a-a59f-8adf78670000/1c/6a/cd0a774047b19fde0cae06751105/484642-2.jpg?precrop=2320%2C1349%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-11-07/ty-article-magazine/.highlight/00000193-034b-d245-a9f7-2b7fa0d10000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-11-07",
+          "magazine_date": "2024-11-08",
+          "title": "החיים בכפר שבו כל הדיירים הם עברייני מין",
+          "og_image": "https://img.haarets.co.il/bs/00000193-034b-d245-a9f7-2b7fa0d10000/4e/68/0095d032484cb00e15fc628c562e/335585.jpg?precrop=2400%2C1395%2Cx0%2Cy208&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-11-07/ty-article/.highlight/00000193-05d5-dacb-a9db-17ff26130000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-11-07",
+          "magazine_date": "2024-11-08",
+          "title": "איך שיקרתי לעצמי: מחשבות בעקבות שיחה משונה עם צעיר ימני",
+          "og_image": "https://gif.haarets.co.il/bs/00000193-05d5-dacb-a9db-17ff26130000/13/a2/c09744584743b561b9f5bd899bf3/8-11-24-animation.gif?precrop=1311%2C762%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-11-06/ty-article-magazine/.highlight/00000193-018a-db72-a3d7-2bbf77b80000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-11-06",
+          "magazine_date": "2024-11-08",
+          "title": "לא בדיוק חי, לא בדיוק צומח. קשה לתאר במלים את הפלא שהוא אלמוג",
+          "og_image": "https://img.haarets.co.il/bs/00000193-018a-db72-a3d7-2bbf77b80000/87/8c/b132829b42378ed1b95536dcfb74/471292.jpg?precrop=2400%2C1395%2Cx0%2Cy25&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-11-06/ty-article/.highlight/00000193-01a9-de0c-a7db-8bed3ce90000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-11-06",
+          "magazine_date": "2024-11-08",
+          "title": "משתפי הפעולה: האנשים שהופכים ארגון מפואר לגוף רקוב ומושחת",
+          "og_image": "https://img.haarets.co.il/bs/00000193-01a9-de0c-a7db-8bed3ce90000/d5/e3/4d1094714436a3276923a99d08b7/628360-3-2.jpg?precrop=2200%2C1280%2Cx0%2Cy188&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-11-07/ty-article/.highlight/00000193-05e5-de12-adbb-87f7a8ca0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-11-07",
+          "magazine_date": "2024-11-08",
+          "title": "במרחק שעה מתל אביב אלפי ילדים מתים. ובכיתה אצלנו? אדישות מוחלטת",
+          "og_image": "https://img.haarets.co.il/bs/00000193-05e5-de12-adbb-87f7a8ca0000/e3/32/a2eac8024eb4b36215f2ce4adad3/59183144.JPG?precrop=5568%2C3237%2Cx0%2Cy177&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2024-11-07/ty-article/.highlight/00000193-05d9-dd44-a197-bdfb96f60000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2024-11-07",
+          "magazine_date": "2024-11-08",
+          "title": "הפשרה שיצרה את מוסד הנשיאות נמשכת כבר יותר מ–200 שנה",
+          "og_image": "https://img.haarets.co.il/bs/00000193-05d9-dd44-a197-bdfb96f60000/0a/c0/b4572a4581a4e327840d0dc3fece/2867893552.jpg?precrop=1791%2C1040%2Cx322%2Cy9&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-11-07/ty-article-face/.highlight/00000193-0385-de2c-a3bf-bf955b1e0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-11-07",
+          "magazine_date": "2024-11-08",
+          "title": "דניאל סטיופין",
+          "og_image": "https://img.haarets.co.il/bs/00000193-0385-de2c-a3bf-bf955b1e0000/60/2b/c893608d4435aa5d43b1fa776b53/a.jpg?precrop=1800%2C1047%2Cx0%2Cy61&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-11-07/ty-article-magazine/.highlight/00000193-01c7-d380-adb3-6bffe15a0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-11-07",
+          "magazine_date": "2024-11-08",
+          "title": "\"הטיסו אותי לחו\"ל למקרה שתהיה מתקפה מוצלחת, וישראל תהיה בהחשכה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-01c7-d380-adb3-6bffe15a0000/19/7a/811f8d344b01933930294e8ccbc9/59164362.JPG?precrop=8192%2C4763%2Cx0%2Cy591&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2024-11-07/ty-article-magazine/.highlight/00000193-0240-d384-adbf-d3fb250a0000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2024-11-07",
+          "magazine_date": "2024-11-08",
+          "title": "\"מזוודות הכסף לחמאס עשו נזק עמוק, ופגעו במאבק נגדם בעולם\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-0240-d384-adbf-d3fb250a0000/18/a5/746035784bbd902cf244fdfa8246/59211771.JPG?precrop=5317%2C3092%2Cx0%2Cy2256&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-11-06/ty-article/.highlight/00000193-01d8-d380-adb3-6bfe41db0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-11-06",
+          "magazine_date": "2024-11-08",
+          "title": "בואש מתיז על אמא של חטוף. ועוד אומרים שאין לנו את הפריבילגיה להתייאש",
+          "og_image": "https://img.haarets.co.il/bs/00000193-01d8-d380-adb3-6bfe41db0000/b8/20/587db25848c4993d5fa73474576e/492776.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-11-07/ty-article-magazine/.highlight/00000193-05b0-d599-a7f7-0fb31b050000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-11-07",
+          "magazine_date": "2024-11-08",
+          "title": "גדעון סער מוכר את נשמתו לשטן. השטן מבקש זיכוי",
+          "og_image": "https://img.haarets.co.il/bs/00000193-05b0-d599-a7f7-0fb31b050000/09/8a/6643d9624e0a869b42daa1b711b0/headline.jpg?precrop=1500%2C872%2Cx0%2Cy472&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-11-07/ty-article/.highlight/00000193-01f0-d384-adbf-d3fb45c70000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-11-07",
+          "magazine_date": "2024-11-08",
+          "title": "מי ייתן שירותים לתושבי ישראל במזרח ירושלים? \"זה לא מעניין אותי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-01f0-d384-adbf-d3fb45c70000/24/62/e896543c447d8754fa8ebb4a6089/59185235.JPG?precrop=1749%2C1016%2Cx1716%2Cy483&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-11-07/ty-article-magazine/.highlight/00000193-039d-d384-adbf-d3bf254f0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-11-07",
+          "magazine_date": "2024-11-08",
+          "title": "\"ברגעים הקשים ביותר את תמיד לצדי, עם תמיכה ואהבה אינסופית\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-0576-de2c-a3bf-bf76bdd20000/2f/fa/688e02594c29834de31e7fc7c77b/375370-2.jpg?precrop=2400,1395,x0,y0&height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-11-07/ty-article-20q/.highlight/00000193-0186-d2aa-adff-a3cfa4960000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-11-07",
+          "magazine_date": "2024-11-08",
+          "title": "איך קראו לחֶבְרה של משפחת לינוביץ' בסדרה \"רמת אביב גימל\"?",
+          "og_image": "https://img.haarets.co.il/bs/00000193-0186-d2aa-adff-a3cfa4960000/5d/23/faedfbb847598a6dc92f5eecdb42/31934.jpg?precrop=2400%2C1396%2Cx0%2Cy130&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-11-06/ty-article-magazine/.highlight/00000193-0170-df86-af93-6770075f0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-11-06",
+          "magazine_date": "2024-11-08",
+          "title": "כבר 30 שנה מגישים כאן אוכל ישראלי ביתי וטוב",
+          "og_image": "https://img.haarets.co.il/bs/00000193-0170-df86-af93-6770075f0000/96/be/caa4178941909dfe6c0eb2117758/1.jpg?precrop=1428%2C830%2Cx0%2Cy467&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-11-07/ty-article-magazine/.premium/00000193-0585-d245-a9f7-2fff1e580000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-11-07",
+          "magazine_date": "2024-11-08",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 8.11.2024",
+          "og_image": "https://img.haarets.co.il/bs/00000193-0585-d245-a9f7-2fff1e580000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-11-07/ty-article/.highlight/00000193-057b-d59a-a59f-8ffff8a00000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-11-07",
+          "magazine_date": "2024-11-08",
+          "title": "אלוף בין אלופים",
+          "og_image": "https://img.haarets.co.il/bs/00000193-057b-d59a-a59f-8ffff8a00000/d7/9b/aacf36dc467aa03ebacd746594ba/71126-032116.jpg?precrop=2400%2C1395%2Cx0%2Cy58&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-11-07/ty-article/00000193-058d-d59a-a59f-8f8f0e510000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-11-07",
+          "magazine_date": "2024-11-08",
+          "title": "סקר: רוב האמריקאים אינם יודעים מי מתמודד לנשיאות",
+          "og_image": "https://img.haarets.co.il/bs/00000193-058d-d59a-a59f-8f8f0e510000/53/e8/574572c3469e92ec8114d30ec1dd/mefursamot.jpg?precrop=1250%2C727%2Cx0%2Cy693&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-11-02/ty-article/00000192-ebf2-dd31-a9be-fbfb7daa0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-11-02",
+          "magazine_date": "2024-11-08",
+          "title": "\"אמא הותירה געגוע לכנסת אחרת, שחבריה נהגו בכבוד ובנימוס\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-ebf2-dd31-a9be-fbfb7daa0000/61/b5/581cfcfc4d9ab737160a9e30e38a/2.png?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-11-07/ty-article/00000193-0761-d54d-a5f7-1f6dac8e0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-11-07",
+          "magazine_date": "2024-11-08",
+          "title": "\"רקדנו סביב המכשיר בהתלהבות\": בגיל 106 מת אחד מחלוצי התעשיה הביטחונית",
+          "og_image": "https://img.haarets.co.il/bs/00000193-0761-d54d-a5f7-1f6dac8e0000/b1/07/71717e494930a742e4b573899408/jenka-ratner-in-shdema-rafael.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-11-07/ty-article/.premium/00000193-0590-de2c-a3bf-bf9025000000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-11-07",
+          "magazine_date": "2024-11-08",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000193-0590-de2c-a3bf-bf9025000000/ac/96/2c3e6a89432cb052578ee6c08d43/ribooa-musaf-598.jpg?precrop=1083%2C630%2Cx0%2Cy184&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-11-06/ty-article/.highlight/00000193-01ed-d384-adbf-d3ff1c700000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-11-06",
+          "magazine_date": "2024-11-08",
+          "title": "התוכנית לגיוס חרדים ל–8200 היא איוולת",
+          "og_image": "https://img.haarets.co.il/bs/00000193-01ed-d384-adbf-d3ff1c700000/03/ff/70c42a454f739c9121ce5d4c3492/59078428.JPG?precrop=1600%2C930%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

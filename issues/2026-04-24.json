@@ -2,7 +2,7 @@
   "magazine_date": "2026-04-24",
   "total_articles": 24,
   "cover_image": "https://img.haarets.co.il/bs/0000019d-af1b-dbb2-a19d-bf5fcec60001/22/07/2089a0154d98a8639d0ce322e860/shaar-17.jpg?&width=1500&height=1980&cmsprod",
-  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-04-21/ty-article/.highlight/0000019d-af4f-dbb2-a19d-bf5f2f6e0000",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-04-23/ty-article-magazine/.highlight/0000019d-a95f-d4a9-adff-b9df12110000",
   "sections": {
     "magazine": {
       "name": "כתבות ראשיות",
@@ -14,7 +14,8 @@
           "article_date": "2026-04-21",
           "magazine_date": "2026-04-24",
           "title": "עם חופשי בארצו? ממש לא",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-af4f-dbb2-a19d-bf5f2f6e0000/b3/71/bb680f914cf4a58ba2acf028c574/24-4-26-web.jpg?&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-af4f-dbb2-a19d-bf5f2f6e0000/b3/71/bb680f914cf4a58ba2acf028c574/24-4-26-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
         },
         {
           "url": "https://www.haaretz.co.il/magazine/2026-04-23/ty-article-magazine/.highlight/0000019d-a957-d4a9-adff-b9df85d10000",
@@ -23,7 +24,8 @@
           "article_date": "2026-04-23",
           "magazine_date": "2026-04-24",
           "title": "הוא שחקן פרוע וקיבוצניק סורר. הוא לא הלך בתלם בחייו, ולא יילך גם במותו",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-a957-d4a9-adff-b9df85d10000/09/1a/7f9fda0f440bbe559a6d2346e92e/674793.jpg?precrop=1601,931,x0,y711&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-a957-d4a9-adff-b9df85d10000/09/1a/7f9fda0f440bbe559a6d2346e92e/674793.jpg?precrop=1601,931,x0,y711&width=1200&height=630&cmsprod",
+          "shaar_image": null
         },
         {
           "url": "https://www.haaretz.co.il/magazine/2026-04-23/ty-article-magazine/.highlight/0000019d-a95f-d4a9-adff-b9df12110000",
@@ -32,7 +34,8 @@
           "article_date": "2026-04-23",
           "magazine_date": "2026-04-24",
           "title": "ראש מכון קינסי למיניות מודאג לגבי חיי האהבה של הישראלים",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-a95f-d4a9-adff-b9df12110000/61/a3/0ebd605c4a8ebcd3c892c49ea4c3/musaf-kinsey-09-04-2026-kinsey-shituf.jpg?&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-a95f-d4a9-adff-b9df12110000/61/a3/0ebd605c4a8ebcd3c892c49ea4c3/musaf-kinsey-09-04-2026-kinsey-shituf.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
         },
         {
           "url": "https://www.haaretz.co.il/magazine/2026-04-23/ty-article-magazine/.highlight/0000019d-a961-df26-a1bf-a9ebf5940000",
@@ -41,7 +44,8 @@
           "article_date": "2026-04-23",
           "magazine_date": "2026-04-24",
           "title": "הן בנות 15, והן נשואות עם ילדים: קשר השתיקה המחריד ביבנאל",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-a961-df26-a1bf-a9ebf5940000/cd/de/e49e532b4ca4b6b14f8002765a36/617359.jpg?&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-a961-df26-a1bf-a9ebf5940000/cd/de/e49e532b4ca4b6b14f8002765a36/617359.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
         },
         {
           "url": "https://www.haaretz.co.il/magazine/2026-04-23/ty-article-magazine/.highlight/0000019d-a967-df26-a1bf-a9ef644c0000",
@@ -50,7 +54,8 @@
           "article_date": "2026-04-23",
           "magazine_date": "2026-04-24",
           "title": "המלחמה הציתה אצל מיליוני ישראלים הפרעת נפש ברמה קלינית",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-a967-df26-a1bf-a9ef644c0000/7b/fb/0d4d80084afd953e18303fe36868/medina.png?&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-a967-df26-a1bf-a9ef644c0000/7b/fb/0d4d80084afd953e18303fe36868/medina.png?&width=1200&height=630&cmsprod",
+          "shaar_image": null
         }
       ]
     },
@@ -64,7 +69,8 @@
           "article_date": "2026-04-21",
           "magazine_date": "2026-04-24",
           "title": "אדם לוקח צבע ובורא חיה על הקיר. זו המהפכה הגדולה של האמנות",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-af1e-deab-ab9d-bfff9f810000/5d/50/2c62ff9e40348739c16e9ff9cefd/65399842.JPG?precrop=5400,3140,x0,y246&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-af1e-deab-ab9d-bfff9f810000/5d/50/2c62ff9e40348739c16e9ff9cefd/65399842.JPG?precrop=5400,3140,x0,y246&width=1200&height=630&cmsprod",
+          "shaar_image": null
         },
         {
           "url": "https://www.haaretz.co.il/magazine/the-edge/2026-04-21/ty-article/.highlight/0000019d-aef9-dbb2-a19d-bfffb2e40000",
@@ -73,7 +79,8 @@
           "article_date": "2026-04-21",
           "magazine_date": "2026-04-24",
           "title": "מודל בינה מלאכותית הערים על יוצריו וברח מהמעבדה. מי יעצור אותו?",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-aef9-dbb2-a19d-bfffb2e40000/e2/fe/6d1d0f3b4689ab6befd3f3ddcbf6/65399831.JPG?precrop=2747,1597,x0,y0&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-aef9-dbb2-a19d-bfffb2e40000/e2/fe/6d1d0f3b4689ab6befd3f3ddcbf6/65399831.JPG?precrop=2747,1597,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
         },
         {
           "url": "https://www.haaretz.co.il/magazine/the-edge/2026-04-21/ty-article/.highlight/0000019d-af1f-d45b-a39f-ef1f79b20000",
@@ -82,7 +89,8 @@
           "article_date": "2026-04-21",
           "magazine_date": "2026-04-24",
           "title": "ברגעי משבר, גם איינשטיין ובן־גוריון התנחמו בפילוסופיה של שפינוזה",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-af1f-d45b-a39f-ef1f79b20000/f9/d9/4d52ff034c538311b18b99129c98/65399658.JPG?precrop=3138,1824,x0,y0&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-af1f-d45b-a39f-ef1f79b20000/f9/d9/4d52ff034c538311b18b99129c98/65399658.JPG?precrop=3138,1824,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
         }
       ]
     },
@@ -96,7 +104,8 @@
           "article_date": "2026-04-21",
           "magazine_date": "2026-04-24",
           "title": "שרשרת של טעויות אפפה את הפרח הזה. ואז הגיע שייקספיר",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-aee2-d11d-a9bf-aef2d4de0000/07/af/f6e0f1054c23985165795aa56261/65399644.JPG?precrop=5568,3237,x0,y475&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-aee2-d11d-a9bf-aef2d4de0000/07/af/f6e0f1054c23985165795aa56261/65399644.JPG?precrop=5568,3237,x0,y475&width=1200&height=630&cmsprod",
+          "shaar_image": null
         }
       ]
     },
@@ -110,7 +119,8 @@
           "article_date": "2026-04-21",
           "magazine_date": "2026-04-24",
           "title": "ההתנחלויות הגרמניות היו מיזם מפואר ויומרני, שהתרסק בבת אחת",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-aee3-d45b-a39f-efe32d330000/b2/3f/9f2c218940bc827d27e2eef8690e/ef763217-d5f8-4932-ab8a-3e0a7803865e.png?precrop=1296,753,x0,y40&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-aee3-d45b-a39f-efe32d330000/b2/3f/9f2c218940bc827d27e2eef8690e/ef763217-d5f8-4932-ab8a-3e0a7803865e.png?precrop=1296,753,x0,y40&width=1200&height=630&cmsprod",
+          "shaar_image": null
         }
       ]
     },
@@ -124,7 +134,8 @@
           "article_date": "2026-04-23",
           "magazine_date": "2026-04-24",
           "title": "אורן סמדג'ה",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-b941-ded5-abdd-bd69e5c80000/c9/e5/0599293e49aa9c62833a83263d87/693170.jpg?&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-b941-ded5-abdd-bd69e5c80000/c9/e5/0599293e49aa9c62833a83263d87/693170.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
         }
       ]
     },
@@ -138,7 +149,8 @@
           "article_date": "2026-04-23",
           "magazine_date": "2026-04-24",
           "title": "\"כשהורדתי את המדים, אנשים היו בשוק. שאלו אותי: מה קורה שם באוקראינה?\"",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-aa94-d45b-a39f-ef9645400000/e7/63/3bc7c95d4a1aac9d6a973686f66e/65399332.JPG?precrop=8192,4763,x0,y329&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-aa94-d45b-a39f-ef9645400000/e7/63/3bc7c95d4a1aac9d6a973686f66e/65399332.JPG?precrop=8192,4763,x0,y329&width=1200&height=630&cmsprod",
+          "shaar_image": null
         }
       ]
     },
@@ -152,7 +164,8 @@
           "article_date": "2026-04-23",
           "magazine_date": "2026-04-24",
           "title": "למה הפסקנו לחשוב, והתחלנו לעשות חשיבה?",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-ab06-ded5-abdd-bf2e3c780000/1e/26/36afc0f24cd1b2637f134cfc5b7b/alon.jpg?precrop=1969,1145,x250,y1184&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-ab06-ded5-abdd-bf2e3c780000/1e/26/36afc0f24cd1b2637f134cfc5b7b/alon.jpg?precrop=1969,1145,x250,y1184&width=1200&height=630&cmsprod",
+          "shaar_image": null
         }
       ]
     },
@@ -166,7 +179,8 @@
           "article_date": "2026-04-23",
           "magazine_date": "2026-04-24",
           "title": "טראמפ אוסר על ישראל לתקוף בלבנון. יום עצמאות שמח!",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-b918-ded5-abdd-bd384c140000/f8/d8/6c4ebd2f480c9c6c05a34d4a97c0/headline-18.jpg?precrop=2000,1163,x0,y1178&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-b918-ded5-abdd-bd384c140000/f8/d8/6c4ebd2f480c9c6c05a34d4a97c0/headline-18.jpg?precrop=2000,1163,x0,y1178&width=1200&height=630&cmsprod",
+          "shaar_image": null
         }
       ]
     },
@@ -180,7 +194,8 @@
           "article_date": "2026-04-23",
           "magazine_date": "2026-04-24",
           "title": "\"תדע שבאופוזיציה מנסים לחבל באיחוד של המפלגות הערביות\"",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-aaf3-deab-ab9d-bbf7cd100000/66/5f/ca0c016d43e48185d7e6b8bd8242/65406943.JPG?precrop=3414,1984,x575,y87&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-aaf3-deab-ab9d-bbf7cd100000/66/5f/ca0c016d43e48185d7e6b8bd8242/65406943.JPG?precrop=3414,1984,x575,y87&width=1200&height=630&cmsprod",
+          "shaar_image": null
         }
       ]
     },
@@ -194,7 +209,8 @@
           "article_date": "2026-04-23",
           "magazine_date": "2026-04-24",
           "title": "\"אני תמיד מתפללת, אבל הפעם הגברתי\"",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-b92b-ded5-abdd-bd2b9b150000/81/77/f0670be94c53862f10dc104420f8/686525.jpg?&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-b92b-ded5-abdd-bd2b9b150000/81/77/f0670be94c53862f10dc104420f8/686525.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
         }
       ]
     },
@@ -208,7 +224,8 @@
           "article_date": "2026-04-22",
           "magazine_date": "2026-04-24",
           "title": "מי היה האדם הצעיר ביותר שחתם על מגילת העצמאות?",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-a96f-d096-a3df-efffd0b00000/65/d0/b7ef8b3242b081a039e45cf2f17a/014473.jpg?precrop=2173,1263,x100,y101&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-a96f-d096-a3df-efffd0b00000/65/d0/b7ef8b3242b081a039e45cf2f17a/014473.jpg?precrop=2173,1263,x100,y101&width=1200&height=630&cmsprod",
+          "shaar_image": null
         }
       ]
     },
@@ -222,7 +239,8 @@
           "article_date": "2026-04-21",
           "magazine_date": "2026-04-24",
           "title": "המדינה נשרפת והשפים מחייכים בטלוויזיה. רק שלא יקראו להם שמאלנים",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-aec0-d45b-a39f-efc28c340000/cb/84/76acbb834cae9be16281f00864d8/65402903.JPG?precrop=3747,2178,x718,y180&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-aec0-d45b-a39f-efc28c340000/cb/84/76acbb834cae9be16281f00864d8/65402903.JPG?precrop=3747,2178,x718,y180&width=1200&height=630&cmsprod",
+          "shaar_image": null
         }
       ]
     },
@@ -236,7 +254,8 @@
           "article_date": "2026-04-23",
           "magazine_date": "2026-04-24",
           "title": "עושה שכל | תשבצי \"מוסף הארץ\" 24.4.2026",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-b965-d2d7-af9f-bbe55a010001/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-b965-d2d7-af9f-bbe55a010001/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
         }
       ]
     },
@@ -250,7 +269,8 @@
           "article_date": "2026-04-23",
           "magazine_date": "2026-04-24",
           "title": "ויישלי ניצחה במועמדות",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-b931-deab-ab9d-b9f75d060000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-b931-deab-ab9d-b9f75d060000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
         }
       ]
     },
@@ -264,7 +284,8 @@
           "article_date": "2026-04-23",
           "magazine_date": "2026-04-24",
           "title": "חמנאי קורא לנסראללה \"לא להתגמש מול הציונים\"",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-b95e-ded5-abdd-bd7e15740000/8e/27/855668da494cadd2a49ab27186df/mefursamot.jpg?precrop=1250,727,x0,y62&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-b95e-ded5-abdd-bd7e15740000/8e/27/855668da494cadd2a49ab27186df/mefursamot.jpg?precrop=1250,727,x0,y62&width=1200&height=630&cmsprod",
+          "shaar_image": null
         }
       ]
     },
@@ -278,7 +299,8 @@
           "article_date": "2026-04-24",
           "magazine_date": "2026-04-24",
           "title": "על המצבה בבית העלמין ירקון נכתב: \"ממהנדסי הנחיתה על הירח\". זה סיפורה",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-bdcd-ded5-abdd-bdeddb5e0000/42/a4/646d0f8345008e1e17ec67843a25/aldrin-apollo-11-original.jpg?precrop=1010,587,x151,y0&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-bdcd-ded5-abdd-bdeddb5e0000/42/a4/646d0f8345008e1e17ec67843a25/aldrin-apollo-11-original.jpg?precrop=1010,587,x151,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
         }
       ]
     },
@@ -292,7 +314,8 @@
           "article_date": "2026-04-23",
           "magazine_date": "2026-04-24",
           "title": "פינת ליטוף",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-b961-d2d7-af9f-bbe199990000/ad/ad/5552dcf94086aedfd2a1e40f454f/ribooa-musaf-674.jpg?&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-b961-d2d7-af9f-bbe199990000/ad/ad/5552dcf94086aedfd2a1e40f454f/ribooa-musaf-674.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
         }
       ]
     },
@@ -306,7 +329,8 @@
           "article_date": "2026-04-23",
           "magazine_date": "2026-04-24",
           "title": "קנינו לרמטכ\"ל צוללות, טנקים ומטוסים. אבל מה בעצם הוא שווה?",
-          "og_image": "https://img.haarets.co.il/bs/0000019d-aaf9-d45b-a39f-effbde670000/56/86/2b43901d440d8daebbf54cf3dc2f/367797.jpg?precrop=2400,1395,x0,y82&width=1200&height=630&cmsprod"
+          "og_image": "https://img.haarets.co.il/bs/0000019d-aaf9-d45b-a39f-effbde670000/56/86/2b43901d440d8daebbf54cf3dc2f/367797.jpg?precrop=2400,1395,x0,y82&width=1200&height=630&cmsprod",
+          "shaar_image": null
         }
       ]
     }

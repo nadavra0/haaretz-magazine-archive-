@@ -1,0 +1,333 @@
+{
+  "magazine_date": "2024-05-10",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/0000018f-583f-d348-a7bf-febff88d0000/c4/b2/925802ac61b857c645575da93296/577403692.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-05-08/ty-article-magazine/.highlight/0000018f-583f-d348-a7bf-febff88d0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-05-08/ty-article-magazine/.highlight/0000018f-583f-d348-a7bf-febff88d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-05-08",
+          "magazine_date": "2024-05-10",
+          "title": "יום בהיר אחד, דבורים השתלטו לי על הבית. ואף אחד לא היה מוכן לעזור",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-583f-d348-a7bf-febff88d0000/c4/b2/925802ac61b857c645575da93296/577403692.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-05-08/ty-article-magazine/.highlight/0000018f-5840-d348-a7bf-fee90d6a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-05-08",
+          "magazine_date": "2024-05-10",
+          "title": "לא טוב היות האדם לבדו? מחקרים חדשים מראים שאולי דווקא כן",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-5840-d348-a7bf-fee90d6a0000/d0/d5/67440c4a43bdb70df6dced5661c7/0111.jpg?precrop=2000%2C1163%2Cx0%2Cy123&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-05-08/ty-article-magazine/.highlight/0000018f-5840-d6a5-a5ff-da6029250000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-05-08",
+          "magazine_date": "2024-05-10",
+          "title": "\"אני לוקח את ביבי לבדיקות MRI ופרוסטטה. אני לא צריך לדווח על זה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-5840-d6a5-a5ff-da6029250000/9b/6b/bd48cd2246abb4680c2935dae19c/650263.jpg?precrop=2400%2C1396%2Cx0%2Cy163&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-05-08/ty-article/.highlight/0000018f-57e7-dd02-adbf-77efcdc50000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-05-08",
+          "magazine_date": "2024-05-10",
+          "title": "איך הצלחתי להיפטר מהאיש שארב לי ליד הסופר כדי להתלונן על הדעות שלי",
+          "og_image": "https://gif.haarets.co.il/bs/0000018f-57e7-dd02-adbf-77efcdc50000/d7/a8/efc0ad6d409a89f99328ddcf36f6/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-05-09/ty-article-magazine/.highlight/0000018f-5840-d348-a7bf-fee9cea00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-05-09",
+          "magazine_date": "2024-05-10",
+          "title": "רופא אמריקאי בכיר עזב את ביתו ונסע לעזה להציל חיים. עדותו מקפיאת דם",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-5840-d348-a7bf-fee9cea00000/f3/34/004b4e774fa4902afef8b2443f20/58019.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-05-09/ty-article-magazine/.highlight/0000018f-58b8-d582-a79f-78b9fdef0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-05-09",
+          "magazine_date": "2024-05-10",
+          "title": "\"בנות אמרו לי בשבי: עם הפציעות נוכל להתמודד, אך לא עם מה שעברנו\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-58b8-d582-a79f-78b9fdef0000/51/f6/ecbe9a7c4bc98d2adfa376a5ccb1/74992.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-05-08/ty-article-magazine/.highlight/0000018f-5804-d348-a7bf-fead61650000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-05-08",
+          "magazine_date": "2024-05-10",
+          "title": "מה גורם לישראלי ללעוג לעזתי שטבע ומת, בזמן שניסה להגיע לחבילת מזון?",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-5804-d348-a7bf-fead61650000/54/6c/9afe04cb40e1aad2b702ef00785f/56692709.JPG?precrop=4000%2C2326%2Cx0%2Cy305&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-05-08/ty-article/.highlight/0000018f-57df-d6a5-a5ff-d7ffd6790000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-05-08",
+          "magazine_date": "2024-05-10",
+          "title": "ישראלים בחו\"ל הם כמו אסירים בחופשה. יש מי שמסרבים להשתתף בטקס הזה",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-57df-d6a5-a5ff-d7ffd6790000/de/47/97372b474887aa02404caabb854b/56672334.JPG?precrop=6850%2C3982%2Cx1276%2Cy1438&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-05-08/ty-article/.highlight/0000018f-57ec-d922-a5af-77ee87910000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-05-08",
+          "magazine_date": "2024-05-10",
+          "title": "מדוע שר הביטחון לא רצה לראות את מה שסבתא שלי ראתה?",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-57ec-d922-a5af-77ee87910000/9d/75/c368a96342f784dbc55e9e1500ba/31075.jpg?precrop=2400%2C1395%2Cx0%2Cy104&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-05-08/ty-article/.highlight/0000018f-582f-d348-a7bf-feaffb310000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-05-08",
+          "magazine_date": "2024-05-10",
+          "title": "אנחנו לא בדיוק חיים. אנחנו פשוט עדיין לא מתים מתים",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-582f-d348-a7bf-feaffb310000/d7/f7/49b434bb4025ac600e4216c388c7/56692733.JPG?precrop=5628%2C3272%2Cx0%2Cy480&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-05-09/ty-article-face/.highlight/0000018f-5a0e-d6a5-a5ff-da2eea340000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-05-09",
+          "magazine_date": "2024-05-10",
+          "title": "\"ב-1965, חשבנו שאם נכיר בארץ בחורה נצטרך לצאת איתה על גמל או חמור\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-5a0e-d6a5-a5ff-da2eea340000/83/5f/e8d9da704e85a57cc094daeba0de/facetemplate1800x1200-1.jpg?precrop=1800%2C1046%2Cx0%2Cy20&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-05-08/ty-article-magazine/.highlight/0000018f-5848-d348-a7bf-fee927f20000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-05-08",
+          "magazine_date": "2024-05-10",
+          "title": "\"ארכיאולוגים מאוד מתרגשים מהרס. מה שאנחנו רוצים זה בית הרוס\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-5848-d348-a7bf-fee927f20000/e7/3f/c01c49714731ae790172fe519363/72716.jpg?precrop=2400%2C1395%2Cx0%2Cy178&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-05-08/ty-article-magazine/.highlight/0000018f-5865-d6a5-a5ff-da65b2590000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-05-08",
+          "magazine_date": "2024-05-10",
+          "title": "מי הוא האיש שקורא את השירים של נעם חורב ולא מצטמרר?",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-5865-d6a5-a5ff-da65b2590000/a3/1a/0e148d034891bdad7576f0584cfd/56423205.JPG?precrop=6000%2C3488%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-05-09/ty-article-magazine/.highlight/0000018f-5c0b-d1d4-afcf-fc0bafeb0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-05-09",
+          "magazine_date": "2024-05-10",
+          "title": "קים קרדשיאן במט גאלה. איברים פנימיים זה לחלשות",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-5c0b-d1d4-afcf-fc0bafeb0000/a5/ae/c35b7ca744cc9e2dd01e4955903f/headline-m.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-05-08/ty-article/.highlight/0000018f-5814-d922-a5af-7a3e56ef0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-05-08",
+          "magazine_date": "2024-05-10",
+          "title": "מה הציון שתתן לנתניהו מ-1 עד 10? \"2-1.  אחרי המלחמה צריך להחליף אותו\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-5814-d922-a5af-7a3e56ef0000/a4/3a/c765c4424c338000bb7a4c6eaad2/58161.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-05-09/ty-article-magazine/.highlight/0000018f-5ea1-d9a0-a38f-fea70efb0002",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-05-09",
+          "magazine_date": "2024-05-10",
+          "title": "\"את ביבי מחליף רק המשיח\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-5ee6-d9a0-a38f-fee73b130000/35/ad/db39cb4a467c905d527268d98054/615656.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-05-09/ty-article-20q/.highlight/0000018f-59f8-d0ec-a9cf-dffff60d0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-05-09",
+          "magazine_date": "2024-05-10",
+          "title": "איזה שיא שברה עדן אלנה כששרה את \"Set Me Free\" באירוויזיון?",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-59f8-d0ec-a9cf-dffff60d0000/74/2f/279adcaf4cddb136de9cdd879fb2/639988.jpg?precrop=2200%2C1279%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-05-08/ty-article-magazine/.highlight/0000018f-583e-d0ec-a9cf-de3f0f1f0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-05-08",
+          "magazine_date": "2024-05-10",
+          "title": "מה שמגישים בארוחה הזאת זה לא מרק. זה שיקוי פלא",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-583e-d0ec-a9cf-de3f0f1f0000/7e/c3/d755be794356a5b7854070e9a76a/1.jpg?precrop=1429%2C831%2Cx0%2Cy798&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-05-09/ty-article-magazine/.premium/0000018f-5c18-d348-a7bf-feb9fddc0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-05-09",
+          "magazine_date": "2024-05-10",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 10.5.2024",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-5c18-d348-a7bf-feb9fddc0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-05-09/ty-article/.premium/0000018f-5c15-d1d4-afcf-fc1f9e940000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-05-09",
+          "magazine_date": "2024-05-10",
+          "title": "הודו מכוונת לכתר",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-5c15-d1d4-afcf-fc1f9e940000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-05-09/ty-article/.premium/0000018f-5c1f-d1d4-afcf-fc1fab030000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-05-09",
+          "magazine_date": "2024-05-10",
+          "title": "נתניהו: \"זה משברון, בעיה קטנה שתיפתר בקרוב\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-5c1f-d1d4-afcf-fc1fab030000/e2/bb/8c3e7cee47ec932b8ddd5ee014bf/mefursamot.jpg?precrop=1250%2C727%2Cx0%2Cy1568&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-05-09/ty-article/0000018f-5d26-d65e-a9cf-dfa6df090000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-05-09",
+          "magazine_date": "2024-05-10",
+          "title": "פרש כנף על הנשרים: ד\"ר עופר בהט הקדיש את חייו להגנת העופות הדורסים",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-5d26-d65e-a9cf-dfa6df090000/30/cc/61f04db1484fb565f60553323bfa/whatsapp-image-2024-03-28-at-14-22-59-409a842f.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-05-09/ty-article/.premium/0000018f-5c24-d0ec-a9cf-de3fceab0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-05-09",
+          "magazine_date": "2024-05-10",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-5c24-d0ec-a9cf-de3fceab0000/e0/de/7361e69d4950b92ebc529a1f7ac5/ribooa-musaf-572.jpg?precrop=1083%2C630%2Cx0%2Cy161&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-05-08/ty-article/.highlight/0000018f-5883-d6a5-a5ff-daa3d18b0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-05-08",
+          "magazine_date": "2024-05-10",
+          "title": "לא, אלון עידן, הם ממש לא טיפשים",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-5883-d6a5-a5ff-daa3d18b0000/21/2b/470d46054352afc780e063126153/659084.jpg?precrop=1564%2C909%2Cx836%2Cy319&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

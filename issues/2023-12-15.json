@@ -1,0 +1,343 @@
+{
+  "magazine_date": "2023-12-15",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/0000018c-6394-de43-affd-f796f3aa0000/57/1f/d66cf8b84bc786b85975ae70e6e2/54721571.JPG?precrop=3889%2C2262%2Cx271%2Cy553&width=1200&height=630&cmsprod=&watermark=htz-2023",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2023-12-14/ty-article-magazine/.highlight/0000018c-6394-de43-affd-f796f3aa0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-12-13/ty-article/.highlight/0000018c-6369-de43-affd-f76b987c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-12-13",
+          "magazine_date": "2023-12-15",
+          "title": "אנשים שאומרים שבסוף יהיה טוב, גם טועים וגם מעצבנים אותי",
+          "og_image": "https://gif.haarets.co.il/bs/0000018c-6369-de43-affd-f76b987c0000/10/6e/79724c974a11a2226caf264b9b7e/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-12-14/ty-article-magazine/.highlight/0000018c-6394-de43-affd-f796f3aa0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-12-14",
+          "magazine_date": "2023-12-15",
+          "title": "האיש שגילה על בשרו כמה זמן יכולים בני אדם להחזיק ללא שינה",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-6394-de43-affd-f796f3aa0000/57/1f/d66cf8b84bc786b85975ae70e6e2/54721571.JPG?precrop=3889%2C2262%2Cx271%2Cy553&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-12-14/ty-article-magazine/.highlight/0000018c-6398-d798-adac-e7bf2b120000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-12-14",
+          "magazine_date": "2023-12-15",
+          "title": "אורן לוטן יצא למסע על אופניים מסביב לעולם, וחזר לירושלים עם משימה",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-6398-d798-adac-e7bf2b120000/18/2c/e6b2c0f745bfb6ad7d1483c5542c/54761466.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-12-14/ty-article-magazine/.highlight/0000018c-648a-de43-affd-f48adead0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-12-14",
+          "magazine_date": "2023-12-15",
+          "title": "נוגה פרידמן לא מוכנה לציית להתנהגות שמצופה מאלמנת צה\"ל",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-648a-de43-affd-f48adead0000/bd/fe/ad635c484f2994d919baa500a151/54780862.JPG?precrop=8192%2C4763%2Cx0%2Cy632&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-12-14/ty-article/.highlight/0000018c-62c6-d6f9-afbc-7fce72810000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-12-14",
+          "magazine_date": "2023-12-15",
+          "title": "למה ביקשת להנפיק דרכון דיפלומטי ליאיר נתניהו? \"די! אנחנו בלחימה!\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-62c6-d6f9-afbc-7fce72810000/fb/d6/c37a4e3d4c51b7c3ab9ea2db0f56/54804691.JPG?precrop=8256%2C4798%2Cx0%2Cy355&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-12-13/ty-article/.highlight/0000018c-62c7-d798-adac-e6ef6ec10000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-12-13",
+          "magazine_date": "2023-12-15",
+          "title": "בקדירה המהבילה של השמאלץ הלאומי, גם \"ביחד ננצח\" הפכה לסיסמה ריקה",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-62c7-d798-adac-e6ef6ec10000/1f/20/ab5a71e94767a793ba2253f380d8/63148.jpg?precrop=2126%2C1236%2Cx274%2Cy164&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-12-13/ty-article/.highlight/0000018c-62e9-d6f9-afbc-7febe0cc0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-12-13",
+          "magazine_date": "2023-12-15",
+          "title": "זה ידרוש סבלנות, אבל אפשר לעצור את מכונת הרעל הביביסטית",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-62e9-d6f9-afbc-7febe0cc0000/d9/7f/aa07b753420592f487e1c7786e41/869017.jpg?precrop=1500%2C872%2Cx436%2Cy408&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-12-13/ty-article/.highlight/0000018c-6364-d6f9-afbc-7f6e184a0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-12-13",
+          "magazine_date": "2023-12-15",
+          "title": "במקום לסלק את ההריסות, אפשר ללמוד ממה שעשו בניו יורק אחרי 11 בספטמבר",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-6364-d6f9-afbc-7f6e184a0000/32/b7/5b41d24c41a2971832ac18c889e6/54792623.JPG?precrop=5808%2C3377%2Cx0%2Cy37&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-12-13/ty-article/.highlight/0000018c-638a-d798-adac-e7afc92f0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-12-13",
+          "magazine_date": "2023-12-15",
+          "title": "כדי למוטט את הרוע, צריך ראשית להבין שהוא נמצא גם בכל אחד מאיתנו",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-638a-d798-adac-e7afc92f0000/a6/d0/20188d3b41448ab3415a6b5ba2f5/54793279.JPG?precrop=6720%2C3907%2Cx0%2Cy573&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2023-12-13/ty-article/.highlight/0000018c-6309-d6f9-afbc-7f4b8a050000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2023-12-13",
+          "magazine_date": "2023-12-15",
+          "title": "במלחמה הזאת, לפעמים גם חיוך קטן הוא \"נזק הסברתי\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-6309-d6f9-afbc-7f4b8a050000/a2/0b/ee74bfa247fd97c3c8d5d46cf309/54792492.JPG?precrop=1858%2C1080%2Cx62%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2023-12-14/ty-article-face/.highlight/0000018c-6932-de43-affd-fd3268790000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2023-12-14",
+          "magazine_date": "2023-12-15",
+          "title": "אסף פוזניאק",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-6932-de43-affd-fd3268790000/76/da/57715a434cd488793524cef8f6c5/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2023-12-14/ty-article-magazine/.highlight/0000018c-6386-dbd5-a39c-fff71eb10000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2023-12-14",
+          "magazine_date": "2023-12-15",
+          "title": "\"אני 30 שנה בארץ, אבל אין לי תחושת חג בשום חג חוץ מנובי גוד\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-6386-dbd5-a39c-fff71eb10000/8e/ea/a69042bc4bc89a3631bab167750d/54790541.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2023-12-14/ty-article-magazine/.highlight/0000018c-6395-de43-affd-f797a2ce0000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2023-12-14",
+          "magazine_date": "2023-12-15",
+          "title": "\"סינוואר אמר לי בחקירה: 'יום אחד אני אהיה השלטון — ואתה תהיה הנחקר'\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-6395-de43-affd-f797a2ce0000/d4/cf/4c653a004b0b9e29df030153711a/54775585.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2023-12-13/ty-article/.highlight/0000018c-639d-d6f9-afbc-7fdfec9a0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2023-12-13",
+          "magazine_date": "2023-12-15",
+          "title": "בני גנץ צריך לעשות עוד פעולה גדולה אחת כדי להציל את ישראל",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-639d-d6f9-afbc-7fdfec9a0000/ed/96/23ed82864c618dbc7e4903366b7f/30836.jpg?precrop=1207%2C702%2Cx759%2Cy366&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2023-12-14/ty-article-magazine/.highlight/0000018c-677a-de43-affd-f77a14d60000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2023-12-14",
+          "magazine_date": "2023-12-15",
+          "title": "נשיאת אוניברסיטת פנסילבניה מתפטרת. נשאר רק למוטט את הרווארד",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-677a-de43-affd-f77a14d60000/8f/cf/bd060ced46aca0c82f3357bada0f/mid-3.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2023-12-14/ty-article-magazine/.highlight/0000018c-6938-d798-adac-edbf570a0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2023-12-14",
+          "magazine_date": "2023-12-15",
+          "title": "\"כשנחזור לדבר בצורה פשוטה, אני חושב שגם ביידן יישר קו\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-6947-dbd5-a39c-ff77c6170000/36/d3/217d54c24b159c4dd6b924525863/39239.jpg?height=630&width=1200&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2023-12-14/ty-article-20q/.highlight/0000018c-655b-dbd5-a39c-ff7b68b10000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2023-12-14",
+          "magazine_date": "2023-12-15",
+          "title": "מה היה כוכב הלכת הראשון שעליו נחתה חללית מכדור הארץ?",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-655b-dbd5-a39c-ff7b68b10000/39/a6/fa05333a4e0ba0d28c3fce3e0d51/372663.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2023-12-13/ty-article-magazine/.highlight/0000018c-6332-dbd5-a39c-ff73e1eb0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2023-12-13",
+          "magazine_date": "2023-12-15",
+          "title": "בצק מצוין וטאבון בעבודת יד. לא צריך יותר מזה לפיצרייה נהדרת",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-6332-dbd5-a39c-ff73e1eb0000/98/f6/7fd533c14ae18d9951a4a04e7c56/pek.jpg?precrop=2000%2C1162%2Cx0%2Cy171&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2023-12-14/ty-article-magazine/.premium/0000018c-6775-de43-affd-f77705100000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2023-12-14",
+          "magazine_date": "2023-12-15",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 15.12.2023",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-6775-de43-affd-f77705100000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2023-12-14/ty-article/.premium/0000018c-676f-dbd5-a39c-ff7f203c0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2023-12-14",
+          "magazine_date": "2023-12-15",
+          "title": "שחקנית מבטיחה",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-676f-dbd5-a39c-ff7f203c0000/c9/56/07be020f4134a6c6112ed4c8cd33/54775528.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2023-12-14/ty-article/.premium/0000018c-6783-d798-adac-e7afdcf90000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2023-12-14",
+          "magazine_date": "2023-12-15",
+          "title": "נתניהו בוועדת וינוגרד: ראש הממשלה אחראי",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-6783-d798-adac-e7afdcf90000/5e/d1/bb932455427bac6d706f7727819a/fam.jpg?precrop=1250%2C727%2Cx0%2Cy1077&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2023-12-10/ty-article/0000018c-54a8-df4b-a78e-d5ab2da40000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2023-12-10",
+          "magazine_date": "2023-12-15",
+          "title": "נקניקים לחלוצים בת\"א ופרחים לרמה\"ש: לוחם המחתרת והחקלאי יהודה גפני",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-54a8-df4b-a78e-d5ab2da40000/3d/3f/61e2e9424e51bc302563ef04c767/capture.PNG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2023-12-14/ty-article/0000018c-67e8-d798-adac-e7efd0380000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2023-12-14",
+          "magazine_date": "2023-12-15",
+          "title": "\"היום אני לא מאמין שעשיתי את זה\": מת אחרון המשתתפים בשוד רכבת הכסף",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-67e8-d798-adac-e7efd0380000/6f/f1/018ad116456db03831d777dbb94c/645231.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2023-12-14/ty-article/.premium/0000018c-6780-d798-adac-e7af6a700000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2023-12-14",
+          "magazine_date": "2023-12-15",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-6780-d798-adac-e7af6a700000/e0/aa/f796d8ec46fca6a5361d5e93224e/ribooa-musaf-551.jpg?precrop=1083%2C630%2Cx0%2Cy96&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2023-12-13/ty-article/.highlight/0000018c-63b6-dbd5-a39c-fff7c3ea0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2023-12-13",
+          "magazine_date": "2023-12-15",
+          "title": "נתוני ההרוגים בעזה לא מצביעים על העדר הבחנה",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-63b6-dbd5-a39c-fff7c3ea0000/d4/3d/6c51ded54e3b8a5c01932b5facef/57900.jpg?precrop=2400%2C1395%2Cx0%2Cy123&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

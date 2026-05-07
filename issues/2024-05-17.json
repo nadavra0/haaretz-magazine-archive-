@@ -1,0 +1,333 @@
+{
+  "magazine_date": "2024-05-17",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/0000018f-7c03-d430-a38f-fde7c4d00000/9e/2c/9f890bbe4342858ecf584acede40/20240510-135205.jpg?precrop=804%2C467%2Cx635%2Cy914&width=1200&height=630&cmsprod=&watermark=htz-2024",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-05-16/ty-article-magazine/.highlight/0000018f-7c03-d430-a38f-fde7c4d00000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-05-15/ty-article-magazine/.highlight/0000018f-7c03-d808-a9bf-ff1745530000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-05-15",
+          "magazine_date": "2024-05-17",
+          "title": "\"הרב אמר לחיילים שצריך לירות בכולם, ושטוהר הנשק זה מוסר מערבי מעוות\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-7c03-d808-a9bf-ff1745530000/ad/f3/20814bd74160ac9d8cb8910767d8/56764295.JPG?precrop=6539%2C3802%2Cx0%2Cy555&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-05-15/ty-article-magazine/.highlight/0000018f-7c0e-dd07-adbf-ff7e9c320000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-05-15",
+          "magazine_date": "2024-05-17",
+          "title": "\"ארגוני הפשע הערביים ינצלו עכשיו את המשבר בארץ, וייכנסו לחברה היהודית\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-7c0e-dd07-adbf-ff7e9c320000/32/8b/b3e65b2f461eba710b29f6980969/56760947.JPG?precrop=4242%2C2466%2Cx0%2Cy791&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-05-15/ty-article/.highlight/0000018f-7c09-d0be-a7bf-fe6f5d2e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-05-15",
+          "magazine_date": "2024-05-17",
+          "title": "אני והמדינה לא ממש מסתדרים בזמן האחרון, אז הלכנו למטפלת זוגית",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-7c09-d0be-a7bf-fe6f5d2e0000/d9/72/24b38100473f97f54952cd0b01d0/56803831.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-05-15/ty-article/.highlight/0000018f-7c31-dd4f-ab8f-fdbdcf770000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-05-15",
+          "magazine_date": "2024-05-17",
+          "title": "אם יש אלוהים, הוא כנראה אנטישמי",
+          "og_image": "https://gif.haarets.co.il/bs/0000018f-7c31-dd4f-ab8f-fdbdcf770000/ae/dd/d13959fe47b6b061d1e1f310ee03/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-05-16/ty-article-magazine/.highlight/0000018f-7c03-d430-a38f-fde7c4d00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-05-16",
+          "magazine_date": "2024-05-17",
+          "title": "מתברר שדי בכך שנחשוב שאנחנו עומדים לחלות, כדי שנחלה באמת",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-7c03-d430-a38f-fde7c4d00000/9e/2c/9f890bbe4342858ecf584acede40/20240510-135205.jpg?precrop=804%2C467%2Cx635%2Cy914&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-05-16/ty-article-magazine/.highlight/0000018f-7c06-d604-af8f-7f07846d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-05-16",
+          "magazine_date": "2024-05-17",
+          "title": "מהפך בדוח האושר: צעירי מזרח אירופה בצמרת, המערב העשיר הרחק מאחור",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-7c06-d604-af8f-7f07846d0000/6e/63/5f0314a043dfb6e496a632745aab/74799.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-05-16/ty-article-magazine/.highlight/0000018f-7ccb-d430-a38f-fdefe5980000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-05-16",
+          "magazine_date": "2024-05-17",
+          "title": "חברה שאדישה לממדים כאלה של סבל היא חברה שכבר הפסידה במלחמה",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-7ccb-d430-a38f-fdefe5980000/26/0d/f040b98347b6b9e5803691827caa/56762822.JPG?precrop=3872%2C2251%2Cx0%2Cy92&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-05-15/ty-article/.highlight/0000018f-7bbc-d808-a9bf-fbbf2a7c0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-05-15",
+          "magazine_date": "2024-05-17",
+          "title": "אופטימיות מטומטמת: למה הצוצלת צריכה להיות הציפור הלאומית שלנו",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-7bbc-d808-a9bf-fbbf2a7c0000/13/4b/94064f91a4e272dca02e3761fe07/3836446969.jpg?precrop=1013%2C587%2Cx11%2Cy136&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-05-15/ty-article/.highlight/0000018f-7be3-d808-a9bf-fbf7190c0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-05-15",
+          "magazine_date": "2024-05-17",
+          "title": "האם האהבה דועכת ומתה, או שאנחנו הם אלה שמתים?",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-7be3-d808-a9bf-fbf7190c0000/c7/71/6d98e52f4286a18b5b9ae404a520/56763007.JPG?precrop=3715%2C2160%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2024-05-15/ty-article/0000018f-7bca-dd07-adbf-fbfa33500000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2024-05-15",
+          "magazine_date": "2024-05-17",
+          "title": "שתי מילים פלשתיות שעדיין משמשות אותנו בדיבור היומיומי",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-7bca-dd07-adbf-fbfa33500000/17/62/04a0ae984a2b8a2e6b2178409184/56801139.JPG?precrop=505%2C293%2Cx56%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-05-15/ty-article/.highlight/0000018f-7bb7-dd4f-ab8f-ffbf92000000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-05-15",
+          "magazine_date": "2024-05-17",
+          "title": "ישראל איננה נצחית, אך הקריסה עשויה להיראות אחרת מכפי שאנחנו מדמיינים",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-7bb7-dd4f-ab8f-ffbf92000000/51/c3/974ad4f3402c91cefe084d956578/56800440.JPG?precrop=6720%2C3907%2Cx0%2Cy573&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-05-15/ty-article-face/.highlight/0000018f-7dfa-d604-af8f-7ffbc1ed0002",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-05-15",
+          "magazine_date": "2024-05-17",
+          "title": "\"אחרי שראיתי את הזוועות, מיניתי את עצמי למתעד למען הדורות הבאים\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-7dfa-d604-af8f-7ffbc1ed0002/7b/71/0ce81fb144e4a4cc3d5625f6a138/facetemplate1800x1200-1.jpg?precrop=1800%2C1046%2Cx0%2Cy2&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-05-15/ty-article-magazine/.highlight/0000018f-7c52-d604-af8f-7f53f1ea0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-05-15",
+          "magazine_date": "2024-05-17",
+          "title": "\"כל מי שאי־פעם הכרתי ברוסיה, נמצא עכשיו בישראל. אין אחד שנשאר\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-7c52-d604-af8f-7f53f1ea0000/bf/07/6275cf3a42078166121d070a1cae/90757.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-05-15/ty-article-magazine/.highlight/0000018f-7c76-d604-af8f-7f77a73b0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-05-15",
+          "magazine_date": "2024-05-17",
+          "title": "פעם רצינו שיהיה פה טוב. היום כבר לא. הכוונות שלנו לא טובות",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-7c76-d604-af8f-7f77a73b0000/fb/87/d621236e44b68ae4766b55c8a9d2/56804557.JPG?precrop=1952%2C1135%2Cx51%2Cy909&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-05-16/ty-article-magazine/.highlight/0000018f-7ffd-d479-afdf-fffd7bbd0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-05-16",
+          "magazine_date": "2024-05-17",
+          "title": "הדיוקן המלכותי של צ'רלס. אם מסתכלים טוב אפשר לראות את הצל של אמא",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-7ffd-d479-afdf-fffd7bbd0000/af/40/a5594cd54a308660986929edf409/headline-m.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-05-15/ty-article-magazine/.highlight/0000018f-7e00-d604-af8f-7f01ab730000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-05-15",
+          "magazine_date": "2024-05-17",
+          "title": "\"Be quiet and shame on you!\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-7e01-d430-a38f-ffe5fbe40000/5d/35/f657532b430a892ba3e2a4663d65/015123.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-05-15/ty-article-20q/.highlight/0000018f-7dec-d430-a38f-fdec91510000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-05-15",
+          "magazine_date": "2024-05-17",
+          "title": "מדוע סירב הרמטכ\"ל דאז, גבי אשכנזי, לצפות בסרט \"בופור\"?",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-7dec-d430-a38f-fdec91510000/b0/e9/95fcf3df4abb980fa34b8c373c66/917539.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-05-15/ty-article-magazine/.highlight/0000018f-7bf2-d808-a9bf-fbf7cb1e0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-05-15",
+          "magazine_date": "2024-05-17",
+          "title": "התות המופלא הזה הגיע לכאן ממרחקים. יש רק כמה שבועות ליהנות ממנו",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-7bf2-d808-a9bf-fbf7cb1e0000/55/3b/14733ef049478e1aa4806abaf34d/88169.jpg?precrop=1715%2C997%2Cx0%2Cy783&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-05-16/ty-article-magazine/.premium/0000018f-7ff5-d430-a38f-fff523dd0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-05-16",
+          "magazine_date": "2024-05-17",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 17.5.2024",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-7ff5-d430-a38f-fff523dd0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-05-16/ty-article/.premium/0000018f-7ff0-d9d6-a38f-7ffbc9800000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-05-16",
+          "magazine_date": "2024-05-17",
+          "title": "מחץ תחבולני",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-7ff0-d9d6-a38f-7ffbc9800000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-05-16/ty-article/.premium/0000018f-8001-d430-a38f-c5e5456c0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-05-16",
+          "magazine_date": "2024-05-17",
+          "title": "תל אביב מזדקנת, ויש בה פחות זכרים",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-8001-d430-a38f-c5e5456c0000/2b/33/7cece9de45c4b7eec898ca11e4a7/mefursamot.jpg?precrop=1250%2C727%2Cx0%2Cy278&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2024-05-16/ty-article/.premium/0000018f-7ff9-d479-afdf-fffdda710000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2024-05-16",
+          "magazine_date": "2024-05-17",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-7ff9-d479-afdf-fffdda710000/a9/c4/cfaa0d5a42bea7ed8a65a475b80c/caro-reg.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-05-16/ty-article/.premium/0000018f-8003-d9d6-a38f-85fb67dc0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-05-16",
+          "magazine_date": "2024-05-17",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-8003-d9d6-a38f-85fb67dc0000/3f/51/0ea7b8dc40d093be346478803273/ribooa-musaf-573.jpg?precrop=1083%2C630%2Cx0%2Cy109&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-05-15/ty-article/.highlight/0000018f-7ca4-dd4f-ab8f-fdac54910000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-05-15",
+          "magazine_date": "2024-05-17",
+          "title": "הייתי רוצה להכריח את נתניהו לקרוא את הכתבה",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-7ca4-dd4f-ab8f-fdac54910000/6c/e3/20e9ff8344ffb5b8d861795c24c0/56697555.JPG?precrop=6000%2C3487%2Cx0%2Cy120&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}
