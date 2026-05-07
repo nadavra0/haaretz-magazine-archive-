@@ -35,17 +35,11 @@ export default function Grid({ issues, onSelect, formatDate }) {
   return (
     <div>
       <div className="year-tabs">
-        <button
-          className={`year-tab ${'all' === selectedYear ? 'active' : ''}`}
-          onClick={() => setSelectedYear('all')}
-        >
-          הכל
-        </button>
         {years.map(y => (
           <button
             key={y}
             className={`year-tab ${y === selectedYear ? 'active' : ''}`}
-            onClick={() => setSelectedYear(y)}
+            onClick={() => setSelectedYear(y === selectedYear ? 'all' : y)}
           >
             {y}
           </button>
