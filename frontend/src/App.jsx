@@ -45,8 +45,12 @@ export default function App() {
     fetch(`issues/${selectedDate}.json`)
       .then(r => r.json())
       .then(setIssue)
-    markRead(selectedDate)
-  }, [selectedDate, markRead])
+  }, [selectedDate])
+
+  const selectAndRead = useCallback((date) => {
+    markRead(date)
+    setSelectedDate(date)
+  }, [markRead])
 
   const surpriseMe = () => {
     const issues = index?.issues || []
@@ -108,7 +112,7 @@ export default function App() {
           <Grid
             issues={index?.issues || []}
             readDates={readDates}
-            onSelect={setSelectedDate}
+            onSelect={selectAndRead}
             formatDate={formatDate}
           />
         )}
