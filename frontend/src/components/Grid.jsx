@@ -17,7 +17,7 @@ export default function Grid({ issues, readDates = new Set(), onSelect, formatDa
     return ys
   }, [issues])
 
-  const [selectedYear, setSelectedYear] = useState(() => years[0] ?? null)
+  const [selectedYear, setSelectedYear] = useState('all')
 
   const filtered = useMemo(
     () => selectedYear === 'all' ? issues : issues.filter(i => i.magazine_date.startsWith(selectedYear)),
