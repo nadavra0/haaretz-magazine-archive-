@@ -1,0 +1,343 @@
+{
+  "magazine_date": "2025-02-07",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/00000194-da6f-df08-a3bc-de7f4c230001/d3/6a/67927f364900a7288226a670bfce/shaar-3.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-02-05/ty-article/.highlight/00000194-d620-de15-a5f4-de6a96940000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-02-05/ty-article/.highlight/00000194-d620-de15-a5f4-de6a96940000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-02-05",
+          "magazine_date": "2025-02-07",
+          "title": "מה קרה בטיפול הזוגי של הזוג המלכותי",
+          "og_image": "https://img.haarets.co.il/bs/00000194-d620-de15-a5f4-de6a96940000/db/52/94c7fa4b4383bd780492b6784bf9/145731.jpg?precrop=1245%2C724%2Cx587%2Cy251&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-02-06/ty-article-magazine/.highlight/00000194-d59f-dbc3-adb7-d59f66240000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-02-06",
+          "magazine_date": "2025-02-07",
+          "title": "\"הסרט לא אמור להיות המטרה, אלא הכלי. האוסקר לא מעניין אותי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000194-d59f-dbc3-adb7-d59f66240000/06/84/b09d38ae4c2b8f090ca63fcd8ada/60291090.JPG?precrop=6000%2C3487%2Cx0%2Cy65&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-02-06/ty-article-magazine/.highlight/00000194-d5b5-d558-a1d4-ffbdd4ab0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-02-06",
+          "magazine_date": "2025-02-07",
+          "title": "\"בן החמאס\" הופיע לראשונה בישראל וקרא לפלסטינים נאצים. הקהל היה באקסטזה",
+          "og_image": "https://img.haarets.co.il/bs/00000194-d5b5-d558-a1d4-ffbdd4ab0000/4b/5e/72fcbf0a42a699591523dd079350/60321443.JPG?precrop=2795%2C1625%2Cx198%2Cy556&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-02-06/ty-article-magazine/.highlight/00000194-d5d5-de15-a5f4-ddff51e80000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-02-06",
+          "magazine_date": "2025-02-07",
+          "title": "האם מתקרב הרגע שבו נוכל לחבר את המוח למחשב?",
+          "og_image": "https://img.haarets.co.il/bs/00000194-d5d5-de15-a5f4-ddff51e80000/5a/8e/702c898b446db02c50006424686f/181189.jpg?precrop=1603%2C932%2Cx0%2Cy886&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-02-06/ty-article-magazine/.highlight/00000194-da56-df08-a3bc-de7f061d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-02-06",
+          "magazine_date": "2025-02-07",
+          "title": "שרון שרעבי מחפש את המלים לבשר לאחיו החטוף אלי שכל משפחתו נרצחה",
+          "og_image": "https://img.haarets.co.il/bs/00000194-da56-df08-a3bc-de7f061d0000/ed/d9/efa3be284013916a318aeea9ca55/60349960.JPG?precrop=8192%2C4763%2Cx0%2Cy180&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-02-06/ty-article-magazine/.highlight/00000194-da57-df08-a3bc-de7f0f2b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-02-06",
+          "magazine_date": "2025-02-07",
+          "title": "כליה מחזיר, עין ביונית, ברך מאלמוג. לגוף יש חלקי חילוף. ומה עם המוח?",
+          "og_image": "https://img.haarets.co.il/bs/00000194-da57-df08-a3bc-de7f0f2b0000/23/bb/65f22f54420e903a7322b12a89df/60320501.JPG?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-02-06/ty-article/.highlight/00000194-db00-df08-a3bc-df3d5d760000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-02-06",
+          "magazine_date": "2025-02-07",
+          "title": "שכרתי מאלף לכלב. חבל שאין כזה לבני זוג",
+          "og_image": "https://gif.haarets.co.il/bs/00000194-db00-df08-a3bc-df3d5d760000/15/ac/1bcb5c9a473d86dd9e7136afd268/7-2-25-animation.gif?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-02-05/ty-article/.highlight/00000194-d597-df91-ab95-ffff0f1d0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-02-05",
+          "magazine_date": "2025-02-07",
+          "title": "שנים של הפקרות דיגיטלית הפכו את ישראל למגרש המשחקים של הביון האיראני",
+          "og_image": "https://img.haarets.co.il/bs/00000194-d597-df91-ab95-ffff0f1d0000/2e/c7/79a79f17433595f032285dd193e8/227056.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-02-05/ty-article/.highlight/00000194-d5bc-de15-a5f4-ddfe618c0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-02-05",
+          "magazine_date": "2025-02-07",
+          "title": "מחקר עדכני חושף את המשמעות העצובה של \"תל אביב\", העיר שלא היתה",
+          "og_image": "https://img.haarets.co.il/bs/00000194-d5bc-de15-a5f4-ddfe618c0000/66/fb/aefed86a4e2599f5b0f7fff0fb63/babyliniantelaviv-inside02-ezekiel-river.jpg?precrop=1434%2C834%2Cx0%2Cy91&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-02-05/ty-article/.highlight/00000194-d61c-dbc3-adb7-d69fd3bf0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-02-05",
+          "magazine_date": "2025-02-07",
+          "title": "ניסוחים מטומטמים, שלטים חסרי פשר. העברית העילגת השתלטה על ישראל",
+          "og_image": "https://img.haarets.co.il/bs/00000194-d61c-dbc3-adb7-d69fd3bf0000/7d/aa/3abea54c4b609af2711f4c384724/2432432.jpg?precrop=2247%2C1306%2Cx138%2Cy519&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-02-05/ty-article/.highlight/00000194-d5b1-de15-a5f4-ddfb9a770000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-02-05",
+          "magazine_date": "2025-02-07",
+          "title": "זו תקופה אפלה ומדממת, אבל דווקא אנשים חושבים ימצאו בה אור",
+          "og_image": "https://img.haarets.co.il/bs/00000194-d5b1-de15-a5f4-ddfb9a770000/ac/62/8091cab6426a958b2a718e9c5ab2/60334978.JPG?precrop=5808%2C3375%2Cx0%2Cy281&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-02-05/ty-article-face/.highlight/00000194-d590-dd4f-adbe-ffd77f640000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-02-05",
+          "magazine_date": "2025-02-07",
+          "title": "אייל אשל: \"אני רוצה שנתניהו יזכור שהיתה פה חיילת שהיתה הראשונה להכריז שיש מלחמה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000194-d590-dd4f-adbe-ffd77f640000/e3/56/2a1bc7954a7ca4a199c96c24b56e/451965.jpg?precrop=2400%2C1396%2Cx0%2Cy127&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-02-05/ty-article-magazine/.highlight/00000194-d66c-de15-a5f4-de6e6a6e0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-02-05",
+          "magazine_date": "2025-02-07",
+          "title": "\"חמותי אמרה עליי שאני פרנקית. היתה לנו אהבה מיוחדת\"",
+          "og_image": "https://img.haarets.co.il/bs/00000194-d66c-de15-a5f4-de6e6a6e0000/0a/8c/1d23e4bb4523afb169494a4f91a6/60321359.JPG?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-02-05/ty-article/.highlight/00000194-d701-df08-a3bc-df3d4f5f0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-02-05",
+          "magazine_date": "2025-02-07",
+          "title": "הסתכלו טוב בפנים המיוסרות של רזי ברקאי. הסתכלו טוב טוב. ותתחילו לדאוג",
+          "og_image": "https://img.haarets.co.il/bs/00000194-d701-df08-a3bc-df3d4f5f0000/11/59/2781c0564bdbb78fff4f453f46bb/raz.png?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-02-06/ty-article-magazine/.highlight/00000194-db33-da2f-adb6-dfb306dc0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-02-06",
+          "magazine_date": "2025-02-07",
+          "title": "טראמפ רוצה להשתלט על עזה. בית לאהיא, גרינלנד, אותה מהפכה",
+          "og_image": "https://img.haarets.co.il/bs/00000194-db33-da2f-adb6-dfb306dc0000/b0/e0/0c37827d4288a9c3b78627ef9fcd/headline.jpg?precrop=2000%2C1163%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-02-05/ty-article/.highlight/00000194-d600-dbc3-adb7-d68349880000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-02-05",
+          "magazine_date": "2025-02-07",
+          "title": "למה פירסמתם שהאריה בספארי הביט במסוק שהוביל חטוף? \"יכול להיות שטעיתי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000194-d600-dbc3-adb7-d68349880000/ca/0f/d9c81ca240809ffb74d3a4f3a305/60349231.JPG?precrop=1066%2C620%2Cx0%2Cy121&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-02-05/ty-article-20q/.highlight/00000194-d560-d558-a1d4-ff7915100000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-02-05",
+          "magazine_date": "2025-02-07",
+          "title": "באיזו מדינה הנקודה הטבעית הגבוהה ביותר היא \"הר\" בגובה כ–5 מטרים?",
+          "og_image": "https://img.haarets.co.il/bs/00000194-d560-d558-a1d4-ff7915100000/50/ee/0f14076f426f816cd1191f03fb2e/475791.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2025-02-05/ty-article-20q/.free/00000194-d586-dbc3-adb7-d587e1080000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2025-02-05",
+          "magazine_date": "2025-02-07",
+          "title": "20 שאלות לילדים ולילדות: באיזו מדינה מייצרים שמפניה?",
+          "og_image": "https://img.haarets.co.il/bs/00000194-d586-dbc3-adb7-d587e1080000/dc/e4/8e196dd5401893477ea33ef40aef/807230.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-02-06/ty-article-magazine/.highlight/00000194-d63b-dd4f-adbe-feff22c30000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-02-06",
+          "magazine_date": "2025-02-07",
+          "title": "האוטוריטה של הפיתה: המדריך שמכתיר את הפלאפל והשווארמה הטעימים בישראל",
+          "og_image": "https://img.haarets.co.il/bs/00000194-d63b-dd4f-adbe-feff22c30000/7c/ba/0dbe5e31404fa6b682ac4b4ba0f5/312.jpg?precrop=1429%2C831%2Cx0%2Cy653&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-02-06/ty-article-magazine/.premium/00000194-db1a-d6d4-a3d6-ffba0df10000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-02-06",
+          "magazine_date": "2025-02-07",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 7.2.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000194-db1a-d6d4-a3d6-ffba0df10000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-02-06/ty-article/.premium/00000194-db19-d390-a1b6-ff9be8280000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-02-06",
+          "magazine_date": "2025-02-07",
+          "title": "פראג ניצח בוויקנזי",
+          "og_image": "https://img.haarets.co.il/bs/00000194-db19-d390-a1b6-ff9be8280000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-02-03/ty-article/00000194-cd57-d8dd-a3b7-edf70e260000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-02-03",
+          "magazine_date": "2025-02-07",
+          "title": "\"מרחוק עוד יש כוכב נוצץ\": בגיל 101 נפטר ניצול השואה מרדכי צ'כנובר",
+          "og_image": "https://img.haarets.co.il/bs/00000194-cd57-d8dd-a3b7-edf70e260000/73/82/99fc10c4ef7b2fce1acd0a11ffb8/1602141609.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2025-02-06/ty-article/.premium/00000194-db28-df08-a3bc-df3df2c40000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2025-02-06",
+          "magazine_date": "2025-02-07",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000194-db28-df08-a3bc-df3df2c40000/31/7e/009f03054d7d965e60fe3db191f8/aptopix-israel-palestinians-gaza.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-02-06/ty-article/.premium/00000194-db31-d6d4-a3d6-ffb9a2940000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-02-06",
+          "magazine_date": "2025-02-07",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000194-db31-d6d4-a3d6-ffb9a2940000/d0/d7/8f7cec0e45f59e89515c270cb032/ribooa-musaf-611-new.jpg?precrop=1083%2C630%2Cx0%2Cy47&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-02-05/ty-article/.highlight/00000194-d6f5-ddbc-a1dd-d6f705db0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-02-05",
+          "magazine_date": "2025-02-07",
+          "title": "תפילין בבית ספר חילוני? אתם מזדעקים בגלל השערורייה הלא נכונה",
+          "og_image": "https://img.haarets.co.il/bs/00000194-d6f5-ddbc-a1dd-d6f705db0000/57/35/2bd52c312c32ec4e7fd3e5f6fff2/3266360121.PNG?precrop=670%2C390%2Cx0%2Cy2&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

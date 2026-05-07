@@ -1,0 +1,333 @@
+{
+  "magazine_date": "2026-04-10",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/0000019d-6711-d62a-a7bf-ef1bf22a0001/41/c6/b213d6764aef85238dedd477d2e0/shaar-15.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-04-08/ty-article-magazine/.highlight/0000019d-6253-d62a-a7bf-ea5b6ee30000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-04-07/ty-article/.highlight/0000019d-66ac-db3c-a3df-efade2dd0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-04-07",
+          "magazine_date": "2026-04-10",
+          "title": "בזמן האחרון אני חווה ניתוק מעצמי. האם אני בעצם בפוסט־טראומה?",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-66ac-db3c-a3df-efade2dd0000/9e/13/6328d1334311a7f08fc60e0855df/10-4-26-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-04-08/ty-article-magazine/.highlight/0000019d-621e-d68a-a39d-633f30ef0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-04-08",
+          "magazine_date": "2026-04-10",
+          "title": "הוא מספק יופי של בשר וחלב וצולח בקלות את משבר האקלים. ביי פרה, היי גמל",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-621e-d68a-a39d-633f30ef0000/39/47/c1b1e18f44fc8b82d4009cf0075f/468257.jpg?precrop=2400,1396,x0,y149&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-04-08/ty-article-magazine/.highlight/0000019d-6226-d62a-a7bf-ea2e62540000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-04-08",
+          "magazine_date": "2026-04-10",
+          "title": "מה עושים 100 מיליון וולט לגוף ולנפש?",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-6226-d62a-a7bf-ea2e62540000/47/1a/361ee7934f75a1faae254cd3e3c2/65159420.JPG?precrop=1229,715,x0,y366&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-04-08/ty-article-magazine/.highlight/0000019d-6253-d62a-a7bf-ea5b6ee30000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-04-08",
+          "magazine_date": "2026-04-10",
+          "title": "\"אנשים בהתיישבות בלחץ אטומי. מחלחלת ההבנה שחייבים להילחם בסטייה הזאת\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-6253-d62a-a7bf-ea5b6ee30000/10/41/0c30105f45d48e563ea30710a35b/445156.jpg?precrop=2400,1395,x0,y284&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-04-08/ty-article-magazine/.highlight/0000019d-66cb-d62a-a7bf-eecb01dd0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-04-08",
+          "magazine_date": "2026-04-10",
+          "title": "היהודים תמיד ניסו להתחבב על הגויים כדי להציל את עצמם. זה לא יעזור להם",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-66cb-d62a-a7bf-eecb01dd0000/3a/99/fd3136764d36b4d049bf7fe369b6/ariel.JPG?precrop=2000,1162,x0,y435&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-04-08/ty-article-magazine/.highlight/0000019d-66fa-d759-ab9d-7ffbcce50000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-04-08",
+          "magazine_date": "2026-04-10",
+          "title": "דרוש תליין. מובטחים תנאים מתגמלים, תעסוקה מתמדת ותחושת שליחות",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-66fa-d759-ab9d-7ffbcce50000/4f/1a/afa912b24b62b947c9b978094e5f/461897.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-04-08/ty-article/.highlight/0000019d-671b-d759-ab9d-7f9bf1080000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-04-08",
+          "magazine_date": "2026-04-10",
+          "title": "סופרים שהתאכזבו מהמין האנושי מעדיפים לכתוב על עצים וחיות. זה קצת מוזר",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-671b-d759-ab9d-7f9bf1080000/36/b8/0d7e2a074433a2a2b3aba37eafd1/65256628.JPG?precrop=7650,4445,x0,y636&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-04-08/ty-article/.highlight/0000019d-672f-da4e-a5df-6f3fa70c0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-04-08",
+          "magazine_date": "2026-04-10",
+          "title": "סמל המין של התקופה נגעל מנשים ומיחסי מין. הנוער הולך בעקבותיו",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-672f-da4e-a5df-6f3fa70c0000/fd/7f/1b6c19dc4662b0cef6394361a36d/65254471.JPG?precrop=3872,2251,x293,y119&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-04-08/ty-article/.highlight/0000019d-6757-d759-ab9d-7fdf34600000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-04-08",
+          "magazine_date": "2026-04-10",
+          "title": "החילונים שינו את פני המדינה. מדוע הם לא מעצבים גם את פני היהדות?",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-6757-d759-ab9d-7fdf34600000/28/22/132b6d0d401b9678b76dfafff263/584894.jpg?precrop=2400,1395,x0,y189&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2026-04-08/ty-article/.highlight/0000019d-670b-d759-ab9d-7f9b2b950000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2026-04-08",
+          "magazine_date": "2026-04-10",
+          "title": "מדוע נקרא התירוש בשמו, ומה הקשר לאל המוות הכנעני?",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-670b-d759-ab9d-7f9b2b950000/56/56/1764e0034c0cb0b5c5d17cb398ce/65258089.JPG?precrop=4224,2456,x0,y231&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-04-08/ty-article/.highlight/0000019d-670a-db3c-a3df-ef8fbe7d0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-04-08",
+          "magazine_date": "2026-04-10",
+          "title": "זו הבנה בלתי נתפסת: האיש החזק בעולם הוא בריון רפה שכל",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-670a-db3c-a3df-ef8fbe7d0000/dc/f8/ebeec4744adb84339169abff03a3/534242.jpg?precrop=2400,1396,x0,y189&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-04-09/ty-article-face/.highlight/0000019d-624f-d62a-a7bf-ea4f4d460000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-04-09",
+          "magazine_date": "2026-04-10",
+          "title": "מיקה אלמוג",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-624f-d62a-a7bf-ea4f4d460000/a3/1c/a1e691a346b59efb6816d97e1375/531921.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-04-08/ty-article-magazine/.highlight/0000019d-61e5-d62a-a7bf-ebefa6370000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-04-08",
+          "magazine_date": "2026-04-10",
+          "title": "\"אנחנו כינור ראשון ושני. כשאנחנו מנגנים יחד, נוצרת אנרגיה מושכת\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-61e5-d62a-a7bf-ebefa6370000/dd/d4/79a6d5284157b53543ef2603801b/457117.jpg?precrop=1799,1046,x384,y167&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-04-08/ty-article/.highlight/0000019d-6805-d62a-a7bf-ea0fec820000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-04-08",
+          "magazine_date": "2026-04-10",
+          "title": "הדרישה של הח\"כים יוצאי מרוקו לפטר את הדובר של נתניהו היא הכניעה שלהם",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-6805-d62a-a7bf-ea0fec820000/72/2a/1acdeba246dfb508a4b2bfe1b455/335536.jpg?precrop=902,524,x515,y413&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-04-08/ty-article-midrug/.highlight/0000019d-673a-da4e-a5df-6f3e931f0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-04-08",
+          "magazine_date": "2026-04-10",
+          "title": "שערי הגיהנום - הקוד זה 2580 כוכבית",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-673a-da4e-a5df-6f3e931f0000/cd/ba/6b7558a74a36bf01e3afe82b1b97/headline-16.jpg?precrop=2000,1163,x0,y855&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-04-09/ty-article/.highlight/0000019d-62aa-da4e-a5df-6abe2bed0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-04-09",
+          "magazine_date": "2026-04-10",
+          "title": "חיסלתם עיתונאי. למה הלבשתם אותו בפוטושופ במדי חיזבאללה? \"זאת גרפיקה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-62aa-da4e-a5df-6abe2bed0000/10/a2/f422a7704227b18878e68ef7cd28/gontaz.jpg?precrop=1146,666,x0,y209&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-04-08/ty-article-quotes/.highlight/0000019d-6733-d62a-a7bf-ef3b6c310000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-04-08",
+          "magazine_date": "2026-04-10",
+          "title": "\"האיראנים לצערנו לא יודעים לכוון כמו שצריך, אז זה פוגע ברמת גן\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-6733-d62a-a7bf-ef3b6c310000/bc/bf/9961b11149f9937ae973125d9544/532878.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-04-08/ty-article-20q/.highlight/0000019d-6244-d4e2-abdd-76ee419a0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-04-08",
+          "magazine_date": "2026-04-10",
+          "title": "איזו מדינה הצטרפה להסכמי אברהם בנובמבר 2025?",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-6244-d4e2-abdd-76ee419a0000/35/58/73d65af795e7f45dbc39d8c764c7/1775666646.jpg?precrop=2033,1179,x11,y87&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-04-09/ty-article-magazine/.premium/0000019d-6c57-d759-ab9d-7ddf1dab0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-04-09",
+          "magazine_date": "2026-04-10",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 10.4.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-6c57-d759-ab9d-7ddf1dab0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-04-09/ty-article/.premium/0000019d-6c61-d68a-a39d-6d732ae90000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-04-09",
+          "magazine_date": "2026-04-10",
+          "title": "המרוץ של סינדארוב",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-6c61-d68a-a39d-6d732ae90000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2026-04-09/ty-article/.premium/0000019d-6c68-da4e-a5df-6e7e99fe0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2026-04-09",
+          "magazine_date": "2026-04-10",
+          "title": "מחר משחק הגמר הצפוי בטהרן: הפועל ת\"א נגד אלופת איראן",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-6c68-da4e-a5df-6e7e99fe0000/5c/9c/20579c474356b87e832f60d65d2e/mefursamot.jpg?precrop=1250,727,x0,y90&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-04-10/ty-article/0000019d-764c-de10-afdf-766efaff0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-04-10",
+          "magazine_date": "2026-04-10",
+          "title": "ב-89' מצא בסין עולם שלישי. ב-2010 נדהם מהזינוק: אהרן שי מת בגיל 83",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-764c-de10-afdf-766efaff0000/b5/99/74f166dd4037a070977c9df769b7/291395.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-04-09/ty-article/.premium/0000019d-6c66-d759-ab9d-7dff417b0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-04-09",
+          "magazine_date": "2026-04-10",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-6c66-d759-ab9d-7dff417b0000/ae/21/e35d3787465aafe732f6391f704d/ribooa-musaf-672-new.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-04-08/ty-article/.highlight/0000019d-6295-db3c-a3df-eb95f3ec0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-04-08",
+          "magazine_date": "2026-04-10",
+          "title": "בואו נאמר זאת בפשטות: נכנענו לרוע",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-6295-db3c-a3df-eb95f3ec0000/b1/05/692709ce4cd39c1e4956b260861f/531603.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

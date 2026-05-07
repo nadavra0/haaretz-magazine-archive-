@@ -1,0 +1,353 @@
+{
+  "magazine_date": "2024-12-13",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/00000193-b618-d27e-ad97-befd88280001/ff/8c/4e22f7b6440682e0a09785c93fe3/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/the-edge/2024-12-12/ty-article-magazine/.highlight/00000193-b5ea-dd53-a3f3-f5ebb1ae0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-11/ty-article/.highlight/00000193-b6da-d27e-ad97-beff3a930000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-11",
+          "magazine_date": "2024-12-13",
+          "title": "הכירו את סיפורה של Chamaeleo bibino,  הזיקית שראשה מתפצל מזנבה",
+          "og_image": "https://img.haarets.co.il/bs/00000193-b6da-d27e-ad97-beff3a930000/a9/49/26f8f179465a9f1dc8d58b1e3e08/872508.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-12/ty-article-magazine/.highlight/00000193-b537-dd0b-ab9f-fd37a8850000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-12",
+          "magazine_date": "2024-12-13",
+          "title": "נמאס מהאלימות, נמאס ללמוד רק עם שחורים: מבקשי מקלט עוזבים את תל אביב",
+          "og_image": "https://img.haarets.co.il/bs/00000193-b537-dd0b-ab9f-fd37a8850000/59/18/ce7ea4864bf0bd97aafb7224d549/59685146.JPG?precrop=6749%2C3922%2Cx0%2Cy315&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-12/ty-article-magazine/.highlight/00000193-b54f-dc6c-a3b3-bf4f645b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-12",
+          "magazine_date": "2024-12-13",
+          "title": "כנופיה של ילדי פליטים זורעת כאוס בשכונת שפירא בתל אביב",
+          "og_image": "https://img.haarets.co.il/bs/00000193-b54f-dc6c-a3b3-bf4f645b0000/87/fc/c6581c9a417ea4975db8270bc6a9/851745.jpg?precrop=1452%2C845%2Cx948%2Cy654&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-12/ty-article-magazine/.highlight/00000193-b711-d27e-ad97-bffdaaa50000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-12",
+          "magazine_date": "2024-12-13",
+          "title": "נראה שיש פתרון לתעלומה שהטריפה את עולם היהלומים הישראלי",
+          "og_image": "https://gif.haarets.co.il/bs/00000193-b711-d27e-ad97-bffdaaa50000/72/ee/cecb29714703aedc11ee757d2443/diamond-homepage.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-12-12/ty-article/.highlight/00000193-b6d9-d27e-ad97-befd13230000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-12-12",
+          "magazine_date": "2024-12-13",
+          "title": "אפילו כוח לשנוא את ישראל כבר אין לי",
+          "og_image": "https://gif.haarets.co.il/bs/00000193-b6d9-d27e-ad97-befd13230000/8c/53/2f7923ee418e970dc1498910d52f/19-12-24-animation.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-12-11/ty-article/.highlight/00000193-b59b-dd0b-ab9f-fd9bf4310000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-12-11",
+          "magazine_date": "2024-12-13",
+          "title": "עומדים להחליף את הבניין שלנו בתמ\"א יוקרתי. גם אותנו יחליפו",
+          "og_image": "https://img.haarets.co.il/bs/00000193-b59b-dd0b-ab9f-fd9bf4310000/0f/d9/28b98b2244f08f0a6fc38ccea767/59684921.JPG?precrop=7374%2C4287%2Cx0%2Cy24&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-12-11/ty-article/.highlight/00000193-b5a3-dcc4-af9f-ffafbf7b0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-12-11",
+          "magazine_date": "2024-12-13",
+          "title": "ישראל לא הופכת לספרטה. גרוע מכך, היא הופכת לאתונה",
+          "og_image": "https://img.haarets.co.il/bs/00000193-b5a3-dcc4-af9f-ffafbf7b0000/f7/62/2df90f0b4419818887ea9231b74c/59684929.JPG?precrop=2032%2C1182%2Cx0%2Cy637&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-12-12/ty-article-magazine/.highlight/00000193-b5ea-dd53-a3f3-f5ebb1ae0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-12-12",
+          "magazine_date": "2024-12-13",
+          "title": "גודל הריאות הוא המנבא הכי טוב לתוחלת חיים. למה אנחנו נושמים לא נכון?",
+          "og_image": "https://img.haarets.co.il/bs/00000193-b5ea-dd53-a3f3-f5ebb1ae0000/e4/cd/b87e370649e390181483888fac62/sharing.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-12-11/ty-article/.highlight/00000193-b590-dd0b-ab9f-fd9205040000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-12-11",
+          "magazine_date": "2024-12-13",
+          "title": "הג'וב המסוכן ביותר בעולם: מה דוחף דיקטטורים לשיאים של נהנתנות ופאר?",
+          "og_image": "https://img.haarets.co.il/bs/00000193-b590-dd0b-ab9f-fd9205040000/fe/01/2f21ce6c4e5da4f4c5a06c106b3c/59684915.JPG?precrop=2667%2C1551%2Cx0%2Cy115&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-12-12/ty-article-face/.highlight/00000193-ba04-d27e-ad97-befdb7d80002",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-12-12",
+          "magazine_date": "2024-12-13",
+          "title": "\"האווירה הרעילה בקיץ הקודם עוררה מחשבות על העתיד בארץ. הרגשתי שהכל מתפורר\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-ba04-d27e-ad97-befdb7d80002/47/db/7bea1ff144968a0904e1b14a2439/facetemplate1800x1200-2.jpg?precrop=1800%2C1046%2Cx0%2Cy77&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-12-11/ty-article-magazine/.highlight/00000193-b6d9-d4e7-a7df-fefd00b50000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-12-11",
+          "magazine_date": "2024-12-13",
+          "title": "\"לאלמוג יש עסק מטורף, הוא נהיה אימפריה של זולות\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-b6d9-d4e7-a7df-fefd00b50000/08/1b/b5de5f804373af3970c163aa6fcd/59670125.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2024-12-12/ty-article-magazine/.highlight/00000193-b793-da67-abff-ffb713960000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2024-12-12",
+          "magazine_date": "2024-12-13",
+          "title": "\"אחרי 15 שנה בהייטק, עזבתי הכל ונסעתי להתנדב באפריקה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-b793-da67-abff-ffb713960000/88/79/3db88cb74ea2ad04e8e5b5cc5e80/59685689.JPG?precrop=3120%2C1814%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-12-11/ty-article/.highlight/00000193-b6da-d130-a1b7-b7da11710000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-12-11",
+          "magazine_date": "2024-12-13",
+          "title": "למה חלק מהישראלים מבועתים מהאפשרות שהחטופים יחזרו",
+          "og_image": "https://img.haarets.co.il/bs/00000193-b6da-d130-a1b7-b7da11710000/f1/e6/c0790f8246f796eddcc940de8326/23424-2.jpg?precrop=2140%2C1244%2Cx60%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-12-12/ty-article-magazine/.highlight/00000193-ba08-dca7-abd3-be2ee99c0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-12-12",
+          "magazine_date": "2024-12-13",
+          "title": "אסד, הסוף. פיספס את נשיא פרגוואי",
+          "og_image": "https://img.haarets.co.il/bs/00000193-ba08-dca7-abd3-be2ee99c0000/f0/a7/12bc5ca142699db64ddc68eefc97/headline.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-12-11/ty-article/.highlight/00000193-b6d9-da67-abff-fffd2c300000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-12-11",
+          "magazine_date": "2024-12-13",
+          "title": "\"זו לא התפרצות, אלא הערות. ולא סתם הערות, הן דורשות ממני המון השקעה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-b6d9-da67-abff-fffd2c300000/e1/ed/47f51e214bf2b33a22def992b504/861043.jpg?precrop=2400%2C1396%2Cx0%2Cy185&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-12-12/ty-article-magazine/.highlight/00000193-ba08-d27e-ad97-befd25cc0002",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-12-12",
+          "magazine_date": "2024-12-13",
+          "title": "\"היום, כשנתניהו נכנס לבית המשפט, יריב לוין כשל\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-ba0c-da67-abff-fbbc91000000/bd/39/00f0e50f4633b7023b094993986f/861505.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-12-11/ty-article-20q/.highlight/00000193-b4e8-d763-adf7-bef8a7470000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-12-11",
+          "magazine_date": "2024-12-13",
+          "title": "מדוע אמר דונלד טראמפ על בנימין נתניהו: \"Fuck him\"?",
+          "og_image": "https://img.haarets.co.il/bs/00000193-b4e8-d763-adf7-bef8a7470000/28/85/391cf309447b8cd7e6b58cc10e2e/814666.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-12-11/ty-article-magazine/.highlight/00000193-b5b2-d37b-adbf-f5f755f40000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-12-11",
+          "magazine_date": "2024-12-13",
+          "title": "שף ישראלי יצא לברר: איך מכינים את הקובה המפורסם ביותר בעיראק?",
+          "og_image": "https://img.haarets.co.il/bs/00000193-b5b2-d37b-adbf-f5f755f40000/85/ce/d5a44aa74445b407d5e2779ccc0c/1.jpg?precrop=1428%2C830%2Cx0%2Cy350&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-12-12/ty-article-magazine/.premium/00000193-b9fc-dae8-a9d3-fbfe37410000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-12-12",
+          "magazine_date": "2024-12-13",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 13.12.2024",
+          "og_image": "https://img.haarets.co.il/bs/00000193-b9fc-dae8-a9d3-fbfe37410000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-12-12/ty-article/.premium/00000193-b9f2-dae8-a9d3-fbfad56d0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-12-12",
+          "magazine_date": "2024-12-13",
+          "title": "גם גדולים טועים",
+          "og_image": "https://img.haarets.co.il/bs/00000193-b9f2-dae8-a9d3-fbfad56d0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-12-12/ty-article/.premium/00000193-ba01-d130-a1b7-bb595a1d0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-12-12",
+          "magazine_date": "2024-12-13",
+          "title": "הרצוג: זכותו של נשיא להציע אחדות",
+          "og_image": "https://img.haarets.co.il/bs/00000193-ba01-d130-a1b7-bb595a1d0000/df/42/9cd6b38b4807abb771a98a21b713/mefursamot.jpg?precrop=1250%2C727%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-12-12/ty-article/00000193-ba21-d495-adb3-fffdf0260000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-12-12",
+          "magazine_date": "2024-12-13",
+          "title": "\"לכל מקום נסעתי לחפש החיות התנ\"כיות\": מת ההולנדי שהקים את חוות היענים",
+          "og_image": "https://img.haarets.co.il/bs/00000193-ba21-d495-adb3-fffdf0260000/4d/bf/5be95e9c4795bd45b63458fbf3bf/kafri3028.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2024-12-12/ty-article/.premium/00000193-ba03-dae8-a9d3-faebd1b10000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2024-12-12",
+          "magazine_date": "2024-12-13",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000193-ba03-dae8-a9d3-faebd1b10000/96/89/cb9755394675902916e7094c9367/carolina-2.jpg?precrop=2000%2C1163%2Cx0%2Cy114&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-12-12/ty-article/.premium/00000193-ba0d-dca7-abd3-be2f84a60000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-12-12",
+          "magazine_date": "2024-12-13",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000193-ba0d-dca7-abd3-be2f84a60000/2b/4b/50261c45408095eebfed003456c0/ribooa-musaf-603-1.jpg?precrop=1083%2C630%2Cx0%2Cy214&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-12-11/ty-article/.highlight/00000193-b6d9-d130-a1b7-b7d94aca0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-12-11",
+          "magazine_date": "2024-12-13",
+          "title": "מוסף הארץ, בחייכם. אל תהפכו כולכם לגדעון לוי",
+          "og_image": "https://img.haarets.co.il/bs/00000193-b6d9-d130-a1b7-b7d94aca0000/e2/e4/c15332edf097e98f8134f64711c0/1565178698.jpg?precrop=1652%2C961%2Cx0%2Cy94&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "magazine_date": "2024-01-12",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/0000018c-f5b3-d365-a3ce-f5f7fb8f0001/3d/0a/8dac64414695a0d27720be0dbf8b/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-01-11/ty-article-magazine/.highlight/0000018c-f3cb-da04-a7df-f3cf5e450000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-01-10/ty-article-magazine/.highlight/0000018c-f387-d431-a7df-ffbffde80000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-01-10",
+          "magazine_date": "2024-01-12",
+          "title": "חוקר המיסטיקה ג'ף קרייפל מציע שנתכונן, כי מלחמה מביאה חוויות על טבעיות",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-f387-d431-a7df-ffbffde80000/0d/ef/69787fe4473b997495697cb0dafa/raphael-ezekiels-vision2.jpg?precrop=1681%2C977%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-01-10/ty-article-magazine/.highlight/0000018c-f388-da04-a7df-f3cd29d40000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-01-10",
+          "magazine_date": "2024-01-12",
+          "title": "האם לימוד מתמטיקה באמצעות גישה מוזיקלית יכול לשפר את ההישגים?",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-f388-da04-a7df-f3cd29d40000/0f/d6/34dfa5e0474b87b0c7553d1e3aae/55104643.JPG?precrop=4932%2C2867%2Cx0%2Cy1013&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-01-10/ty-article-magazine/.highlight/0000018c-f3cb-d6ce-abcc-fbcb13150000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-01-10",
+          "magazine_date": "2024-01-12",
+          "title": "מאשה גסן, מהאינטלקטואלים הבולטים בארה\"ב, אומרת דברים שלא נאהב לשמוע",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-f3cb-d6ce-abcc-fbcb13150000/28/58/41a990c24668bc4b103957521ad9/55116310.JPG?precrop=5200%2C3023%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-01-10/ty-article/.highlight/0000018c-f317-d2f9-a3ef-f7778efa0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-01-10",
+          "magazine_date": "2024-01-12",
+          "title": "למה נתתם פרס לקומיקאי שאומר שאנחנו \nצריכים לקחת לעזתים את האדמה?",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-f317-d2f9-a3ef-f7778efa0000/64/cb/3966e14d42ca99487faf47eb650f/nir.jpg?precrop=2000%2C1162%2Cx0%2Cy110&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-01-11/ty-article-magazine/.highlight/0000018c-f3cb-da04-a7df-f3cf5e450000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-01-11",
+          "magazine_date": "2024-01-12",
+          "title": "חצי מיליון עזתים סובלים מרעב חמור. צריך לתת למשפט הזה לחלחל",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-f3cb-da04-a7df-f3cf5e450000/2b/00/68803e954784b864e85237e531f0/gaza.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-01-11/ty-article-magazine/.highlight/0000018c-f3f4-da04-a7df-f3f5a5630000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-01-11",
+          "magazine_date": "2024-01-12",
+          "title": "\"גם בתוך זה שכולנו פה כאילו באותה סירה, זה ממש לא אותה סירה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-f3f4-da04-a7df-f3f5a5630000/ba/5d/708b885c47eea6f0bba7deb59985/41790.jpg?precrop=2400%2C1395%2Cx0%2Cy113&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-01-10/ty-article/.highlight/0000018c-f2db-d2f9-a3ef-f6ffae4c0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-01-10",
+          "magazine_date": "2024-01-12",
+          "title": "ברחבה של מוזיאון תל אביב מתרחש בימים אלה פלא חברתי יוצא דופן",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-f2db-d2f9-a3ef-f6ffae4c0000/75/fc/333a40514b9791e4aad41ba2e665/70896.jpg?precrop=2400%2C1395%2Cx0%2Cy121&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-01-10/ty-article/.highlight/0000018c-f2f3-d0b4-a7ce-f3f3641a0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-01-10",
+          "magazine_date": "2024-01-12",
+          "title": "מאזן הכישלונות מוכיח: תפיסת הביטחון של ישראל פשטה את הרגל",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-f2f3-d0b4-a7ce-f3f3641a0000/4d/16/821dc2004638b4d4127d8c247e9e/55090132.JPG?precrop=5760%2C3349%2Cx0%2Cy312&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-01-10/ty-article/.highlight/0000018c-f31b-d2f9-a3ef-f77f5f630000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-01-10",
+          "magazine_date": "2024-01-12",
+          "title": "שלטון חמולות? עזה דורשת פתרון רציני, אך נתניהו דבק בפנטזיות",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-f31b-d2f9-a3ef-f77f5f630000/27/fa/4011e9034982aabb12fc34d77b98/55090127.JPG?precrop=3072%2C1786%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-01-10/ty-article/.highlight/0000018c-f2ee-d0b4-a7ce-f3ef0c580000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-01-10",
+          "magazine_date": "2024-01-12",
+          "title": "כדי לצמוח מהאסון, ראשית יש להודות: ישראל נחלה תבוסה",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-f2ee-d0b4-a7ce-f3ef0c580000/ea/9c/f6094272490786a6fd12227dc30e/55090076.JPG?precrop=3306%2C1922%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-01-11/ty-article-face/.highlight/0000018c-f5a5-d432-a7ae-fffdd60f0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-01-11",
+          "magazine_date": "2024-01-12",
+          "title": "\"אחרי 7.10 כולם מתנשקים ומתחבקים בכל מפגש. אני לא רגיל לזה בישראל\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-f5a5-d432-a7ae-fffdd60f0000/70/e8/f466ef274cd295e2bd6dc6dde53b/facetemplate1800x1200-1-4.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-01-11/ty-article-magazine/.highlight/0000018c-f5af-d432-a7ae-ffff01170000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-01-11",
+          "magazine_date": "2024-01-12",
+          "title": "\"בעלי היה שלושה חודשים במילואים. זה סיוט, בחיים לא דמיינתי דבר כזה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-f5af-d432-a7ae-ffff01170000/39/bb/b2d5c51d4bc1be8e67912188ba2a/muchtar.jpg?precrop=2362%2C1373%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-01-11/ty-article/.highlight/0000018c-f5ad-d432-a7ae-fffde25a0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-01-11",
+          "magazine_date": "2024-01-12",
+          "title": "כשמחפשים דרך להסוות את המציאות המחוררת, אין ברירה אלא לתכלל",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-f5ad-d432-a7ae-fffde25a0000/c8/db/d9752a23421f8745014436fbcd04/whatsapp-image-2023-10-10-at-08-31-27.jpeg?precrop=514%2C299%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-01-11/ty-article-magazine/.highlight/0000018c-f876-d30b-a59d-f87eef500000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-01-11",
+          "magazine_date": "2024-01-12",
+          "title": "בג\"ץ פוסל את חוק הנבצרות. כן, ו?",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-f876-d30b-a59d-f87eef500000/53/9b/220d466a49b580e16b0f842fce74/mid-2.jpg?precrop=1563%2C909%2Cx0%2Cy170&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-01-11/ty-article-magazine/.highlight/0000018c-f5c7-d365-a3ce-f5f7986f0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-01-11",
+          "magazine_date": "2024-01-12",
+          "title": "\"השימוש במילים או באותיות פחות עוזר לציבור הישראלי\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-f5ce-dd68-a3cf-f7ce745b0007/15/d0/e96f12c44900bdd2b89b011a573b/600862.jpg?precrop=2400,1395,x0,y7&height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-01-10/ty-article-20q/.highlight/0000018c-f388-da04-a7df-f3cd2dfd0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-01-10",
+          "magazine_date": "2024-01-12",
+          "title": "רק במדינה אחת בעולם מולכת כיום אישה. היכן?",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-f388-da04-a7df-f3cd2dfd0000/21/73/4cedff574bc5b70d60bb88d8e141/591088.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-01-10/ty-article-magazine/.highlight/0000018c-f309-d2f9-a3ef-f77fdcde0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-01-10",
+          "magazine_date": "2024-01-12",
+          "title": "\"אם אנחנו שומעים שעץ קרס בסערה, אנחנו עוזבים הכל ונוסעים להביא אותו\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-f309-d2f9-a3ef-f77fdcde0000/dd/fd/980b0720426e86c854b75c24c5ac/arn.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-01-11/ty-article-magazine/.premium/0000018c-f7ac-d365-a3ce-f7fe7bcd0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-01-11",
+          "magazine_date": "2024-01-12",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 12.01.2024",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-f7ac-d365-a3ce-f7fe7bcd0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-01-11/ty-article/.premium/0000018c-f7a8-d365-a3ce-f7fe5abf0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-01-11",
+          "magazine_date": "2024-01-12",
+          "title": "שמונה טוענים לכתר",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-f7a8-d365-a3ce-f7fe5abf0000/44/69/ab82f7a94ae8b30d80680dfe0acd/55119238.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-01-11/ty-article/.premium/0000018c-f7b6-dd68-a3cf-f7be0e810000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-01-11",
+          "magazine_date": "2024-01-12",
+          "title": "כל הגננות תקבלנה אקדחים",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-f7b6-dd68-a3cf-f7be0e810000/16/ee/28abefdc4c038e8cf924edea4ccc/fam.jpg?precrop=1250%2C727%2Cx0%2Cy1270&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-01-07/ty-article/0000018c-e32e-d213-a1ed-ff7f50710000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-01-07",
+          "magazine_date": "2024-01-12",
+          "title": "יצחק לבנון: \"מוכן לחזור לביירות בתנאי אחד: כנציג מדינת ישראל\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-e32e-d213-a1ed-ff7f50710000/cc/b1/8a10fd18600213d12c7f0863d79e/2262275007.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-01-12/ty-article/0000018c-fd15-dd94-a9cc-fffd0db80000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-01-12",
+          "magazine_date": "2024-01-12",
+          "title": "מותו בטרם עת קטע את ההסבה המקצועית של מס' 3 בשב\"כ",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-fd15-dd94-a9cc-fffd0db80000/e0/f8/2706936f4147898c9f1b83c2b272/759317.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-01-11/ty-article/.premium/0000018c-f7b3-d432-a7ae-fffbd39e0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-01-11",
+          "magazine_date": "2024-01-12",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-f7b3-d432-a7ae-fffbd39e0000/02/dc/b9bb4e5e4b808c5fd299a1c19c73/ribooa-musaf-555.jpg?precrop=1083%2C630%2Cx0%2Cy239&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-01-11/ty-article/.highlight/0000018c-f5d8-d365-a3ce-f5fed2530000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-01-11",
+          "magazine_date": "2024-01-12",
+          "title": "שיעור הילודה הגבוה רק מסכן את עתיד המדינה",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-f5d8-d365-a3ce-f5fed2530000/a2/86/604033594700ad34dbc90af30b24/814456.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

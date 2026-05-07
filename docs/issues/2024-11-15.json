@@ -1,0 +1,358 @@
+{
+  "magazine_date": "2024-11-15",
+  "total_articles": 26,
+  "cover_image": "https://img.haarets.co.il/bs/00000193-25b9-d76b-afd7-a7b943420001/19/d1/a871121645b9b89b35b1b771a6c2/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-11-14/ty-article-magazine/.highlight/00000193-251b-d707-a9d3-7dbb870b0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-11-13/ty-article-magazine/.highlight/00000193-251b-de99-a9bb-f5bbba910000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-11-13",
+          "magazine_date": "2024-11-15",
+          "title": "אוצר היסטורי התגלה: בן־גוריון התכתב במשך שנים עם המתנקש שלו",
+          "og_image": "https://img.haarets.co.il/bs/00000193-251b-de99-a9bb-f5bbba910000/8c/cc/4a034c8b4d099c7c6f195d2e91a8/moshe-duek.jpg?precrop=2362%2C1373%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-11-13/ty-article-magazine/.highlight/00000193-251d-de99-a9bb-f5bd52e90000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-11-13",
+          "magazine_date": "2024-11-15",
+          "title": "הלכתי לסדנה שהבטיחה שאהיה אבא \"בלי עצבים ובלי אשמה\". היו רגעים מכוננים",
+          "og_image": "https://img.haarets.co.il/bs/00000193-251d-de99-a9bb-f5bd52e90000/84/c9/ffca36884b3db06a7e8a1e381244/471166.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-11-14/ty-article-magazine/.highlight/00000193-251b-d707-a9d3-7dbb870b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-11-14",
+          "magazine_date": "2024-11-15",
+          "title": "ליאור שטרנפלד פגש את נשיא איראן. הוא משוכנע שלא מדובר באיום קיומי",
+          "og_image": "https://img.haarets.co.il/bs/00000193-251b-d707-a9d3-7dbb870b0000/f8/df/eb040a2d4580a7026aa950d00895/542915.jpg?precrop=1715%2C997%2Cx0%2Cy550&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-11-14/ty-article-magazine/.highlight/00000193-25ce-db8b-addf-7ddeaf8e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-11-14",
+          "magazine_date": "2024-11-15",
+          "title": "במרפאת הפלות בניו יורק מבינים לאן אמריקה הידרדרה. מדובר בסיפורי אימה",
+          "og_image": "https://img.haarets.co.il/bs/00000193-25ce-db8b-addf-7ddeaf8e0000/19/54/560ad5a84ec09cf47db2a97efce5/59307753.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-11-14/ty-article/.highlight/00000193-29e4-d92a-a597-3be6eff90000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-11-14",
+          "magazine_date": "2024-11-15",
+          "title": "אלמוני השחית את השלט בגינה שמכריז \"נרי ליבנה המלכה\". האמת, נבהלתי",
+          "og_image": "https://img.haarets.co.il/bs/00000193-29e4-d92a-a597-3be6eff90000/ee/ca/546be08b4a63976143224c0bfad8/screenshot-2024-11-14-at-13-02-54.png?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-11-14/ty-article/.highlight/00000193-29e5-dad9-a9f3-ade5210f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-11-14",
+          "magazine_date": "2024-11-15",
+          "title": "פרידריך משך בידית. הרכבת נעצרה. \"ניו יורק טיימס\" העלה אותו לגדולה",
+          "og_image": "https://img.haarets.co.il/bs/00000193-29e5-dad9-a9f3-ade5210f0000/91/bf/41d2842844e5a035e6e426b6ba01/595908.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-11-13/ty-article-magazine/.highlight/00000193-258d-db8b-addf-7d9db0e30000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-11-13",
+          "magazine_date": "2024-11-15",
+          "title": "טא־נהסי קואטס בא לישראל כאקטיביסט פוליטי, ונכנס לכל מלכודת אפשרית",
+          "og_image": "https://img.haarets.co.il/bs/00000193-258d-db8b-addf-7d9db0e30000/ae/91/a9d4fc0e4919aed5ca1ceb98029e/59277883.JPG?precrop=3600%2C2093%2Cx0%2Cy598&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-11-13/ty-article/.highlight/00000193-2510-de99-a9bb-f5b12a8d0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-11-13",
+          "magazine_date": "2024-11-15",
+          "title": "מיט רומני היה הרפובליקאי היחיד שהתנגד לטראמפ. הוא למד שיעור טרגי",
+          "og_image": "https://img.haarets.co.il/bs/00000193-2510-de99-a9bb-f5b12a8d0000/32/72/7d9d20069a9de05fdae066a1ac9c/2677972097.jpg?precrop=1485%2C863%2Cx193%2Cy315&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-11-13/ty-article/.highlight/00000193-255d-d76b-afd7-a7dd13ae0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-11-13",
+          "magazine_date": "2024-11-15",
+          "title": "טראמפ אמר את האמת הפשוטה, והוא צודק: ארה\"ב חולה",
+          "og_image": "https://img.haarets.co.il/bs/00000193-255d-d76b-afd7-a7dd13ae0000/76/81/49cd5af64e9ba1968e66c5de663b/59291729.JPG?precrop=4368%2C2538%2Cx437%2Cy371&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-11-13/ty-article/.highlight/00000193-2572-d76b-afd7-a7f3be3d0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-11-13",
+          "magazine_date": "2024-11-15",
+          "title": "ההומו סאפיינס חיסל את האדם הניאנדרתלי? להפך, הם חיו יחד",
+          "og_image": "https://img.haarets.co.il/bs/00000193-2572-d76b-afd7-a7f3be3d0000/b7/d0/63a856ea42f4816d311970474d60/59282934.JPG?precrop=4289%2C2492%2Cx486%2Cy626&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-11-13/ty-article/.highlight/00000193-2554-db8b-addf-7d546e220000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-11-13",
+          "magazine_date": "2024-11-15",
+          "title": "צעירים עומדים מול המראה ואומרים: אני רוצה להיות עמית סגל",
+          "og_image": "https://img.haarets.co.il/bs/00000193-2554-db8b-addf-7d546e220000/ad/7e/cc9a0943377ecdb14b0592847235/3767992765.jpg?precrop=1982%2C1151%2Cx66%2Cy214&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-11-14/ty-article-face/.highlight/00000193-2a87-d0b9-afb7-2fbf0d720000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-11-14",
+          "magazine_date": "2024-11-15",
+          "title": "מני בגר",
+          "og_image": "https://img.haarets.co.il/bs/00000193-2a87-d0b9-afb7-2fbf0d720000/bf/96/2721bb88404ea2a01f8387bca6d1/facetemplate1800x1200-1.jpg?precrop=1800%2C1046%2Cx0%2Cy39&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-11-13/ty-article-magazine/.highlight/00000193-259f-d6bd-a1ff-359facb90000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-11-13",
+          "magazine_date": "2024-11-15",
+          "title": "\"החרדים בלונדון קיבלנו אותנו יפה. לימדתי בתיכון של איימי וויינהאוס\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-259f-d6bd-a1ff-359facb90000/8e/6a/4114a4174f7a9a314ca9787505ff/59292721.JPG?precrop=8192%2C4763%2Cx0%2Cy477&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-11-14/ty-article/.highlight/00000193-25e4-db8b-addf-7df444510000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-11-14",
+          "magazine_date": "2024-11-15",
+          "title": "\"לשכת נתניהו\" היא לא משרד שמנהל את ענייני ראש הממשלה. היא מימוש פנטזיה",
+          "og_image": "https://img.haarets.co.il/bs/00000193-25e4-db8b-addf-7df444510000/4e/dc/49ecd1ae463da901ec816944471e/59312673.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-11-14/ty-article-magazine/.highlight/00000193-2a26-d689-a5df-7b6f65360000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-11-14",
+          "magazine_date": "2024-11-15",
+          "title": "תחקירי בן גביר הם רק אישור למה שכבר ידענו: הוא שולח הודעות קוליות",
+          "og_image": "https://img.haarets.co.il/bs/00000193-2a26-d689-a5df-7b6f65360000/0b/76/4e0ff7c8411a82e6b015a0b2c31a/headline.jpg?precrop=2000%2C1162%2Cx0%2Cy332&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-11-14/ty-article/.highlight/00000193-25cb-de28-abdb-a5cf84ab0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-11-14",
+          "magazine_date": "2024-11-15",
+          "title": "ראיינת אנשים רעבים שיגידו הכל כדי לשרוד. \"בחוויה שלי הם חוו קתרזיס\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-25cb-de28-abdb-a5cf84ab0000/23/94/9d1347d94d77a856b73f11dd243d/700208.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-11-14/ty-article-magazine/.highlight/00000193-2a8f-d0a3-a5d3-bf9fdf630002",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-11-14",
+          "magazine_date": "2024-11-15",
+          "title": "\"התורה תמיד הצילה את עם ישראל\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-2a99-de28-abdb-aa9d17eb0000/41/54/bd83d936494aa28a17a0328d4567/082816.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-11-14/ty-article-20q/.highlight/00000193-2a5b-d0b9-afb7-2fffc64c0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-11-14",
+          "magazine_date": "2024-11-15",
+          "title": "\"תעשיית הדכדוך אפילו הצמיחה ענף חדש\", אמר נתניהו ב-2017. איזה ענף?",
+          "og_image": "https://img.haarets.co.il/bs/00000193-2a5b-d0b9-afb7-2fffc64c0000/af/c4/53ec317040d8852bdda4b8c1b2bc/433722.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-11-14/ty-article-magazine/.highlight/00000193-25b1-db8b-addf-7db166cb0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-11-14",
+          "magazine_date": "2024-11-15",
+          "title": "במלחמה הבלתי־נגמרת, אלה רגעים קטנים של שפיות",
+          "og_image": "https://img.haarets.co.il/bs/00000193-25b1-db8b-addf-7db166cb0000/f2/c1/ab86343e4c0c9f4db6fa2b2e26de/1.jpg?precrop=1428%2C830%2Cx0%2Cy755&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-11-14/ty-article-magazine/.premium/00000193-29ff-d567-a193-fdff6f6f0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-11-14",
+          "magazine_date": "2024-11-15",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 15.11.2024",
+          "og_image": "https://img.haarets.co.il/bs/00000193-29ff-d567-a193-fdff6f6f0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-11-14/ty-article/.premium/00000193-29ff-d568-a3df-3fff349e0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-11-14",
+          "magazine_date": "2024-11-15",
+          "title": "פסגה בצ'נאי",
+          "og_image": "https://img.haarets.co.il/bs/00000193-29ff-d568-a3df-3fff349e0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-11-14/ty-article/.premium/00000193-2a24-dad9-a9f3-af656bc70000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-11-14",
+          "magazine_date": "2024-11-15",
+          "title": "תואר זה עוד לא בעל",
+          "og_image": "https://img.haarets.co.il/bs/00000193-2a24-dad9-a9f3-af656bc70000/95/66/4553304b42a3a57eb89318ce0746/mefursamot.jpg?precrop=1250%2C727%2Cx0%2Cy1010&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-11-14/ty-article/00000193-2a60-d0a3-a5d3-bff9f96a0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-11-14",
+          "magazine_date": "2024-11-15",
+          "title": "\"מבקרת הספרות הראשונה שלי\": עליזה גורי, פלמ\"חניקית ומורה מתה בגיל 94",
+          "og_image": "https://img.haarets.co.il/bs/00000193-2a60-d0a3-a5d3-bff9f96a0000/b3/fb/ecb6df8646a0ad0528d4cacd009e/820590.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2024-11-14/ty-article/.premium/00000193-2a1c-d689-a5df-7b7d8b680000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2024-11-14",
+          "magazine_date": "2024-11-15",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000193-2a1c-d689-a5df-7b7d8b680000/bc/f8/21562b5c49d890894278227f8cf6/caro.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-11-14/ty-article/.premium/00000193-2a2a-d648-addb-bb3eed540000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-11-14",
+          "magazine_date": "2024-11-15",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000193-2a2a-d648-addb-bb3eed540000/20/7c/cc51d11c4045ab7cb2455ebe4468/ribooa-musaf-599.jpg?precrop=1083%2C630%2Cx0%2Cy292&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-11-13/ty-article/.highlight/00000193-25e4-de99-a9bb-f5f501f20000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-11-13",
+          "magazine_date": "2024-11-15",
+          "title": "כש\"האליטה\" היא אישה, הרגשות נגדה חזקים יותר",
+          "og_image": "https://img.haarets.co.il/bs/00000193-25e4-de99-a9bb-f5f501f20000/aa/8d/1ce30e8948c1bae16511ea58e3e2/558271.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

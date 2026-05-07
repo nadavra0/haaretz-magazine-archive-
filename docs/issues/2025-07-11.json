@@ -1,0 +1,348 @@
+{
+  "magazine_date": "2025-07-11",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/00000197-ef7c-d976-afbf-fffde0690001/f0/83/b23381974d8f80b0f9315a6b2217/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-07-09/ty-article-magazine/.highlight/00000197-edfa-d508-a997-efff36940000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-07-09/ty-article-magazine/.highlight/00000197-edfa-d508-a997-efff36940000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-07-09",
+          "magazine_date": "2025-07-11",
+          "title": "האם אחרי שנים של הדחקה, שווייץ מתמודדת סוף־סוף עם עברה האפל?",
+          "og_image": "https://img.haarets.co.il/bs/00000197-edfa-d508-a997-efff36940000/7e/dd/0671cbe8493890a187f67ef63579/281014.jpg?precrop=1691,983,x0,y886&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-07-10/ty-article-magazine/.highlight/00000197-ee06-d0a0-a1df-eeff14df0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-07-10",
+          "magazine_date": "2025-07-11",
+          "title": "לעבוד חמישה ימים בשבוע? איסלנד קיצרה את שבוע העבודה, ולא התחרטה",
+          "og_image": "https://img.haarets.co.il/bs/00000197-ee06-d0a0-a1df-eeff14df0000/02/c1/5110512f4e3d924716178644b2f4/349614.jpg?precrop=2400,1396,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-07-10/ty-article-magazine/.highlight/00000197-ee15-d5bc-a597-efd513990000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-07-10",
+          "magazine_date": "2025-07-11",
+          "title": "בלב השממה, במקום שבו האדמה רועדת, חיים 18 תושבים",
+          "og_image": "https://img.haarets.co.il/bs/00000197-ee15-d5bc-a597-efd513990000/e7/c9/3d4cf3c046ebae2f1fcd36426b91/353793.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-07-10/ty-article-magazine/.highlight/00000197-ef8e-d976-afbf-ff9ff38a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-07-10",
+          "magazine_date": "2025-07-11",
+          "title": "ישראל מאבדת גם את הצעירים הרפובליקאים",
+          "og_image": "https://img.haarets.co.il/bs/00000197-ef8e-d976-afbf-ff9ff38a0000/b6/cd/d613adde48ddbdca918d5a94caea/366938.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-07-10/ty-article/.highlight/00000197-ef3c-d963-addf-ef3dc64f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-07-10",
+          "magazine_date": "2025-07-11",
+          "title": "כבר כשנולדתי עוררתי מחלוקת משפטית קטנה, ומאז הן רק הולכות ומתרבות",
+          "og_image": "https://img.haarets.co.il/bs/00000197-ef3c-d963-addf-ef3dc64f0000/0c/4c/91f7c54b4bf6b75cf3d705b5368a/download.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-07-10/ty-article/.highlight/00000197-f372-dc05-a59f-f37f0bfa0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-07-10",
+          "magazine_date": "2025-07-11",
+          "title": "סטודיו בלי מראה, זה כל מה שהייתי צריכה כדי להעז לחזור לרקוד",
+          "og_image": "https://gif.haarets.co.il/bs/00000197-f372-dc05-a59f-f37f0bfa0000/8c/39/792ea64b4cdf9b4ac3d6bcf7f112/11-7-25-animation.gif?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-07-10/ty-article/.highlight/00000197-ee65-d5bc-a597-eff57c450000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-07-10",
+          "magazine_date": "2025-07-11",
+          "title": "זה הריטואל הכי ישראלי שיש, והוא חושף יותר ממה שאנחנו מבינים",
+          "og_image": "https://img.haarets.co.il/bs/00000197-ee65-d5bc-a597-eff57c450000/93/c0/19b18d774618b952c1ef2e22e42d/62238686.JPG?precrop=7360,4276,x0,y630&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-07-10/ty-article/.highlight/00000197-ee86-d0a0-a1df-eeff5d6a0002",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-07-10",
+          "magazine_date": "2025-07-11",
+          "title": "נגד הזרם: אפילו שב\"כ לא הצליח להכניע את חברת החשמל הפלסטינית",
+          "og_image": "https://img.haarets.co.il/bs/00000197-ee86-d0a0-a1df-eeff5d6a0002/30/73/a3501dd44f4891a555df34667cbb/62213304.JPG?precrop=4464,2595,x0,y381&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-07-10/ty-article/.highlight/00000197-f3bb-dac3-a1b7-fbfb794e0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-07-10",
+          "magazine_date": "2025-07-11",
+          "title": "כשביטחון הוא אך ורק הגנה מפני טילים, נשים שנרצחות הן \"נזק אגבי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-f3bb-dac3-a1b7-fbfb794e0000/e4/f0/90b1f3ad4c9187934b1e57299bf9/62229623.JPG?precrop=5528,3214,x0,y275&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-07-10/ty-article/.highlight/00000197-ee77-d0a0-a1df-eeff8e0c0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-07-10",
+          "magazine_date": "2025-07-11",
+          "title": "המבט האוהד כבה. ישראל הפכה מצורעת במעגלי התרבות",
+          "og_image": "https://img.haarets.co.il/bs/00000197-ee77-d0a0-a1df-eeff8e0c0000/ca/9a/879f5e194949a22cc931698a9c39/235024.jpg?precrop=2400,1395,x0,y32&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-07-09/ty-article-face/.highlight/00000197-ee19-d508-a997-ee7db6720001",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-07-09",
+          "magazine_date": "2025-07-11",
+          "title": "דורון מזר",
+          "og_image": "https://img.haarets.co.il/bs/00000197-ee19-d508-a997-ee7db6720001/ea/b7/7f6e3bcb4cabb7642c3e21693e2c/349254.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-07-09/ty-article-magazine/.highlight/00000197-ef42-de26-a1ff-ffdb2e650000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-07-09",
+          "magazine_date": "2025-07-11",
+          "title": "\"עשיתי רילוקיישן לפיליפינים. אנשים לא מבינים למה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-ef42-de26-a1ff-ffdb2e650000/b7/18/773caae749e7835ba84d7899ca8a/62211674.JPG?precrop=3344,1943,x290,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2025-07-09/ty-article-magazine/.highlight/00000197-ef18-d5bc-a597-efd9efe20000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2025-07-09",
+          "magazine_date": "2025-07-11",
+          "title": "\"החומרים הפסיכדליים יכולים הרבה פעמים גם להטעות אותנו\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-ef18-d5bc-a597-efd9efe20000/7d/af/b1529455499d879dcd8d0f96125f/62212943.JPG?precrop=5472,3180,x0,y184&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-07-09/ty-article/.highlight/00000197-ef60-de26-a1ff-fffbe6ec0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-07-09",
+          "magazine_date": "2025-07-11",
+          "title": "קשה לקבל את זה, אבל ככה אנשים חושבים היום בישראל",
+          "og_image": "https://img.haarets.co.il/bs/00000197-ef60-de26-a1ff-fffbe6ec0000/ca/9d/e3f9e3fd4f089c89944f1e4e5f10/miss-geisha.jpg?precrop=676,393,x0,y212&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-07-10/ty-article-midrug/.highlight/00000197-f3d9-d963-addf-f7dd32ee0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-07-10",
+          "magazine_date": "2025-07-11",
+          "title": "יכלו להעביר סמרטוט לפני",
+          "og_image": "https://img.haarets.co.il/bs/00000197-f3d9-d963-addf-f7dd32ee0000/da/21/de0e441e46619f73f84ddc7c3eb6/headline-12.jpg?precrop=2000,1162,x0,y445&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-07-10/ty-article/.highlight/00000197-ef2b-d5bc-a597-effba2a50000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-07-10",
+          "magazine_date": "2025-07-11",
+          "title": "למה עזבתם את הכפר? \"המתנחלים באים, מרביצים, יורים. זהו, הם ניצחו\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-ef2b-d5bc-a597-effba2a50000/95/6e/ac260cde4ed0a04d8e770f7c55a0/62241186.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-07-09/ty-article-quotes/.highlight/00000197-efc0-de26-a1ff-ffdb59980000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-07-09",
+          "magazine_date": "2025-07-11",
+          "title": "\"היינו חייבים למצוא לעצמנו זווית חדירה לשוק\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-efc0-de26-a1ff-ffdb59980000/e1/a1/e0c01c494d7abaa9e3a43972435b/456090.jpg?precrop=2400,1395,x0,y193&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-07-09/ty-article-20q/.highlight/00000197-e8cd-d615-ab9f-edcfc37d0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-07-09",
+          "magazine_date": "2025-07-11",
+          "title": "מה הקשר בין גולדה מאיר לפוקהונטס?",
+          "og_image": "https://img.haarets.co.il/bs/00000197-e8cd-d615-ab9f-edcfc37d0000/4a/9a/ea9db0f24be8be5f8822d6383718/649411.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-07-10/ty-article-magazine/.premium/00000197-f394-d976-afbf-ff9d71c50000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-07-10",
+          "magazine_date": "2025-07-11",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 11.7.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000197-f394-d976-afbf-ff9d71c50000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-07-10/ty-article/.premium/00000197-f394-de26-a1ff-f7df38c10000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-07-10",
+          "magazine_date": "2025-07-11",
+          "title": "אלוף ראוי",
+          "og_image": "https://img.haarets.co.il/bs/00000197-f394-de26-a1ff-f7df38c10000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-07-10/ty-article/.premium/00000197-f388-d976-afbf-ff9992140000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-07-10",
+          "magazine_date": "2025-07-11",
+          "title": "בוטל הדוקטורט של יוזף מנגלה",
+          "og_image": "https://img.haarets.co.il/bs/00000197-f388-d976-afbf-ff9992140000/82/e5/58b9616844bcb6f8e8989f13e28d/mefursamot.jpg?precrop=1250,727,x0,y945&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-07-11/ty-article/00000197-f81c-dd18-a7df-f9bfa68c0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-07-11",
+          "magazine_date": "2025-07-11",
+          "title": "\"נתתי פקודת הסתערות\": אורי בידץ, מאחרוני מפקדי תש\"ח, מת בן 98",
+          "og_image": "https://img.haarets.co.il/bs/00000197-f81c-dd18-a7df-f9bfa68c0000/0a/51/9e5f31d94e339496012c7bc357c2/517590111-1173059058186762-8224026627325974764-n.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2025-07-10/ty-article/.premium/00000197-f3b9-d976-afbf-ffb93f460000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2025-07-10",
+          "magazine_date": "2025-07-11",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000197-f3b9-d976-afbf-ffb93f460000/a4/fc/e6e327d04483bacced11c10ac1f7/caro.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-07-10/ty-article/.premium/00000197-f3bc-de26-a1ff-f7ff2ecb0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-07-10",
+          "magazine_date": "2025-07-11",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000197-f3bc-de26-a1ff-f7ff2ecb0000/64/c9/492de56446b5bba4243352ce21ec/ribooa-musaf-633.jpg?precrop=1083,630,x0,y151&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-07-09/ty-article/.highlight/00000197-ef56-d963-addf-ef571cdb0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-07-09",
+          "magazine_date": "2025-07-11",
+          "title": "כן, החרדים משתלבים. זו באמת סיבה לאופטימיות?",
+          "og_image": "https://img.haarets.co.il/bs/00000197-ef56-d963-addf-ef571cdb0000/f7/aa/0ad52b1548dc8383be7d44bfa568/haaretz-cover-orthodox-long.jpg?precrop=936,544,x211,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

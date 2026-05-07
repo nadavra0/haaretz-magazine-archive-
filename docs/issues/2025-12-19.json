@@ -1,0 +1,314 @@
+{
+  "magazine_date": "2025-12-19",
+  "total_articles": 24,
+  "cover_image": null,
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-12-18/ty-article-static/.highlight/0000019a-fd1f-d193-a1be-ffbf43010000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-12-18/ty-article-static/.highlight/0000019a-fd1f-d193-a1be-ffbf43010000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-12-18",
+          "magazine_date": "2025-12-19",
+          "title": "גבר חי מהלך: סיפורו של הצעיר שצעד ברגל מרוסיה לירושלים",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-312f-d932-a7bf-7f2f22620000/5a/1b/7c96e9bc40c1872c4e24d4fffb6c/073226.jpg?precrop=2400,1601,x0,y0&height=630&width=1200"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-12-18/ty-article-magazine/.highlight/0000019b-3100-d932-a7bf-7f211af80000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-12-18",
+          "magazine_date": "2025-12-19",
+          "title": "צעירים שלקחו תרופות נגד דיכאון מספרים שחיי המין שלהם נהרסו למשך שנים",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-3100-d932-a7bf-7f211af80000/ee/24/914c9c674f8aba7a11904e77fe39/ssri.jpg?precrop=2000,1163,x0,y462&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-12-18/ty-article-magazine/.highlight/0000019b-3164-d932-a7bf-7f6549d00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-12-18",
+          "magazine_date": "2025-12-19",
+          "title": "נתנו לה 10 דקות להחליט: להירצח על ידי הטליבאן או להשאיר מאחור את אנשיה",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-3164-d932-a7bf-7f6549d00000/ad/22/0f38c6bb49758e5ea478e96bde34/133381.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-12-18/ty-article-magazine/.highlight/0000019b-31a0-d60f-a5db-79ae692a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-12-18",
+          "magazine_date": "2025-12-19",
+          "title": "צריך להפסיק לחמש אתכם, להטיל עליכם סנקציות ולגבות מכם מחיר יקר",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-31a0-d60f-a5db-79ae692a0000/bd/c6/7e1199ec4001942bfea6e0853b17/661139.jpg?precrop=1601,931,x0,y356&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-12-18/ty-article/.highlight/0000019b-3145-dc39-abbb-fff714ab0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-12-18",
+          "magazine_date": "2025-12-19",
+          "title": "טעיתי בשמו של המורה שלי לאמנות בבית הספר, אבל זה יצא לטובה",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-3145-dc39-abbb-fff714ab0000/b4/18/3b09d9cd48d3a5b0b9b8f0da3f77/19-12-25-web.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-12-17/ty-article/.highlight/0000019b-2b7a-d8f0-a9db-6ffe0fed0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-12-17",
+          "magazine_date": "2025-12-19",
+          "title": "מהפכה בממשל: במקום כתבים צבאיים — משפיענים יסקרו את הפנטגון",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-2b7a-d8f0-a9db-6ffe0fed0000/f9/db/a76154f44e418e62c73e17705d1c/64142012.JPG?precrop=2048,1191,x0,y235&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-12-17/ty-article/.highlight/0000019b-2bb8-d5c5-a3df-bffec2140000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-12-17",
+          "magazine_date": "2025-12-19",
+          "title": "האופטימיות של דודו גבע לא היתה עידוד סתמי. היא היתה התנגדות ומאבק",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-2bb8-d5c5-a3df-bffec2140000/30/ad/d7d91956458e815dc60cd36a10fe/149381.jpg?precrop=1750,1018,x0,y275&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-12-17/ty-article/.highlight/0000019b-2c33-d3c5-a99f-bc33809d0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-12-17",
+          "magazine_date": "2025-12-19",
+          "title": "חשבתי שלא יגרשו עיתונאי של \"הארץ\" מדרום אפריקה. אז חשבתי",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-2c33-d3c5-a99f-bc33809d0000/c3/49/a230801049c2bad956034050ec33/130118.jpg?precrop=2400,1395,x0,y108&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2025-12-17/ty-article/.highlight/0000019b-2b8b-d60f-a5db-6b8faf5f0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2025-12-17",
+          "magazine_date": "2025-12-19",
+          "title": "כיצד הצליחה מילה אחת לתאר גם כד חרס, גם מטוס וגם אובדן עשתונות?",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-2b8b-d60f-a5db-6b8faf5f0000/50/23/44db6fd145429671a29d8c24136b/64142112.JPG?precrop=4662,2710,x0,y164&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-12-17/ty-article/.highlight/0000019b-2b95-dc39-abbb-fff7c2980000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-12-17",
+          "magazine_date": "2025-12-19",
+          "title": "החשמונאים הם לא סמל לגבורה ותקווה. הם סמל לרצחנות חולנית",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-2b95-dc39-abbb-fff7c2980000/63/d5/3d96bac84d48936bfdb1e902ba72/kaminski2009-6495.jpg?precrop=2400,1395,x0,y14&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-12-18/ty-article-face/.highlight/0000019b-31e1-d5c5-a3df-bfe736c00000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-12-18",
+          "magazine_date": "2025-12-19",
+          "title": "דיאנה גולבי",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-31e1-d5c5-a3df-bfe736c00000/80/e2/4440f0d042fe960622d2557fdb2f/148515.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-12-18/ty-article-magazine/.highlight/0000019b-31e4-dc39-abbb-fff6feba0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-12-18",
+          "magazine_date": "2025-12-19",
+          "title": "\"לא יודע לכמה זמן אני נוסע, אבל זו הפעם האחרונה. אני מרגיש שהשתניתי\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-31e4-dc39-abbb-fff6feba0000/50/9d/0ffda09f40428e5f3e68a326ea7b/64127463.JPG?precrop=7012,4077,x0,y159&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-12-19/ty-article/.highlight/0000019b-3386-d60f-a5db-7b8ec4900000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-12-19",
+          "magazine_date": "2025-12-19",
+          "title": "למה מיקי זוהר לא צופה ב\"הים\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-3386-d60f-a5db-7b8ec4900000/ad/c7/540bdcfc4c91b2d9eced0b4f55ee/150492.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-12-18/ty-article-midrug/.highlight/0000019b-31d2-d8f0-a9db-75fe002b0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-12-18",
+          "magazine_date": "2025-12-19",
+          "title": "סופגניות. מקור מצוין לשנאה עצמית",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-31d2-d8f0-a9db-75fe002b0000/ee/97/bcfef6564c5eb80fcd2664ef5036/headline.jpg?precrop=2000,1163,x0,y870&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-12-17/ty-article/.highlight/0000019b-2cad-d60f-a5db-6dafa0840000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-12-17",
+          "magazine_date": "2025-12-19",
+          "title": "למה להחרים את המפלגות הערביות?\n\"אין פה מקום למי שהוא לא ציוני\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-2cad-d60f-a5db-6dafa0840000/45/47/154a15c544608c4cd30eadd9b64b/64171077.JPG?precrop=1638,952,x192,y133&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-12-18/ty-article-quotes/.highlight/0000019b-31d7-d5c5-a3df-bff775f00000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-12-18",
+          "magazine_date": "2025-12-19",
+          "title": "\"היינו בסרט המסוכן של השמאל ותאבי שלטון מופקרים, וראינו את תוצאותיו\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-31d7-d5c5-a3df-bff775f00000/d7/01/c8e311a34214a7c780e3976f6747/874062.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-12-18/ty-article-20q/.highlight/0000019b-315b-d932-a7bf-7f7b09b50000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-12-18",
+          "magazine_date": "2025-12-19",
+          "title": "מה צבע הפרחים של צמח דם המכבים?",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-315b-d932-a7bf-7f7b09b50000/1f/8e/c02722574476af55b53deb330457/149342.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-12-17/ty-article-magazine/.highlight/0000019b-2c20-dc39-abbb-fff243030000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-12-17",
+          "magazine_date": "2025-12-19",
+          "title": "התשוקה לקוגל: החרדי לשעבר שמבשל לתל אביבים אוכל יהודי ביתי",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-2c20-dc39-abbb-fff243030000/e5/35/87e712e948fca36b67faad42725c/77.jpg?precrop=1428,830,x0,y582&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-12-18/ty-article-magazine/.premium/0000019b-30cb-d8f0-a9db-75ff38110000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-12-18",
+          "magazine_date": "2025-12-19",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 19.12.2025",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-30cb-d8f0-a9db-75ff38110000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-12-18/ty-article/.premium/0000019b-30ba-d60f-a5db-79bea4190000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-12-18",
+          "magazine_date": "2025-12-19",
+          "title": "חוזרים ל-960",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-30ba-d60f-a5db-79bea4190000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-12-18/ty-article/.premium/0000019b-30d5-d60f-a5db-79df96260000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-12-18",
+          "magazine_date": "2025-12-19",
+          "title": "קו ההגנה: אייכמן פעל לפי הוראות",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-30d5-d60f-a5db-79df96260000/94/48/293906c04085bff296ee196f2885/mefursamot.jpg?precrop=1250,727,x0,y157&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-12-18/ty-article/0000019b-30d6-d60f-a5db-79de23360000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-12-18",
+          "magazine_date": "2025-12-19",
+          "title": "\"הוא הרים עצמו להגן עלי\": אלכס קלייטמן שרד את סיביר ונרצח בסידני",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-30d6-d60f-a5db-79de23360000/97/c6/696d0a2847de91bc7173481d9b8f/processed-b5414bcd-078a-4a5d-b5a2-8db1ae414828.jpeg?precrop=1716,998,x0,y662&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-12-18/ty-article/.premium/0000019b-30d7-d5c5-a3df-bef794440000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-12-18",
+          "magazine_date": "2025-12-19",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-30d7-d5c5-a3df-bef794440000/29/c4/4cf27bea496387951f698afd5920/ribooa-musaf-656-new.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-12-18/ty-article/.highlight/0000019b-31e4-d8f0-a9db-75fcf3ec0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-12-18",
+          "magazine_date": "2025-12-19",
+          "title": "אלון־לי גרין מזכיר לנו אמת לא נוחה",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-31e4-d8f0-a9db-75fcf3ec0000/55/8a/d7f250a54303bb430ee857f96312/672406.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    }
+  }
+}

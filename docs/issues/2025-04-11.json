@@ -1,0 +1,338 @@
+{
+  "magazine_date": "2025-04-11",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/00000196-1a55-d412-abd7-7ad769300001/8c/d7/376b510f40848774df76a2a15205/shaar-2.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-04-09/ty-article-magazine/.highlight/00000196-14e2-d294-ad97-bee74fa00000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-04-09/ty-article-magazine/.highlight/00000196-14e2-d294-ad97-bee74fa00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-04-09",
+          "magazine_date": "2025-04-11",
+          "title": "בשווייץ הבנתי כמה עוצמה ויופי יש בנסיעה ברכבת. עכשיו גם אירופה מבינה",
+          "og_image": "https://img.haarets.co.il/bs/00000196-14e2-d294-ad97-bee74fa00000/0d/f5/cca7bc684700afe76613654f3f84/225397.jpg?precrop=2400%2C1395%2Cx0%2Cy359&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-04-09/ty-article-magazine/.highlight/00000196-1946-d78d-a1de-1d5fed430000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-04-09",
+          "magazine_date": "2025-04-11",
+          "title": "אלה עיתונים בעברית, עם חצי מיליון קוראים, שאתם לא יודעים עליהם כלום",
+          "og_image": "https://img.haarets.co.il/bs/00000196-1946-d78d-a1de-1d5fed430000/6d/8d/ef7e54874e30a5f731d233e3e21d/aloneyshabat-shituf.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-04-09/ty-article-magazine/.highlight/00000196-19b2-d78d-a1de-1dbbea7d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-04-09",
+          "magazine_date": "2025-04-11",
+          "title": "האוניברסיטה העברית גנזה את התרגום של מיין קאמפף. מה בעצם כתוב שם?",
+          "og_image": "https://img.haarets.co.il/bs/00000196-19b2-d78d-a1de-1dbbea7d0000/db/f0/dd3cf4414bbd8b78959b3f0f1183/224821.jpg?precrop=1500%2C872%2Cx0%2Cy366&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-04-10/ty-article-magazine/.highlight/00000196-190d-d93f-a7f7-5f6f68110000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-04-10",
+          "magazine_date": "2025-04-11",
+          "title": "בכתב ידה של שרה נתניהו: רשימת קניות יוקרתית שהועברה לאנשי פאקר נחשפת",
+          "og_image": "https://img.haarets.co.il/bs/00000196-190d-d93f-a7f7-5f6f68110000/0b/16/53e09977431bb711b5af9920505f/petek-homepage.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-04-09/ty-article-magazine/.highlight/00000196-19c8-d412-abd7-79da55870000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-04-09",
+          "magazine_date": "2025-04-11",
+          "title": "התקווה המפתיעה של השמאל בארה\"ב: שני שופטים דתיים מהימין העמוק",
+          "og_image": "https://img.haarets.co.il/bs/00000196-19c8-d412-abd7-79da55870000/be/06/9bbf4b59481881e8d188b4c5c79d/221561.jpg?precrop=1915%2C1113%2Cx0%2Cy73&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2025-04-09/ty-article/.highlight/00000196-19ea-d294-ad97-bbefd6820000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2025-04-09",
+          "magazine_date": "2025-04-11",
+          "title": "אבותינו הסתפקו בשתי עונות בלבד, וגם הן היו קצת מבולגנות",
+          "og_image": "https://img.haarets.co.il/bs/00000196-19ea-d294-ad97-bbefd6820000/17/46/6edeffc94ca4b3f93cf012512c96/61109663.JPG?precrop=3816%2C2217%2Cx0%2Cy327&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-04-09/ty-article/.highlight/00000196-1a3b-d78d-a1de-1e3bdd040000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-04-09",
+          "magazine_date": "2025-04-11",
+          "title": "כשהסדר העולמי קורס, גם האזרחים צריכים לחשוב מחדש על תפקידם הפוליטי",
+          "og_image": "https://img.haarets.co.il/bs/00000196-1a3b-d78d-a1de-1e3bdd040000/03/b5/158642bf4c26874f15be69fb19c3/61124847.JPG?precrop=2863%2C1665%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-04-09/ty-article-face/.highlight/0000018e-8dae-d0d3-a98e-dfff8fdf0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-04-09",
+          "magazine_date": "2025-04-11",
+          "title": "רמי קליינשטיין",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-8dae-d0d3-a98e-dfff8fdf0000/78/06/a2134ed5497daf97566f79a8a902/248422.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-04-09/ty-article-magazine/.highlight/00000196-1a23-d294-ad97-ba67cc690000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-04-09",
+          "magazine_date": "2025-04-11",
+          "title": "\"כשהיו גלים הייתי מאחרת לעבודה ואומרת שהלכתי לרופא ים, והוא ריפא אותי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000196-1a23-d294-ad97-ba67cc690000/e1/86/42f669a74279b7764c4602de9265/61125491.JPG?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2025-04-09/ty-article-magazine/.highlight/00000196-1ad7-db42-a79e-def781ba0000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2025-04-09",
+          "magazine_date": "2025-04-11",
+          "title": "חוקרת דיקטטורות מסבירה איך נדע שעברנו את נקודת האל-חזור",
+          "og_image": "https://img.haarets.co.il/bs/00000196-1ad7-db42-a79e-def781ba0000/ae/47/385f093d40cdaa153db0f88c782e/61139060.JPG?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-04-09/ty-article/.highlight/00000196-1ab8-d710-a1bf-baff3f790000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-04-09",
+          "magazine_date": "2025-04-11",
+          "title": "כשיוסי כהן אומר \"תשלח לי את זה מסודר\", למה באמת הוא מתכוון?",
+          "og_image": "https://img.haarets.co.il/bs/00000196-1ab8-d710-a1bf-baff3f790000/75/b0/e9f2b2c047f7b9954c3dd702f2ed/61140819.JPG?precrop=6720%2C3905%2Cx0%2Cy145&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-04-10/ty-article-midrug/.highlight/00000196-2078-d710-a1bf-b27fa9810000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-04-10",
+          "magazine_date": "2025-04-11",
+          "title": "מבודפשט לוושינגטון. כל מקום, רק לא ניר עוז",
+          "og_image": "https://img.haarets.co.il/bs/00000196-2078-d710-a1bf-b27fa9810000/72/88/c9b217074013808bd778a6deeb20/hungary-israel-politics-diplomacy-conflict.JPG?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-04-09/ty-article/.highlight/00000196-1a92-d412-abd7-7a925e060000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-04-09",
+          "magazine_date": "2025-04-11",
+          "title": "איך פרופסורית משתפת פעולה עם שר החינוך נגד קולגה?\n\"היא לא משת\"פית!\"",
+          "og_image": "https://img.haarets.co.il/bs/00000196-1a92-d412-abd7-7a925e060000/a7/fe/ae49e295480ea147b2841fbd61ae/61139050.JPG?precrop=1066%2C620%2Cx0%2Cy198&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-04-09/ty-article-quotes/.highlight/00000196-1ab6-d836-a7f7-bfb605190000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-04-09",
+          "magazine_date": "2025-04-11",
+          "title": "\"אני הופתעתי מהאמרות של טראמפ, לא נראה לי ראוי הדבר הזה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000196-1ab6-d836-a7f7-bfb605190000/47/ca/4d26df274a23b67ceb6b1b7c6008/194197.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-04-09/ty-article-20q/.highlight/00000196-193c-d412-abd7-79bef3d10000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-04-09",
+          "magazine_date": "2025-04-11",
+          "title": "איזה חיקוי שביצע אלי יצפאן בתוכניתו גרם לתקרית דיפלומטית?",
+          "og_image": "https://img.haarets.co.il/bs/00000196-193c-d412-abd7-79bef3d10000/49/cd/fefee4a6439c9b3cefa29913a434/458603.jpg?precrop=1259%2C732%2Cx432%2Cy167&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2025-04-10/ty-article-20q/.highlight/00000196-09bc-d5e5-a5d7-59fe17310001",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2025-04-10",
+          "magazine_date": "2025-04-11",
+          "title": "20 שאלות לילדים ולילדות: איך נקרא הנהר הארוך שחוצה את מצרים?",
+          "og_image": "https://img.haarets.co.il/bs/00000196-09bc-d5e5-a5d7-59fe17310001/6a/55/4843a84b07b7555868ae2d952538/3634457313.jpg?precrop=1900%2C1103%2Cx148%2Cy166&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-04-09/ty-article-magazine/.highlight/00000196-1a42-d93f-a7f7-5e6f569e0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-04-09",
+          "magazine_date": "2025-04-11",
+          "title": "היום רוצים שהילד יעבוד בהייטק. פעם רצו שהוא יידע לבשל ביצים",
+          "og_image": "https://img.haarets.co.il/bs/00000196-1a42-d93f-a7f7-5e6f569e0000/e5/f5/b95d4b5b4b4998251af4168f5f86/248507.jpg?precrop=1715%2C997%2Cx0%2Cy912&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-04-10/ty-article-magazine/.premium/00000196-1ee5-dc5b-af96-7ff57c540000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-04-10",
+          "magazine_date": "2025-04-11",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 11.4.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000196-1ee5-dc5b-af96-7ff57c540000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-04-10/ty-article/.premium/00000196-1ef8-dacd-a396-1efe33140000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-04-10",
+          "magazine_date": "2025-04-11",
+          "title": "שחמט",
+          "og_image": "https://img.haarets.co.il/bs/00000196-1ef8-dacd-a396-1efe33140000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-04-10/ty-article/.premium/00000196-1ef3-d710-a1bf-beffc2540000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-04-10",
+          "magazine_date": "2025-04-11",
+          "title": "סיסמת הליכוד במערכת הבחירות: \"נתניהו - עושים שלום בטוח\"",
+          "og_image": "https://img.haarets.co.il/bs/00000196-1ef3-d710-a1bf-beffc2540000/24/50/d470c85048f49576fb91cff63481/mefursamot.jpg?precrop=1167%2C678%2Cx0%2Cy1542&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-04-10/ty-article/00000196-1fb7-d710-a1bf-bfff16690000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-04-10",
+          "magazine_date": "2025-04-11",
+          "title": "זקן חברי האקדמיה למדעים מת בגיל 103",
+          "og_image": "https://img.haarets.co.il/bs/00000196-1fb7-d710-a1bf-bfff16690000/db/0c/6597f4c64b8c97c5e75bd4adacf2/shmuel-agmon.png?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-04-10/ty-article/.premium/00000196-1efd-d78d-a1de-1efd6cea0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-04-10",
+          "magazine_date": "2025-04-11",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000196-1efd-d78d-a1de-1efd6cea0000/5f/4d/9b4e6bfc43c7a831236e245bd862/pet.jpg?precrop=1084%2C630%2Cx0%2Cy329&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-04-09/ty-article/.highlight/00000196-1ab6-d78d-a1de-1ebf805e0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-04-09",
+          "magazine_date": "2025-04-11",
+          "title": "איפה אתם, משפטני צה\"ל? אני רוצה לשמוע איך אתם מצדיקים את ההרג הזה",
+          "og_image": "https://gif.haarets.co.il/bs/00000196-1ab6-d78d-a1de-1ebf805e0000/5c/5a/6f38413240038450053a550ca363/kids-gaza-homepage2.gif?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

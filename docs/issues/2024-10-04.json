@@ -1,0 +1,293 @@
+{
+  "magazine_date": "2024-10-04",
+  "total_articles": 20,
+  "cover_image": "https://img.haarets.co.il/bs/00000192-4739-d2cc-a5d7-e7bdfd2b0001/5c/92/e0dae50141c092b64e2cbb4aac67/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-10-01/ty-article-magazine/.highlight/00000192-42ff-da69-a797-5affda3b0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-30/ty-article/.highlight/00000192-42fe-df25-a3be-c6ff501f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-30",
+          "magazine_date": "2024-10-04",
+          "title": "למה רציתי להיות יתומה כשהייתי ילדה, ואיך שלט קטן גרם לי להרגיש שייכת",
+          "og_image": "https://gif.haarets.co.il/bs/00000192-42fe-df25-a3be-c6ff501f0000/71/ec/b2ea4e4b4f4096b225963464cd86/4-10-24-animation.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-10-01/ty-article-magazine/.highlight/00000192-42fe-d755-add7-62fed2cb0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-10-01",
+          "magazine_date": "2024-10-04",
+          "title": "נתניהו ביצע הונאה מתוחכמת של הציבור הישראלי",
+          "og_image": "https://img.haarets.co.il/bs/00000192-42fe-d755-add7-62fed2cb0000/f4/f7/f5a9a37940ad862f9208ee2ee70c/552722.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-10-01/ty-article-magazine/.highlight/00000192-42ff-da69-a797-5affda3b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-10-01",
+          "magazine_date": "2024-10-04",
+          "title": "הכאב, התקווה ורגע אחד מטלטל בכנרת: מסע בישראל במלאת שנה למלחמה",
+          "og_image": "https://img.haarets.co.il/bs/00000192-42ff-da69-a797-5affda3b0000/f4/d9/842a185849099d8cef488a79e273/096668.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-10-01/ty-article-magazine/.highlight/00000192-42ff-df25-a3be-c6fff3e00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-10-01",
+          "magazine_date": "2024-10-04",
+          "title": "\"תן לי כל היום לשבת במיטה ולבכות על אדם. עד יומי האחרון\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-42ff-df25-a3be-c6fff3e00000/9d/70/ace7ee414f6592057d1e0e727aad/58676871.JPG?precrop=8047%2C4676%2Cx0%2Cy419&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-10-02/ty-article-magazine/.highlight/00000192-4c26-da69-a797-5e2e71100000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-10-02",
+          "magazine_date": "2024-10-04",
+          "title": "במשך שנים טיפח נתניהו את רעיון העוצמה בכל מחיר. זה חזר אליו כבומרנג",
+          "og_image": "https://img.haarets.co.il/bs/00000192-4c26-da69-a797-5e2e71100000/41/0d/64115b934e7c927f77fb03d1deb6/58678396.JPG?precrop=4343%2C2525%2Cx432%2Cy153&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-10-02/ty-article/.highlight/00000192-4c12-da69-a797-5e1a977d0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-10-02",
+          "magazine_date": "2024-10-04",
+          "title": "חשבנו ש-7 באוקטובר ניפץ את האשליה שבה חיינו. ההפך מזה קרה",
+          "og_image": "https://img.haarets.co.il/bs/00000192-4c12-da69-a797-5e1a977d0000/f6/86/26cfd27a43928807b70c4d494a70/58678398.JPG?precrop=3600%2C2093%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-10-02/ty-article-face/.highlight/00000192-478d-d07b-aff3-57ef8c0b0002",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-10-02",
+          "magazine_date": "2024-10-04",
+          "title": "יהודה כהן",
+          "og_image": "https://img.haarets.co.il/bs/00000192-478d-d07b-aff3-57ef8c0b0002/ae/4d/99027e8b48cdb072d9524f53f077/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-10-02/ty-article-magazine/.highlight/00000192-4259-d424-ad93-477975ee0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-10-02",
+          "magazine_date": "2024-10-04",
+          "title": "\"כשאני רוצה חיים, אני הולכת לתל אביב או למאה שערים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-4259-d424-ad93-477975ee0000/e4/8c/3d010e5740f8b29aba56105a0ba6/58691174.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2024-10-01/ty-article-magazine/.highlight/00000192-4278-d424-ad93-477881480000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2024-10-01",
+          "magazine_date": "2024-10-04",
+          "title": "\"העולם השתנה, הכל השתנה, אז למה שחמאס יישאר אותו הדבר?\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-4278-d424-ad93-477881480000/2a/70/29c62a064763b0dc6aeebe748982/992441.jpg?precrop=1603%2C932%2Cx0%2Cy809&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-10-01/ty-article/.highlight/00000192-432e-df25-a3be-c7af5ee70000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-10-01",
+          "magazine_date": "2024-10-04",
+          "title": "האם אפשר הפעם בלי ברכות ריקות?",
+          "og_image": "https://img.haarets.co.il/bs/00000192-432e-df25-a3be-c7af5ee70000/f5/3d/5abef1e84e24ab97631d2fbf8e7d/card.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-10-01/ty-article-magazine/.highlight/00000192-4768-d46a-afb2-77fc66a40000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-10-01",
+          "magazine_date": "2024-10-04",
+          "title": "מנסראללה ועד יוקר המחיה: ועדת המדרוג מסכמת שנה",
+          "og_image": "https://img.haarets.co.il/bs/00000192-4768-d46a-afb2-77fc66a40000/33/63/0b52e78f4f5f898f707e2155f30f/headline.jpg?precrop=1563%2C908%2Cx0%2Cy85&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-10-01/ty-article/.premium/00000192-4309-da69-a797-5b0bf7770000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-10-01",
+          "magazine_date": "2024-10-04",
+          "title": "\"בסוף לנסראללה יהיה מחליף, אבל לסבא שלי אין. לחטופים אין מחליפים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-4309-da69-a797-5b0bf7770000/0e/ae/e3eade8b4bd8a3477b276e5d6e83/58696669.JPG?precrop=1066%2C620%2Cx0%2Cy167&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-10-02/ty-article-magazine/.highlight/00000192-47c5-d07b-aff3-57e75cab0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-10-02",
+          "magazine_date": "2024-10-04",
+          "title": "\"אני חושב ששרה פרגמטית\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-47d6-d46a-afb2-77d616f40000/7c/90/767e90bd4c639c199b2294424852/577367.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-10-02/ty-article-20q/.highlight/00000192-473e-ddcb-a5b6-6fbf83830000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-10-02",
+          "magazine_date": "2024-10-04",
+          "title": "במונחים של חודשים ושנים, כמה זמן זה מיליארד שניות?",
+          "og_image": "https://img.haarets.co.il/bs/00000192-473e-ddcb-a5b6-6fbf83830000/17/91/50dc5b8a4f7b99c1aa8adc2a8438/015515.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2024-10-02/ty-article-20q/.free/00000192-4751-d755-a1db-f77932c90000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2024-10-02",
+          "magazine_date": "2024-10-04",
+          "title": "20 שאלות לילדים: במה משחקים הילדים בשיר \"בשנה הבאה (נשב על המרפסת)\"?",
+          "og_image": "https://img.haarets.co.il/bs/00000192-4751-d755-a1db-f77932c90000/1d/7a/04711d7b42d5873fcce74a808dcf/kimchi6864.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-10-02/ty-article-magazine/.highlight/00000192-4c58-d3f4-a3f3-fcd805790000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-10-02",
+          "magazine_date": "2024-10-04",
+          "title": "נמוך וטוב: בר־המסעדה שמציע מחווה לחדר האוכל של עין גדי",
+          "og_image": "https://img.haarets.co.il/bs/00000192-4c58-d3f4-a3f3-fcd805790000/15/0c/679272074739a66ed917783a3d3b/1.jpg?precrop=1428%2C830%2Cx0%2Cy638&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-10-01/ty-article-magazine/.premium/00000192-4750-da69-a797-5f5a5b9f0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-10-01",
+          "magazine_date": "2024-10-04",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 2.10.2024",
+          "og_image": "https://img.haarets.co.il/bs/00000192-4750-da69-a797-5f5a5b9f0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-10-01/ty-article/.premium/00000192-4749-d2cc-a5d7-e7fd6ade0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-10-01",
+          "magazine_date": "2024-10-04",
+          "title": "רגעי קסם בבודפשט",
+          "og_image": "https://img.haarets.co.il/bs/00000192-4749-d2cc-a5d7-e7fd6ade0000/42/5d/78096d2849e7b73637bcda888333/58692077.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-10-01/ty-article/.premium/00000192-4766-d3f4-a3f3-ffeea1570000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-10-01",
+          "magazine_date": "2024-10-04",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000192-4766-d3f4-a3f3-ffeea1570000/b7/23/2838ef5748a882279fcd42c13b04/ribooa-musaf-593-new.jpg?precrop=1083%2C630%2Cx0%2Cy311&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-10-01/ty-article/.highlight/00000192-42f7-df88-a3fe-7ff7dddd0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-10-01",
+          "magazine_date": "2024-10-04",
+          "title": "רק בתל אביב ניגוב חומוס נחשב לתרבות ישראלית",
+          "og_image": "https://img.haarets.co.il/bs/00000192-42f7-df88-a3fe-7ff7dddd0000/a0/15/0e5e21c420cb03ec2aca5082149a/3123096563.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

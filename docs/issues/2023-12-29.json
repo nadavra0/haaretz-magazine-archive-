@@ -1,0 +1,308 @@
+{
+  "magazine_date": "2023-12-29",
+  "total_articles": 22,
+  "cover_image": "https://img.haarets.co.il/bs/0000018c-ad42-d45c-a98e-af4e90a90001/af/f1/c9687ab644268cefbd7820cd5d44/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2023-12-28/ty-article-magazine/.highlight/0000018c-aaf1-d22d-a3dd-bff9f3240000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-12-28/ty-article-magazine/.highlight/0000018c-aaf0-d22d-a3dd-bff9c4ad0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-12-28",
+          "magazine_date": "2023-12-29",
+          "title": "כשנכנסתי לרצועת עזה, גיליתי שהדבר המסוכן לנפש הוא דווקא לחזור לישראל",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-aaf0-d22d-a3dd-bff9c4ad0000/b9/fc/03b650dd4353bfc91ec119cba1f3/54959690.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-12-28/ty-article-magazine/.highlight/0000018c-aaf1-d22d-a3dd-bff9f3240000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-12-28",
+          "magazine_date": "2023-12-29",
+          "title": "\"אני מסתכל על מה שקרה, ואומר: הפתרון הציוני נכשל. הוא איננו פתרון\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-aaf1-d22d-a3dd-bff9f3240000/7d/a4/6399cd784a8d9a8cb56ccbf49545/86484.jpg?precrop=1603%2C932%2Cx0%2Cy297&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-12-28/ty-article-magazine/.highlight/0000018c-ab24-d462-afbe-afef08fa0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-12-28",
+          "magazine_date": "2023-12-29",
+          "title": "\"אנחנו לא אומרים 'גזענות זה רע', אלא מפרקים אותה באמצעות מאבק משותף\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-ab24-d462-afbe-afef08fa0000/82/1b/87ef1e2a40a19940e43b4c52d0d7/m032-29-new.jpg?precrop=1722%2C1001%2Cx85%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-12-28/ty-article-magazine/.highlight/0000018c-ab9b-d462-afbe-afdff7310000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-12-28",
+          "magazine_date": "2023-12-29",
+          "title": "\"לא היה שום ידע לגבי טיפול בילדים שחזרו משבי, אז המצאנו\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-ab9b-d462-afbe-afdff7310000/5f/e3/df9c0a2d4f41a783118916efa420/54963672.JPG?precrop=8192%2C4763%2Cx0%2Cy701&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-12-27/ty-article/.highlight/0000018c-ab3a-d22d-a3dd-bf7b2bf80000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-12-27",
+          "magazine_date": "2023-12-29",
+          "title": "\"כמעט כל הנשים חולמות על חשמל\": המהפכה ששינתה את פני המטבח בישראל",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-ab3a-d22d-a3dd-bf7b2bf80000/df/61/7cbabb9b41f5bd6e355dcbd5e683/54950025.JPG?precrop=2362%2C1373%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-12-27/ty-article/.highlight/0000018c-ab4f-d885-abdf-ff4f57c60000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-12-27",
+          "magazine_date": "2023-12-29",
+          "title": "דחף המוות הוא אחד היצרים האפלים ביותר. אסור להתעלם ממנו",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-ab4f-d885-abdf-ff4f57c60000/70/62/70a0299c4291b90a498b5e929801/54961027.JPG?precrop=2252%2C1309%2Cx0%2Cy90&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-12-27/ty-article/.highlight/0000018c-ab5e-d22d-a3dd-bf7f06980000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-12-27",
+          "magazine_date": "2023-12-29",
+          "title": "עם דמעות בעיניים ולב שבור, אני מודה: גם אני התפכחתי",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-ab5e-d22d-a3dd-bf7f06980000/2e/29/9f7b079946148f41c8aabb94b763/54960726.JPG?precrop=4305%2C2502%2Cx0%2Cy221&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-12-27/ty-article/.highlight/0000018c-ab85-d45c-a98e-abcd54ba0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-12-27",
+          "magazine_date": "2023-12-29",
+          "title": "מה קרה לסינים? במשבר הזה, ישראל היא רק חלק קטן מהתמונה",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-ab85-d45c-a98e-abcd54ba0000/18/f2/5b26b554ab7b60e9d30240387d14/3543584590.jpg?precrop=2105%2C1223%2Cx231%2Cy334&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2023-12-27/ty-article/.highlight/0000018c-ab4b-d462-afbe-afcf03740000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2023-12-27",
+          "magazine_date": "2023-12-29",
+          "title": "גם לישראלים חילונים יש אלוהים משלהם: אמריקה",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-ab4b-d462-afbe-afcf03740000/a9/69/24f85a80422fb0ad103ff54210c1/54959120.JPG?precrop=4000%2C2326%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2023-12-28/ty-article-face/.highlight/0000018c-b094-d014-a3cd-ba9e6ba60000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2023-12-28",
+          "magazine_date": "2023-12-29",
+          "title": "\"התפקיד של הנהג שלי היה לקחת מהשטח את החלב ששאבתי בג'יפ\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-b094-d014-a3cd-ba9e6ba60000/3c/33/f84d7df944779b3113d0b65aa921/facetemplate1800x1200-1.jpg?precrop=1800%2C1046%2Cx0%2Cy73&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2023-12-28/ty-article-magazine/.highlight/0000018c-aba0-d45c-a98e-abecf23d0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2023-12-28",
+          "magazine_date": "2023-12-29",
+          "title": "\"התחום שלי הוא הראשון שנפגע במלחמה. כל התוכניות שלי לשנה הקרובה בוטלו\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-aba0-d45c-a98e-abecf23d0000/c3/40/8cdf4b8a4960a24f3421053c4c24/54949335.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2023-12-27/ty-article/.highlight/0000018c-abad-d45c-a98e-abed97c00000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2023-12-27",
+          "magazine_date": "2023-12-29",
+          "title": "הניצחון האמיתי על חמאס יהיה להפסיק לחיות כמו שחיינו עד 7 באוקטובר",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-abad-d45c-a98e-abed97c00000/76/fc/d761f4a54840bc0e42da9ef8645f/74005.jpg?precrop=2400%2C1396%2Cx0%2Cy145&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2023-12-28/ty-article-magazine/.highlight/0000018c-afc5-db94-afbd-affdf6350000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2023-12-28",
+          "magazine_date": "2023-12-29",
+          "title": "רמי לוי מוכר דסקית \"למען החיילים\". שברנו את המונופול של החטופים",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-afc5-db94-afbd-affdf6350000/7d/fa/14c0c5ef4dafba8f2ad14c13aa8d/mid-4.jpg?precrop=1563%2C909%2Cx0%2Cy144&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2023-12-28/ty-article-magazine/.highlight/0000018c-b09f-db94-afbd-b0ffb2c30000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2023-12-28",
+          "magazine_date": "2023-12-29",
+          "title": "\"גם אני כחברת כנסת לא צעקתי מספיק\"",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e6f6-d230-abc7-f7fe5f400000/88/ca/628019dc4455a5a47bfad5866f5b/28427.jpg?height=630&width=1200&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2023-12-27/ty-article-20q/.highlight/0000018c-a12b-df1f-a7bf-b7ef937a0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2023-12-27",
+          "magazine_date": "2023-12-29",
+          "title": "לפי גוגל, מה היה החיפוש הנפוץ ביותר בעולם בתחום החדשות ב–2023?",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-a12b-df1f-a7bf-b7ef937a0000/9f/6a/d02a33af4c42b4eb1922d33a3e69/12938.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2023-12-27/ty-article-magazine/.highlight/0000018c-ab6b-d22d-a3dd-bf7b0d1b0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2023-12-27",
+          "magazine_date": "2023-12-29",
+          "title": "המאפיה המחתרתית שהפכה לאימפריה של בצקים נהדרים",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-ab6b-d22d-a3dd-bf7b0d1b0000/3b/a5/92b233484285a90c0465e4d187cc/01687.jpg?precrop=2400%2C1395%2Cx0%2Cy201&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2023-12-28/ty-article-magazine/.premium/0000018c-afc1-db94-afbd-aff9af570000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2023-12-28",
+          "magazine_date": "2023-12-29",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 29.12.2023",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-afc1-db94-afbd-aff9af570000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2023-12-28/ty-article/.premium/0000018c-afbd-db94-afbd-affd236d0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2023-12-28",
+          "magazine_date": "2023-12-29",
+          "title": "מפגש ענקים בהודו",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-afbd-db94-afbd-affd236d0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2023-12-28/ty-article/.premium/0000018c-afc9-d45c-a98e-afcd09d50000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2023-12-28",
+          "magazine_date": "2023-12-29",
+          "title": "הליכוד ופסיכולוגיית ההמון",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-afc9-d45c-a98e-afcd09d50000/b4/49/74998f6549d3a85f02e42dcb9767/fam.jpg?precrop=1250%2C727%2Cx0%2Cy1028&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2023-12-28/ty-article/0000018c-b22c-d014-a3cd-ba3ebbab0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2023-12-28",
+          "magazine_date": "2023-12-29",
+          "title": "מת הגאוגרף שהציע להפוך את עזה לריווירה",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-b22c-d014-a3cd-ba3ebbab0000/20/c7/94b896ff4770acf68517b9738189/0001-fl45939902.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2023-12-28/ty-article/.premium/0000018c-afcb-d45c-a98e-afcf22a20000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2023-12-28",
+          "magazine_date": "2023-12-29",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-afcb-d45c-a98e-afcf22a20000/7c/23/a84bb1814726a648d3010576c307/ribooa-musaf-553.jpg?precrop=1083%2C630%2Cx0%2Cy82&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2023-12-28/ty-article/.highlight/0000018c-abc2-d45c-a98e-abce2a180000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2023-12-28",
+          "magazine_date": "2023-12-29",
+          "title": "ההשוואה בין אשכול לבין נתניהו מקוממת",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-abc2-d45c-a98e-abce2a180000/e0/ed/6862820d4f61a76a5c66b09ffb4f/54888684.JPG?precrop=3066%2C1783%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

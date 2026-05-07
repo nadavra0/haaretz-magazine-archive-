@@ -159,11 +159,21 @@ def fetch_metadata(url):
             mi = re.search(r'<meta[^>]+content=["\'](https?://[^"\']+)["\'][^>]+property=["\']og:image["\']', text)
         image = html.unescape(mi.group(1).strip()) if mi else None
         # Real magazine front-page cover: <img alt="שער מוסף הארץ ...">
+        # Cover alt patterns seen across issues:
+        #   "שר מוסף הארץ 9.5"   – explicit cover tag
+        #   "שר"                  – simple label, filename must be cover-like
+        #   "בשר: אלונה מרגולין…" – caption style, filename must be cover-like
         shaar_image = None
-        ms = re.search(r'<img\b[^>]+alt=["\']שער מוסף[^"\']*["\'][^>]*>', text, re.DOTALL)
-        if ms:
+        for ms in re.finditer(r'<img\b[^>]+alt=["\'][^"\']*שער[^"\']*["\'][^>]*>', text, re.DOTALL):
             img_tag = ms.group(0)
-            # Prefer the largest image from srcset
+            alt_m = re.search(r'\balt=["\']([^"\']*)["\']', img_tag)
+            candidate_alt = html.unescape(alt_m.group(1)) if alt_m else ""
+            src_m = re.search(r'\bsrc=["\']([^"\']+)["\']', img_tag)
+            candidate_src = html.unescape(src_m.group(1)) if src_m else ""
+            # Require cover filename unless alt explicitly says "שר מוסף"
+            if "שער מוסף" not in candidate_alt and not is_cover_filename(candidate_src):
+                continue
+            # Extract largest from srcset if available
             srcset_m = re.search(r'\bsrcset=["\']([^"\']+)["\']', img_tag)
             if srcset_m:
                 srcset_raw = html.unescape(srcset_m.group(1))
@@ -171,13 +181,29 @@ def fetch_metadata(url):
                 if entries:
                     entries.sort(key=lambda x: int(x[1]), reverse=True)
                     shaar_image = entries[0][0].rstrip(',').rstrip('&')
-            if not shaar_image:
-                src_m = re.search(r'\bsrc=["\']([^"\']+)["\']', img_tag)
-                if src_m:
-                    shaar_image = html.unescape(src_m.group(1))
+            if not shaar_image and candidate_src:
+                shaar_image = candidate_src
+            if shaar_image:
+                break
         return title, image, shaar_image
     except Exception:
         return None, None, None
+
+
+def is_cover_filename(image_url):
+    """Check if an image URL filename looks like a Haaretz magazine cover.
+    Cover images are named: shaar.jpg, shaar-N.jpg, mu1.jfif, mu2.jfif, etc.
+    This is used to validate alt='שר' (exact) matches — distinguishing the
+    real in-article cover from the sidebar widget (which has a numeric filename)."""
+    if not image_url:
+        return False
+    filename = image_url.split('/')[-1].split('?')[0].lower()
+    return (
+        'shaar' in filename or
+        bool(re.match(r'mu\d+', filename)) or
+        '-web.' in filename or
+        '-animation.' in filename
+    )
 
 
 def is_cover_image(image_url, magazine_date):
@@ -336,6 +362,20 @@ def save_archive(by_issue):
                     "articles": sorted(by_section[key], key=lambda x: x["article_date"])
                 }
 
+        # Preserve an existing cover if it was previously set (e.g. by --fetch-covers).
+        # Only recalculate if no cover exists yet.
+        existing_issue_path = os.path.join(issues_dir, f"{magazine_date}.json")
+        existing_cover = None
+        existing_cover_article = None
+        if os.path.exists(existing_issue_path):
+            try:
+                with open(existing_issue_path, encoding="utf-8") as _f:
+                    _old = json.load(_f)
+                existing_cover = _old.get("cover_image")
+                existing_cover_article = _old.get("cover_article_url")
+            except Exception:
+                pass
+
         # Find cover image: priority 1 — <img alt="שער מוסף..."> tag in any article
         cover_image = None
         cover_article_url = None
@@ -358,6 +398,14 @@ def save_archive(by_issue):
                     cover_image = a["og_image"]
                     cover_article_url = a["url"]
                     break
+
+        # Never downgrade an existing cover.
+        # Only replace it if we found a Priority 1 shaar_image directly in an article body.
+        # Preserve covers set by --fetch-covers / Playwright / manual patching.
+        found_via_shaar = any(a.get("shaar_image") for a in articles)
+        if existing_cover and not found_via_shaar:
+            cover_image = existing_cover
+            cover_article_url = existing_cover_article
 
         # Strip internal flag before writing to JSON
         clean_articles = [{k: v for k, v in a.items() if k != "_shaar_checked"}
@@ -422,7 +470,7 @@ def save_login_cookies():
         page = ctx.new_page()
         page.goto("https://www.haaretz.co.il", wait_until="domcontentloaded")
 
-        # Poll until logged in or browser closes
+        # Poll until logged in or browser closes — save cookies every tick
         for _ in range(300):
             try:
                 page.wait_for_timeout(1000)
@@ -430,6 +478,9 @@ def save_login_cookies():
                 break  # browser was closed
             try:
                 cookies = ctx.cookies()
+                # Save on every tick so closing the window never loses them
+                with open(COOKIES_FILE, "w", encoding="utf-8") as f:
+                    json.dump(cookies, f, ensure_ascii=False, indent=2)
                 cookie_map = {c["name"]: c["value"] for c in cookies}
                 htzwif = cookie_map.get("_htzwif", "none")
                 if htzwif and htzwif != "none":
@@ -440,7 +491,7 @@ def save_login_cookies():
             except Exception:
                 break  # browser was closed
 
-        # Always try to grab cookies before closing
+        # Final save
         try:
             cookies = ctx.cookies()
         except Exception:
@@ -499,8 +550,11 @@ def fetch_shaar_images_playwright(issues_needing_cover):
                     imgs = page.query_selector_all("img")
                     for img in imgs:
                         alt = img.get_attribute("alt") or ""
-                        if "שער מוסף" in alt or alt.strip() == "שער":
-                            src = img.get_attribute("src") or ""
+                        src = img.get_attribute("src") or ""
+                        # Match "שר מוסף..." OR exact "שר" with a cover-named image
+                        # alt patterns seen: "שר מוסף הארץ...", "שר" (exact), "בשר: ..." caption
+                        # Sidebar widget uses alt="שר" with numeric filename (65536887.JPG) — excluded
+                        if "שער מוסף" in alt or ("שער" in alt and is_cover_filename(src)):
                             srcset = img.get_attribute("srcset") or ""
                             # Take the largest from srcset if available
                             if srcset:

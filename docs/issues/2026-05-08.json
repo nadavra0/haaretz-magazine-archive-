@@ -1,0 +1,168 @@
+{
+  "magazine_date": "2026-05-08",
+  "total_articles": 12,
+  "cover_image": "https://img.haarets.co.il/bs/0000019d-fd92-dced-a19f-ffb7220e0001/b2/03/e2d1683d4e7082b2efa936cc1375/shaar-19.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-05-06/ty-article-magazine/.highlight/0000019d-fbf4-db6e-ab9f-fff4c24c0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-05-06/ty-article-magazine/.highlight/0000019d-fbc7-df01-a3dd-fbeff5550000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-05-06",
+          "magazine_date": "2026-05-08",
+          "title": "זה ג'ורג'. בן 102, נוהג באוטו לעבודה, עושה קדרות, וכוכב טיקטוק",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-fbc7-df01-a3dd-fbeff5550000/17/18/b40a23444168aae4e9afd093d281/759673.jpg?precrop=1601,931,x0,y134&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-05-06/ty-article-magazine/.highlight/0000019d-fbe6-d369-a19d-fbefe0ea0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-05-06",
+          "magazine_date": "2026-05-08",
+          "title": "רואים את זה על פניו: הוא לא האמין שאי־פעם ישוב לחדר הזה",
+          "og_image": "https://gif.haarets.co.il/bs/0000019d-fbe6-d369-a19d-fbefe0ea0000/6d/a4/664b1ae14e00b943a6a411eb29d6/sharir-gif.gif?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-05-06/ty-article-magazine/.highlight/0000019d-fd20-dfee-ad9d-fd3091aa0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-05-06",
+          "magazine_date": "2026-05-08",
+          "title": "נבהלתם מפורום קהלת? למכון החדש של הימין יש תוכניות הרבה יותר מהפכניות",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-fd20-dfee-ad9d-fd3091aa0000/bb/2d/54037ece4a0e8d36f60310127072/777850.jpg?precrop=2400,1396,x0,y188&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-05-06/ty-article-magazine/.highlight/0000019d-fd54-dfee-ad9d-fd5473f70000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-05-06",
+          "magazine_date": "2026-05-08",
+          "title": "\"הם מפנטזים על מאהב ערבי צעיר\": המחתרת ההומואית של בכירי המנדט הבריטי",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-fd54-dfee-ad9d-fd5473f70000/40/a8/12730d324d1c9ab88ea48139296a/65542629.JPG?precrop=2052,1193,x0,y342&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-05-06/ty-article/.highlight/0000019d-fd1f-d12b-af9f-ff9fc60f0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-05-06",
+          "magazine_date": "2026-05-08",
+          "title": "חינכו אותי שציציות הן סמל לענווה. היום הן הפכו לסמל של עליונות והתרסה",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-fd1f-d12b-af9f-ff9fc60f0000/43/a5/1c208cde4b6ab9d7a2eb477371e8/808378.jpg?precrop=1587,923,x807,y504&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-05-06/ty-article/.highlight/0000019d-fd43-dfee-ad9d-fd538d4e0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-05-06",
+          "magazine_date": "2026-05-08",
+          "title": "הציבור רצה שינוי, ואת הפוליטיקה הדוחה ביותר מנהלים כעת אנשי עסקים",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-fd43-dfee-ad9d-fd538d4e0000/45/06/30b4035a4561a40a97a94f0271ef/65554229.JPG?precrop=4478,2604,x317,y833&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2026-05-06/ty-article/.highlight/0000019d-fd12-dfee-ad9d-fd1237d70000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2026-05-06",
+          "magazine_date": "2026-05-08",
+          "title": "מה הקשר בין כוסמין לכוסמת, ומה מקורה של שיבולת השועל?",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-fd12-dfee-ad9d-fd1237d70000/ab/0f/0b1391a149af968dba926fb3df1c/65552806.JPG?precrop=5472,3181,x0,y255&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-05-06/ty-article-face/.highlight/0000019d-fbeb-d369-a19d-fbef1b9d0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-05-06",
+          "magazine_date": "2026-05-08",
+          "title": "ישראל אטיאס",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-fbeb-d369-a19d-fbef1b9d0000/b0/f8/b88c9adb44939170891b283dae36/849674.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-05-06/ty-article-magazine/.highlight/0000019d-fcf5-dd9a-a9df-fcf7bb800000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-05-06",
+          "magazine_date": "2026-05-08",
+          "title": "\"אני אספנית סבתות, ויש לי הוכחות לזה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-fcf5-dd9a-a9df-fcf7bb800000/79/23/811fd16f4f2fb1e3567c6cfa0623/65533417.JPG?precrop=8192,4763,x0,y369&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2026-05-06/ty-article-magazine/.highlight/0000019d-fbf4-db6e-ab9f-fff4c24c0000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2026-05-06",
+          "magazine_date": "2026-05-08",
+          "title": "\"אני רואה איך אתם קונים את ההצגה החרדית. אתם מנהלים את המאבק הלא נכון\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-fbf4-db6e-ab9f-fff4c24c0000/1d/c9/5f5aac9149bd869258a998dfc6bf/848303.jpg?precrop=1601,931,x0,y576&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-05-06/ty-article/.highlight/0000019d-fd6b-d3e5-adfd-fdffa5540000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-05-06",
+          "magazine_date": "2026-05-08",
+          "title": "לבן גביר יש הפרעת אכילה",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-fd6b-d3e5-adfd-fdffa5540000/e3/89/d4a6c9c04cf28070231bf883d0e4/802931.jpg?precrop=1273,740,x554,y358&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-05-06/ty-article-20q/.highlight/0000019d-fbdd-df01-a3dd-fbfd10d70000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-05-06",
+          "magazine_date": "2026-05-08",
+          "title": "איזו מדינה הציעה לאחרונה לקרוא לחלק משטחה על שם דונלד טראמפ?",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-fbdd-df01-a3dd-fbfd10d70000/d3/7a/9c2186884ea18df17165c714e13c/208617.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

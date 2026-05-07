@@ -1,0 +1,323 @@
+{
+  "magazine_date": "2025-08-15",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/00000198-a33b-d1fc-a3d8-f7bfef840001/ef/76/9a6e5dd149b195926e3c79a9a800/shaar-15.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-08-13/ty-article-magazine/.highlight/00000198-a27b-d1fc-a3d8-f6ff45180000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-08-13/ty-article-magazine/.highlight/00000198-a27b-d1fc-a3d8-f6ff45180000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-08-13",
+          "magazine_date": "2025-08-15",
+          "title": "\"היצור הזה לא באמת כזה מפחיד, הוא דווקא די נחמד. עושים לתיקנים עוול\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a27b-d1fc-a3d8-f6ff45180000/1d/7c/0d5d19bf4e0898856fa409325efa/jux-sharing.jpg?precrop=939,546,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-08-14/ty-article-magazine/.highlight/00000198-a272-dba8-a3dc-b3f2ed670000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-08-14",
+          "magazine_date": "2025-08-15",
+          "title": "רכיבה על אופניים? בריכות קרח? אנחנו שוחים למרחקים בעומק הים כשגרת חיים",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a272-dba8-a3dc-b3f2ed670000/42/45/9b4a5c9c4319a9e0b85cbb905d17/706802.jpg?precrop=1603,932,x0,y1196&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-08-14/ty-article-magazine/.highlight/00000198-a2c7-d539-a5b8-ffd76f6c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-08-14",
+          "magazine_date": "2025-08-15",
+          "title": "\"יהודים ומוסלמים חיו יחד, ונוצרה תנועה בין הדתות. אפילו בתוך המשפחה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a2c7-d539-a5b8-ffd76f6c0000/6d/25/ecf4c27e491d95ee5c8ca86d631a/641504.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-08-14/ty-article-magazine/.highlight/00000198-a400-d539-a5b8-fd51691d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-08-14",
+          "magazine_date": "2025-08-15",
+          "title": "אין רעב, מצהיר נתניהו. אין רעב, מכריז צה\"ל. ובינתיים הרעב מחמיר",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a400-d539-a5b8-fd51691d0000/95/7f/d971afee4b23b7d8452a59ca4221/716324.jpg?precrop=2400,1395,x0,y121&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-08-14/ty-article/.highlight/00000198-a721-dba8-a3dc-b7f332290000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-08-14",
+          "magazine_date": "2025-08-15",
+          "title": "נתנו לי אטנט לטובת הטיפול בהפרעת הקשב. ניסיתי אחד, וזה היה מבהיל מאוד",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a721-dba8-a3dc-b7f332290000/21/ab/a987613645049693f8fde1be9a49/15-8-25-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-08-13/ty-article-magazine/.highlight/00000198-a368-d825-a39a-f3eafa4e0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-08-13",
+          "magazine_date": "2025-08-15",
+          "title": "בודהה בירושלים: כיצד הגיע ציור של קדוש יפני מקיוטו להר הצופים?",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a368-d825-a39a-f3eafa4e0000/be/66/f8a1f49d417d8feccb7fcf41643a/1111.jpg?precrop=1044,607,x0,y145&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-08-13/ty-article/.highlight/00000198-a26b-dba8-a3dc-b3fb4cd30000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-08-13",
+          "magazine_date": "2025-08-15",
+          "title": "כל אזרח בישראל נחשב גיבור. אלא אם הוא שמאלני",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a26b-dba8-a3dc-b3fb4cd30000/c7/ab/4b69063b4bb7ac3cf77b6dd25eb0/125019.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-08-13/ty-article/.highlight/00000198-a28c-dff4-a39e-ab9f803f0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-08-13",
+          "magazine_date": "2025-08-15",
+          "title": "דווקא מי שמקבלים מהמדינה יותר מכולם פועלים להחריבה. למה הם עושים זאת?",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a28c-dff4-a39e-ab9f803f0000/6c/cc/f38b83524ddfa91bb4366b0243e8/191794.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-08-13/ty-article/.highlight/00000198-a27b-d1fc-a3d8-f6ff19c60000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-08-13",
+          "magazine_date": "2025-08-15",
+          "title": "הרע מכל כבר כאן. הפשעים בעזה נעשים בשם העם — ובתמיכתו",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a27b-d1fc-a3d8-f6ff19c60000/93/a1/2ad7d70349d1aa1a51c2cb373f9c/648574.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-08-13/ty-article-face/.highlight/00000198-a2f0-dff4-a39e-abfb5ad60001",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-08-13",
+          "magazine_date": "2025-08-15",
+          "title": "עדנה חלבני",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a2f0-dff4-a39e-abfb5ad60001/ae/86/72ee4c7a4965b905085ae86b70a0/715587.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-08-13/ty-article-magazine/.highlight/00000198-a3da-d539-a5b8-ffdbeadb0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-08-13",
+          "magazine_date": "2025-08-15",
+          "title": "\"הגעתי לישראל לשלושה חודשים, וחייתי היסטוריה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a3da-d539-a5b8-ffdbeadb0000/c2/b9/f7fb92ae4800abb856ecdfdc5016/62625676.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-08-13/ty-article/.highlight/00000198-a3c5-dff4-a39e-abdf3a4e0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-08-13",
+          "magazine_date": "2025-08-15",
+          "title": "יריבוש החליף מנעולים בחדר כי הוא מאוהב בגלי",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a3c5-dff4-a39e-abdf3a4e0000/01/aa/c6f75955493087af64380e36a10a/62629197.JPG?precrop=2048,1191,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-08-14/ty-article-midrug/.highlight/00000198-a85f-dff4-a39e-a9df31a30000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-08-14",
+          "magazine_date": "2025-08-15",
+          "title": "חמאס לא רוצה עסקה. בטח מפחד שהקיצונים יפרקו את הקואליציה",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a85f-dff4-a39e-a9df31a30000/c7/01/1e8bd8b24ba285d414de69a62f64/headline-19.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-08-14/ty-article/.highlight/00000198-a368-d539-a5b8-ff79bde00000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-08-14",
+          "magazine_date": "2025-08-15",
+          "title": "למה אתה נסער מהגרפיטי \"יש שואה בעזה\"? \"כי מישהו החדיר את זה לשיח!\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a368-d539-a5b8-ff79bde00000/70/db/aa522a41403fa5be7a693a018a26/62615376.JPG?precrop=1652,961,x12,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-08-14/ty-article-quotes/.highlight/00000198-a809-d1fc-a3d8-fcad26e10000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-08-14",
+          "magazine_date": "2025-08-15",
+          "title": "\"בלי קשר ליאיר נתניהו, אי אפשר להתייחס לכל ילד מפגר\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a809-d1fc-a3d8-fcad26e10000/76/22/bd72c07f4bee85561f8492be75a3/885962.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-08-13/ty-article-20q/.highlight/00000198-a2d2-d539-a5b8-ffd354ba0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-08-13",
+          "magazine_date": "2025-08-15",
+          "title": "איזה בית ספר תיכון קשור למבצע נזלת?",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a2d2-d539-a5b8-ffd354ba0000/74/55/56dc58da4965be5e9606637fb87e/038649.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-08-13/ty-article-magazine/.highlight/00000198-a2c3-dba8-a3dc-b3f3f3340000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-08-13",
+          "magazine_date": "2025-08-15",
+          "title": "טעם של שיר: מתכוני העוגות של תרצה אתר מתעוררים לחיים",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a2c3-dba8-a3dc-b3f3f3340000/c4/43/aaba8b474aa6af29065a1c1a0d77/707837.jpg?precrop=2400,1396,x0,y205&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-08-14/ty-article-magazine/.premium/00000198-a83d-d825-a39a-fbffe27c0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-08-14",
+          "magazine_date": "2025-08-15",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 15.8.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a83d-d825-a39a-fbffe27c0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-08-14/ty-article/.premium/00000198-a837-d1fc-a3d8-fcbfb2a50000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-08-14",
+          "magazine_date": "2025-08-15",
+          "title": "כוכבת בשמי סין",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a837-d1fc-a3d8-fcbfb2a50000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-08-14/ty-article/.premium/00000198-a848-d825-a39a-fbca838c0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-08-14",
+          "magazine_date": "2025-08-15",
+          "title": "בגלל איומי בד\"צ לא תשווק \"שטראוס\" מוצרים עם איורי דינוזאורים עליהם",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a848-d825-a39a-fbca838c0000/88/86/60e3aea74871adb8bebfc9cb2fd1/mefursamot.jpg?precrop=1250,727,x0,y28&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-08-14/ty-article/00000198-a7c3-d539-a5b8-ffd3b6060000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-08-14",
+          "magazine_date": "2025-08-15",
+          "title": "קרא לאחדות, הזהיר מחורבן: המשורר והחוקר ניקולא יוזגוף-אורבך מת בגיל 41",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a7c3-d539-a5b8-ffd3b6060000/36/43/42f607814b0ea67319c16e6ca8d8/575902.jpg?precrop=2093,1217,x0,y255&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-08-14/ty-article/.premium/00000198-a84e-d539-a5b8-fd5feeeb0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-08-14",
+          "magazine_date": "2025-08-15",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a84e-d539-a5b8-fd5feeeb0000/7c/c1/01f8989d4aa192ad612ea6adc305/ribooa-musaf-638.jpg?precrop=1083,630,x0,y453&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-08-13/ty-article/.highlight/00000198-a3e2-dba8-a3dc-b3f276bd0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-08-13",
+          "magazine_date": "2025-08-15",
+          "title": "הפער הערכי בין שני האלופים זועק",
+          "og_image": "https://img.haarets.co.il/bs/00000198-a3e2-dba8-a3dc-b3f276bd0000/e1/8c/ac11409244c5be5971b64751dc1b/585596.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

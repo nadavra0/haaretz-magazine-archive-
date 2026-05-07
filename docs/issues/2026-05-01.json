@@ -1,0 +1,358 @@
+{
+  "magazine_date": "2026-05-01",
+  "total_articles": 26,
+  "cover_image": "https://img.haarets.co.il/bs/0000019d-d9fd-d9bc-a5bf-dfff89120000/49/26/b197ef1c44d39ebea45d600a2fa6/shaar-18.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-04-30/ty-article-magazine/.premium/0000019d-d80e-db1b-a9ff-ff9eea270000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-04-29/ty-article-magazine/.highlight/0000019d-d7d0-d712-a5bf-d7d2bf8a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-04-29",
+          "magazine_date": "2026-05-01",
+          "title": "כשהצעתי את דירתי לסאבלט לא תיארתי לעצמי מי יתייצב בפתח ביתי",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-d7d0-d712-a5bf-d7d2bf8a0000/a9/27/a8cc024747a3899ada7b7e39d975/avner.jpg?precrop=4519,2626,x0,y390&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-04-29/ty-article-magazine/.highlight/0000019d-d7e3-db1b-a9ff-ffff0d770000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-04-29",
+          "magazine_date": "2026-05-01",
+          "title": "אופניים הם יותר מאמצעי תחבורה. הם בחירה איך להתקיים בעולם",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-d7e3-db1b-a9ff-ffff0d770000/ab/51/6f89067741a5a01d3ba8946dce34/573341.jpg?precrop=2400,1395,x0,y78&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-04-29/ty-article/.highlight/0000019d-d935-db1b-a9ff-ffbf55220000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-04-29",
+          "magazine_date": "2026-05-01",
+          "title": "קריאה מודרכת בנאומם של בנט ולפיד לקראת הבחירות",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-d935-db1b-a9ff-ffbf55220000/c1/d9/7ea1994e44af80ee5866eb0f4fc7/65491649.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-04-30/ty-article-magazine/.highlight/0000019d-d7f1-db1b-a9ff-ffffb9bc0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-04-30",
+          "magazine_date": "2026-05-01",
+          "title": "זה מירוץ אכזרי, הכי אכזרי שיש. השיאן רץ חמש יממות ברצף",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-d7f1-db1b-a9ff-ffffb9bc0000/b1/5f/91aabd7a43daa12eb8be0288b6fb/iironpeople-shituf.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-04-30/ty-article-magazine/.premium/0000019d-d80e-db1b-a9ff-ff9eea270000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-04-30",
+          "magazine_date": "2026-05-01",
+          "title": "מה, לא שמעתם על פלסטינית דתיה שמנגנת בגיטרה חשמלית ורצה במפלגה ציונית?",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-d80e-db1b-a9ff-ff9eea270000/52/a0/849e070e4673939bb3e7ff25c278/456956.jpg?precrop=1601,931,x0,y307&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-04-30/ty-article/.highlight/0000019d-de07-d709-ad9f-fe1710f60000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-04-30",
+          "magazine_date": "2026-05-01",
+          "title": "האיש שהוציא את הערמונית מהאש",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-de07-d709-ad9f-fe1710f60000/89/ba/c32423b041bf83734733d06aba5b/1-5-26-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-04-29/ty-article-magazine/.highlight/0000019d-d8f3-dc2f-addf-fffb13010000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-04-29",
+          "magazine_date": "2026-05-01",
+          "title": "זה לא סתם חרק. זו דרישת שלום בת 40 מיליון שנה, מעולם שונה לחלוטין",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-d8f3-dc2f-addf-fffb13010000/7c/b9/3b8865b341a6bd1333a71b95d2ef/65471216.JPG?precrop=2480,1442,x0,y57&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-04-29/ty-article/.highlight/0000019d-d914-d712-a5bf-ddd610750000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-04-29",
+          "magazine_date": "2026-05-01",
+          "title": "ביזה היתה חלק מכל מלחמות ישראל. מה שחדש הוא העלמת העין המוחלטת",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-d914-d712-a5bf-ddd610750000/4b/85/685576844013b1b766a7758843bb/65483647.JPG?precrop=4032,2344,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-04-29/ty-article/.premium/0000019d-d929-d95a-afbd-f96b9ce40000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-04-29",
+          "magazine_date": "2026-05-01",
+          "title": "זו הדילמה הקשה בחיי כהורה: לעקור את ילדיי מישראל, או להישאר בלב הטירוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-d929-d95a-afbd-f96b9ce40000/95/08/9ea938dd404592309943f304dc75/65471219.JPG?precrop=4971,2890,x0,y26&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-04-29/ty-article/.highlight/0000019d-d945-d95a-afbd-f94f3fa50000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-04-29",
+          "magazine_date": "2026-05-01",
+          "title": "חוקרים פולנים גילו כיצד מתפשטת מכונת הרעל, ומדוע קשה כל כך לעצור אותה",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-d945-d95a-afbd-f94f3fa50000/68/1c/7f6ae69945d5982c4d81d87ebccb/65493197.JPG?precrop=5472,3181,x0,y467&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-04-29/ty-article/.highlight/0000019d-d920-dc2f-addf-fffb889f0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-04-29",
+          "magazine_date": "2026-05-01",
+          "title": "ב-4,000 השנים האחרונות החיים נסובים סביב עניין אחד: הידיעה שכולנו נמות",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-d920-dc2f-addf-fffb889f0000/5e/3e/2bf4bed745f681c016dd89f02394/65483652.JPG?precrop=4712,2740,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-04-29/ty-article-face/.highlight/0000019d-d85d-db1b-a9ff-ffdf846a0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-04-29",
+          "magazine_date": "2026-05-01",
+          "title": "אבנר ברנהיימר",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-d85d-db1b-a9ff-ffdf846a0000/06/f5/2729bb344f94b4a20646dfbcdd0e/779721.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-04-29/ty-article-magazine/.highlight/0000019d-d910-d623-ad9f-ffd3bf6f0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-04-29",
+          "magazine_date": "2026-05-01",
+          "title": "\"חיתנו אותי בגיל 16, לא עבדתי יום בחיי. היום יש לי חברת אנרגיה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-d910-d623-ad9f-ffd3bf6f0000/9c/24/19f27a984f49a23c18f6429e597b/65458650.JPG?precrop=8192,4763,x0,y701&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-04-29/ty-article/.highlight/0000019d-d966-d712-a5bf-dde6d2ff0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-04-29",
+          "magazine_date": "2026-05-01",
+          "title": "למה בחרו דווקא ביצפאן: התעשייה הזאת היא מכונת הרעל האמיתית",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-d966-d712-a5bf-dde6d2ff0000/ed/7f/7254fabf4e2c8818747e656715a8/65494688.JPG?precrop=856,497,x95,y174&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-04-30/ty-article-midrug/.highlight/0000019d-dc75-d473-a1bf-fdf5f4c30000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-04-30",
+          "magazine_date": "2026-05-01",
+          "title": "הרמטכ\"ל נגד ביזה, ניפוץ פסלים של ישו ופאצ'ים של \"משיח\". אז מה נשאר?!",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-dc75-d473-a1bf-fdf5f4c30000/bd/bd/46eadde7429cab1fcb82a9a12180/headline-19.jpg?precrop=2000,1163,x0,y269&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-04-30/ty-article/.highlight/0000019d-d904-d95a-afbd-f94ec6f40000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-04-30",
+          "magazine_date": "2026-05-01",
+          "title": "תוכל להסביר את המידע המטעה על הסרטן של נתניהו? \"קיבלתי הוראה לא לדבר\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-d904-d95a-afbd-f94ec6f40000/27/e7/d49ae7d64d09a3100d0fbeadbc9c/64723511.JPG?precrop=669,389,x99,y215&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-04-30/ty-article-quotes/.highlight/0000019d-daf8-d9bc-a5bf-defb0b540000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-04-30",
+          "magazine_date": "2026-05-01",
+          "title": "\"זה היה בעל ערך גם עבור המדינה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-daf8-d9bc-a5bf-defb0b540000/d3/58/97e1fac143ca886d69b3ff6890be/718963.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-04-29/ty-article-20q/.highlight/0000019d-d801-d623-ad9f-fed330780000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-04-29",
+          "magazine_date": "2026-05-01",
+          "title": "מה מחבר בין בילי איידול לשלום חנוך?",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-d801-d623-ad9f-fed330780000/53/fa/fe7745b84d4d8e4ebb6516337b6c/491304.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2026-04-29/ty-article-20q/.highlight/0000019d-d809-d623-ad9f-fedbd0b80000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2026-04-29",
+          "magazine_date": "2026-05-01",
+          "title": "20 שאלות לילדים ולילדות: באיזו עיר נמצא גשר שער הזהב?",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-d809-d623-ad9f-fedbd0b80000/04/77/2a14e2e54b65a2d9c19d9fff2359/302799.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2026-04-30/ty-article-magazine/.highlight/0000019d-dd20-d709-ad9f-fd338b3b0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2026-04-30",
+          "magazine_date": "2026-05-01",
+          "title": "בחזרה לוואדי: הכפר שבו בני הדור הצעיר מגלים מחדש את עבודת האדמה",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-dd20-d709-ad9f-fd338b3b0000/2d/e9/a19d27a54f23946778ffcee8396d/1.jpg?precrop=1333,775,x0,y775&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-04-30/ty-article-magazine/.premium/0000019d-de2a-d9bc-a5bf-de3b70db0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-04-30",
+          "magazine_date": "2026-05-01",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 1.5.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-de2a-d9bc-a5bf-de3b70db0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-04-30/ty-article/.premium/0000019d-de35-d9bc-a5bf-de3f53430000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-04-30",
+          "magazine_date": "2026-05-01",
+          "title": "ילד הפלא הטורקי",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-de35-d9bc-a5bf-de3f53430000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-04-30/ty-article/0000019d-dff9-db36-a1fd-ffff07fc0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-04-30",
+          "magazine_date": "2026-05-01",
+          "title": "בכניסה לאיראן הורו ליהודיות להסיר את כיסוי הראש: \"זו ארץ מודרנית\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-dff9-db36-a1fd-ffff07fc0000/21/d8/e1d86b5c4772b70b320de355125e/tehran1930.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2026-04-30/ty-article/.premium/0000019d-de3a-d709-ad9f-fe3b94f70000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2026-04-30",
+          "magazine_date": "2026-05-01",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-de3a-d709-ad9f-fe3b94f70000/df/56/81fc3d7d46fb8029c964526ebf94/caro.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-04-30/ty-article/.premium/0000019d-de3e-d9bc-a5bf-de3fb6f80000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-04-30",
+          "magazine_date": "2026-05-01",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-de3e-d9bc-a5bf-de3fb6f80000/c0/4a/5f65b4f948e69865ace0f05a3e29/ribooa-musaf-675-new-1.jpg?precrop=1083,630,x0,y135&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-04-30/ty-article/.highlight/0000019d-d947-d623-ad9f-ffd77c5d0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-04-30",
+          "magazine_date": "2026-05-01",
+          "title": "הם יודעים מה עושים שם לילדים. איך הם ישנים בלילה?",
+          "og_image": "https://img.haarets.co.il/bs/0000019d-d947-d623-ad9f-ffd77c5d0000/5e/56/e2af36834012a92bd3512cf947d4/54491.jpg?precrop=2400,1395,x0,y158&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

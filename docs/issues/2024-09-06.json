@@ -1,0 +1,298 @@
+{
+  "magazine_date": "2024-09-06",
+  "total_articles": 21,
+  "cover_image": "https://img.haarets.co.il/bs/00000191-bd75-dffe-abf9-bd7fa8640001/96/8c/d7d2fd484f3497d1455b17e134fa/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-09-04/ty-article-magazine/.highlight/00000191-bccd-dc3b-a7df-ffdd274c0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-04/ty-article-magazine/.highlight/00000191-bccc-db99-a1d1-bdfee5930000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-04",
+          "magazine_date": "2024-09-06",
+          "title": "המריחואנה היום חזקה. חזקה מדי",
+          "og_image": "https://img.haarets.co.il/bs/00000191-bccc-db99-a1d1-bdfee5930000/a6/bf/852248db49918b379ef5c326dcda/weed-sharing.png?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-04/ty-article-magazine/.highlight/00000191-bccd-db99-a1d1-bdff2a770000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-04",
+          "magazine_date": "2024-09-06",
+          "title": "ההתנחלות בעזה הולכת ומתבשלת. מאחז חדש כבר קם ליד הגבול",
+          "og_image": "https://img.haarets.co.il/bs/00000191-bccd-db99-a1d1-bdff2a770000/95/f6/bfd990f5480fa34d966282490446/688743.jpg?precrop=1601%2C931%2Cx0%2Cy1299&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-04/ty-article-magazine/.highlight/00000191-bccd-dc3b-a7df-ffdd274c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-04",
+          "magazine_date": "2024-09-06",
+          "title": "יחסי מין עם פעוטה אינם אונס. כן, זה מה שלומדים בישיבות",
+          "og_image": "https://img.haarets.co.il/bs/00000191-bccd-dc3b-a7df-ffdd274c0000/6d/62/b2da5d33410a8e6345738ac8c044/otherreligiousstudies-shituf.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-04/ty-article-magazine/.highlight/00000191-bd92-dffe-abf9-bdff42bc0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-04",
+          "magazine_date": "2024-09-06",
+          "title": "אנשים יצאו השבוע להפגין לא רק מחמת זעם ואשמה. משהו עמוק השתנה",
+          "og_image": "https://img.haarets.co.il/bs/00000191-bd92-dffe-abf9-bdff42bc0000/9c/93/0b6ce9f1474999c69e657e23ced0/714421.jpg?precrop=2400%2C1395%2Cx0%2Cy142&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-05/ty-article/.highlight/00000191-c1ef-db8d-a999-f5ff08b90000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-05",
+          "magazine_date": "2024-09-06",
+          "title": "אני כותבת את הטור הזה אחרי שעצרו את ע', חברתי מגינת הכלבים",
+          "og_image": "https://gif.haarets.co.il/bs/00000191-c1ef-db8d-a999-f5ff08b90000/1d/6a/9fdea24342cfa7a5f321760a471c/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-09-04/ty-article-magazine/.highlight/00000191-bcd4-dc3b-a7df-ffd49eab0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-09-04",
+          "magazine_date": "2024-09-06",
+          "title": "אינדונזיה בונה בירה חדשה ב-35 מיליארד דולר. זו רק ההתחלה",
+          "og_image": "https://img.haarets.co.il/bs/00000191-bcd4-dc3b-a7df-ffd49eab0000/2f/66/936bf62a4cc4828acd8c826fd424/533219.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-09-04/ty-article/.highlight/00000191-bcc4-dd1b-a7db-bfde6e570000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-09-04",
+          "magazine_date": "2024-09-06",
+          "title": "מלחמת הצללים הדיגיטלית עולה שלב, ובכירי צה\"ל על הכוונת",
+          "og_image": "https://img.haarets.co.il/bs/00000191-bcc4-dd1b-a7db-bfde6e570000/7f/02/afd5ca5249e191f54b4ed1dc0990/screenshot-2024-09-03-at-15-32-43.png?precrop=1152%2C670%2Cx0%2Cy14&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-09-04/ty-article/.highlight/00000191-bcbe-dffe-abf9-bdff81f80000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-09-04",
+          "magazine_date": "2024-09-06",
+          "title": "הנסיבות השתנו, ועכשיו ליהודים יש שוב אלוהים אכזרי ורצחני",
+          "og_image": "https://img.haarets.co.il/bs/00000191-bcbe-dffe-abf9-bdff81f80000/86/ba/9bf41429417fb601813e0b54afa9/58303342.JPG?precrop=5500%2C3198%2Cx0%2Cy469&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-09-04/ty-article-face/.highlight/00000191-be8a-dd1b-a7db-bfde41080002",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-09-04",
+          "magazine_date": "2024-09-06",
+          "title": "\"לימים הבנתי עד כמה אבא נשאר הלום קרב, ועד כמה זה ליווה גם אותי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000191-be8a-dd1b-a7db-bfde41080002/11/6f/d28058b440209ed203e9c71d5c7d/facetemplate1800x1200-1.jpg?precrop=1800%2C1046%2Cx0%2Cy51&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-09-04/ty-article-magazine/.highlight/00000191-bce6-dffe-abf9-bdff7d260000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-09-04",
+          "magazine_date": "2024-09-06",
+          "title": "\"יש לי חברה ניצולת שואה. היא סיפרה על קצינה נאצית שהיתה בנאדם טוב\"",
+          "og_image": "https://img.haarets.co.il/bs/00000191-bce6-dffe-abf9-bdff7d260000/b2/c7/da12a33049aba7de8894f222efa3/58298926.JPG?precrop=8192%2C4763%2Cx0%2Cy553&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2024-09-04/ty-article-magazine/.highlight/00000191-bcaf-dc3b-a7df-ffff3c3e0000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2024-09-04",
+          "magazine_date": "2024-09-06",
+          "title": "\"30 אלף שקל, ויש לך אריה בבית\"",
+          "og_image": "https://img.haarets.co.il/bs/00000191-bcaf-dc3b-a7df-ffff3c3e0000/a6/92/87ad403e4c09b7a292c29eb9e629/717696.jpg?precrop=1603%2C932%2Cx0%2Cy222&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-09-05/ty-article-magazine/.highlight/00000191-c13a-d2e0-a7d5-ddfa003c0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-09-05",
+          "magazine_date": "2024-09-06",
+          "title": "באיחור של 11 חודשים, ביבי מבקש סליחה. אם מישהו נפגע",
+          "og_image": "https://img.haarets.co.il/bs/00000191-c13a-d2e0-a7d5-ddfa003c0000/6e/0d/77d0416a4a74a1482a8eac306dce/headline.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-09-05/ty-article/.highlight/00000191-bd01-dffe-abf9-bd7f0a480000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-09-05",
+          "magazine_date": "2024-09-06",
+          "title": "אז אתה שלם עם ההחלטה לביים את הטקס הממלכתי. \"זו אינטרפרטציה שלך\"",
+          "og_image": "https://img.haarets.co.il/bs/00000191-bd01-dffe-abf9-bd7f0a480000/00/f1/f91049be4b88bf52f4e34656052f/58317869.JPG?precrop=3497%2C2032%2Cx8%2Cy186&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-09-04/ty-article-magazine/.highlight/00000191-be90-d9c6-a997-beb886e80002",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-09-04",
+          "magazine_date": "2024-09-06",
+          "title": "\"××ª××××ª ×××××× ××××ª× ××××, ××¨×× ×× 100 ×××£ ×¢××§×××\"",
+          "og_image": "https://img.haarets.co.il/bs/00000191-be91-d26b-abfd-bebfca2f0000/d8/9d/10174b954de68053cc4bca8dbc95/516094-2.jpg?height=630&width=1200",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-09-04/ty-article-20q/.highlight/00000191-bea4-d26b-abfd-beaff70f0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-09-04",
+          "magazine_date": "2024-09-06",
+          "title": "מהו ה\"אואזיס\" שעל שמו נקראה להקת אואזיס?",
+          "og_image": "https://img.haarets.co.il/bs/00000191-bea4-d26b-abfd-beaff70f0000/7c/ba/d425ac6f4bcebef8ead65d5ce0d5/716474.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2024-09-05/ty-article-20q/.free/00000191-bead-dd1b-a7db-bfff5ed50000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2024-09-05",
+          "magazine_date": "2024-09-06",
+          "title": "20 שאלות לילדים: איזו נסיכת דיסני מבוססת על אישה אמיתית?",
+          "og_image": "https://img.haarets.co.il/bs/00000191-bead-dd1b-a7db-bfff5ed50000/f5/29/d80fdf5b4f3d92e8ba8b4a371cc8/783500.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-09-05/ty-article-magazine/.premium/00000191-c130-d2e0-a7d5-ddf260bf0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-09-05",
+          "magazine_date": "2024-09-06",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 6.9.2024",
+          "og_image": "https://img.haarets.co.il/bs/00000191-c130-d2e0-a7d5-ddf260bf0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-09-05/ty-article/.premium/00000191-c135-d09f-ab91-dfbd57630000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-09-05",
+          "magazine_date": "2024-09-06",
+          "title": "אלופה ישראלית",
+          "og_image": "https://img.haarets.co.il/bs/00000191-c135-d09f-ab91-dfbd57630000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-09-05/ty-article/00000191-c0fd-dffe-abf9-fdff431b0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-09-05",
+          "magazine_date": "2024-09-06",
+          "title": "צבי-ים, מערות ואנטילופות: יגאל סלע, מוותיקי שמירת הטבע, מת בגיל 94",
+          "og_image": "https://img.haarets.co.il/bs/00000191-c0fd-dffe-abf9-fdff431b0000/b5/83/caf1af7944aba1338a89ade4a43d/651520.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-09-05/ty-article/.premium/00000191-c137-d2e0-a7d5-ddf7ae890000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-09-05",
+          "magazine_date": "2024-09-06",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000191-c137-d2e0-a7d5-ddf7ae890000/80/76/7140dc454510b60c90a04bf9f9e5/ribooa-musaf-589.jpg?precrop=1083%2C630%2Cx0%2Cy80&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-09-04/ty-article/.highlight/00000191-bd8f-dffe-abf9-bdff6e500000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-09-04",
+          "magazine_date": "2024-09-06",
+          "title": "המאה ה–20 פשוט טבועה בנו עמוק מדי",
+          "og_image": "https://img.haarets.co.il/bs/00000191-bd8f-dffe-abf9-bdff6e500000/f9/75/00ec20f845e2a8f6e12a9e9a8daf/58211015.JPG?precrop=3072%2C1786%2Cx0%2Cy80&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

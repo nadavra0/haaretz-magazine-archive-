@@ -1,0 +1,318 @@
+{
+  "magazine_date": "2024-11-01",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/00000192-dd9e-ddcf-a7f7-ddfe27c10001/3d/b1/6b83061947ca959aed74f537ffc0/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-10-30/ty-article-magazine/.highlight/00000192-dce8-d14d-abbf-fdea37b90000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-10-30/ty-article-magazine/.highlight/00000192-dce8-d14d-abbf-fdea37b90000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-10-30",
+          "magazine_date": "2024-11-01",
+          "title": "בפינות האפלות של המדינות המתנדנדות יש ריח של מלחמת אזרחים",
+          "og_image": "https://img.haarets.co.il/bs/00000192-dce8-d14d-abbf-fdea37b90000/91/22/c9f8d0e84354a1dbd33b0c95f05a/59084375.JPG?precrop=5284%2C3071%2Cx0%2Cy306&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-10-30/ty-article-magazine/.highlight/00000192-dd3a-d14d-abbf-fd3ab0250000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-10-30",
+          "magazine_date": "2024-11-01",
+          "title": "כאן, בלב עמק יפהפה בחבל הבסקים, מצאו אלטרנטיבה לקפיטליזם",
+          "og_image": "https://img.haarets.co.il/bs/00000192-dd3a-d14d-abbf-fd3ab0250000/0f/5d/1ec1183843abac3913e463d369ac/59058259.JPG?precrop=6016%2C3497%2Cx0%2Cy153&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-10-30/ty-article-magazine/.highlight/00000192-dd3a-d4c1-a7db-fd7a5af60000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-10-30",
+          "magazine_date": "2024-11-01",
+          "title": "במקום לחכות לתוצאות של בדיקות הדם, אפשר פשוט לנשוף לתוך שקית",
+          "og_image": "https://img.haarets.co.il/bs/00000192-dd3a-d4c1-a7db-fd7a5af60000/8a/09/eef39fb345a38fb952752d371c15/neta.jpg?precrop=2000%2C1163%2Cx0%2Cy95&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-10-30/ty-article-magazine/.highlight/00000192-dd3a-dd90-a7d2-fd3f1b850000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-10-30",
+          "magazine_date": "2024-11-01",
+          "title": "45% מהיהודים בישראל מעדיפים מלחמה על פני שלום. והפלסטינים?",
+          "og_image": "https://img.haarets.co.il/bs/00000192-dd3a-dd90-a7d2-fd3f1b850000/58/c3/14a6b74549828e1a57196be47e3f/59104076.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-10-30/ty-article-magazine/.highlight/00000192-ddaf-d21c-afba-ffaf81180000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-10-30",
+          "magazine_date": "2024-11-01",
+          "title": "הורים מספידים ילדים. ילדים מספידים הורים. איננו יכולים עוד",
+          "og_image": "https://img.haarets.co.il/bs/00000192-ddaf-d21c-afba-ffaf81180000/30/3a/382d9e1149f1aee530ee475089d1/376407.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-10-31/ty-article/.highlight/00000192-e20c-dcb9-a9db-efed8fb00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-10-31",
+          "magazine_date": "2024-11-01",
+          "title": "אסור להתעלם מהדברים שנאמרו בהלווייתו של שובאל בן נתן",
+          "og_image": "https://gif.haarets.co.il/bs/00000192-e20c-dcb9-a9db-efed8fb00000/59/57/f5705551457a837ba524e560878b/1-11-24-animation.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-10-30/ty-article/.highlight/00000192-dd5e-d956-a19f-fd5f388f0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-10-30",
+          "magazine_date": "2024-11-01",
+          "title": "זו שאלה של מיליארד דולר: כיצד הפך אדם דוחה למושא הערצה לאומי?",
+          "og_image": "https://img.haarets.co.il/bs/00000192-dd5e-d956-a19f-fd5f388f0000/7f/77/5e9cbbef4d909f3454b673419c65/59078437.JPG?precrop=6064%2C3526%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-10-30/ty-article/.highlight/00000192-dd73-d956-a19f-fd731aac0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-10-30",
+          "magazine_date": "2024-11-01",
+          "title": "המדינאים שלנו לא הם לא מקרה פסיכיאטרי. הם פשוט מסוכנים",
+          "og_image": "https://img.haarets.co.il/bs/00000192-dd73-d956-a19f-fd731aac0000/84/45/c7e663784899a1d2a77be026d845/59102387.JPG?precrop=3322%2C1931%2Cx0%2Cy15&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-10-31/ty-article/.highlight/00000192-dd4a-d605-a3b2-df4fcc410000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-10-31",
+          "magazine_date": "2024-11-01",
+          "title": "החרדים מסתערים על 8200: אלפים ביקשו להתגייס, מאות התקבלו",
+          "og_image": "https://img.haarets.co.il/bs/00000192-dd4a-d605-a3b2-df4fcc410000/03/ff/70c42a454f739c9121ce5d4c3492/59078428.JPG?precrop=1600%2C930%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-10-30/ty-article/.highlight/00000192-dd41-ddcf-a7f7-dd77f7270000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-10-30",
+          "magazine_date": "2024-11-01",
+          "title": "גם אם לא קוראים לזה \"ג'נוסייד\", זה פשע מלחמה",
+          "og_image": "https://img.haarets.co.il/bs/00000192-dd41-ddcf-a7f7-dd77f7270000/a4/de/e9ceb11f4fb585d307e36d8554d4/59078426.JPG?precrop=4931%2C2867%2Cx0%2Cy397&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-10-30/ty-article-face/.highlight/00000192-dda1-ddcf-a7f7-ddf775ff0002",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-10-30",
+          "magazine_date": "2024-11-01",
+          "title": "אור הלר",
+          "og_image": "https://img.haarets.co.il/bs/00000192-dda1-ddcf-a7f7-ddf775ff0002/92/5a/c88580804ed9bb357b053971e288/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-10-30/ty-article-magazine/.highlight/00000192-dd85-ddcf-a7f7-ddf7dd4f0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-10-30",
+          "magazine_date": "2024-11-01",
+          "title": "\"בעירום אני מרגישה בריאה וחזקה. כשלובשים בגדים אחר כך, זה מוזר\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-dd85-ddcf-a7f7-ddf7dd4f0000/b9/c5/235eb6354c299a4a2f146a1ece1d/209766.jpg?precrop=2400%2C1395%2Cx0%2Cy102&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-10-30/ty-article/.highlight/00000192-dde0-de94-a79b-dff1bd6a0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-10-30",
+          "magazine_date": "2024-11-01",
+          "title": "ככל שאנחנו מרגישים יותר חנוקים, ככה נבנים עבורנו יותר \"מרחבים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-dde0-de94-a79b-dff1bd6a0000/59/07/54ad0200cc090108ce6831837e56/827096102.jpg?precrop=2405%2C1399%2Cx86%2Cy113&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-10-31/ty-article-magazine/.highlight/00000192-e194-d7b5-af97-eb9521ea0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-10-31",
+          "magazine_date": "2024-11-01",
+          "title": "תם פסטיבל התקיפה באיראן. עכשיו מה עושים עם הריקנות",
+          "og_image": "https://img.haarets.co.il/bs/00000192-e194-d7b5-af97-eb9521ea0000/86/b4/fdfe489a4021bca0ee2d9dd3c1ec/headline.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-10-31/ty-article/.highlight/00000192-dd94-d0d3-afff-ddffb0190000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-10-31",
+          "magazine_date": "2024-11-01",
+          "title": "למה הגעת בעצמך לבדוק נזקים בבית נתניהו? \"עובד זוטר יכול להרגיש מצוקה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-dd94-d0d3-afff-ddffb0190000/c6/32/65a479854188988f5bbdcc246cf7/59104431.JPG?precrop=782%2C455%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-10-30/ty-article-magazine/.highlight/00000192-dda6-ddcf-a7f7-ddf6f1510002",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-10-30",
+          "magazine_date": "2024-11-01",
+          "title": "\"אני לא מכיר שום תקדים במדינת ישראל לגיוס אנשים נגד רצונם\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-ddad-d624-a59f-fded43de0000/7b/e5/a6f7496241a7905de8b0c7002461/788220.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-10-30/ty-article-20q/.highlight/00000192-dce9-d4c1-a7db-fcfba4a40000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-10-30",
+          "magazine_date": "2024-11-01",
+          "title": "מהי המדינה היחידה בעולם שאין בה יתושים?",
+          "og_image": "https://img.haarets.co.il/bs/00000192-dce9-d4c1-a7db-fcfba4a40000/bb/52/25a904dc4a9ebf7f2f53b4cba8da/566739.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2024-10-30/ty-article-20q/.free/00000192-dcf8-ddcf-a7f7-dcfea4c70000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2024-10-30",
+          "magazine_date": "2024-11-01",
+          "title": "20 שאלות לילדים ולילדות: מה היה השם הקודם של כיכר רבין בתל אביב?",
+          "og_image": "https://img.haarets.co.il/bs/00000192-dcf8-ddcf-a7f7-dcfea4c70000/f2/6c/d35c9dc54217b18d3c723d07184f/803441.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-10-30/ty-article-magazine/.highlight/00000192-dd9c-d605-a3b2-df9d56a00000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-10-30",
+          "magazine_date": "2024-11-01",
+          "title": "זהו סיפורה של תעשיית עיצוב מפוארת, שנעלמה בבת אחת",
+          "og_image": "https://img.haarets.co.il/bs/00000192-dd9c-d605-a3b2-df9d56a00000/41/9e/7a4a7d9f4b7380f22dbefc3b2ed7/212.jpg?precrop=1333%2C775%2Cx0%2Cy622&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-10-31/ty-article-magazine/.premium/00000192-e190-da9b-a19e-f9f999de0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-10-31",
+          "magazine_date": "2024-11-01",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 1.11.2024",
+          "og_image": "https://img.haarets.co.il/bs/00000192-e190-da9b-a19e-f9f999de0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-10-31/ty-article/.premium/00000192-e182-d7b5-af97-eb97de370000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-10-31",
+          "magazine_date": "2024-11-01",
+          "title": "קרואנה אלוף ארה\"ב",
+          "og_image": "https://img.haarets.co.il/bs/00000192-e182-d7b5-af97-eb97de370000/78/4d/c522a3ae417f8431b6b3e7690c06/59058846.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-10-31/ty-article/.premium/00000192-e198-d6c4-adfe-e7de393a0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-10-31",
+          "magazine_date": "2024-11-01",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000192-e198-d6c4-adfe-e7de393a0000/1b/e2/cb86e8ed457ba410a269181ad2ab/ribooa-musaf-597.jpg?precrop=1083%2C630%2Cx0%2Cy85&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-10-30/ty-article/.highlight/00000192-ddd5-d605-a3b2-dfd539a30000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-10-30",
+          "magazine_date": "2024-11-01",
+          "title": "שהמשטרה תטפל בכיבוש? זה בדיוק החזון של בן גביר",
+          "og_image": "https://img.haarets.co.il/bs/00000192-ddd5-d605-a3b2-dfd539a30000/1a/05/aab2e351412ea10b5c0e84637141/145665.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

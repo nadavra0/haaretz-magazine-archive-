@@ -1,0 +1,304 @@
+{
+  "magazine_date": "2026-01-09",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/0000019b-98e1-dd67-a9ff-9ae333e00001/4d/c1/2ae8d51b40b4861d49525f91091b/shaar-5.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-01-06/ty-article-magazine/.highlight/0000019b-9343-d4d8-a19b-f35f88bc0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-01-06/ty-article-magazine/.highlight/0000019b-9343-d4d8-a19b-f35f88bc0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-01-06",
+          "magazine_date": "2026-01-09",
+          "title": "מי שישן טוב תורם לבריאות שלו הרבה יותר מכפי שחשבנו. וכעת לחדשות הרעות",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-9343-d4d8-a19b-f35f88bc0000/2a/4f/6bef732148af9a54a7285fa17d5b/304283.jpg?precrop=2400,1396,x0,y97&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-01-07/ty-article-magazine/.highlight/0000019b-9822-dd67-a9ff-9a231f2b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-01-07",
+          "magazine_date": "2026-01-09",
+          "title": "נשים הן אלה שנועדו לטפל בילדים? מחקרים חדשים מספרים סיפור אחר לגמרי",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-9822-dd67-a9ff-9a231f2b0000/6b/0b/fe800c2b4142b14a0379bc1070e6/faather-2.jpg?precrop=2000,1163,x0,y531&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-01-07/ty-article-magazine/.highlight/0000019b-984f-dcfc-addf-dd6f123f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-01-07",
+          "magazine_date": "2026-01-09",
+          "title": "רק חצי דקה והסבל יהיה מאחוריי, אמרתי לעצמי. איזו תמימות",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-984f-dcfc-addf-dd6f123f0000/fb/2e/1119e76744a9a4ad03727906adcb/257869.jpg?&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-01-07/ty-article-magazine/.highlight/0000019b-9877-dd81-a3bf-fe77ee970000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-01-07",
+          "magazine_date": "2026-01-09",
+          "title": "לראש הקרן החדשה יש מסר לכל מי שחושב להגר מכאן אחרי הבחירות",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-9877-dd81-a3bf-fe77ee970000/59/4f/58acc1b34110944ca9f728d85612/056064.jpg?&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-01-07/ty-article/.highlight/0000019b-987d-dfc6-a79f-de7f19f00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-01-07",
+          "magazine_date": "2026-01-09",
+          "title": "תעלומת הקוד הסודי מאחורי השמות פלדשטיין, איינהורן ואוריך",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-987d-dfc6-a79f-de7f19f00000/a6/fa/d0717847404584ab77e75af520e0/64348436.JPG?&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-01-08/ty-article/.highlight/0000019b-9de6-dd39-a7ff-fffe6b4a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-01-08",
+          "magazine_date": "2026-01-09",
+          "title": "למה הטרנינג שלבש מדורו בזמן שנשבה בידי האמריקאים הפך ללהיט אופנתי",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-9de6-dd39-a7ff-fffe6b4a0000/f2/84/510d418a44f2a9409d3520f56ff0/neri.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-01-07/ty-article/.highlight/0000019b-9859-dd39-a7ff-fb7b7f100000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-01-07",
+          "magazine_date": "2026-01-09",
+          "title": "את ערוץ 14 צריך לסגור, אבל לא בגלל הדעות. בגלל השקרים",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-9859-dd39-a7ff-fb7b7f100000/6f/19/50434b3e44fdbcb0fcdb50a97bdd/64326404.JPG?precrop=4641,2698,x0,y396&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-01-07/ty-article/.highlight/0000019b-9877-dd67-a9ff-9a7789a70000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-01-07",
+          "magazine_date": "2026-01-09",
+          "title": "חברת ענק מפטרת את העובדים המיומנים ביותר, ואנחנו קוראים לזה \"קידמה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-9877-dd67-a9ff-9a7789a70000/a2/98/dca513194653b900fa9e49e7676c/64336070.JPG?precrop=3600,2093,x0,y0&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-01-07/ty-article/.highlight/0000019b-98aa-d3de-a5db-9cea8d3a0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-01-07",
+          "magazine_date": "2026-01-09",
+          "title": "כשהילודה נמצאת בשפל, שנת סוס־האש רק מוסיפה לדאגות של היפנים",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-98aa-d3de-a5db-9cea8d3a0000/4b/18/ea64294f4ef19cdb8a7e05a0272a/64329763.JPG?precrop=5000,2907,x0,y1232&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-01-07/ty-article/.highlight/0000019b-98bb-dcfc-addf-ddbb78fc0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-01-07",
+          "magazine_date": "2026-01-09",
+          "title": "קריאה בספרים החיצוניים היא הצצה לתת־המודע הפרוע של התרבות העברית",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-98bb-dcfc-addf-ddbb78fc0000/4f/22/9914d968404d825187900e2e5157/ng-m-02207-publisering.jpg?precrop=2849,1656,x0,y936&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-01-07/ty-article-face/.highlight/0000019b-98c2-d01b-a7db-9cde6d120000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-01-07",
+          "magazine_date": "2026-01-09",
+          "title": "איתן גינזבורג",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-98c2-d01b-a7db-9cde6d120000/6c/c0/4b7357a84dc99bde31337cb85e13/314228.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-01-07/ty-article-magazine/.highlight/0000019b-98f2-db92-a59f-fbfa63920000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-01-07",
+          "magazine_date": "2026-01-09",
+          "title": "\"מעולם לא הייתי בישראל. אני מוכנה לבוא לכאן ולהתחיל מאפס, בשביל האהבה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-98f2-db92-a59f-fbfa63920000/f9/d7/714b1df84946a97f6088e5f937a1/64319818.JPG?precrop=8192,4763,x0,y80&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-01-07/ty-article/.highlight/0000019b-9909-d792-a9ff-b92bc7260000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-01-07",
+          "magazine_date": "2026-01-09",
+          "title": "אחרי \"בנט הוא אח\" ו\"עמי הוא חבר\", קבלו את: \"אחלה מירי\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-9909-d792-a9ff-b92bc7260000/06/17/0ef23bbe4c33bf66ea13b1523cf2/183447.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-01-07/ty-article-midrug/.highlight/0000019b-996c-d171-adbb-b97f83280000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-01-07",
+          "magazine_date": "2026-01-09",
+          "title": "הריבית ממשיכה לרדת. עד שתיכנס לג'ינס מהתיכון",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-996c-d171-adbb-b97f83280000/f8/6b/b190522a486397c1e15914749075/headline-6.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-01-08/ty-article/.highlight/0000019b-9870-d810-af9f-dff027230000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-01-08",
+          "magazine_date": "2026-01-09",
+          "title": "מטעם איזו עמותה עבדת עבור הממשלה? \"לא זוכר איך קוראים לה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-9870-d810-af9f-dff027230000/2b/14/d7e3238d4649944c7c157acc56f6/64347059.JPG?precrop=1247,725,x307,y6&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-01-07/ty-article-quotes/.highlight/0000019b-98c7-dd67-a9ff-9ac715580000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-01-07",
+          "magazine_date": "2026-01-09",
+          "title": "\"אהרן ברק ניסה בגניבה ובמרמה להפוך את ישראל לדמוקרטיה ליברלית\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-98c7-dd67-a9ff-9ac715580000/d5/0f/aa4dee10443bbbd13f1ca8c7b77b/006569.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-01-07/ty-article-20q/.highlight/0000019b-93b9-d4d8-a19b-f3fd9e380000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-01-07",
+          "magazine_date": "2026-01-09",
+          "title": "נתניהו היה ראש הממשלה הראשון בישראל שנחקר באזהרה. באיזה הקשר?",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-93b9-d4d8-a19b-f3fd9e380000/e3/87/4570e1a449388f74ef9f948d85a3/644876.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-01-08/ty-article-magazine/.premium/0000019b-9d9e-de54-ad9f-9dff3a090000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-01-08",
+          "magazine_date": "2026-01-09",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 9.1.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-9d9e-de54-ad9f-9dff3a090000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-01-08/ty-article/.premium/0000019b-9d7c-d43d-a3bb-bffcf7660000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-01-08",
+          "magazine_date": "2026-01-09",
+          "title": "אלוף בפעם ה-20",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-9d7c-d43d-a3bb-bffcf7660000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2026-01-08/ty-article/.premium/0000019b-9da8-dd67-a9ff-9fab40dd0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2026-01-08",
+          "magazine_date": "2026-01-09",
+          "title": "חוקרי משטרה לומדים לזהות אדם שמשקר בעזרת קלטת של ראיון עם שרה נתניהו",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-9da8-dd67-a9ff-9fab40dd0000/e7/5e/180128df4d21b0ec1ff0d3c8ae65/mefursamot.jpg?precrop=1250,727,x0,y547&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-01-08/ty-article/0000019b-9e74-dd39-a7ff-ff7e3a450000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-01-08",
+          "magazine_date": "2026-01-09",
+          "title": "\"אבי לא סלח לי עד יומו האחרון\": פעילת לח\"י רינה אהרוני נפטרה",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-9e74-dd39-a7ff-ff7e3a450000/27/fc/8cba701747d9b07c9b67619426be/lehi.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2026-01-08/ty-article/.premium/0000019b-9d9b-dd39-a7ff-ffbb03d70000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2026-01-08",
+          "magazine_date": "2026-01-09",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-9d9b-dd39-a7ff-ffbb03d70000/ed/74/ae28e26c4f17b7db02fab69b871d/russia-orthodox-christmas-putin.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-01-08/ty-article/.premium/0000019b-9da5-d171-adbb-bdb7e1300000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-01-08",
+          "magazine_date": "2026-01-09",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-9da5-d171-adbb-bdb7e1300000/c6/0e/5037f80448daa825383d3e1e5aac/ribooa-musaf-659-new.jpg?precrop=1084,630,x0,y290&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-01-07/ty-article/0000019b-9902-d792-a9ff-b9227a2e0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-01-07",
+          "magazine_date": "2026-01-09",
+          "title": "יש פרסומת שכן היתה משכנעת אותי לעבור בנק",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-9902-d792-a9ff-b9227a2e0000/7b/e8/027b149e4962a6ec2aaaab72ecb9/247163.jpg?precrop=2307,1341,x53,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    }
+  }
+}

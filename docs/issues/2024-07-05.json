@@ -1,0 +1,363 @@
+{
+  "magazine_date": "2024-07-05",
+  "total_articles": 27,
+  "cover_image": "https://img.haarets.co.il/bs/00000190-7441-d084-a7dc-fcc77df30001/08/0a/009ce47f48e8b81780cceb150e85/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-07-03/ty-article-magazine/.highlight/00000190-7440-d7a4-a9dc-ff79ed160000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-07-02/ty-article-magazine/.highlight/00000190-740e-d705-a7f5-fcff0f460000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-07-02",
+          "magazine_date": "2024-07-05",
+          "title": "לערב אחד, השמאל זקף קומה ומילא באלפיו את היכל מנורה. אפשר היה להתרגש",
+          "og_image": "https://img.haarets.co.il/bs/00000190-740e-d705-a7f5-fcff0f460000/f1/fd/93a4a9c74b9bb30753e37c5773f9/33506.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-07-03/ty-article-magazine/.highlight/00000190-7440-d7a4-a9dc-ff79ed160000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-07-03",
+          "magazine_date": "2024-07-05",
+          "title": "קשה להאמין, אבל יש סיכוי טוב שחתן הנובל דרו וייסמן המציא תרופה להכל",
+          "og_image": "https://img.haarets.co.il/bs/00000190-7440-d7a4-a9dc-ff79ed160000/89/a1/53ac26d14d65b3e25dd73313cd5f/61766.jpg?precrop=1601%2C931%2Cx0%2Cy872&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-07-03/ty-article-magazine/.highlight/00000190-7896-d2ab-a7d2-7bbf46d00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-07-03",
+          "magazine_date": "2024-07-05",
+          "title": "אף אחד לא מתעסק עם גברת מנדלבאום: המהגרת היהודייה שהפכה לראש ארגון פשע",
+          "og_image": "https://img.haarets.co.il/bs/00000190-7896-d2ab-a7d2-7bbf46d00000/c2/cb/ff802bfe47ff949b6c786e82cb35/mandelbaum2.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-07-03/ty-article/.highlight/00000190-7862-d2ab-a7d2-7bef2e230000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-07-03",
+          "magazine_date": "2024-07-05",
+          "title": "מרדכי ואנונו ממלא את תפקיד הבוגד כבר שנים. האם אי פעם יימצא לו מחליף?",
+          "og_image": "https://img.haarets.co.il/bs/00000190-7862-d2ab-a7d2-7bef2e230000/75/1c/6fedd4dff31e8d2a92b9d9c3efbe/1064900090.jpg?precrop=2000%2C1163%2Cx0%2Cy150&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-07-04/ty-article-magazine/.highlight/00000190-7896-d14c-a1dd-fb9f6ec40000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-07-04",
+          "magazine_date": "2024-07-05",
+          "title": "עלייה תלולה בשיעור חובשי הכיפות הסרוגות שמגדירים עצמם חרד\"לים",
+          "og_image": "https://img.haarets.co.il/bs/00000190-7896-d14c-a1dd-fb9f6ec40000/2d/cb/2b35deaa421a90bb35d3684df9cf/556550.jpg?precrop=1486%2C864%2Cx124%2Cy465&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-07-04/ty-article-magazine/.highlight/00000190-7896-de25-a3df-7cb72b860000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-07-04",
+          "magazine_date": "2024-07-05",
+          "title": "שרה דה־לגרד נדרסה על ידי שתי רכבות, והפכה לאדם הראשון בעולם עם זרוע AI",
+          "og_image": "https://img.haarets.co.il/bs/00000190-7896-de25-a3df-7cb72b860000/f3/bc/46f5aea94276941989f045a766bd/57344918.JPG?precrop=2250%2C1308%2Cx0%2Cy466&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-07-04/ty-article/.highlight/00000190-7c16-d3cb-a7ff-fd7e36f60000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-07-04",
+          "magazine_date": "2024-07-05",
+          "title": "ברלין היא אולי המקום הכי בטוח לישראלים. אז למה שיקרתי למוכר הפלאפל?",
+          "og_image": "https://gif.haarets.co.il/bs/00000190-7c16-d3cb-a7ff-fd7e36f60000/7c/eb/8258c37e4a38b88e14a6a8b777c0/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-07-03/ty-article/.highlight/00000190-77a1-da66-affa-f7f3e1a80000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-07-03",
+          "magazine_date": "2024-07-05",
+          "title": "ביפן, גם מזלג וכלב דמיוני הם עניין רציני מאוד",
+          "og_image": "https://img.haarets.co.il/bs/00000190-77a1-da66-affa-f7f3e1a80000/a9/56/5bd01d8e4ba4872933d872656ab5/21.jpg?precrop=2048%2C1191%2Cx0%2Cy9&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-07-04/ty-article/.highlight/00000190-780a-da66-affa-fdfa2cb20000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-07-04",
+          "magazine_date": "2024-07-05",
+          "title": "האם ישראלים מאמינים בקונספירציות? סקרים מספקים מסקנות מפתיעות",
+          "og_image": "https://img.haarets.co.il/bs/00000190-780a-da66-affa-fdfa2cb20000/ca/a2/26e7e0924f12937341a1a86ab841/57457715.JPG?precrop=5760%2C3349%2Cx0%2Cy490&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-07-04/ty-article/.highlight/00000190-781c-de25-a3df-7cbfbf350000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-07-04",
+          "magazine_date": "2024-07-05",
+          "title": "מסיבת סוף העולם של צרפת: השבוע, גם הבועה של פריז התנפצה",
+          "og_image": "https://img.haarets.co.il/bs/00000190-781c-de25-a3df-7cbfbf350000/ef/cb/a6becdd34261a9f2660b0c880cea/15332.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2024-07-03/ty-article/.highlight/00000190-782c-da66-affa-fdfe3fa10000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2024-07-03",
+          "magazine_date": "2024-07-05",
+          "title": "שנים לפני שהמציא את המילה גִּיּוּס, הוא נקט צעד קיצוני כדי לחמוק ממנו",
+          "og_image": "https://img.haarets.co.il/bs/00000190-782c-da66-affa-fdfe3fa10000/08/da/ea22305247b98b35ea7f07056d4b/57456045.JPG?precrop=6000%2C3487%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-07-03/ty-article-face/.highlight/00000190-79b4-d835-a9fb-fbbffaf80002",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-07-03",
+          "magazine_date": "2024-07-05",
+          "title": "\"תמיד הייתי אופטימית ללא תקנה. עכשיו אני פסימית ופוחדת\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-79b4-d835-a9fb-fbbffaf80002/d9/8c/860b889e45769b5371f583cb20fb/facetemplate1800x1200-1.jpg?precrop=1800%2C1046%2Cx0%2Cy116&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-07-03/ty-article-magazine/.highlight/00000190-780e-dadd-a3d4-7cdfa1ca0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-07-03",
+          "magazine_date": "2024-07-05",
+          "title": "\"הבעיה שלי, והיא בעיה ענקית, היא שאני שף בגוגל\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-780e-dadd-a3d4-7cdfa1ca0000/40/a6/74cbb0ff449fa35ab00abcbd15c1/57441391.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-07-03/ty-article-magazine/.highlight/00000190-78a8-da66-affa-fdfaa81c0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-07-03",
+          "magazine_date": "2024-07-05",
+          "title": "תשובה למי שאומר שטראמפ ניצח את ביידן ב\"עימות הטלוויזיוני\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-78a8-da66-affa-fdfaa81c0000/cd/ac/402f62e0b2ec86e9235820a5ee7c/3468656893.jpg?precrop=2308%2C1343%2Cx57%2Cy101&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-07-04/ty-article-magazine/.highlight/00000190-7d37-d37b-a59c-fdb7ac240000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-07-04",
+          "magazine_date": "2024-07-05",
+          "title": "רחל מאופקים, בקרוב הסרט. תאכלו משהו בינתיים",
+          "og_image": "https://img.haarets.co.il/bs/00000190-7d37-d37b-a59c-fdb7ac240000/e4/7a/c83c30084f53b86480533115144a/headline-m.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-07-03/ty-article/.highlight/00000190-7872-de25-a3df-7cf351cd0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-07-03",
+          "magazine_date": "2024-07-05",
+          "title": "מדוע אתם לא מבטלים את פגרת הכנסת בזמן מלחמה? \"זה עניין מאוד פורמלי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-7872-de25-a3df-7cf351cd0000/91/13/3040da5d41de90c4273aea2e78da/57473381.JPG?precrop=4856%2C2823%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-07-04/ty-article-magazine/.highlight/00000190-7d82-dbb2-a3f0-fdc3fb110002",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-07-04",
+          "magazine_date": "2024-07-05",
+          "title": null,
+          "og_image": null,
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-07-03/ty-article-20q/.highlight/00000190-79a4-d5c3-a596-7dee32980000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-07-03",
+          "magazine_date": "2024-07-05",
+          "title": "20 שאלות לילדים לכבוד החופש הגדול: למה קוראים למדוזות מדוזות?",
+          "og_image": "https://img.haarets.co.il/bs/00000190-79a4-d5c3-a596-7dee32980000/e8/80/9f539ece4fdba479b5d6d78555b9/493152.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-07-03/ty-article-20q/.highlight/00000190-79df-d835-a9fb-fbffc6ee0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-07-03",
+          "magazine_date": "2024-07-05",
+          "title": "מה כתוב על הלוח שהדמות בפסל החירות מחזיקה בידה?",
+          "og_image": "https://img.haarets.co.il/bs/00000190-79df-d835-a9fb-fbffc6ee0000/64/9b/dc066d6b49068e814651842a2ed3/91295.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-07-03/ty-article-magazine/.highlight/00000190-77e9-de25-a3df-7ffb79450000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-07-03",
+          "magazine_date": "2024-07-05",
+          "title": "\"התייאשנו. המקום הזה אפוף כרגע שנאה, ייאוש וכאב\". מסעדת מאג'דה נסגרת",
+          "og_image": "https://img.haarets.co.il/bs/00000190-77e9-de25-a3df-7ffb79450000/8d/df/8efac6b64c4691e8bf8320d36d14/44920.jpg?precrop=1601%2C931%2Cx0%2Cy818&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-07-04/ty-article-magazine/.premium/00000190-7d1a-d0b6-a9b1-7dfe31a70000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-07-04",
+          "magazine_date": "2024-07-05",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 5.7.2024",
+          "og_image": "https://img.haarets.co.il/bs/00000190-7d1a-d0b6-a9b1-7dfe31a70000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-07-04/ty-article/.premium/00000190-7d09-d5c3-a596-7d4fac730000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-07-04",
+          "magazine_date": "2024-07-05",
+          "title": "הצלחה צעירה",
+          "og_image": "https://img.haarets.co.il/bs/00000190-7d09-d5c3-a596-7d4fac730000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-07-03/ty-article/00000190-775d-d2ab-a7d2-77fd05950000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-07-03",
+          "magazine_date": "2024-07-05",
+          "title": "נציב שב\"ס לשעבר יעקב גנות מת בגיל 77",
+          "og_image": "https://img.haarets.co.il/bs/00000190-775d-d2ab-a7d2-77fd05950000/f0/af/8fa0df234d3e87472194e16cd895/138011.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-07-04/ty-article/00000190-7cdd-d37b-a59c-fdff97a40000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-07-04",
+          "magazine_date": "2024-07-05",
+          "title": "אני מכריזה בזאת: בגיל 101 מתה אחרונת מארגני טקס העצמאות",
+          "og_image": "https://img.haarets.co.il/bs/00000190-7cdd-d37b-a59c-fdff97a40000/b5/41/aa72bace4bafac356b8f8e48dcc6/699601.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2024-07-04/ty-article/.premium/00000190-7d28-d0b6-a9b1-7dfcdba90000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2024-07-04",
+          "magazine_date": "2024-07-05",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000190-7d28-d0b6-a9b1-7dfcdba90000/04/ae/247e85104f69a0b4ba2e2839e7fa/caro-reg.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-07-04/ty-article/.premium/00000190-7d3c-d835-a9fb-ffbf58b00000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-07-04",
+          "magazine_date": "2024-07-05",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000190-7d3c-d835-a9fb-ffbf58b00000/3f/52/3d078b3144debf9918625bf2b894/ribooa-musaf-580.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-07-03/ty-article/.highlight/00000190-7858-d084-a7dc-f8dfe8180000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-07-03",
+          "magazine_date": "2024-07-05",
+          "title": "בגדי המלך החדשים? לא, זה המלך פרדיננד פדהצור",
+          "og_image": "https://img.haarets.co.il/bs/00000190-7858-d084-a7dc-f8dfe8180000/ee/9d/f020a00529ac43c69fb2cea3ba58/4008538598.jpg?precrop=2444%2C1421%2Cx0%2Cy26&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

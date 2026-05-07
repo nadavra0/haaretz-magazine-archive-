@@ -1,0 +1,293 @@
+{
+  "magazine_date": "2024-04-26",
+  "total_articles": 21,
+  "cover_image": "https://img.haarets.co.il/bs/0000018f-10fc-d361-a3ef-52fd04cc0001/1d/4f/b7e2a2174dcca762005cadec88e3/frontpage.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-04-25/ty-article-magazine/.highlight/0000018f-10d6-df8a-afcf-bfdff7d80000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-04-25/ty-article-magazine/.highlight/0000018f-0f6c-dc39-a9cf-bfeedda40000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-04-25",
+          "magazine_date": "2024-04-26",
+          "title": "האם ייתכן שמלחמה גרעינית תתלקח בשוגג?  מתברר שזה עלול לקרות בקלות",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-0f6c-dc39-a9cf-bfeedda40000/2c/78/bb61d20343f1a8baf8de548a085a/56514559.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-04-25/ty-article-magazine/.highlight/0000018f-0f91-dc39-a9cf-bfd70bc50000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-04-25",
+          "magazine_date": "2024-04-26",
+          "title": "מקצב הלב ועד האישונים, רוני גבע מגלה את עומק הסנכרון בין הורים לילדים",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-0f91-dc39-a9cf-bfd70bc50000/7e/c6/61d0718048d98ba3171c781d1b45/04683.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-04-25/ty-article-magazine/.highlight/0000018f-105c-d97f-abcf-fcdd98ff0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-04-25",
+          "magazine_date": "2024-04-26",
+          "title": "\"למרות הזעם, השנאה והטראומה, ארה\"ב החליטה לא לנקום, אלא לשקם את יפן\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-105c-d97f-abcf-fcdd98ff0000/f1/0c/1d9d156447e7a05094a0da570f7c/56518892.JPG?precrop=4361%2C2537%2Cx0%2Cy262&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-04-25/ty-article-magazine/.highlight/0000018f-10d6-df8a-afcf-bfdff7d80000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-04-25",
+          "magazine_date": "2024-04-26",
+          "title": "\"פתאום אני מבין שאני נשרף\": תשעה מונולוגים של לוחמים שחזרו מעזה",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-10d6-df8a-afcf-bfdff7d80000/b5/fe/626c7e37407ba753dbe71bd5cf88/61931.jpg?precrop=1825%2C1061%2Cx0%2Cy491&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-04-25/ty-article/.highlight/0000018f-14fa-d361-a3ef-56fb9abf0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-04-25",
+          "magazine_date": "2024-04-26",
+          "title": "בקריאת ההגדה השנה קשה להחליט מיהו פרעה שלנו — סינוואר או ביבי",
+          "og_image": "https://gif.haarets.co.il/bs/0000018f-14fa-d361-a3ef-56fb9abf0000/88/fd/6264c14044c59ea19a3e706a119b/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-04-25/ty-article-magazine/.highlight/0000018f-1467-d361-a3ef-56f783030000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-04-25",
+          "magazine_date": "2024-04-26",
+          "title": "לימין הלאומני יש נוסחאות יעילות. לשמאל יש מה ללמוד ממנו",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-1467-d361-a3ef-56f783030000/67/8e/5601f50a4358a48b80ff22a5cf59/56514849.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-04-25/ty-article/.highlight/0000018f-1468-dc39-a9cf-b5ee0d720000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-04-25",
+          "magazine_date": "2024-04-26",
+          "title": "נסעתי בגדה, והרגשתי כמו בימי התנ\"ך. ייתכן שהאנשים האלה היו כאן תמיד?",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-1468-dc39-a9cf-b5ee0d720000/83/ea/74101e8149caa607112fde8e38bd/56478091.JPG?precrop=1174%2C682%2Cx77%2Cy57&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-04-25/ty-article/.highlight/0000018f-0f8a-d97f-abcf-ef8b99ea0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-04-25",
+          "magazine_date": "2024-04-26",
+          "title": "כמו ביציאת מצרים, ים סוף מספק תזכורת עגומה למעמדנו באזור",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-0f8a-d97f-abcf-ef8b99ea0000/32/77/12ac3c5e4b808a513e6a4844647b/56478717.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-04-25/ty-article-face/.highlight/0000018f-156e-d1f3-afcf-3f6f56120000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-04-25",
+          "magazine_date": "2024-04-26",
+          "title": "\"הבן שלי לא דיבר איתי יומיים. הוא לא זוכר שאי פעם אמא שלו הפסידה במשהו\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-156e-d1f3-afcf-3f6f56120000/4d/d2/0556ce1445bc81283a39ce6157c1/face.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-04-24/ty-article-magazine/.highlight/0000018f-1061-d361-a3ef-52f162f60000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-04-24",
+          "magazine_date": "2024-04-26",
+          "title": "\"מבחינה רגשית, הסינים הם כמו ילדים קטנים\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-1061-d361-a3ef-52f162f60000/f2/c0/7e5a7a6047ecb76929dc24d17a7f/15939.jpg?precrop=2400%2C1395%2Cx0%2Cy148&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-04-25/ty-article/.highlight/0000018f-1059-dc39-a9cf-b5df45180000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-04-25",
+          "magazine_date": "2024-04-26",
+          "title": "אתה \"עוד לא שם\"? על מי אתה חושב שאתה עובד?",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-1059-dc39-a9cf-b5df45180000/bc/d1/9e3d7b774a03bbcc182b65ff927f/56519044.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-04-25/ty-article-magazine/.highlight/0000018f-13f4-dc39-a9cf-b7f6c7cf0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-04-25",
+          "magazine_date": "2024-04-26",
+          "title": "העיצוב החדש של ווטסאפ. רק ההודעות שלכם מקלקלות",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-13f4-dc39-a9cf-b7f6c7cf0000/ec/a6/2abcb6bd4b2781c6c87594c582ea/mid-2.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-04-24/ty-article/.highlight/0000018f-104c-d70d-a58f-d9ff32b20000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-04-24",
+          "magazine_date": "2024-04-26",
+          "title": "לא שמעתי אותך אומר — אני מצטער. \"אז חלק מהבעיות שלך זה שאתה לא מקשיב\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-104c-d70d-a58f-d9ff32b20000/1e/0c/1529fb8b4f32aeaf43aab93c503c/56518549.JPG?precrop=4773%2C2775%2Cx0%2Cy324&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-04-25/ty-article-magazine/.highlight/0000018f-1571-d2e1-a7df-15f7c3e40000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-04-25",
+          "magazine_date": "2024-04-26",
+          "title": "\"75 שנה קיימת המדינה. פתאום החליטו לערוך הפגנות נגד ראש הממשלה?\"",
+          "og_image": "https://img.haarets.co.il/bs/00000189-4f4b-d573-addd-dfeb91530000/17/aa/97b5b2a44cd1b4298e0c870308ac/12480.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-04-22/ty-article-20q/.highlight/0000018f-041b-d224-a9cf-057b73890000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-04-22",
+          "magazine_date": "2024-04-26",
+          "title": "מי גר בדרך פריווט מספר 4? 20 שאלות במדור מיוחד לפסח: קושיות לילדים",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-041b-d224-a9cf-057b73890000/62/9e/8870a4cc4f24960be8e8e8ab770f/0099907.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-04-24/ty-article-20q/.highlight/0000018f-040c-db42-a99f-adbfc1de0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-04-24",
+          "magazine_date": "2024-04-26",
+          "title": "מי אמר: \"כשהנשיא עושה את זה, זה אומר שזה לא בלתי חוקי\"?",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-040c-db42-a99f-adbfc1de0000/76/46/0f5da6df4826b7bd01cfc69f14d4/703685.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-04-25/ty-article-magazine/.highlight/0000018f-100b-dc39-a9cf-b5cfba670000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-04-25",
+          "magazine_date": "2024-04-26",
+          "title": "בחווה באבן יהודה, שני מגדלים מקומיים מנסים לתרבת פטריות בר למאכל",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-100b-dc39-a9cf-b5cfba670000/1e/c0/05e5d91c4a78a7a575624c958312/56513759.JPG?precrop=5504%2C3200%2Cx0%2Cy967&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-04-25/ty-article-magazine/.premium/0000018f-13ee-d2e1-a7df-13eee9050000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-04-25",
+          "magazine_date": "2024-04-26",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 26.4.2024",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-13ee-d2e1-a7df-13eee9050000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-04-25/ty-article/.premium/0000018f-13e4-df8a-afcf-bfffa7cb0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-04-25",
+          "magazine_date": "2024-04-26",
+          "title": "הברקות ומשגים במועמדים",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-13e4-df8a-afcf-bfffa7cb0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-04-25/ty-article/.premium/0000018f-13f8-df8a-afcf-bffb47870000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-04-25",
+          "magazine_date": "2024-04-26",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-13f8-df8a-afcf-bffb47870000/d7/f4/85ee94bd4d22884ac5b0b4db86de/riboa-musaf.jpg?precrop=542%2C315%2Cx0%2Cy22&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-04-25/ty-article/.highlight/0000018f-1058-d97f-abcf-fcd9921c0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-04-25",
+          "magazine_date": "2024-04-26",
+          "title": "יוני נתניהו ידע לאהוב בהתמסרות, בעומק, בפיוט",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-1058-d97f-abcf-fcd9921c0000/f2/cc/7233deead5760191e08af68351b5/2902902644.jpg?precrop=1354%2C787%2Cx0%2Cy737&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

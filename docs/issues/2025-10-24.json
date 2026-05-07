@@ -1,0 +1,353 @@
+{
+  "magazine_date": "2025-10-24",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/0000019a-0c0f-dfc6-a3bf-fd2f7d070001/09/a8/ab1ffa8d460f83a608969213a445/shaar-23.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-10-22/ty-article-magazine/.highlight/0000019a-0a94-d2fc-a79a-9ed6eace0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-10-22/ty-article-magazine/.highlight/0000019a-0a94-d2fc-a79a-9ed6eace0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-10-22",
+          "magazine_date": "2025-10-24",
+          "title": "קשה להאמין מה עושים לתרנגולות רבייה כדי לספק את התאווה לשניצל",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-0a94-d2fc-a79a-9ed6eace0000/d6/1d/c25ae7f74ad3be1a65fa921fedeb/63312531.JPG?precrop=2942,1710,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-10-22/ty-article-magazine/.highlight/0000019a-0c55-d77b-a3ff-2ff5ae1d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-10-22",
+          "magazine_date": "2025-10-24",
+          "title": "\"עמים רבים רצחו זה את זה מאות שנים והיום לא מבינים למה. אתם לא שונים\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-0c55-d77b-a3ff-2ff5ae1d0000/85/d4/c2f886664865961bfa2de33bac93/63503250.JPG?precrop=2000,1163,x0,y39&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-10-23/ty-article-magazine/.highlight/0000019a-0a73-dfc6-a3bf-fb77ff1e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-10-23",
+          "magazine_date": "2025-10-24",
+          "title": "גל של אלימות חסרת תקדים שוטף את הגדה בשבועיים האחרונים",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-0a73-dfc6-a3bf-fb77ff1e0000/c8/5c/19fe57664dd78c55870c630b492e/63488410.JPG?precrop=3600,2093,x0,y232&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-10-23/ty-article-magazine/.highlight/0000019a-0a98-d44f-ab9e-9aba90070000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-10-23",
+          "magazine_date": "2025-10-24",
+          "title": "הבדידות בארה\"ב כל כך עמוקה, שמבוגרים יוצאים לקייטנות כדי להכיר חברים",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-0a98-d44f-ab9e-9aba90070000/d1/97/02a1d8e549edadaae6f0f2e6f4b0/63490083.JPG?precrop=6000,3488,x0,y206&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-10-23/ty-article/.highlight/0000019a-1198-d77b-a3ff-37f9c28c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-10-23",
+          "magazine_date": "2025-10-24",
+          "title": "אין דבר כזה גיל שלישי. אפשר לקרוא לילד בשמו: אדם זקן",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-1198-d77b-a3ff-37f9c28c0000/dc/b8/3aa2a9b247f1a50f921014299c2f/24-10-25-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-10-22/ty-article/.highlight/0000019a-0b73-d722-ab9e-8bff34940000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-10-22",
+          "magazine_date": "2025-10-24",
+          "title": "ובינתיים, בארה\"ב: בכיר שביקר את טראמפ בדרך למאסר עד סוף ימיו",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-0b73-d722-ab9e-8bff34940000/d5/48/bc341e1d43058be90f2c41a737c6/63479283.JPG?precrop=3060,1779,x319,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-10-22/ty-article/.highlight/0000019a-0b8c-d2fc-a79a-9fde9e8b0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-10-22",
+          "magazine_date": "2025-10-24",
+          "title": "היוונים העתיקים ידעו: קברים ריקים הם עדות לאסון, אבל גם מקור לתקווה",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-0b8c-d2fc-a79a-9fde9e8b0000/13/90/e2c1f6fe40fd8ad0a9197efcf358/63479481.JPG?precrop=5472,3180,x0,y468&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-10-22/ty-article/.highlight/0000019a-0ba4-dfc6-a3bf-fba4cb890000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-10-22",
+          "magazine_date": "2025-10-24",
+          "title": "\"זה כמו להתווכח עם בוט\", כולנו אומרים, ומחנכים את ילדינו לבוטיות",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-0ba4-dfc6-a3bf-fba4cb890000/c1/3c/ba0d00754d03b0efcacbdd51de2e/haaretz-aieducation-v2.jpg?precrop=1889,1098,x83,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2025-10-22/ty-article/.highlight/0000019a-0b2b-d44f-ab9e-9b2b90620000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2025-10-22",
+          "magazine_date": "2025-10-24",
+          "title": "אֶנְדֶנְדִינוֹ: כך הפך שיר קרואטי עממי למשחק ילדים ישראלי",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-0b2b-d44f-ab9e-9b2b90620000/d2/40/0e09b4c04043937f453c4c7d4e4e/63491945.JPG?precrop=6000,3488,x0,y267&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-10-22/ty-article/.highlight/0000019a-0b67-d44f-ab9e-9b6714860000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-10-22",
+          "magazine_date": "2025-10-24",
+          "title": "מערכת ההשכלה הגבוהה קרובה לקריסה. הפתרון עשוי להגיע מהחרדים",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-0b67-d44f-ab9e-9b6714860000/d7/07/fb67916f442298dd69b3edd8967d/63489722.JPG?precrop=4200,2442,x0,y78&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-10-23/ty-article-face/.highlight/0000019a-0ffc-d1c4-a99f-7ffeac8c0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-10-23",
+          "magazine_date": "2025-10-24",
+          "title": "רובי חן",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-0ffc-d1c4-a99f-7ffeac8c0000/e7/74/ee803078417d8cf40f479dd49a93/527524.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-10-22/ty-article-magazine/.highlight/0000019a-0b7e-dfc6-a3bf-fb7e52b30000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-10-22",
+          "magazine_date": "2025-10-24",
+          "title": "\"גדלנו כמו אח ואחות. ידעתי שהיא תהיה אשתי\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-0b7e-dfc6-a3bf-fb7e52b30000/43/7f/d331878a45a3b28fd11f1cec0eae/466452.jpg?precrop=2400,1395,x0,y89&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2025-10-22/ty-article-magazine/.highlight/0000019a-0cb9-d1c4-a99f-7fbb61ac0000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2025-10-22",
+          "magazine_date": "2025-10-24",
+          "title": "\"רק אחרי שהחיילים חזרו הביתה הם קלטו מה קרה שם, והם לא מאמינים\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-0cb9-d1c4-a99f-7fbb61ac0000/08/77/a5577feb493e8fd81ab22de33a6f/518864.jpg?precrop=1600,930,x0,y595&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-10-22/ty-article/.highlight/0000019a-0bfe-d1c4-a99f-7bfe527b0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-10-22",
+          "magazine_date": "2025-10-24",
+          "title": "זה הרגע שבו נתניהו מסמן לעצמו וי באקסל הרוע שהוא מנהל כבר כמעט 20 שנה",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-0bfe-d1c4-a99f-7bfe527b0000/f8/19/af8894b542fe80f9fa992247891c/63506357.JPG?precrop=3648,2120,x0,y95&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-10-23/ty-article-midrug/.highlight/0000019a-0fea-dfc6-a3bf-ffeec8f80000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-10-23",
+          "magazine_date": "2025-10-24",
+          "title": "האצטדיון בקריית ביאליק נקרא על שם טראמפ. No good deed goes unpunished",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-0fea-dfc6-a3bf-ffeec8f80000/4b/41/b9094f39481bbe4391497b871582/headline-30.jpg?precrop=2000,1163,x0,y510&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-10-23/ty-article/.highlight/0000019a-0c2c-d77b-a3ff-2fed53920000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-10-23",
+          "magazine_date": "2025-10-24",
+          "title": "הבנאדם כבול, ואתה שואל אותו אם הוא מתנצל? \"יש לזה ערך עיתונאי עצום\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-0c2c-d77b-a3ff-2fed53920000/53/aa/e8b414c5427393c4ee90fc6643a8/529383.jpg?precrop=1109,645,x0,y866&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-10-23/ty-article-quotes/.highlight/0000019a-101b-d582-a39e-5aff177c0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-10-23",
+          "magazine_date": "2025-10-24",
+          "title": "\"ב–7 באוקטובר, זה לא שלא היה לנו צבא חזק, זה שהיתה לנו מורכבות רוח\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-101b-d582-a39e-5aff177c0000/2b/ed/229ce1f44f7e8ce60ffb923c20e4/249773.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-10-22/ty-article-20q/.highlight/0000019a-0a7f-dfc6-a3bf-fb7f2da30000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-10-22",
+          "magazine_date": "2025-10-24",
+          "title": "דה גול אמר על צרפת: \"איך אפשר למשול במדינה שיש בה...\" - שיש בה מה?",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-0a7f-dfc6-a3bf-fb7f2da30000/ef/c4/b534d5534a0abd7fd7153ffc00a2/367141.jpg?precrop=1236,719,x0,y355&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-10-22/ty-article-magazine/.highlight/0000019a-0bdb-d308-adbb-dffb6fb20000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-10-22",
+          "magazine_date": "2025-10-24",
+          "title": "בבוידעם תל אביבי התגלה אוצר: סיפורם המצויר של חלוצי המזון בישראל",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-0bdb-d308-adbb-dffb6fb20000/9f/44/88da6ce04b1885a0a6f030f94b70/420443.jpg?precrop=1848,1074,x0,y207&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-10-23/ty-article-magazine/.premium/0000019a-0bf3-d443-addf-dffbd3370000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-10-23",
+          "magazine_date": "2025-10-24",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 24.10.2025",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-0bf3-d443-addf-dffbd3370000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-10-23/ty-article/.premium/0000019a-0bee-d582-a39e-5bfec80e0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-10-23",
+          "magazine_date": "2025-10-24",
+          "title": "שחמט",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-0bee-d582-a39e-5bfec80e0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-10-23/ty-article/.premium/0000019a-0c08-d582-a39e-5efcec330000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-10-23",
+          "magazine_date": "2025-10-24",
+          "title": "האופוזיציה בתימן מגנה את ביקורה של עפרה חזה",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-0c08-d582-a39e-5efcec330000/9b/95/8aaaedae466f9a218b51113acfb8/mefursamot.jpg?precrop=1250,727,x0,y1762&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-10-23/ty-article/0000019a-100d-d582-a39e-5afd72d80000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-10-23",
+          "magazine_date": "2025-10-24",
+          "title": "\"אבא ואמא לא יסלחו לי לעולם\": בגיל 105 מת אחרון הנוקמים בגרמנים",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-100d-d582-a39e-5afd72d80000/fb/18/c7d40b9dab46262856f485a65ce4/1209677950.jpg?precrop=1514,878,x0,y3&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-10-23/ty-article/.premium/0000019a-0be8-d29e-addb-cfee527d0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-10-23",
+          "magazine_date": "2025-10-24",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-0be8-d29e-addb-cfee527d0000/26/df/26fc47124668b86bdd24b1ee4bc8/ribooa-musaf-648.jpg?precrop=1083,630,x0,y103&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-10-22/ty-article/.highlight/0000019a-0bd5-d2fc-a79a-9fd7d36c0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-10-22",
+          "magazine_date": "2025-10-24",
+          "title": "לרובנו אין מושג עד כמה המערכת חסרת מעצורים",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-0bd5-d2fc-a79a-9fd7d36c0000/31/3b/e52235d5480b984d7965a3021a9b/257575.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

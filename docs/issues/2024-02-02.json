@@ -1,0 +1,228 @@
+{
+  "magazine_date": "2024-02-02",
+  "total_articles": 17,
+  "cover_image": "https://img.haarets.co.il/bs/0000018d-5fd9-d7f9-a3af-dff9db6b0001/cb/55/a7596c314865b6b8000e2375005c/frontpage.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-01-31/ty-article-magazine/.highlight/0000018d-5ea6-d0fc-a9bd-5efff35b0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-01-31/ty-article-magazine/.highlight/0000018d-5ea6-d0fc-a9bd-5efff35b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-01-31",
+          "magazine_date": "2024-02-02",
+          "title": "הישראלים האמיצים האלה בולמים בגופם את הטיהור האתני שקורה פה מתחת לאף",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-5ea6-d0fc-a9bd-5efff35b0000/b4/c6/0ddbf13f438ebb845017be3a6920/02520.jpg?precrop=1601%2C931%2Cx0%2Cy855&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-01-31/ty-article-magazine/.highlight/0000018d-5f35-d0fc-a9bd-5f7d00c10000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-01-31",
+          "magazine_date": "2024-02-02",
+          "title": "ואם לא בא לי על ילד שלישי? שינוי דרמטי מתרחש בפריון הישראלי",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-5f35-d0fc-a9bd-5f7d00c10000/16/92/233f11b14b6a9a3b426cbbcb3554/84124.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-01-31/ty-article-magazine/.highlight/0000018d-5fb6-d0af-a3af-7fbecb300000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-01-31",
+          "magazine_date": "2024-02-02",
+          "title": "טוב שהמשפחה החרדית שלי לא קוראת את מה שאני כותבת",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-5fb6-d0af-a3af-7fbecb300000/93/f1/ac5a5af24d7eb1e61a6c61e3d56e/55352642.JPG?precrop=4323%2C2514%2Cx0%2Cy886&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-01-31/ty-article-magazine/.highlight/0000018d-5fe1-d9df-a9cd-7ffdbd340000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-01-31",
+          "magazine_date": "2024-02-02",
+          "title": "\"גם במערב משתמשים בשכירי חרב במלחמות — וזה משחית את החברה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-5fe1-d9df-a9cd-7ffdbd340000/84/d9/6e2d3d1a49c28a30ca6659c97029/55384179.JPG?precrop=0%2C0%2Cx1385%2Cy696&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-01-31/ty-article/.highlight/0000018d-5fcb-d529-a1bd-7fff207a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-01-31",
+          "magazine_date": "2024-02-02",
+          "title": "אני בכלל לא בטוחה שכדאי שננצח במלחמה",
+          "og_image": "https://gif.haarets.co.il/bs/0000018d-5fcb-d529-a1bd-7fff207a0000/cb/d2/240e4acd4f97917bd19e61e5ad7d/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-01-27/ty-article-magazine/.highlight/0000018d-3adf-d3a5-afdf-7fff2edd0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-01-27",
+          "magazine_date": "2024-02-02",
+          "title": "באקדמיה לא שונאים יהודים. הם שונאים בני אדם",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-3adf-d3a5-afdf-7fff2edd0000/d3/20/26b91e554908800f8d08d53e7af1/55300048.JPG?precrop=3600%2C2093%2Cx0%2Cy171&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-01-31/ty-article-magazine/.highlight/0000018d-5f2c-d0fc-a9bd-5f7d7d510000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-01-31",
+          "magazine_date": "2024-02-02",
+          "title": "מומחה לנשק חקר את הרפורמה של בן גביר ומזהיר: אתם לא מבינים מה מצפה לכם",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-5f2c-d0fc-a9bd-5f7d7d510000/d6/70/425f2ca54e70ba80e44fcbf155ec/52930.jpg?precrop=1233%2C717%2Cx355%2Cy568&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-01-31/ty-article/.highlight/0000018d-5f06-d4f8-a9df-5f2e52550000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-01-31",
+          "magazine_date": "2024-02-02",
+          "title": "לא צריך לעבור לפרדס חנה. גם אתאיסטים גמורים יכולים להיות רוחניים",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-5f06-d4f8-a9df-5f2e52550000/e8/9c/eeb2cce24a33b2beadf8acfda65d/55379656.JPG?precrop=3650%2C2122%2Cx93%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-01-31/ty-article/.highlight/0000018d-5f1e-d0fc-a9bd-5f5f18820000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-01-31",
+          "magazine_date": "2024-02-02",
+          "title": "מלכת היופי של יפן עוררה דיון סוער: האם היפנים יקבלו אי־פעם זרים לקרבם?",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-5f1e-d0fc-a9bd-5f5f18820000/27/e6/9aefe1a045b2a7366c08fcee0557/08013.jpg?precrop=1601%2C931%2Cx0%2Cy291&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2024-01-31/ty-article/.highlight/0000018d-5eb0-d0af-a3af-7ebca10b0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2024-01-31",
+          "magazine_date": "2024-02-02",
+          "title": "היכן היתה סין המקורית, ואיך קוראים לתימן ביידיש?",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-5eb0-d0af-a3af-7ebca10b0000/14/df/c47580294aa7b2931c499d1b0bef/d97-006.jpg?precrop=2048%2C1191%2Cx0%2Cy1028&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-01-31/ty-article/.highlight/0000018d-5f13-d0af-a3af-7fbf05120000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-01-31",
+          "magazine_date": "2024-02-02",
+          "title": "כמו ברוסיה, התגברות הלחץ על ישראל עלולה להביא למנטליות של מצור",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-5f13-d0af-a3af-7fbf05120000/1c/88/e69f633044419dfac4825389329a/002677.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-01-31/ty-article-magazine/.highlight/0000018d-5f3a-d4f8-a9df-5f3e113b0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-01-31",
+          "magazine_date": "2024-02-02",
+          "title": "\"אני רואה את הישראלים שמטיילים ביחד. כשמביטים מהצד, רואים את הפגועים\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-5f3a-d4f8-a9df-5f3e113b0000/bf/a9/525d2072453f91e92466006d043d/55377717.JPG?precrop=7714%2C4485%2Cx0%2Cy454&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-01-31/ty-article/.highlight/0000018d-5fe3-d9df-a9cd-7fffbb7c0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-01-31",
+          "magazine_date": "2024-02-02",
+          "title": "כן, גם ברבע פיתה של אייל שני יש יסודות ביביסטיים",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-5fe3-d9df-a9cd-7fffbb7c0000/1f/ed/008e23b44d60a9957d52bd0f9840/835889.jpg?precrop=2400%2C1396%2Cx0%2Cy4&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-01-30/ty-article/.highlight/0000018d-54fb-d1b6-aded-5ffbc3070000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-01-30",
+          "magazine_date": "2024-02-02",
+          "title": "יש חטופים בעזה ואתם רוקדים בכנס משיחי? \"זה לא משיחי, זה ביטחוני\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-54fb-d1b6-aded-5ffbc3070000/ad/61/ee7f1cf148f0bfaa6d0ea8fbc694/595048.jpg?precrop=1991%2C1158%2Cx135%2Cy177&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-01-31/ty-article-20q/.highlight/0000018d-5ebf-d0af-a3af-7ebf592a0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-01-31",
+          "magazine_date": "2024-02-02",
+          "title": "באיזה כינוי גנאי מקורי כינתה דנה ויס את יאיר נתניהו בסרטון מעורר סערה?",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-5ebf-d0af-a3af-7ebf592a0000/47/ba/a89eabc94426914f7a5399e6f7d3/541717.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-01-31/ty-article-magazine/.highlight/0000018d-5f76-d4f8-a9df-5f7e286c0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-01-31",
+          "magazine_date": "2024-02-02",
+          "title": "נצרת שרדה הכל — ואז הגיעה המלחמה: \"עכשיו אין תקווה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-5f76-d4f8-a9df-5f7e286c0000/3b/c1/7cf834f9413b95113287abe65845/1.JPG?precrop=2000%2C1163%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-01-31/ty-article/.highlight/0000018d-5fd7-d16e-a39f-5fff6be00000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-01-31",
+          "magazine_date": "2024-02-02",
+          "title": "צריך להזדעק ממה שקורה בעפולה — ולא ממה שקורה באירופה",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-5fd7-d16e-a39f-5fff6be00000/28/99/bc98d954450f9cf377c9167710ff/55259348.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

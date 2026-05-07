@@ -1,0 +1,283 @@
+{
+  "magazine_date": "2025-02-28",
+  "total_articles": 19,
+  "cover_image": "https://img.haarets.co.il/bs/00000195-479c-df18-a1fd-cfdc22240001/57/74/811b6a4441f8a733970da7877f45/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-02-27/ty-article-magazine/.highlight/00000195-3c27-d98c-abf5-fc773e4d0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-02-27/ty-article-magazine/.highlight/00000195-3c27-d98c-abf5-fc773e4d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-02-27",
+          "magazine_date": "2025-02-28",
+          "title": "מתוך 59 חטופים שעדיין מוחזקים בעזה, 24 עדיין כנראה בחיים. אלה סיפוריהם",
+          "og_image": "https://img.haarets.co.il/bs/00000195-3c27-d98c-abf5-fc773e4d0000/be/c0/3501dc2345d584ef3692da849c2f/hatufim-shituf.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-02-27/ty-article/.highlight/00000195-47b6-d46a-a19f-f7f6eebd0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-02-27",
+          "magazine_date": "2025-02-28",
+          "title": "אין לי כוח להיות עכשיו זקנה. אולי כשהייתי צעירה היה לי כוח לזה",
+          "og_image": "https://gif.haarets.co.il/bs/00000195-47b6-d46a-a19f-f7f6eebd0000/71/84/9857f724438d9be8ed84e81f3485/28-2-25-animation.gif?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-02-26/ty-article/.highlight/00000195-41f6-d574-a3b5-67fe86c90000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-02-26",
+          "magazine_date": "2025-02-28",
+          "title": "ישראל נמצאת בסכנת מוות. ובכן, גם מדינות מתות, וזה חיובי — והכרחי",
+          "og_image": "https://img.haarets.co.il/bs/00000195-41f6-d574-a3b5-67fe86c90000/e2/9b/46c3ff4b4c29bd0916345e697205/60587051.JPG?precrop=8192%2C4763%2Cx0%2Cy224&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-02-26/ty-article/.highlight/00000195-4206-d806-a7f5-ea3f9c000000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-02-26",
+          "magazine_date": "2025-02-28",
+          "title": "אף גדול? קרחת בוהקת? היהודים בהוליווד מכתיבים את אידיאל היופי",
+          "og_image": "https://img.haarets.co.il/bs/00000195-4206-d806-a7f5-ea3f9c000000/b4/43/4cb3c0c545b089904b1850508388/60587052.JPG?precrop=3585%2C2084%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2025-02-26/ty-article/.highlight/00000195-41de-d05c-a39d-5bde77f90000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2025-02-26",
+          "magazine_date": "2025-02-28",
+          "title": "הוויכוח על אחד מסמלי היהדות נמשך מאות שנים, ונחתם בטעות לשונית",
+          "og_image": "https://img.haarets.co.il/bs/00000195-41de-d05c-a39d-5bde77f90000/a7/52/3333059f495ca41c4badd78b9936/60595377.JPG?precrop=5760%2C3349%2Cx0%2Cy150&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-02-26/ty-article/.highlight/00000195-41ec-d852-a5df-efed2b210000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-02-26",
+          "magazine_date": "2025-02-28",
+          "title": "כדי להבין את הימין הקיצוני צריך לעשות דבר פשוט: לצאת לרגע מהעיר",
+          "og_image": "https://img.haarets.co.il/bs/00000195-41ec-d852-a5df-efed2b210000/24/86/cf1070444fe988acae9856c9b98e/60595841.JPG?precrop=3395%2C1975%2Cx174%2Cy497&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-02-26/ty-article-face/.highlight/00000195-4225-d852-a5df-efadc8070000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-02-26",
+          "magazine_date": "2025-02-28",
+          "title": "תמר אלמוג",
+          "og_image": "https://img.haarets.co.il/bs/00000195-4225-d852-a5df-efadc8070000/6b/40/60132e824401b7fe22f6b8cfe603/702339.jpg?precrop=2400%2C1396%2Cx0%2Cy116&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-02-26/ty-article/.highlight/00000195-42b1-d56f-abb7-e3f7b9740000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-02-26",
+          "magazine_date": "2025-02-28",
+          "title": "\"היא הדייט הראשון אחרי הגירושים. כשזה מדהים, זה מדהים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000195-42b1-d56f-abb7-e3f7b9740000/ca/b3/8bb2752d487fb9e0229e2735c940/60601089.JPG?precrop=7252%2C4216%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-02-26/ty-article-magazine/.highlight/00000195-42bb-d05c-a39d-5bbf41bd0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-02-26",
+          "magazine_date": "2025-02-28",
+          "title": "מערכון קצר שביצעה רבקה מיכאלי בהלווייתו של ב. מיכאל העלה תהייה",
+          "og_image": "https://img.haarets.co.il/bs/00000195-42bb-d05c-a39d-5bbf41bd0000/3f/22/2f7245ca4b36acc913b2edfaa748/rivka.jpg?precrop=1281%2C745%2Cx0%2Cy310&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-02-27/ty-article-midrug/.highlight/00000195-4779-de32-ad9d-77ff05460000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-02-27",
+          "magazine_date": "2025-02-28",
+          "title": "מחלה מסתורית מתפרצת כי מישהו אכל עטלף. שניצל תירס ניסיתם?",
+          "og_image": "https://img.haarets.co.il/bs/00000195-4779-de32-ad9d-77ff05460000/65/39/14e4575b40c5bdf6e3bad5bd8a6e/headline.jpg?precrop=2000%2C1163%2Cx0%2Cy685&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-02-27/ty-article-quotes/.highlight/00000195-423c-d574-a3b5-667e3f520001",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-02-27",
+          "magazine_date": "2025-02-28",
+          "title": "\"הסיפור של נימוסים והליכות פחות חשוב פה כרגע\"",
+          "og_image": "https://img.haarets.co.il/bs/00000195-423c-d574-a3b5-667e3f520001/8a/da/c8a1b5424a8aa23cd11a0ed8736c/083015.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-02-26/ty-article-20q/.highlight/00000195-41d0-d852-a5df-effd26480000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-02-26",
+          "magazine_date": "2025-02-28",
+          "title": "מה שווי פסלון האוסקר בדולרים?",
+          "og_image": "https://img.haarets.co.il/bs/00000195-41d0-d852-a5df-effd26480000/21/aa/e077cb5f4fbda595432e18da1856/700337.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-02-26/ty-article-magazine/.highlight/00000195-4275-d806-a7f5-ea7f3ed30000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-02-26",
+          "magazine_date": "2025-02-28",
+          "title": "פיתות, זיתים ונחל יפהפה: המטבח הערבי שמחבר עבר ועתיד",
+          "og_image": "https://img.haarets.co.il/bs/00000195-4275-d806-a7f5-ea7f3ed30000/4f/fe/e3effe41468c98d38431bc8a52ad/1.jpg?precrop=1428%2C830%2Cx0%2Cy487&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-02-27/ty-article-magazine/.premium/00000195-4753-dfb4-a1f7-f7f757030000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-02-27",
+          "magazine_date": "2025-02-28",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 28.2.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000195-4753-dfb4-a1f7-f7f757030000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-02-27/ty-article/.premium/00000195-4753-d46a-a19f-f753291e0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-02-27",
+          "magazine_date": "2025-02-28",
+          "title": "ללמוד מפראג",
+          "og_image": "https://img.haarets.co.il/bs/00000195-4753-d46a-a19f-f753291e0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-02-27/ty-article/.premium/00000195-4762-d46a-a19f-f7622cf20000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-02-27",
+          "magazine_date": "2025-02-28",
+          "title": "לאן נעלמו הפולקעס?",
+          "og_image": "https://img.haarets.co.il/bs/00000195-4762-d46a-a19f-f7622cf20000/e1/ff/a390c92b49dfba520624638f133c/mefursamot.jpg?precrop=1250%2C727%2Cx0%2Cy1241&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-02-28/ty-article/00000195-4b0a-dfb4-a1f7-fbafa5380000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-02-28",
+          "magazine_date": "2025-02-28",
+          "title": "\"יהודים כאלה אין בשום מקום\": נבות שרת \"חלוץ שחי באקסטרים\" מת בגיל 90",
+          "og_image": "https://img.haarets.co.il/bs/00000195-4b0a-dfb4-a1f7-fbafa5380000/74/24/72b5c7cb4acd84ff152e82a1f892/img-9263-1.JPG?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-02-27/ty-article/.premium/00000195-4765-d46a-a19f-f765656f0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-02-27",
+          "magazine_date": "2025-02-28",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000195-4765-d46a-a19f-f765656f0000/45/d2/cf2fe8e2401c945e20126a1c14fa/ribooa-musaf-614-new.jpg?precrop=1083%2C630%2Cx0%2Cy183&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-02-26/ty-article/.highlight/00000195-431f-d56f-abb7-e3ff71ab0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-02-26",
+          "magazine_date": "2025-02-28",
+          "title": "הכתבה על היימנוט זועקת — חקירה חובבנית של משטרה חובבנית",
+          "og_image": "https://img.haarets.co.il/bs/00000195-431f-d56f-abb7-e3ff71ab0000/99/da/3bc098a74709834c3d6565897d74/missing.jpeg?precrop=1035%2C602%2Cx0%2Cy28&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "magazine_date": "2025-08-01",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/00000198-5b19-d669-a99d-7fbf35530001/6d/1a/5d28c2404b78b067ff612e113e19/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-07-30/ty-article-magazine/.highlight/00000198-5a93-d669-a99d-7eb767610000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-07-30/ty-article-magazine/.highlight/00000198-5a93-d669-a99d-7eb767610000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-07-30",
+          "magazine_date": "2025-08-01",
+          "title": "לא גברתי, אין לנו זלדה. מיומנו של סוכן להפצת פואטיקה",
+          "og_image": "https://img.haarets.co.il/bs/00000198-5a93-d669-a99d-7eb767610000/99/fb/e49836f9449d80e41bd935e26a33/books.jpg?precrop=1094,635,x632,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-07-30/ty-article-magazine/.highlight/00000198-5a9d-de6e-a198-dafd66e60000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-07-30",
+          "magazine_date": "2025-08-01",
+          "title": "בבית אחד, בצדו השני של העולם, ישראלים נאחזים זה בזה",
+          "og_image": "https://img.haarets.co.il/bs/00000198-5a9d-de6e-a198-dafd66e60000/f6/13/aa4c50cc4079853d15f9875bee9e/580646.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-07-30/ty-article-magazine/.highlight/00000198-5acc-d013-af9f-5bccebb00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-07-30",
+          "magazine_date": "2025-08-01",
+          "title": "\"פסטה כבר לא תעזור. אנחנו על סף זינוק אקספוננציאלי במוות ברעב\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-5acc-d013-af9f-5bccebb00000/53/02/a277f12145e6ba637ddabee970f4/587435.jpg?precrop=2400,1396,x0,y71&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-07-30/ty-article-magazine/.highlight/00000198-5b2d-dc50-a9bf-ff7f8c6c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-07-30",
+          "magazine_date": "2025-08-01",
+          "title": "איך לעצור את הרעב, עכשיו",
+          "og_image": "https://img.haarets.co.il/bs/00000198-5b2d-dc50-a9bf-ff7f8c6c0000/7c/0d/b779315c468da38a1a99525d9389/587853.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-07-31/ty-article-magazine/.highlight/00000198-5a14-dc50-a9bf-ff776b620000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-07-31",
+          "magazine_date": "2025-08-01",
+          "title": "בארכיון הגנטי שליד נהלל מחוללים קסמים בעצי פרי",
+          "og_image": "https://img.haarets.co.il/bs/00000198-5a14-dc50-a9bf-ff776b620000/1e/78/a2d07c9a43b0bd766b1c2756398e/562743.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-07-31/ty-article-magazine/.highlight/00000198-5a25-dc50-a9bf-ff7737080000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-07-31",
+          "magazine_date": "2025-08-01",
+          "title": "מוסיפים עוקב לישו: הולכים ומצטברים סימנים לכך שדור ה-Z חוזר לכנסייה",
+          "og_image": "https://img.haarets.co.il/bs/00000198-5a25-dc50-a9bf-ff7737080000/41/ba/dcb52948436193d905a0bd5e24e2/findinggod-shituf.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-07-31/ty-article/.highlight/00000198-6010-dc50-a9bf-ed7393a90000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-07-31",
+          "magazine_date": "2025-08-01",
+          "title": "פרויד היה צריך להקדיש יותר תשומת לב לתסביך המשפחתי שלי",
+          "og_image": "https://img.haarets.co.il/bs/00000198-6010-dc50-a9bf-ed7393a90000/09/fe/1f938fdb4f6b88754da42dd67983/1-8-25-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-07-30/ty-article-magazine/.highlight/00000198-5b1d-d669-a99d-7fbff09b0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-07-30",
+          "magazine_date": "2025-08-01",
+          "title": "זה לא סתם עץ. זו דרך לראות את הטבע כפי שרואים אותו רואי הנסתרות",
+          "og_image": "https://img.haarets.co.il/bs/00000198-5b1d-d669-a99d-7fbff09b0000/7c/03/476da5844cfbbebe15d614c1f27d/585708.jpg?precrop=1389,807,x107,y734&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-07-30/ty-article/.highlight/00000198-5b3b-d843-af99-df3f436d0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-07-30",
+          "magazine_date": "2025-08-01",
+          "title": "אנטישמיות, אונס והערצה להיטלר: מנוע ה-AI של אילון מאסק יורד מהפסים",
+          "og_image": "https://img.haarets.co.il/bs/00000198-5b3b-d843-af99-df3f436d0000/5c/a7/da21723241afa2c35a2b7ff0034e/62446877.JPG?precrop=3345,1945,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-07-31/ty-article/.highlight/00000198-5b5f-d843-af99-df5f1a2e0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-07-31",
+          "magazine_date": "2025-08-01",
+          "title": "כשגם החילונים לוקים בניוון מוסרי, דווקא הרב קוק מציע קול ציוני נשכח",
+          "og_image": "https://img.haarets.co.il/bs/00000198-5b5f-d843-af99-df5f1a2e0000/f0/1b/c7ce675945898b3e5cc232591c8e/rabbi-dr-abraham-i-kook-1924-npcc-25595.jpg?precrop=2581,1501,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2025-07-30/ty-article/.highlight/00000198-5b13-d013-af9f-5b97c1a40000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2025-07-30",
+          "magazine_date": "2025-08-01",
+          "title": "ממחסה לרוצחים להפצצות בתל אביב: ההיסטוריה הארוכה של המקלט",
+          "og_image": "https://img.haarets.co.il/bs/00000198-5b13-d013-af9f-5b97c1a40000/55/58/949c885f478f863be9c2cf631233/649913.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-07-31/ty-article-face/.highlight/00000198-5a2d-d843-af99-de3da1e40001",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-07-31",
+          "magazine_date": "2025-08-01",
+          "title": "נמרוד שפר",
+          "og_image": "https://img.haarets.co.il/bs/00000198-5a2d-d843-af99-de3da1e40001/e1/8c/ac11409244c5be5971b64751dc1b/585596.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-07-30/ty-article-magazine/.highlight/00000198-5b96-d843-af99-df9fbb2e0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-07-30",
+          "magazine_date": "2025-08-01",
+          "title": "\"ערבים ויהודים ביחד. אני מאמינה בזה, זו הדרך שלי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-5b96-d843-af99-df9fbb2e0000/13/fa/8397493c4c3fa8bf2b06af9c3c3d/449573.jpg?precrop=2400,1396,x0,y183&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-07-30/ty-article/.highlight/00000198-5ba0-de6e-a198-dbed3efc0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-07-30",
+          "magazine_date": "2025-08-01",
+          "title": "צריך לכתוב את זה שוב: אסון, אסון, אסון. האסון הוא אנחנו",
+          "og_image": "https://img.haarets.co.il/bs/00000198-5ba0-de6e-a198-dbed3efc0000/1d/83/f60aa8c14c6e9a669d0b804b6ec4/62480783.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-07-31/ty-article-midrug/.highlight/00000198-5fec-d669-a99d-7fffdb5f0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-07-31",
+          "magazine_date": "2025-08-01",
+          "title": "יונית אומרת איזה משפט על עזה. אין יותר מרגש מהמילים הראשונות שלהם",
+          "og_image": "https://img.haarets.co.il/bs/00000198-5fec-d669-a99d-7fffdb5f0000/ca/65/5d492527448ba1b486af230b6cdf/headline-17.jpg?precrop=2000,1163,x0,y274&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-07-31/ty-article/.highlight/00000198-5baa-de6e-a198-dbefa32b0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-07-31",
+          "magazine_date": "2025-08-01",
+          "title": "\"אנשים לא באו להרביץ לאיימן עודה בכוונה. הם באו למחות וזה יצא משליטה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-5baa-de6e-a198-dbefa32b0000/9e/5b/f3e820b74cc7a73e798471919c0f/575851.jpg?precrop=1601,931,x0,y374&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-07-31/ty-article-quotes/.highlight/00000198-5fe0-d013-af9f-5fe4ae3f0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-07-31",
+          "magazine_date": "2025-08-01",
+          "title": "\"אם אנחנו עכשיו נתחיל להגות בכל אדם שהוגש נגדו כתב אישום...\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-5fe0-d013-af9f-5fe4ae3f0000/f8/27/5da50cd14cbfaafe4a5064434ffb/201475.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-07-31/ty-article-20q/.highlight/00000198-59db-d669-a99d-7dffa9670000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-07-31",
+          "magazine_date": "2025-08-01",
+          "title": "למה מתייחס המונח \"סופר טרופר\" בשיר \"סופר טרופר\" של להקת אבבא?",
+          "og_image": "https://img.haarets.co.il/bs/00000198-59db-d669-a99d-7dffa9670000/68/70/5c1b103d4358a50098eb4595b682/689190.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2025-07-31/ty-article-20q/.highlight/00000198-5a0d-d843-af99-de1d57bb0000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2025-07-31",
+          "magazine_date": "2025-08-01",
+          "title": "20 שאלות לילדים ולילדות: איזה פרי הוא כינוי לעיר ניו יורק?",
+          "og_image": "https://img.haarets.co.il/bs/00000198-5a0d-d843-af99-de1d57bb0000/4d/46/affe298044c29518768303f29578/514640.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-07-31/ty-article-magazine/.premium/00000198-5f5b-d843-af99-df5f103a0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-07-31",
+          "magazine_date": "2025-08-01",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 1.8.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000198-5f5b-d843-af99-df5f103a0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-07-31/ty-article/.premium/00000198-5f61-d013-af9f-5fe5bd9c0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-07-31",
+          "magazine_date": "2025-08-01",
+          "title": "הידד להודיות",
+          "og_image": "https://img.haarets.co.il/bs/00000198-5f61-d013-af9f-5fe5bd9c0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-08-01/ty-article/.premium/00000198-603e-d669-a99d-7cbf0ae20000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-08-01",
+          "magazine_date": "2025-08-01",
+          "title": "\"גיבור בתפילין ובמדים\": הרב הפייטן צאלח אליהו, ממייסדי מושב שתולה",
+          "og_image": "https://img.haarets.co.il/bs/00000198-603e-d669-a99d-7cbf0ae20000/87/82/715fdb154c72b64a664fe1974295/https-img-youtube-com-vi-n-tlihdb-hs-0.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-07-31/ty-article/.premium/00000198-5f6b-d013-af9f-5fef06d60000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-07-31",
+          "magazine_date": "2025-08-01",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000198-5f6b-d013-af9f-5fef06d60000/21/c9/b960c2a44a5cb0c451abe701e9ee/ribooa-musaf-636.jpg?precrop=1084,630,x0,y75&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-07-30/ty-article/.highlight/00000198-5bb9-de6e-a198-dbfdcf0c0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-07-30",
+          "magazine_date": "2025-08-01",
+          "title": "הכל מתחיל בבית, ובבית מחנכים לשנאה",
+          "og_image": "https://img.haarets.co.il/bs/00000198-5bb9-de6e-a198-dbfdcf0c0000/91/f8/4b9e8f684583b297fd02b01b6395/478143.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

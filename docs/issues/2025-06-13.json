@@ -1,0 +1,353 @@
+{
+  "magazine_date": "2025-06-13",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/00000197-5e98-d792-a9f7-fedcaf2c0000/b1/4d/ea54f9e14a1197cf495aa8b8b7cc/61889599.JPG?&width=1200&height=630&cmsprod",
+  "cover_article_url": null,
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-06-11/ty-article/.highlight/00000197-5e98-d792-a9f7-fedcaf2c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-06-11",
+          "magazine_date": "2025-06-13",
+          "title": "דוכיפת? יש לי רעיון אחר לציפור הלאומית של ישראל",
+          "og_image": "https://img.haarets.co.il/bs/00000197-5e98-d792-a9f7-fedcaf2c0000/b1/4d/ea54f9e14a1197cf495aa8b8b7cc/61889599.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-06-12/ty-article-magazine/.highlight/00000197-3a40-d9f1-abb7-7a7439db0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-06-12",
+          "magazine_date": "2025-06-13",
+          "title": "רפיח שוטחה ונמחקה. אין יותר עיר כזאת. והיא ממש לא היחידה",
+          "og_image": "https://img.haarets.co.il/bs/00000197-3a40-d9f1-abb7-7a7439db0000/97/fe/215325624bbb905bbd0570b1b77b/rafah-full-for-site-05jun2025.jpg?precrop=4000,2325,x0,y764&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-06-12/ty-article-magazine/.highlight/00000197-5f5f-d2f0-afff-dfffd91c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-06-12",
+          "magazine_date": "2025-06-13",
+          "title": "ג'יימס קומי ראה מקרוב עד כמה טראמפ מסוכן. אז איך הוא כל כך אופטימי?",
+          "og_image": "https://img.haarets.co.il/bs/00000197-5f5f-d2f0-afff-dfffd91c0000/1a/ea/cc5fcb46436990463b09ccd0efa2/61824335.JPG?precrop=3149,1831,x0,y940&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-06-12/ty-article-magazine/.highlight/00000197-5f5f-d9e6-afdf-df7fe82d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-06-12",
+          "magazine_date": "2025-06-13",
+          "title": "מאחורי טירוף הבנייה בתל אביב, קמה רשת של שחיתות שמגלגלת מיליונים",
+          "og_image": "https://img.haarets.co.il/bs/00000197-5f5f-d9e6-afdf-df7fe82d0000/64/eb/c80079b44d8191048f1d22015d37/61874895.JPG?precrop=1131,657,x917,y103&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-06-12/ty-article/.highlight/00000197-6381-db73-aff7-7bcd8b6a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-06-12",
+          "magazine_date": "2025-06-13",
+          "title": "אני כבר לא יודעת להבדיל בין האופי שלי לבין תופעות הלוואי של התרופות",
+          "og_image": "https://gif.haarets.co.il/bs/00000197-6381-db73-aff7-7bcd8b6a0000/60/be/bb2d034747ffad778f413fec3ad2/neri.gif?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-06-11/ty-article-magazine/.highlight/00000197-5ea0-deed-a9bf-5fef04b10000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-06-11",
+          "magazine_date": "2025-06-13",
+          "title": "ספרים? מישהו עדיין קורא ספרים? צריך להודות: ישראל המשכילה נכחדת",
+          "og_image": "https://img.haarets.co.il/bs/00000197-5ea0-deed-a9bf-5fef04b10000/fd/c1/40e141504aa6a55367aab015733c/578290.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-06-11/ty-article/.highlight/00000197-5e4f-deed-a9bf-5f6f58550000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-06-11",
+          "magazine_date": "2025-06-13",
+          "title": "העירום כאן מובן מאליו, אבל בשבילי זו תמיד תהיה העמדת פנים",
+          "og_image": "https://img.haarets.co.il/bs/00000197-5e4f-deed-a9bf-5f6f58550000/8f/69/54d0018943b7bd8b9ed564ed8d02/61862581.JPG?precrop=4272,2484,x0,y150&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-06-11/ty-article/.highlight/00000197-5e8a-d906-add7-defa262e0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-06-11",
+          "magazine_date": "2025-06-13",
+          "title": "בעיני ענקיות הטכנולוגיה, גם פרטיות היא עוד פסיק בתנאי השימוש",
+          "og_image": "https://img.haarets.co.il/bs/00000197-5e8a-d906-add7-defa262e0000/4e/0e/71086d724ce68fcc554c77d880e5/61862589.JPG?precrop=2854,1660,x411,y684&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-06-11/ty-article/.highlight/00000197-5e47-d586-a3f7-ffcfa8fe0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-06-11",
+          "magazine_date": "2025-06-13",
+          "title": "ברגע האמת, תומאס מאן ידע לבחור בתבונה על פני הטירוף",
+          "og_image": "https://img.haarets.co.il/bs/00000197-5e47-d586-a3f7-ffcfa8fe0000/c0/32/fce1db1f48d78f661e8643138cd0/61874823.JPG?precrop=1910,1110,x0,y389&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-06-12/ty-article-face/.highlight/00000197-60f0-dcda-a1ff-f0f67cab0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-06-12",
+          "magazine_date": "2025-06-13",
+          "title": "לוסי אהריש",
+          "og_image": "https://img.haarets.co.il/bs/00000197-60f0-dcda-a1ff-f0f67cab0000/e6/11/bb2046ec44c9b3c8722e31e58529/facetemplate1800x1200-1.jpg?precrop=1800,1046,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-06-11/ty-article-magazine/.highlight/00000197-5f12-d9e6-afdf-df330cc30000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-06-11",
+          "magazine_date": "2025-06-13",
+          "title": "\"הרגשתי כמו אוליגרך, ואז עברנו להוסטל בלי מים חמים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-5f12-d9e6-afdf-df330cc30000/7d/17/4420b9e24ee9945a8cad28b4375c/61872629.JPG?precrop=8192,4763,x0,y210&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2025-06-11/ty-article-magazine/.highlight/00000197-5da6-deed-a9bf-5deff1f90000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2025-06-11",
+          "magazine_date": "2025-06-13",
+          "title": "\"בשלב האחרון, אמהות ידווחו למדינה על ילדיהן, וילדים ילשינו על הוריהם\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-5da6-deed-a9bf-5deff1f90000/c6/32/2ff0cf674b169467988f3092906e/61824485.JPG?precrop=755,439,x0,y85&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-06-11/ty-article/.highlight/00000197-5f1d-d34b-ad97-ff7d84690000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-06-11",
+          "magazine_date": "2025-06-13",
+          "title": "ככה אמרה אישה אחת בתוכנית טלוויזיה בישראל וכלום לא קרה",
+          "og_image": "https://img.haarets.co.il/bs/00000197-5f1d-d34b-ad97-ff7d84690000/3a/6c/7ffb14254207861062fda16cfe3b/61891435.JPG?precrop=1514,880,x144,y70&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-06-12/ty-article-midrug/.highlight/00000197-612a-db73-aff7-796e26940000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-06-12",
+          "magazine_date": "2025-06-13",
+          "title": "קייטלין ג'נר בישראל. איפה הלך וולבק?",
+          "og_image": "https://img.haarets.co.il/bs/00000197-612a-db73-aff7-796e26940000/64/af/4c94b759411495085015b2bdced0/headline.jpg?precrop=2000,1162,x0,y63&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-06-10/ty-article/.highlight/00000197-5a2c-debf-a39f-7ebd21f50000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-06-10",
+          "magazine_date": "2025-06-13",
+          "title": "למה אמרת שיאיר גולן זה בלוף? הוא לא הציל אנשים? \"לא, תכיר לי אותם\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-5a2c-debf-a39f-7ebd21f50000/f3/06/a7ffdef14b4b90a75913bc3c282c/575319.jpg?precrop=2027,1178,x187,y321&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-06-12/ty-article-quotes/.highlight/00000197-6104-dee7-a1df-714ee77e0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-06-12",
+          "magazine_date": "2025-06-13",
+          "title": "\"אנחנו מטבע הדברים שוכחים, עברו מספר דברים מאז הממשלה הקודמת\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-6104-dee7-a1df-714ee77e0000/a0/79/ed3d8b604278b60f678ea1f44529/091343.jpg?precrop=1695,985,x213,y332&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-06-12/ty-article-20q/.highlight/00000197-64b0-df0f-add7-febaf0a30000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-06-12",
+          "magazine_date": "2025-06-13",
+          "title": "מה היתה המדינה הראשונה שאישרה בחוק נישואים בין בני זוג מאותו המין?",
+          "og_image": "https://img.haarets.co.il/bs/00000197-64b0-df0f-add7-febaf0a30000/74/82/dbcef68144439aba5c2a11fbd3fd/523754.jpg?precrop=2400,1396,x0,y128&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-06-12/ty-article-magazine/.highlight/00000197-5efe-d2f0-afff-dffe50700000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-06-12",
+          "magazine_date": "2025-06-13",
+          "title": "דובדבנים בחזית: החקלאי שנשאר לשמור על הדבורים תחת אש",
+          "og_image": "https://img.haarets.co.il/bs/00000197-5efe-d2f0-afff-dffe50700000/14/ba/a14c5609497996dd28c2c91eae5b/4-2.jpg?precrop=1428,830,x0,y545&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-06-12/ty-article-magazine/.premium/00000197-6382-df0f-add7-ffaaa2540000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-06-12",
+          "magazine_date": "2025-06-13",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 13.6.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000197-6382-df0f-add7-ffaaa2540000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-06-12/ty-article/.premium/00000197-6382-dee7-a1df-73ce486c0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-06-12",
+          "magazine_date": "2025-06-13",
+          "title": "שחמט",
+          "og_image": "https://img.haarets.co.il/bs/00000197-6382-dee7-a1df-73ce486c0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-06-12/ty-article/.premium/00000197-6396-d34b-ad97-f3ffe15e0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-06-12",
+          "magazine_date": "2025-06-13",
+          "title": "הוטב במקצת לסרבן המלחמה",
+          "og_image": "https://img.haarets.co.il/bs/00000197-6396-d34b-ad97-f3ffe15e0000/7b/02/2c5fd9c949d5a14c3589e4e9d5cb/mefursamot.jpg?precrop=1250,727,x0,y1367&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-06-12/ty-article/00000197-6532-dee7-a1df-757ea1130000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-06-12",
+          "magazine_date": "2025-06-13",
+          "title": "\"קבוצה מובחרת, שפעם ב–2,000 שנה מקימה מדינה\": תהילה עופר מתה בגיל 95",
+          "og_image": "https://img.haarets.co.il/bs/00000197-6532-dee7-a1df-757ea1130000/6c/98/bafb48fd4815bf2b4a52b7d962e4/859638.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2025-06-12/ty-article/.premium/00000197-6393-d34b-ad97-f3fb63540000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2025-06-12",
+          "magazine_date": "2025-06-13",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000197-6393-d34b-ad97-f3fb63540000/31/86/7ecb2d734213a8cce9dd87723142/caro.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-06-12/ty-article/.premium/00000197-6380-df0f-add7-ffaae0ac0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-06-12",
+          "magazine_date": "2025-06-13",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000197-6380-df0f-add7-ffaae0ac0000/a4/a9/a109eb58468cbd66157ef9654347/ribooa-musaf-629-new.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-06-11/ty-article/.highlight/00000197-5f43-d9e6-afdf-df73a2560000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-06-11",
+          "magazine_date": "2025-06-13",
+          "title": "לא להתנצל או להתייפייף. גם לא על הברוקולי",
+          "og_image": "https://img.haarets.co.il/bs/00000197-5f43-d9e6-afdf-df73a2560000/3c/98/81efb8b94e8f8e436f9cc4f5bfe4/939662.jpg?precrop=2183,1269,x16,y57&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

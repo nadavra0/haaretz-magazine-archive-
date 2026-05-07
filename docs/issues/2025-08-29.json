@@ -1,0 +1,328 @@
+{
+  "magazine_date": "2025-08-29",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/00000198-ebd3-ded4-a19d-eff3ad5d0001/f6/14/5ee0106e402ba363fbbc4405d18b/shaar-16.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-08-27/ty-article-magazine/.highlight/00000198-eac4-d8de-a3bb-eacfb7170000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-08-27/ty-article-magazine/.highlight/00000198-eac4-d8de-a3bb-eacfb7170000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-08-27",
+          "magazine_date": "2025-08-29",
+          "title": "ניו יורק הולכת ושוקעת בקצב מדאיג, בעוד פני הים עולים בהתמדה",
+          "og_image": "https://img.haarets.co.il/bs/00000198-eac4-d8de-a3bb-eacfb7170000/b0/8e/970559a341c5aee34504e4800bbc/musafhaaretz-26-08-2025-newyorkdrawning-newyorkdrawning-shituf.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-08-27/ty-article-magazine/.highlight/00000198-eaed-de71-a79e-efef2a7e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-08-27",
+          "magazine_date": "2025-08-29",
+          "title": "העולם הקריפי של החברות שמשבטות הכל: חיות מחמד, סוסי מירוץ ואפילו קופים",
+          "og_image": "https://img.haarets.co.il/bs/00000198-eaed-de71-a79e-efef2a7e0000/40/ac/3cf4995b441f86f3e9bb314584dd/62782162.JPG?precrop=2000,1162,x0,y112&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-08-27/ty-article-magazine/.highlight/00000198-eaef-d1be-adba-eaef19ad0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-08-27",
+          "magazine_date": "2025-08-29",
+          "title": "היא חיה עם סטודנט, ועם פועל בניין. ד\"ר יעל רנן לא הלכה בתלם",
+          "og_image": "https://img.haarets.co.il/bs/00000198-eaef-d1be-adba-eaef19ad0000/90/3e/e356a02d4112955ccc88e5361abd/62804159.JPG?precrop=4175,2427,x187,y726&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-08-28/ty-article/.highlight/00000198-f0a6-d2dc-afde-fcbf19020000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-08-28",
+          "magazine_date": "2025-08-29",
+          "title": "כבר התאבלתי בעבר על אנשים, אבל איך מתאבלים על מדינה?",
+          "og_image": "https://img.haarets.co.il/bs/00000198-f0a6-d2dc-afde-fcbf19020000/d2/86/29eb09b44923ab3d1d7e6e7908e8/29-8-25-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-08-27/ty-article-magazine/.highlight/00000198-eb44-d8de-a3bb-ebcf79bc0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-08-27",
+          "magazine_date": "2025-08-29",
+          "title": "בעידן ה-AI, השאלה איננה רק מי מחונן — אלא מהי אינטליגנציה",
+          "og_image": "https://img.haarets.co.il/bs/00000198-eb44-d8de-a3bb-ebcf79bc0000/12/f9/11c689ff479e84e967c2d6dde480/barin3.jpg?precrop=2328,1354,x11,y604&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-08-27/ty-article/.highlight/00000198-ea96-d8c5-abbe-ebd78cc80000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-08-27",
+          "magazine_date": "2025-08-29",
+          "title": "ג'יי־קיי רולינג הטיפה בספריה לחמלה. אובססיית הרשת שלה מדגימה את ההפך",
+          "og_image": "https://img.haarets.co.il/bs/00000198-ea96-d8c5-abbe-ebd78cc80000/22/29/de339830474a94c5b270a88940e2/62772841.JPG?precrop=3500,2035,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-08-27/ty-article/.highlight/00000198-eacb-d1be-adba-eaef164b0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-08-27",
+          "magazine_date": "2025-08-29",
+          "title": "מצאתי עצמי אחראי לגורלו של גוזל יתום, ולהכרעה בין חיים למוות",
+          "og_image": "https://img.haarets.co.il/bs/00000198-eacb-d1be-adba-eaef164b0000/13/4b/94064f91a4e272dca02e3761fe07/3836446969.jpg?precrop=1013,587,x11,y136&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2025-08-27/ty-article/.highlight/00000198-eabd-d91d-af9b-ebbfdd610000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2025-08-27",
+          "magazine_date": "2025-08-29",
+          "title": "כך התגלגלה המילה דּוֹס מ\"האנגלית של המזרח הקדום\" אל הרחוב הישראלי",
+          "og_image": "https://img.haarets.co.il/bs/00000198-eabd-d91d-af9b-ebbfdd610000/79/e5/e6613f2349a2a536ed9f4a6554ae/043979.jpg?precrop=2400,1395,x0,y153&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-08-27/ty-article/.highlight/00000198-eaab-d1be-adba-eaef299b0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-08-27",
+          "magazine_date": "2025-08-29",
+          "title": "בציונות הדתית מעצבים יהדות חדשה, שרואה בשפיכות דמים מצווה בפני עצמה",
+          "og_image": "https://img.haarets.co.il/bs/00000198-eaab-d1be-adba-eaef299b0000/21/21/faef3b4e4d238e494f91738eecfe/62802162.JPG?precrop=6500,3779,x0,y99&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-08-28/ty-article-face/.highlight/00000198-efa3-d2dc-afde-efbbbcbf0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-08-28",
+          "magazine_date": "2025-08-29",
+          "title": "רון פיינר",
+          "og_image": "https://img.haarets.co.il/bs/00000198-efa3-d2dc-afde-efbbbcbf0000/b0/de/175d6767478f9e7d51090dff4bed/842639.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-08-27/ty-article-magazine/.highlight/00000198-eb2e-d8de-a3bb-ebafc2fd0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-08-27",
+          "magazine_date": "2025-08-29",
+          "title": "\"חשבתי שאולי ג'אגלינג יציל אותי מהשואה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-eb2e-d8de-a3bb-ebafc2fd0000/a2/fd/3c4d3bec4903a9530c72048b4ae7/763733.jpg?precrop=2400,1395,x0,y155&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2025-08-27/ty-article-magazine/.highlight/00000198-ebbb-d06f-a19a-efff8b0b0000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2025-08-27",
+          "magazine_date": "2025-08-29",
+          "title": "\"פעמים רבות יצירת קשרים חברתיים היא מנגנון שנועד לחפות על מעמד נמוך\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-ebbb-d06f-a19a-efff8b0b0000/de/75/39f3629d4705881551654b55b8e8/62780412.JPG?precrop=5207,3027,x0,y1398&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-08-27/ty-article/.highlight/00000198-eb9a-d56f-affe-ef9f10c00000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-08-27",
+          "magazine_date": "2025-08-29",
+          "title": "המשפט הכי חשוב שאומר אודי כגן בכל 21 הדקות האלו",
+          "og_image": "https://img.haarets.co.il/bs/00000198-eb9a-d56f-affe-ef9f10c00000/68/fd/7e8d765f45b08bf3a55e457c3ad4/udi-kagan.jpg?precrop=795,462,x0,y76&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-08-28/ty-article-midrug/.highlight/00000198-f06e-decf-a7fd-f96ec35c0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-08-28",
+          "magazine_date": "2025-08-29",
+          "title": "אם נסביר לך, מה זה יועיל?",
+          "og_image": "https://img.haarets.co.il/bs/00000198-f06e-decf-a7fd-f96ec35c0000/db/a2/9cfd5bca45fca8518cebb37f8ae0/headline-21.jpg?precrop=2000,1163,x0,y127&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-08-28/ty-article/.highlight/00000198-eb15-dd94-add9-ff5dd1f20000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-08-28",
+          "magazine_date": "2025-08-29",
+          "title": "בצבא קבעו שאת פוסט־טראומטית, אז למה לא משחררים אותך? \"אני גם לא מבינה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-eb15-dd94-add9-ff5dd1f20000/e1/b6/ff993e5d460ba5b3a1791cfa5509/62815040.JPG?precrop=4399,2558,x0,y2083&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-08-28/ty-article-quotes/.highlight/00000198-efaa-db11-a9ba-ffabaaae0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-08-28",
+          "magazine_date": "2025-08-29",
+          "title": "\"מה זה הדבר הזה שבאים למישהו, 'לא התייצבת, לך לכלא'?\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-efaa-db11-a9ba-ffabaaae0000/46/df/7fbfce9d4232b64b63f98d5ba85d/786441.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-08-28/ty-article-20q/.highlight/00000198-ed82-d2dc-afde-ed9ba4ce0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-08-28",
+          "magazine_date": "2025-08-29",
+          "title": "בעקבות מה שונה שמו של רחוב יפו בירושלים למשך חודש?",
+          "og_image": "https://img.haarets.co.il/bs/00000198-ed82-d2dc-afde-ed9ba4ce0000/ff/45/579182bc4f79958e3bdf9efba7b7/201609.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-08-28/ty-article-magazine/.highlight/00000198-eb61-d715-ad9b-fbef04d50000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-08-28",
+          "magazine_date": "2025-08-29",
+          "title": "\"בישלתי בתל אביב. למה שיהודים לא יבואו לאכול אצלי באום אל־פחם?\"",
+          "og_image": "https://img.haarets.co.il/bs/00000198-eb61-d715-ad9b-fbef04d50000/f0/d3/581c02374d6484ba7f0a7261546b/1.jpg?precrop=1333,775,x0,y56&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-08-28/ty-article-magazine/.premium/00000198-f05e-db11-a9ba-fc5f12490000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-08-28",
+          "magazine_date": "2025-08-29",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 29.8.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000198-f05e-db11-a9ba-fc5f12490000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-08-28/ty-article/.premium/00000198-f04d-d2dc-afde-fc5fc09e0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-08-28",
+          "magazine_date": "2025-08-29",
+          "title": "דרבי הודי",
+          "og_image": "https://img.haarets.co.il/bs/00000198-f04d-d2dc-afde-fc5fc09e0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-08-28/ty-article/.premium/00000198-f070-db11-a9ba-fc7bd79e0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-08-28",
+          "magazine_date": "2025-08-29",
+          "title": "קטטה המונית בין חוזרים מלוויה להולכים לחתונה",
+          "og_image": "https://img.haarets.co.il/bs/00000198-f070-db11-a9ba-fc7bd79e0000/83/fb/3995164341b6aeeb1f6206f405bf/mefursamot.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-08-28/ty-article/.premium/00000198-f07a-decf-a7fd-f97e42bb0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-08-28",
+          "magazine_date": "2025-08-29",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000198-f07a-decf-a7fd-f97e42bb0000/22/8f/033bcbf045c79b5240b980646354/ribooa-musaf-640-new.jpg?precrop=1083,630,x0,y178&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-08-27/ty-article/.highlight/00000198-ebc0-d06f-a19a-efc515bc0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-08-27",
+          "magazine_date": "2025-08-29",
+          "title": "האם מבכה על בניה, האם מקריבה את בניה",
+          "og_image": "https://img.haarets.co.il/bs/00000198-ebc0-d06f-a19a-efc515bc0000/62/76/c2cbde494232a12f69d6f6a7aea9/843073.jpg?precrop=2400,1395,x0,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

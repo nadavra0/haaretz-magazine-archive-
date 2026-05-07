@@ -1,0 +1,328 @@
+{
+  "magazine_date": "2025-11-28",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/0000019a-bfde-db2f-afdf-bffec5210001/a7/54/90a1e1dd453bad19596cead0296b/shaar-1.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-11-26/ty-article-magazine/.highlight/0000019a-bb9c-dcd7-a3be-bbbdfead0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-11-26/ty-article-magazine/.highlight/0000019a-bb9c-dcd7-a3be-bbbdfead0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-11-26",
+          "magazine_date": "2025-11-28",
+          "title": "חוג החסילון: חיית מחמד זעירה ותובענית הגיעה לישראל",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-bb9c-dcd7-a3be-bbbdfead0000/df/ad/64c220754c559ae27b8b4e03d698/889944.jpg?precrop=1601,931,x0,y817&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-11-26/ty-article-magazine/.highlight/0000019a-bbf0-d360-a5bb-bbfbe6650000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-11-26",
+          "magazine_date": "2025-11-28",
+          "title": "\"הכל נדלק, אני בוערת\": ההורמון שמחזיר לנשים את החשק המיני, ובגדול",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-bbf0-d360-a5bb-bbfbe6650000/87/00/d8cccb554e699515a91a620830c3/bogen-11.jpg?precrop=2000,1162,x0,y233&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-11-26/ty-article-magazine/.highlight/0000019a-bbfc-d824-ad9e-fbff1fa30000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-11-26",
+          "magazine_date": "2025-11-28",
+          "title": "הם גדלו בלב הימין המתנחלי. היום הם נחושים להחיות את השמאל הישראלי",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-bbfc-d824-ad9e-fbff1fa30000/28/7a/3b6bdf1e4653964d0e7321240ce1/815326.jpg?precrop=1921,1117,x0,y704&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-11-26/ty-article/.highlight/0000019a-c035-d360-a5bb-f13fc7730000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-11-26",
+          "magazine_date": "2025-11-28",
+          "title": "מה שמעתי כשקירבתי את אוזני לפסק הדין של בג\"ץ בעניין חקירת הפצ\"רית?",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-c035-d360-a5bb-f13fc7730000/fe/d5/ed4e4dc048e6ab7307959e1eefdb/63921931.JPG?&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-11-28/ty-article/.highlight/0000019a-c9bd-dcd7-a3be-dbbd23b80000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-11-28",
+          "magazine_date": "2025-11-28",
+          "title": "טיפולים שנועדו להילחם בזיקנה? למה שאבזבז על זה את הזמן שנותר לי",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-c9bd-dcd7-a3be-dbbd23b80000/19/25/77d0d202486c89c41d0c9d2de862/28-11-25-web.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-11-26/ty-article/.highlight/0000019a-bfa4-d360-a5bb-bfbf76920000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-11-26",
+          "magazine_date": "2025-11-28",
+          "title": "מאודסה ועד ברלין, השאיפה ליצור תרבות עברית בתפוצות נכשלה פעם אחר פעם",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-bfa4-d360-a5bb-bfbf76920000/05/72/3318dfd3497d8213d2e8c2d750ab/63909426.JPG?precrop=2048,1191,x0,y283&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-11-26/ty-article/.highlight/0000019a-bfb3-db55-a7bb-fff73c9f0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-11-26",
+          "magazine_date": "2025-11-28",
+          "title": "ההיסטוריה מזכירה שלעתים קרובות, מלחמות וסכסוכים נגמרים בתוצאות מפתיעות",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-bfb3-db55-a7bb-fff73c9f0000/5d/1c/bb75feab45c388dff7f188c4c321/63913124.JPG?&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-11-26/ty-article/.highlight/0000019a-c042-db55-a7bb-edd631f10000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-11-26",
+          "magazine_date": "2025-11-28",
+          "title": "כן, יש דבר כזה רוע יהודי. הגיע הזמן שנכיר בו",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-c042-db55-a7bb-edd631f10000/2f/4d/590c2cda470a8f8bb8af07aac5c2/759469.jpg?precrop=2258,1313,x131,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-11-26/ty-article/.highlight/0000019a-bf96-d824-ad9e-ffff1cdb0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-11-26",
+          "magazine_date": "2025-11-28",
+          "title": "צריך להודות: למיינסטרים הישראלי פשוט אין סבלנות לערבים",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-bf96-d824-ad9e-ffff1cdb0000/52/07/db2c2eff49a3b6d0d92b3d0972bd/63913114.JPG?precrop=4162,2420,x0,y258&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-11-26/ty-article-face/.highlight/0000019a-c023-d360-a5bb-f13b572d0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-11-26",
+          "magazine_date": "2025-11-28",
+          "title": "ברוך קרא",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-c023-d360-a5bb-f13b572d0000/dc/de/abe71f134d01a52b3c6fd5f84f58/918511.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-11-26/ty-article-magazine/.highlight/0000019a-bb78-d360-a5bb-bb7be8540000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-11-26",
+          "magazine_date": "2025-11-28",
+          "title": "\"אני לא יכול לעזוב את הארץ, אז אני מנסה לייצר אלטרנטיבה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-bb78-d360-a5bb-bb7be8540000/3d/c5/10f462da4bbe8db5c7a496a16c2f/63884847.JPG?precrop=4608,2678,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2025-11-26/ty-article-magazine/.highlight/0000019a-bffe-db55-a7bb-fffecd310000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2025-11-26",
+          "magazine_date": "2025-11-28",
+          "title": "\"קטאר השיגה דריסת רגל בהוליווד. זה נותן לה השפעה על ארה\"ב כולה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-bffe-db55-a7bb-fffecd310000/d5/02/44776bd54116aff794a817de73ad/63909737.JPG?precrop=8192,4763,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-11-26/ty-article/.highlight/0000019a-c093-db2f-afdf-f6bb46ae0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-11-26",
+          "magazine_date": "2025-11-28",
+          "title": "\"אמרתי לה: אין סיכוי שאת עוקפת אותי שוב בתור\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-c093-db2f-afdf-f6bb46ae0000/e4/ba/62085d184266b84c23c2e860b56e/63925091.JPG?precrop=3960,2301,x0,y172&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-11-27/ty-article-midrug/.highlight/0000019a-c237-d824-ad9e-eb7fc2910000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-11-27",
+          "magazine_date": "2025-11-28",
+          "title": "התמונה המרוטשת של שרה נתניהו: מחויבות מרשימה לדאחקה!",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-c237-d824-ad9e-eb7fc2910000/47/d2/5a33b5cd4b07aea9574c1442c4ab/headline-1.jpg?precrop=2000,1163,x0,y411&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-11-27/ty-article/.highlight/0000019a-c03e-d5a2-addb-f5fe02910000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-11-27",
+          "magazine_date": "2025-11-28",
+          "title": "את אשת הרמטכ\"ל. למה דובר צה\"ל עושה לך יחסי ציבור? \"תדבר איתו\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-c03e-d5a2-addb-f5fe02910000/45/49/7f23c2c94ef4bdc55d6c41b61a57/63921956.JPG?precrop=650,378,x9,y162&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-11-27/ty-article-quotes/.highlight/0000019a-c027-db55-a7bb-edf7d21e0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-11-27",
+          "magazine_date": "2025-11-28",
+          "title": "\"מישהי אמרה לי 'בזכותך עשיתי הקטנת חזה', זה מטורף\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-c027-db55-a7bb-edf7d21e0000/9d/44/5ec631004475b51a8fb0600c44dd/353833.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-11-26/ty-article-20q/.highlight/0000019a-bbd7-d360-a5bb-bbdfeeee0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-11-26",
+          "magazine_date": "2025-11-28",
+          "title": "מי הפוליטיקאי שלפי הטענה הקריירה הפוליטית שלו חוסלה בגלל \"החרצופים\"?",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-bbd7-d360-a5bb-bbdfeeee0000/56/17/07639a174365b218a506d7905b06/902829.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-11-26/ty-article-magazine/.highlight/0000019a-c066-dcc7-adff-fd6f8bde0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-11-26",
+          "magazine_date": "2025-11-28",
+          "title": "הכי קרוב לטורקיה: המסעדה החדשה של דילק היא שיר געגוע לאיסטנבול",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-c066-dcc7-adff-fd6f8bde0000/e9/35/153c8fc34f70b2974f8ee8e29537/1.jpg?precrop=1428,830,x0,y264&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-11-27/ty-article-magazine/.premium/0000019a-c4bd-dcd7-a3be-debd4f920000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-11-27",
+          "magazine_date": "2025-11-28",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 28.11.2025",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-c4bd-dcd7-a3be-debd4f920000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-11-27/ty-article/.premium/0000019a-c4be-db2f-afdf-f6be05bd0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-11-27",
+          "magazine_date": "2025-11-28",
+          "title": "הכוכבים מגיעים לירושלים",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-c4be-db2f-afdf-f6be05bd0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-11-27/ty-article/.premium/0000019a-c4cf-d360-a5bb-f5dfc18f0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-11-27",
+          "magazine_date": "2025-11-28",
+          "title": "נשיא ארה\"ב לא יסע עוד במכונית פתוחה",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-c4cf-d360-a5bb-f5dfc18f0000/39/72/fa987ee445f098239143e2ece7f2/mefursamot.jpg?precrop=1250,727,x0,y566&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-11-27/ty-article/0000019a-c583-d360-a5bb-f59b27f00000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-11-27",
+          "magazine_date": "2025-11-28",
+          "title": "\"מייצאים לאירופה את השמש\": החקלאי שעלה מהודו ומכר פרחים להולנדים",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-c583-d360-a5bb-f59b27f00000/e7/0b/2dcc341641d7bde2011673f76c20/1959.JPG?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2025-11-27/ty-article/.premium/0000019a-c4cc-db55-a7bb-eddc87a00000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2025-11-27",
+          "magazine_date": "2025-11-28",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-c4cc-db55-a7bb-eddc87a00000/9a/4b/65697c174e8cb1c40649be38c07c/aptopix-trump.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-11-27/ty-article/.premium/0000019a-c4d1-d824-ad9e-efff5cdc0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-11-27",
+          "magazine_date": "2025-11-28",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-c4d1-d824-ad9e-efff5cdc0000/d4/03/65fc968540a0830a9cc2fd5b027b/ribooa-musaf-653.jpg?precrop=1083,630,x0,y87&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-11-26/ty-article/0000019a-c088-dcd7-a3be-dab93dd70000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-11-26",
+          "magazine_date": "2025-11-28",
+          "title": "במקום IQ, צריך להשביח גנים של מתינות, סבלנות והקשבה",
+          "og_image": "https://img.haarets.co.il/bs/0000019a-c088-dcd7-a3be-dab93dd70000/72/0f/1300d95f4f8785c60a5a57ddb98f/228430.jpg?precrop=1858,1080,x332,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    }
+  }
+}

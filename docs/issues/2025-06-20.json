@@ -1,0 +1,338 @@
+{
+  "magazine_date": "2025-06-20",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/00000197-8426-de6d-a3b7-f5eee6d50001/d8/ff/814fda9d4382a0feab6aee6a9a64/shaar-11.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-06-18/ty-article-magazine/.highlight/00000197-8344-d1d2-afdf-fb6fffe90000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-06-18/ty-article-magazine/.highlight/00000197-8344-d1d2-afdf-fb6fffe90000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-06-18",
+          "magazine_date": "2025-06-20",
+          "title": "להימלט דרך שארם? במעבר טאבה יש תורים ארוכים, אבל דווקא מעט ישראלים",
+          "og_image": "https://img.haarets.co.il/bs/00000197-8344-d1d2-afdf-fb6fffe90000/7f/0b/59090c2942099ec2ab712e6b7b6d/61980458.JPG?precrop=4419,2569,x0,y2197&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-06-19/ty-article-magazine/.highlight/00000197-8356-d9ff-aff7-875eda090000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-06-19",
+          "magazine_date": "2025-06-20",
+          "title": "\"הרגשתי שאני מאבד אחיזה. הייתי חייב להגיע עכשיו לעזה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-8356-d9ff-aff7-875eda090000/0c/bd/381b3d324dbe9434af8bc3809dd2/61904077.JPG?precrop=3840,2233,x0,y1189&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-06-19/ty-article-magazine/.highlight/00000197-8357-d303-ab9f-c7f7a83d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-06-19",
+          "magazine_date": "2025-06-20",
+          "title": "\"העם האיראני כל כך מוכן לדמוקרטיה. אני אופתע אם חמינאי ישרוד בשלטון\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-8357-d303-ab9f-c7f7a83d0000/e3/21/d86a82224ecd8890bf6d69a72e0f/101903.jpg?precrop=1211,704,x326,y637&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-06-19/ty-article-magazine/.highlight/00000197-8358-d303-ab9f-c7f831cf0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-06-19",
+          "magazine_date": "2025-06-20",
+          "title": "הוא היה נרקומן, הומלס ושודד. היום הוא אחד השפים המצליחים בארה\"ב",
+          "og_image": "https://img.haarets.co.il/bs/00000197-8358-d303-ab9f-c7f831cf0000/d5/2c/03f15c4f47cb90dcf135d2288468/61958823.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-06-19/ty-article-magazine/.highlight/00000197-84af-de6d-a3b7-f5efb7910000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-06-19",
+          "magazine_date": "2025-06-20",
+          "title": "חרבו דרבו בדרכי נועם: תנועה חדשה עוקפת את המחאה מימין",
+          "og_image": "https://img.haarets.co.il/bs/00000197-84af-de6d-a3b7-f5efb7910000/df/77/18ab7de64efb941eb5f3d745736e/093349.jpg?precrop=2400,1396,x0,y166&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-06-19/ty-article/.highlight/00000197-8752-d01a-a3f7-97df042c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-06-19",
+          "magazine_date": "2025-06-20",
+          "title": "מה יקרה אם ישרדו פה רק חברי הממשלה ומשתתפי \"האח הגדול\"",
+          "og_image": "https://gif.haarets.co.il/bs/00000197-8752-d01a-a3f7-97df042c0000/dc/59/f511a11b402b9b54301743b2b9b6/20-6-25-animation.gif?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-06-18/ty-article/.highlight/00000197-8287-d597-a9ff-d6f70ebb0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-06-18",
+          "magazine_date": "2025-06-20",
+          "title": "חשש מאסון וקומיקס אפוקליפטי גררו את יפן למחסור באורז — ולמשבר פוליטי",
+          "og_image": "https://img.haarets.co.il/bs/00000197-8287-d597-a9ff-d6f70ebb0000/84/9e/375643bf430c94cfc2a5a2482b68/012013.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-06-19/ty-article/.highlight/00000197-8733-d894-a7bf-ef3b25b00000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-06-19",
+          "magazine_date": "2025-06-20",
+          "title": "להפציץ, לנפץ, להחריב. גם לכוח יש שתי מגבלות, שהדוגלים בו מחמיצים",
+          "og_image": "https://img.haarets.co.il/bs/00000197-8733-d894-a7bf-ef3b25b00000/83/3a/1f2faf574149929f72eab6fcf62a/61972564.JPG?precrop=5472,3181,x0,y467&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2025-06-18/ty-article/.highlight/00000197-8269-d1d2-afdf-fa6bc14b0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2025-06-18",
+          "magazine_date": "2025-06-20",
+          "title": "עם כל הכבוד ללביא: מתי התחלנו לקרוא לאריה בשמו?",
+          "og_image": "https://img.haarets.co.il/bs/00000197-8269-d1d2-afdf-fa6bc14b0000/5d/97/76d55033401eabc95a68119436e8/lion-1969-7-1.jpg?precrop=3686,2143,x0,y54&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-06-18/ty-article/.highlight/00000197-8254-de6d-a3b7-f3def6160000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-06-18",
+          "magazine_date": "2025-06-20",
+          "title": "בלי איראן, אין נתניהו. זו המערכה הגורלית שמגדירה את סיפור חייו",
+          "og_image": "https://img.haarets.co.il/bs/00000197-8254-de6d-a3b7-f3def6160000/a7/f5/77928a7547adae22ee59cfeff2dc/61972180.JPG?precrop=2760,1605,x0,y156&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-06-19/ty-article-face/.highlight/00000197-85eb-d894-a7bf-efeb177b0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-06-19",
+          "magazine_date": "2025-06-20",
+          "title": "חיים טרייטל",
+          "og_image": "https://img.haarets.co.il/bs/00000197-85eb-d894-a7bf-efeb177b0000/61/07/6df8b1194234b02cfd9ef253a86f/112570.jpg?precrop=2400,1395,x0,y40&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-06-18/ty-article-magazine/.highlight/00000197-8357-de6d-a3b7-f3dfa0790000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-06-18",
+          "magazine_date": "2025-06-20",
+          "title": "\"הרגשנו שאנחנו יכולים לתת לילדים יותר. תפסנו אומץ, ועברנו לאתונה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-8357-de6d-a3b7-f3dfa0790000/f6/b6/9c98106c42c195b98f8ac6f6eafa/897304.jpg?precrop=2400,1395,x0,y169&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-06-18/ty-article/00000197-8367-d01a-a3f7-93ffbfdc0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-06-18",
+          "magazine_date": "2025-06-20",
+          "title": "למה בוטלה ההתראה הראשונה של פיקוד העורף — הסיפור האמיתי",
+          "og_image": "https://img.haarets.co.il/bs/00000197-8367-d01a-a3f7-93ffbfdc0000/58/bc/fc65eff54a8baaabf292e77e2dc9/114628.jpg?precrop=1787,1038,x121,y8&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-06-19/ty-article-midrug/.highlight/00000197-8895-d60e-a59f-c9ffcbff0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-06-19",
+          "magazine_date": "2025-06-20",
+          "title": "אבל מה עשינו להם??",
+          "og_image": "https://img.haarets.co.il/bs/00000197-8895-d60e-a59f-c9ffcbff0000/b7/ce/43dd4ad945ec8d6e01792d3359e8/headline-10.jpg?precrop=2000,1163,x0,y877&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-06-19/ty-article/.highlight/00000197-8323-d995-af9f-877f0c8c0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-06-19",
+          "magazine_date": "2025-06-20",
+          "title": "אז צריכים פה את המוח שלך, ולכן עלית על הטיסה? \"אתה מגדיר את זה לא רע\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-8323-d995-af9f-877f0c8c0000/7e/32/c78608b3052cd630b0b0aa05e56f/3140320343.jpg?precrop=2200,1279,x0,y77&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-06-19/ty-article-quotes/.highlight/00000197-85f0-d01a-a3f7-97fdb3ed0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-06-19",
+          "magazine_date": "2025-06-20",
+          "title": "\"בלי משרד המורשת כנראה שלא היה היום מגרש הרכבים בעוטף עזה לדוגמה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-85f0-d01a-a3f7-97fdb3ed0000/fb/f5/3afa37fc44f8869044534f26aeeb/206665.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-06-18/ty-article-20q/.highlight/00000197-848d-d894-a7bf-eeaff5370000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-06-18",
+          "magazine_date": "2025-06-20",
+          "title": "מה שמה הפרטי המקורי של הזמרת רונה קינן?",
+          "og_image": "https://img.haarets.co.il/bs/00000197-848d-d894-a7bf-eeaff5370000/fd/1c/a99508d94a50b8c75226d801d216/096234.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-06-18/ty-article-magazine/.highlight/00000197-832b-d995-af9f-877f22eb0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-06-18",
+          "magazine_date": "2025-06-20",
+          "title": "\"כשיצאנו מהמקלט שמענו שהמסעדה מרוסקת. לא ידענו מה עושים. הבית התנפץ\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-832b-d995-af9f-877f22eb0000/fe/11/fb4ecd334cde95f9e608d4868a14/113011.jpg?precrop=1715,997,x0,y339&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-06-18/ty-article-magazine/.premium/00000197-844d-d81d-afd7-f6fd99d90000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-06-18",
+          "magazine_date": "2025-06-20",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 20.6.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000197-844d-d81d-afd7-f6fd99d90000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-06-18/ty-article/.premium/00000197-8451-d01a-a3f7-96dd8e180000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-06-18",
+          "magazine_date": "2025-06-20",
+          "title": "עדיין בכושר",
+          "og_image": "https://img.haarets.co.il/bs/00000197-8451-d01a-a3f7-96dd8e180000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2025-06-18/ty-article/.premium/00000197-8454-d01a-a3f7-96dd36520000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2025-06-18",
+          "magazine_date": "2025-06-20",
+          "title": "ישראל נותרה יומיים בלי חדשות",
+          "og_image": "https://img.haarets.co.il/bs/00000197-8454-d01a-a3f7-96dd36520000/86/a9/11e063b14ac3ab16ab6a20dc414e/mefursamot.jpg?precrop=1250,727,x0,y74&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-06-19/ty-article/00000197-87b7-da52-a9b7-afffb6920000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-06-19",
+          "magazine_date": "2025-06-20",
+          "title": "המשיכה לנתח גם תחת הפגזה: אליס גייסט, הכירורגית הראשונה, מתה בגיל 95",
+          "og_image": "https://img.haarets.co.il/bs/00000197-87b7-da52-a9b7-afffb6920000/e5/f6/7a90c9c24a5baf9be0777426ce14/a101010101010.png?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-06-18/ty-article/.premium/00000197-8456-d6d9-ad97-fdff02ea0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-06-18",
+          "magazine_date": "2025-06-20",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000197-8456-d6d9-ad97-fdff02ea0000/00/7e/2654feac4127b751535580743aba/ribooa-musaf-630.jpg?precrop=1083,630,x0,y302&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-06-18/ty-article/.highlight/00000197-8367-d81d-afd7-f7ffdac70000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-06-18",
+          "magazine_date": "2025-06-20",
+          "title": "לקרוא ולבכות. זה באמת שינוי מהלך ההיסטוריה",
+          "og_image": "https://img.haarets.co.il/bs/00000197-8367-d81d-afd7-f7ffdac70000/7a/8c/1d73d37b427e96014765a330b48f/871557.jpg?precrop=2200,1279,x0,y129&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

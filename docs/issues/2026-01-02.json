@@ -1,0 +1,319 @@
+{
+  "magazine_date": "2026-01-02",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/0000019b-747b-d581-a7db-757ff7b60001/71/ab/7a8e75374c27bb68e9c83adefc4c/shaar-4.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-01-01/ty-article-magazine/.highlight/0000019b-7415-d019-a9df-7fbf05710000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-12-31/ty-article-magazine/.highlight/0000019b-6ff5-da0b-a1bf-fffd7e720000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-12-31",
+          "magazine_date": "2026-01-02",
+          "title": "עם כל הכבוד לאיינשטיין: הוא היה האיש הכי חכם בעולם. למה הוא נשכח?",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-6ff5-da0b-a1bf-fffd7e720000/74/b5/974e22ab4b5895f02405d84ae5b3/226515.jpg?precrop=1889,1098,x0,y301&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-12-31/ty-article-magazine/.highlight/0000019b-6ff7-d5ec-abdf-6fffe4240000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-12-31",
+          "magazine_date": "2026-01-02",
+          "title": "האם להורים יש ילדים מועדפים? כמובן שכן",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-6ff7-d5ec-abdf-6fffe4240000/7d/1b/8e3c22f24b05893a63940534935e/233786.jpg?precrop=2400,1395,x0,y271&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-12-31/ty-article/.highlight/0000019b-74c6-deaa-a7bb-7ecef4be0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-12-31",
+          "magazine_date": "2026-01-02",
+          "title": "כלום כבר לא מפתיע אותי, גם לא התעלמות מגבר שמרפסת קרסה עליו",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-74c6-deaa-a7bb-7ecef4be0000/23/9e/a139f47e4729960ff5eff6df1003/2-1-26-web.jpg?&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-01-01/ty-article-magazine/.highlight/0000019b-7415-d019-a9df-7fbf05710000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-01-01",
+          "magazine_date": "2026-01-02",
+          "title": "\"בחיים לא הייתי כל כך מאושר\": הם צעירים, חרוצים, והם החליטו לחיות אחרת",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-7415-d019-a9df-7fbf05710000/05/b6/308150614902852f7f2bb1869aa5/105104.jpg?precrop=2400,1396,x0,y154&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-12-31/ty-article/.highlight/0000019b-7483-dff0-a5bf-77bfdfff0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-12-31",
+          "magazine_date": "2026-01-02",
+          "title": "למה שמחה רוטמן צדק בעניין \"אוואטר\" וטעה לגבי \"שר הטבעות\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-7483-dff0-a5bf-77bfdfff0000/67/e5/fa44076643ecaf0bf83068fbc0bc/64278374.JPG?precrop=5088,2958,x0,y31&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-12-31/ty-article/.highlight/0000019b-74c5-d78e-a1db-f5e5d5be0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-12-31",
+          "magazine_date": "2026-01-02",
+          "title": "ב-2025 היינו תשושים, בודדים וזועמים מתמיד. מומחים מנסים לתת לזה שם",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-74c5-d78e-a1db-f5e5d5be0000/ae/ee/d89957594cc39171768d738f5b0f/64284424.JPG?precrop=5616,3265,x0,y479&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-12-31/ty-article/.highlight/0000019b-74fc-dd15-a3fb-fdff80c20000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-12-31",
+          "magazine_date": "2026-01-02",
+          "title": "הרצח של רוב ריינר ואשתו אינו עוד טרגדיה, אלא סימן לשובו של האב הקדמון",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-74fc-dd15-a3fb-fdff80c20000/cb/a0/1ccbd24d488cb851ab4441dcafcf/64278370.JPG?precrop=2000,1163,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2025-12-31/ty-article/.highlight/0000019b-7475-d5ec-abdf-7e7f08110000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2025-12-31",
+          "magazine_date": "2026-01-02",
+          "title": "כך הרווחנו את היכולת להבין את האחר — וכך איבדנו אותה",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-7475-d5ec-abdf-7e7f08110000/b2/d7/e70e4e494985a9ed001736d79651/64278375.JPG?precrop=5663,3292,x0,y483&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-12-31/ty-article/.highlight/0000019b-7460-d5ec-abdf-7e6e64db0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-12-31",
+          "magazine_date": "2026-01-02",
+          "title": "50 גוונים של חום: עולם התרבות הישראלי הופך לקולוניה גרמנית",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-7460-d5ec-abdf-7e6e64db0000/c8/fe/24c1dfd54667b1bd6279e261d33e/599889.jpg?precrop=2400,1395,x0,y11&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-12-31/ty-article-face/.highlight/0000019b-747e-d581-a7db-757edaa60000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-12-31",
+          "magazine_date": "2026-01-02",
+          "title": "יוני חיימוביץ'",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-747e-d581-a7db-757edaa60000/4e/bd/fa75bd1b472d8d098ae348403ced/246424.jpg?precrop=2400,1395,x0,y33&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-12-31/ty-article-magazine/.highlight/0000019b-73e0-d019-a9df-7fef9fc00000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-12-31",
+          "magazine_date": "2026-01-02",
+          "title": "\"גרנו עשר שנים במושב, ואז הוא נשרף כליל\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-73e0-d019-a9df-7fef9fc00000/6f/4c/c837e3c04984aa9f96ac81ef7acf/64270146.JPG?precrop=7237,4207,x0,y124&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2025-12-31/ty-article-magazine/.highlight/0000019b-7491-dd15-a3fb-fdf30a510000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2025-12-31",
+          "magazine_date": "2026-01-02",
+          "title": "\"הגיע הזמן שנבין מי היריב שלנו: זה לא הביביסט, זו הציונות הדתית\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-7491-dd15-a3fb-fdf30a510000/0d/fa/c470dda74b3b8751ed4303fae03b/196051.jpg?precrop=1603,932,x0,y935&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-12-31/ty-article/.highlight/0000019b-74eb-d379-a3bb-f6ff4a050000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-12-31",
+          "magazine_date": "2026-01-02",
+          "title": "אם התרגשתם מהפרסומת של בנק מזרחי טפחות עם שגיא דקל חן",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-74eb-d379-a3bb-f6ff4a050000/50/e6/65dba8734c0fbdbe44567de59766/64294704.JPG?precrop=1828,1063,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-01-01/ty-article-midrug/.highlight/0000019b-799a-d019-a9df-7fbfd60c0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-01-01",
+          "magazine_date": "2026-01-02",
+          "title": "לחמאס יש דובר חדש. תבדקו רק שהוא לא עובד עם קטאר",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-799a-d019-a9df-7fbfd60c0000/c4/78/4b4410fe4408a061815a5b98e09b/headline-5.jpg?precrop=2000,1162,x0,y52&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-01-01/ty-article/.highlight/0000019b-750c-d019-a9df-7faf814b0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-01-01",
+          "magazine_date": "2026-01-02",
+          "title": "השר זוהר, איימת לחנוק את הקולנוע, אני לא זוכר שר שהשתמש כך בכוח שלטוני",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-750c-d019-a9df-7faf814b0000/ae/25/531e25a14be4b65e0db5ef5e3ecc/242426.jpg?precrop=1229,715,x517,y297&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-01-01/ty-article-quotes/.highlight/0000019b-7485-da0b-a1bf-fcbdd37f0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-01-01",
+          "magazine_date": "2026-01-02",
+          "title": "\"אני עצמי עוד לא יודע איפה זה סומלילנד\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-7485-da0b-a1bf-fcbdd37f0000/05/67/7ba87a2347a080203d2460d9216a/216876.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-12-31/ty-article-20q/.highlight/0000019b-6fd8-dd15-a3fb-fffb621c0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-12-31",
+          "magazine_date": "2026-01-02",
+          "title": "מילת השנה של מילון מריאם־וובסטר לשנת 2025 היא סְלוֹפּ. מה פירושה?",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-6fd8-dd15-a3fb-fffb621c0000/f5/f4/c59a08444e718bf9b04acc571725/235870.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2025-12-31/ty-article-20q/.highlight/0000019b-6fec-d5ec-abdf-6feeef7a0000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2025-12-31",
+          "magazine_date": "2026-01-02",
+          "title": "20 שאלות לילדים ולילדות: איזו אימפריה עתיקה בנתה את העיר מאצ'ו פיצ'ו?",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-6fec-d5ec-abdf-6feeef7a0000/bf/37/fba33712488c82a907bc8b051cf2/02549.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-12-31/ty-article-magazine/.highlight/0000019b-7533-dd15-a3fb-fd73294a0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-12-31",
+          "magazine_date": "2026-01-02",
+          "title": "מצב רטט: ההיסטוריה הטעימה של הג'לי, הקינוח המוזר והקסום ביותר שיש",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-7533-dd15-a3fb-fd73294a0000/c5/71/deedde7f4829af0ddd5e1c424981/246251.jpg?precrop=1715,997,x0,y705&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-01-01/ty-article-magazine/.premium/0000019b-7994-dd73-abff-7bdc42a70000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-01-01",
+          "magazine_date": "2026-01-02",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 2.1.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-7994-dd73-abff-7bdc42a70000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-01-01/ty-article/.premium/0000019b-7999-d585-abdf-7ff9582d0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-01-01",
+          "magazine_date": "2026-01-02",
+          "title": "מבריק ותזזיתי",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-7999-d585-abdf-7ff9582d0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-01-01/ty-article/0000019b-737b-d019-a9df-7fffdc1c0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-01-01",
+          "magazine_date": "2026-01-02",
+          "title": "\"ידעתי שאני יהודייה. לא ידעתי מה זה, אבל ידעתי שאסור לי לספר לאיש\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-737b-d019-a9df-7fffdc1c0000/31/f8/18768e2f44ca8eaf97981a20ee4f/1.jpg?precrop=489,284,x18,y22&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-01-01/ty-article/.premium/0000019b-799c-dd73-abff-7bdce1080000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-01-01",
+          "magazine_date": "2026-01-02",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-799c-dd73-abff-7bdce1080000/e5/b0/1a90cae04ddea80f7e8952a45f7e/ribooa-musaf-658.jpg?precrop=1084,630,x0,y11&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-12-31/ty-article/.highlight/0000019b-74a6-d7be-a39f-76e646c70000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-12-31",
+          "magazine_date": "2026-01-02",
+          "title": "אני מאחל לשקד הצלחה. רק שלא תחזור לפוליטיקה",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-74a6-d7be-a39f-76e646c70000/af/98/fa871a154c9c920a7e4413560112/209380.jpg?precrop=1044,606,x642,y733&width=1200&height=630&cmsprod"
+        }
+      ]
+    }
+  }
+}

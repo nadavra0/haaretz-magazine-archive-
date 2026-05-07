@@ -1,0 +1,483 @@
+{
+  "magazine_date": "2024-09-27",
+  "total_articles": 38,
+  "cover_image": "https://img.haarets.co.il/bs/00000192-28b3-d900-a5f3-6ef389e70001/08/ce/24e296b84ece8b20c9a31076fd79/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-09-26/ty-article-magazine/.highlight/00000192-2897-d08a-a7ba-38d71b250000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-25/ty-article-magazine/.highlight/00000192-29a0-d900-a5f3-6ff040680000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-25",
+          "magazine_date": "2024-09-27",
+          "title": "האנגר 11, תל אביב. ליברמן נואם מול אולם מפוצץ. והשמאלנים מתמוגגים",
+          "og_image": "https://img.haarets.co.il/bs/00000192-29a0-d900-a5f3-6ff040680000/cc/de/1524afde4c68ad06b0ee01077c95/924494.jpg?precrop=2400%2C1395%2Cx0%2Cy185&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-25/ty-article/.highlight/00000192-293a-dff0-a5f7-3f3f38010000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-25",
+          "magazine_date": "2024-09-27",
+          "title": "למה אני בטוח שמבצע הביפרים תוכנן בידי בינה מלאכותית שהשתלטה על המדינה",
+          "og_image": "https://img.haarets.co.il/bs/00000192-293a-dff0-a5f7-3f3f38010000/be/3b/afbfff484ac28dcb5c2b727c10f4/58614160.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-26/ty-article-magazine/.highlight/00000192-2897-d08a-a7ba-38d71b250000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "לבנון היא המקום הכי פחות מאושר בעולם (אחרי אפגניסטן)",
+          "og_image": "https://img.haarets.co.il/bs/00000192-2897-d08a-a7ba-38d71b250000/7d/82/94d182cd4d99a72b496005e979ab/04.jpg?precrop=2000%2C1163%2Cx0%2Cy480&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-26/ty-article-magazine/.highlight/00000192-289a-d1f6-a596-699bd2b90000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "ארה\"ב מוציאה מאה מיליון דולר בכל שעה על צורכי ביטחון",
+          "og_image": "https://img.haarets.co.il/bs/00000192-289a-d1f6-a596-699bd2b90000/43/42/eb6a69b84417a5fcfe29cf3f0592/09.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-26/ty-article-magazine/.highlight/00000192-28c1-d1f6-a596-69d9094b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "שווי השוק של אפל גדול יותר מהשווי של כל שוק המניות הגרמני",
+          "og_image": "https://img.haarets.co.il/bs/00000192-28c1-d1f6-a596-69d9094b0000/3a/a8/807005f34b7fbe7171707a000877/05.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-26/ty-article-magazine/.highlight/00000192-28c7-ddff-a9fb-b8ff662f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "קרוב ל-40% מהתינוקות היהודים בישראל הם חרדים",
+          "og_image": "https://img.haarets.co.il/bs/00000192-28c7-ddff-a9fb-b8ff662f0000/61/1c/33db90f24ff39a47f020c4bd2c06/01.jpg?precrop=1465%2C851%2Cx0%2Cy686&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-26/ty-article-magazine/.highlight/00000192-28d1-ddff-a9fb-b8ffd00f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "בירושלים המהפך כבר הושלם: רק 9% מילדי היסודי לומדים בחינוך הממלכתי",
+          "og_image": "https://img.haarets.co.il/bs/00000192-28d1-ddff-a9fb-b8ffd00f0000/6d/8a/652a7236450c951867a43d7c678e/03.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-26/ty-article-magazine/.highlight/00000192-28d4-d67f-a1ff-2dde75130000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "רבע מהצרפתים לא עשו השנה סקס",
+          "og_image": "https://img.haarets.co.il/bs/00000192-28d4-d67f-a1ff-2dde75130000/92/d5/4c2957d4427c908959c18a64a1b2/11-1.jpg?precrop=1710%2C994%2Cx202%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-26/ty-article-magazine/.highlight/00000192-28d8-dc91-a1df-beda87d70000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "כמעט חצי מתושבי ונקובר הם אסייתים",
+          "og_image": "https://img.haarets.co.il/bs/00000192-28d8-dc91-a1df-beda87d70000/0e/ee/65a12fec4c2fbc1c3b674b004234/10.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-26/ty-article-magazine/.highlight/00000192-28db-d1f6-a596-69db07b30000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "שניים מכל שלושה ילדים שחורים בארה\"ב גדלים עם אם חד־הורית",
+          "og_image": "https://img.haarets.co.il/bs/00000192-28db-d1f6-a596-69db07b30000/2d/79/ecc9f16943d0bd4a85cb3327e48b/12-2.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-26/ty-article-magazine/.highlight/00000192-28dc-dff0-a5f7-3edfe8900000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "רפואה תוצרת רומניה ומולדובה: 70% מהרופאים החדשים למדו בחו\"ל",
+          "og_image": "https://img.haarets.co.il/bs/00000192-28dc-dff0-a5f7-3edfe8900000/94/1d/845ae2df4a3b92168b176821b56e/06.jpg?precrop=1370%2C797%2Cx0%2Cy144&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-26/ty-article-magazine/.highlight/00000192-28e4-d1f6-a596-69fd91cd0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "זה עתה סיימנו שלושה חודשים רצופים עם 32 מעלות (או יותר)",
+          "og_image": "https://img.haarets.co.il/bs/00000192-28e4-d1f6-a596-69fd91cd0000/4c/39/fdc3192a4fde8824df5d5744db1c/08-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-26/ty-article-magazine/.highlight/00000192-28e8-d900-a5f3-6ef8dfad0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "רוב הלידות בטורקיה נעשות בניתוח קיסרי",
+          "og_image": "https://img.haarets.co.il/bs/00000192-28e8-d900-a5f3-6ef8dfad0000/6b/d9/bca822b24826888c3e97ab61bb07/07.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-26/ty-article-magazine/.highlight/00000192-28ea-dc91-a1df-beeabf8e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "סין תקים 300 תחנות כוח שישרפו פחם — יותר מכל התחנות הפחמיות בארה\"ב",
+          "og_image": "https://img.haarets.co.il/bs/00000192-28ea-dc91-a1df-beeabf8e0000/09/46/7a60b1d0454bbbcbacda7e08d162/02.jpg?precrop=1787%2C1039%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-26/ty-article-magazine/.highlight/00000192-28f8-d1f6-a596-69f9c7150000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "גם לפרה יש את החברה הכי טובה שלה",
+          "og_image": "https://img.haarets.co.il/bs/00000192-28f8-d1f6-a596-69f9c7150000/d1/bf/b27681f14e0d966771448c9f6d2b/13-good.jpg?precrop=1465%2C851%2Cx0%2Cy782&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-26/ty-article-magazine/.highlight/00000192-29a0-d67f-a1ff-2dfa35500000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "החילונים מצטופפים בכיתות, והחרד\"לים מצאו שיטה לסדר לעצמם כיתות קטנטנות",
+          "og_image": "https://img.haarets.co.il/bs/00000192-29a0-d67f-a1ff-2dfa35500000/12/9d/538fc0c8451ca4947e6309fabab1/973334.jpg?precrop=2400%2C1396%2Cx0%2Cy97&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-26/ty-article-timeline/.highlight/00000192-2847-d900-a5f3-6e77aecf0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "כמה ילדים חילונים נותרו בירושלים? מה קרה לסקס בצרפת? 13 עובדות מדהימות",
+          "og_image": "https://img.haarets.co.il/bs/00000192-2847-d900-a5f3-6e77aecf0000/d4/c9/5b346c02439db72cf4c4e306b429/collage-animations-sharing.jpg?precrop=940%2C546%2Cx284%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-09-26/ty-article/.highlight/00000192-2e86-d324-afdf-2fc79c3b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "הזוכה האחרון בתוכנית \"האח הגדול\" הוא עדות למה שקרה לנו כחברה",
+          "og_image": "https://gif.haarets.co.il/bs/00000192-2e86-d324-afdf-2fc79c3b0000/38/ed/b6c87b4948ccbf78a10a7e22397e/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-09-25/ty-article/.highlight/00000192-28ce-d08a-a7ba-38df659c0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-09-25",
+          "magazine_date": "2024-09-27",
+          "title": "אליס מונרו חלקה את חייה עם פדופיל. מי שקרא אותה לא יהיה מופתע",
+          "og_image": "https://img.haarets.co.il/bs/00000192-28ce-d08a-a7ba-38df659c0000/a4/13/86ff1376424a95f75dd60daaaa7a/58564467.JPG?precrop=2222%2C1293%2Cx101%2Cy500&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-09-26/ty-article-magazine/.highlight/00000192-292a-d67f-a1ff-2dfaafc50000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "זה אחד המקומות האחרונים שהאדם לא השחית. חזרתי ליער שממנו הגיעו אבותינו",
+          "og_image": "https://img.haarets.co.il/bs/00000192-292a-d67f-a1ff-2dfaafc50000/76/94/a8082a754cebae687a2c9e911494/58564470.JPG?precrop=3400%2C1976%2Cx0%2Cy594&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2024-09-25/ty-article/.highlight/00000192-2911-dc91-a1df-bf9b1cbc0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2024-09-25",
+          "magazine_date": "2024-09-27",
+          "title": "המתקפה בלבנון עשויה לפתור מחלוקת ישנה: איך קוראים לביפר בעברית?",
+          "og_image": "https://img.haarets.co.il/bs/00000192-2911-dc91-a1df-bf9b1cbc0000/1e/a3/bcf9f9774924b9f8db9411146b12/927114.jpg?precrop=2090%2C1215%2Cx75%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-09-25/ty-article/.highlight/00000192-28bd-d08a-a7ba-38ff36280000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-09-25",
+          "magazine_date": "2024-09-27",
+          "title": "הלאומנות וההדתה משתלטות, והחומוסיות נסגרות בזו אחר זו",
+          "og_image": "https://img.haarets.co.il/bs/00000192-28bd-d08a-a7ba-38ff36280000/33/cb/357c7e424eae9d8f8f0ead6b9332/821196.jpg?precrop=1715%2C997%2Cx0%2Cy588&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-09-25/ty-article-face/.highlight/00000192-2a48-dce8-a3d3-abcfa3130000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-09-25",
+          "magazine_date": "2024-09-27",
+          "title": "\"הדרמות מתישות אותי. מנגנון ההפעלה של הקומדיה פשוט יותר\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-2a48-dce8-a3d3-abcfa3130000/7c/a5/06ba93ee463398d93ce86c63e456/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-09-25/ty-article-magazine/.highlight/00000192-28f2-dff0-a5f7-3ef727ad0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-09-25",
+          "magazine_date": "2024-09-27",
+          "title": "\"לילדים היה מדהים שם, אבל חזרנו לארץ לפני חודש. לא נוותר על המדינה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-28f2-dff0-a5f7-3ef727ad0000/5a/77/1cb3b0cf453c9d471a233ed7e988/58593643.JPG?precrop=8192%2C4763%2Cx0%2Cy304&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-09-25/ty-article/.highlight/00000192-297f-d08a-a7ba-39ff05410000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-09-25",
+          "magazine_date": "2024-09-27",
+          "title": "עיתונאי הוא קודם כל חייל נאמן במהלך העצים של צבא ההגנה לישראל",
+          "og_image": "https://img.haarets.co.il/bs/00000192-297f-d08a-a7ba-39ff05410000/ab/04/28ed240d4458a8d7db81f64c59d2/591868.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-09-26/ty-article-magazine/.highlight/00000192-2d45-d1f6-a596-6d5d78560000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "אייל גולן הוא הזמר המושמע במדינה, וככה המדינה הזאת נראית",
+          "og_image": "https://img.haarets.co.il/bs/00000192-2d45-d1f6-a596-6d5d78560000/c6/b1/10304aaa4994a21fbfb7346dd0f5/headline.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-09-26/ty-article/.highlight/00000192-292e-dc91-a1df-bfae320c0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "בית המשפט קבע שכלאת עיתונאי כדי לנקום בו. \"לא מעוניין להתייחס לזה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-292e-dc91-a1df-bfae320c0000/6e/92/cb05d1134459bf24a258c0742e52/nir.jpg?precrop=1563%2C908%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-09-25/ty-article-magazine/.highlight/00000192-2a4e-d08a-a7ba-3adfaad50000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-09-25",
+          "magazine_date": "2024-09-27",
+          "title": "\"חיזבאללה היה מוטל על הקרשים מדמם, מבוהל, בקושי שולט על סוגריו\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-2a5a-d67f-a1ff-2fdade6f0000/75/df/381687f0482091ab9f41d3ebe5ef/113994.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-09-25/ty-article-20q/.highlight/00000192-284c-d1f6-a596-695dc4d00000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-09-25",
+          "magazine_date": "2024-09-27",
+          "title": "ב\"שיר הטרטע\" של הקומדי סטור ואתניקס, למי משאיר הדובר טרטע בביפר?",
+          "og_image": "https://img.haarets.co.il/bs/00000192-284c-d1f6-a596-695dc4d00000/bf/da/8bb120804aad9f7a1d8274c3b83f/419642.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-09-25/ty-article-magazine/.highlight/00000192-28f8-d1f6-a596-69f921dd0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-09-25",
+          "magazine_date": "2024-09-27",
+          "title": "שניצל באינג'רה כבר אכלתם? מתכונים לחג של השף אלעזר טמנו",
+          "og_image": "https://img.haarets.co.il/bs/00000192-28f8-d1f6-a596-69f921dd0000/f8/e2/06ebd35e434f8447b9cdaf316ba1/1.jpg?precrop=2000%2C1163%2Cx0%2Cy151&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-09-26/ty-article-magazine/.premium/00000192-2d34-ddff-a9fb-bdbe87090000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 27.9.2024",
+          "og_image": "https://img.haarets.co.il/bs/00000192-2d34-ddff-a9fb-bdbe87090000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-09-26/ty-article/.premium/00000192-2d30-db7a-a997-adb962af0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "כוכבי על הגובה",
+          "og_image": "https://img.haarets.co.il/bs/00000192-2d30-db7a-a997-adb962af0000/e5/51/38eedb524e9fadc2120ebc317125/58630510.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-09-26/ty-article/.premium/00000192-2d40-d08a-a7ba-3dd3f0b70000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "נרקיסיסט של מילים",
+          "og_image": "https://img.haarets.co.il/bs/00000192-2d40-d08a-a7ba-3dd3f0b70000/66/58/aeb89a6c4745ab856297025822a7/mefursamot.jpg?precrop=1250%2C727%2Cx0%2Cy3703&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-09-21/ty-article/00000192-1333-d20a-ad93-177f84040000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-09-21",
+          "magazine_date": "2024-09-27",
+          "title": "\"בוקר טוב ילדים, אנחנו בארץ\": המסע של שמחה מדמשק לדגניה",
+          "og_image": "https://img.haarets.co.il/bs/00000192-1333-d20a-ad93-177f84040000/7e/76/4be29d7f458694ee80b45fe42cd1/d412-032.jpg?precrop=3072%2C1785%2Cx0%2Cy93&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-09-27/ty-article/00000192-2ff4-d08a-a7ba-3ff74c9c0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-09-27",
+          "magazine_date": "2024-09-27",
+          "title": "ב-1946 חרשה את אלג'יריה בחיפוש יהודים לעלייה. הקיץ מתה בת 100",
+          "og_image": "https://img.haarets.co.il/bs/00000192-2ff4-d08a-a7ba-3ff74c9c0000/c4/42/92f35c544ea2aef66c2e03ecdda1/screenshot-2024-09-26-222205.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2024-09-26/ty-article/.premium/00000192-2d3d-dc91-a1df-bfbf66ee0000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000192-2d3d-dc91-a1df-bfbf66ee0000/44/fd/2319ab114b7195a6eaeba3e4a8ed/caroreg.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-09-26/ty-article/.premium/00000192-2d43-db7a-a997-addbfb9e0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-09-26",
+          "magazine_date": "2024-09-27",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000192-2d43-db7a-a997-addbfb9e0000/9e/4c/dccffae049c29a615caf8de31f38/ribooa-musaf-592.jpg?precrop=1083%2C630%2Cx0%2Cy158&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-09-25/ty-article/.highlight/00000192-2988-d1f6-a596-6999d4650000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-09-25",
+          "magazine_date": "2024-09-27",
+          "title": "\"אני מקווה שאתם בסדר. אנחנו פה חיים בקושי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-2988-d1f6-a596-6999d4650000/f5/20/a2511cef42b2a8441dc4f1d85e88/692105.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

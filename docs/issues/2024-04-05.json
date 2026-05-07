@@ -1,0 +1,323 @@
+{
+  "magazine_date": "2024-04-05",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/0000018e-a37c-dadc-a7af-fbff7a460001/bc/ad/be81042840d8a29680934ac619bf/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-04-04/ty-article-magazine/.highlight/0000018e-a379-d315-ab9f-aff98d4b0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-04-03/ty-article-magazine/.highlight/0000018e-a36e-d2c1-adcf-e76ece790000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-04-03",
+          "magazine_date": "2024-04-05",
+          "title": "האם תרופת הפלא להזדקנות טמונה בדיאטה של חמישה ימים שמחקה צום?",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-a36e-d2c1-adcf-e76ece790000/be/3d/ec51658a49d7bb45a382b02ebf9e/56210556.JPG?precrop=4606%2C2678%2Cx0%2Cy3070&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-04-03/ty-article-magazine/.highlight/0000018e-a42d-d24a-abbf-ee2d5e800000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-04-03",
+          "magazine_date": "2024-04-05",
+          "title": "\"אמרתי לסינוואר: שווה לך שימותו 10,000 איש? הוא ענה — גם 100 אלף שווה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-a42d-d24a-abbf-ee2d5e800000/d7/c4/3a8dd7904bbb8d154ccf1e18e941/018028.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-04-03/ty-article/.highlight/0000018e-a423-d24a-abbf-ee2bdba30000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-04-03",
+          "magazine_date": "2024-04-05",
+          "title": "רק לאחרונה הצלחתי להיפטר מסטוקר, והנה אני מסתבכת בזה שוב",
+          "og_image": "https://gif.haarets.co.il/bs/0000018e-a423-d24a-abbf-ee2bdba30000/06/62/9be30b4d4584a9942d4115c22f8e/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-04-04/ty-article-magazine/.highlight/0000018e-a379-d315-ab9f-aff98d4b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-04-04",
+          "magazine_date": "2024-04-05",
+          "title": "בחמאס באמת חשבו שהם יכבשו את ישראל. הם כבר חילקו את המדינה לקנטונים",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-a379-d315-ab9f-aff98d4b0000/c3/da/9963e6a04c3380a543553fe0c03d/49511.jpg?precrop=2400%2C1394%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-04-03/ty-article/.highlight/0000018e-a320-d2c1-adcf-e76e113d0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-04-03",
+          "magazine_date": "2024-04-05",
+          "title": "\"שוגון\" היא לא רק סדרת להיט. היא גם מתקנת עוול היסטורי",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-a320-d2c1-adcf-e76e113d0000/73/33/a5866834471d8f010041f82ae4f7/56190049.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-04-03/ty-article/.highlight/0000018e-a320-de9b-a5ce-ff3fad960000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-04-03",
+          "magazine_date": "2024-04-05",
+          "title": "אם היהודים הם \"העם הנבחר\", נראה שנבחרנו להיות שק חבטות נצחי",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-a320-de9b-a5ce-ff3fad960000/28/17/6b88cc984db0a2acad6f7dd99642/56190155.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-04-03/ty-article/.highlight/0000018e-a320-de9b-a5ce-ff3feb270000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-04-03",
+          "magazine_date": "2024-04-05",
+          "title": "סין חושפת נשק חדש במאבק מול טיבט: התערבות בגלגולי נשמות",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-a320-de9b-a5ce-ff3feb270000/91/fc/ccb153da4594b9eeed9f354c9ea8/56190129.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2024-04-03/ty-article/.highlight/0000018e-a320-df93-a9af-b77df6500000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2024-04-03",
+          "magazine_date": "2024-04-05",
+          "title": "טהרני השפה נאבקו במילה הזאת. גם הם נאלצו להיכנע",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-a320-df93-a9af-b77df6500000/dc/2b/d623a65443408ed3567ecab993a9/56199099.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-04-03/ty-article/.highlight/0000018e-a320-d2c1-adcf-e76ed8de0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-04-03",
+          "magazine_date": "2024-04-05",
+          "title": "כל ישראלי צריך לשאול את עצמו: האם עלינו להרוג 100 אלף איש?",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-a320-d2c1-adcf-e76ed8de0000/f1/49/347cca984d5dab142e1bd5d3b5a4/56212929.JPG?precrop=3769%2C2191%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-04-03/ty-article-face/.highlight/0000018e-a58c-d24a-abbf-efad7ea70000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-04-03",
+          "magazine_date": "2024-04-05",
+          "title": "\"ב-7 באוקטובר איבדתי סופית את האמון בממסד. לא סומך על אף במערכת\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-a58c-d24a-abbf-efad7ea70000/f1/18/7b03a74a4af29dfde4736db52b3e/facetemplate1800x1200-1-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-04-03/ty-article-magazine/.highlight/0000018e-a420-d24a-abbf-ee291db80000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-04-03",
+          "magazine_date": "2024-04-05",
+          "title": "\"באנו לכאן כדי להחזיר את אבא הביתה. פה הוא יכול להמשיך לחלום\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-a420-d24a-abbf-ee291db80000/7e/70/d14cd0d34d4bb7d4224e93099631/56197984.JPG?precrop=6944%2C4038%2Cx0%2Cy340&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-04-03/ty-article-magazine/.highlight/0000018e-a42f-d943-a5de-b5af64c00000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-04-03",
+          "magazine_date": "2024-04-05",
+          "title": "הגוף מרגיש את זה. זה קורה. אנחנו כבר בתוך האסון שממנו אנו מזהירים",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-a42f-d943-a5de-b5af64c00000/64/8d/c89df6c845429b57dba81f08e761/47978.jpg?precrop=1642%2C955%2Cx204%2Cy366&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-04-03/ty-article-magazine/.highlight/0000018e-a532-dd6b-abae-f7736ee00000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-04-03",
+          "magazine_date": "2024-04-05",
+          "title": "ממשלה חדשה ברמאללה. בלי משרד למשימות לאומיות?",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-a532-dd6b-abae-f7736ee00000/1e/f1/d75cd671467e86ceb9d7932029ca/headline-m.jpg?precrop=782%2C455%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-04-03/ty-article/.highlight/0000018e-a414-d24a-abbf-ee3df8db0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-04-03",
+          "magazine_date": "2024-04-05",
+          "title": "הבת שלך חטופה בעזה, איך חיים עם זה? \"ברגע האמת יש ברירה. בחרנו להילחם\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-a414-d24a-abbf-ee3df8db0000/31/1c/013a7329485e93a2c2a4dbdee650/56229070.JPG?precrop=1200%2C698%2Cx0%2Cy329&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-04-04/ty-article-magazine/.highlight/0000018e-a93d-d9ca-afee-e9bd28c20002",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-04-04",
+          "magazine_date": "2024-04-05",
+          "title": "\"אני עכשיו בדרך לב\"ש, לדוכן שלי. אני לא מפחדת ואני לא אתן לחמאס לנצח\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-a955-db12-adae-abd789ad0000/bd/fe/09678cc04c839514f1c8e77ab0ce/859894.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-04-03/ty-article-20q/.highlight/0000018e-a36a-ded0-a18f-e3fa4fd20000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-04-03",
+          "magazine_date": "2024-04-05",
+          "title": "ח\"כ שטרית המציאה בשנה שעברה חוק שלטענתה הקואליציה העבירה. במה הוא עסק?",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-a36a-ded0-a18f-e3fa4fd20000/82/f2/bab4798241caa864c019d0e007d0/030768.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-04-03/ty-article-magazine/.premium/0000018e-a527-dfed-ad9f-afff24700000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-04-03",
+          "magazine_date": "2024-04-05",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 5.4.2024",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-a527-dfed-ad9f-afff24700000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-04-03/ty-article/.premium/0000018e-a524-d40c-adef-f7e7484e0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-04-03",
+          "magazine_date": "2024-04-05",
+          "title": "ניצל בזכות מעידה",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-a524-d40c-adef-f7e7484e0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-04-03/ty-article/.premium/0000018e-a52d-d40c-adef-f7efc8ff0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-04-03",
+          "magazine_date": "2024-04-05",
+          "title": "חברות תרופות אמריקאיות מעדיפות את ישראל לניסויים בבני אדם",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-a52d-d40c-adef-f7efc8ff0000/cb/1f/934c2c644488811f36d4b68e77c1/mefursamot-5-4-24.jpg?precrop=1167%2C678%2Cx0%2Cy1470&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-03-30/ty-article/0000018e-8e73-d9a4-a7bf-ce7bc04e0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-03-30",
+          "magazine_date": "2024-04-05",
+          "title": "\"שאלתי את אמא למה הם עשו לנו את זה\": ניצולת השואה חנה אברוצקי מתה",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-8e73-d9a4-a7bf-ce7bc04e0000/81/61/38c0c7ee4f659055d6af29838454/screenshot-2024-03-30-093221.png?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-04-04/ty-article/0000018e-a87f-d40c-adef-ffff3f320000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-04-04",
+          "magazine_date": "2024-04-05",
+          "title": "\"אנשים מרחיקים כדי למצוא עצמם. אני מצאתי עצמי בתנ\"ך\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-a87f-d40c-adef-ffff3f320000/e3/6e/ab8926614cd09f4eec70aa5a2b07/d672-112.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-04-03/ty-article/.premium/0000018e-a537-d40c-adef-f7f7f5420000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-04-03",
+          "magazine_date": "2024-04-05",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-a537-d40c-adef-f7f7f5420000/b8/5c/ccb954cc42c3b29e70525b31372b/ribooa-musaf-567.jpg?precrop=1083%2C630%2Cx0%2Cy161&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-04-03/ty-article/0000018e-a45b-da23-afbf-b6dbeed30000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-04-03",
+          "magazine_date": "2024-04-05",
+          "title": "מה שמתחולל בעזה לא יישכח. פנינו לנידוי",
+          "og_image": "https://img.haarets.co.il/bs/0000018e-a45b-da23-afbf-b6dbeed30000/e0/09/9d349b5b44a4a5e6fe0af0fa89ea/55775.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

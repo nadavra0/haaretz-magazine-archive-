@@ -1,0 +1,308 @@
+{
+  "magazine_date": "2025-05-02",
+  "total_articles": 22,
+  "cover_image": "https://img.haarets.co.il/bs/00000196-81cd-d22a-a3de-b1fdf50f0001/00/a7/f7d772d34cbbb1cc64fc95dd4b6f/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-04-29/ty-article-magazine/.highlight/00000196-815a-d9ad-a19e-c5df47420000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-04-29/ty-article-magazine/.highlight/00000196-815a-d9ad-a19e-c5df47420000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-04-29",
+          "magazine_date": "2025-05-02",
+          "title": "איך זה ייתכן שבמשך שנים ראינו רק אוטיסטים ופספסנו את האוטיסטיות?",
+          "og_image": "https://img.haarets.co.il/bs/00000196-815a-d9ad-a19e-c5df47420000/46/01/c8b6dd2c4b5097d3a4f9d5ead8ee/neatli.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-04-29/ty-article-magazine/.highlight/00000196-815c-d099-a3d7-93fd8eae0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-04-29",
+          "magazine_date": "2025-05-02",
+          "title": "\"ארה\"ב השתנתה ללא הכר. נכנסנו לטריטוריה סמכותנית\"",
+          "og_image": "https://img.haarets.co.il/bs/00000196-815c-d099-a3d7-93fd8eae0000/75/a7/370825c14f0092c320a3779d25c8/61358440.JPG?precrop=2122%2C1234%2Cx693%2Cy47&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-04-29/ty-article-magazine/.highlight/00000196-81b7-dc27-a3df-f3bf97280000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-04-29",
+          "magazine_date": "2025-05-02",
+          "title": "בארי הומה אדם, במפלסים הפאב פתוח. החלוצים החדשים מפיחים חיים בעוטף",
+          "og_image": "https://img.haarets.co.il/bs/00000196-81b7-dc27-a3df-f3bf97280000/4d/b0/1a3b0e6c4bf89d3158898cf37e39/419647.jpg?precrop=2400%2C1396%2Cx0%2Cy133&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-04-29/ty-article/.highlight/00000196-8089-d9ad-a19e-c49d64ba0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-04-29",
+          "magazine_date": "2025-05-02",
+          "title": "על נאומו של נתניהו ביום השואה, וגם למה לא אחגוג את יום העצמאות",
+          "og_image": "https://gif.haarets.co.il/bs/00000196-8089-d9ad-a19e-c49d64ba0000/8a/4a/44bfb6c647668ec0f5fb18114457/2-5-25-animation.gif?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-04-30/ty-article-magazine/.highlight/00000196-7da7-d9ad-a19e-fdb77fbe0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-04-30",
+          "magazine_date": "2025-05-02",
+          "title": "200 טון מתכת, 120 טון סלמון, 80 טון דלק, חצי טון בני אדם. ממריאים",
+          "og_image": "https://img.haarets.co.il/bs/00000196-7da7-d9ad-a19e-fdb77fbe0000/64/dc/1d6af8004a8aa56788b2b0569a60/dsc-0179.JPG?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-04-30/ty-article/.highlight/00000196-826f-d22a-a3de-b27f14b30000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-04-30",
+          "magazine_date": "2025-05-02",
+          "title": "המתה אינה חסד והתאבדות אינה גבורה. מחשבות בעקבות לכתו של דניאל כהנמן",
+          "og_image": "https://img.haarets.co.il/bs/00000196-826f-d22a-a3de-b27f14b30000/bc/e0/323d7f814f95b2361eac3dc7df37/829831.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-04-30/ty-article/.highlight/00000196-8277-dc27-a3df-f2ffbbb90000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-04-30",
+          "magazine_date": "2025-05-02",
+          "title": "הונגריה? נראה שישראל הולכת בדרכה של רומניה",
+          "og_image": "https://img.haarets.co.il/bs/00000196-8277-dc27-a3df-f2ffbbb90000/7c/bc/5ccb905a4997a57cf40cc543daa8/208111.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-05-01/ty-article/.highlight/00000196-81ff-d099-a3d7-93ff00e60000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-05-01",
+          "magazine_date": "2025-05-02",
+          "title": "שתיקת הרבנים מול הפקרת החטופים היא הפנים החדשות והמסוכנות של היהדות",
+          "og_image": "https://img.haarets.co.il/bs/00000196-81ff-d099-a3d7-93ff00e60000/8a/ae/2b3249824754843a4edbb709946e/116368.jpg?precrop=1407,818,x993,y198&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-04-30/ty-article/.highlight/00000196-8259-d099-a3d7-93fd3c830000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-04-30",
+          "magazine_date": "2025-05-02",
+          "title": "הציונות לא תמיד היתה גזענית. האסון קרה כשמהפכנים רוסים השתלטו עליה",
+          "og_image": "https://img.haarets.co.il/bs/00000196-8259-d099-a3d7-93fd3c830000/4c/7f/5b68b5ea4acc85a92e5a23d20a5b/823904.jpg?precrop=2400%2C1394%2Cx0%2Cy22&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-04-30/ty-article-face/.highlight/00000196-81a7-dc27-a3df-f3bf7c7f0001",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-04-30",
+          "magazine_date": "2025-05-02",
+          "title": "דן תורג'מן",
+          "og_image": "https://img.haarets.co.il/bs/00000196-81a7-dc27-a3df-f3bf7c7f0001/fc/fe/68a6b00c4db1996cc471f456b76f/394967.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-04-29/ty-article-magazine/.highlight/00000196-7c78-db89-a596-fefac4600000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-04-29",
+          "magazine_date": "2025-05-02",
+          "title": "\"אני ממליצה לשחק פינג פונג ולרקוד דאנסהול. ככה תהיו מאושרים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000196-7c78-db89-a596-fefac4600000/8e/93/1b6403c1419789747c9307a4ca25/61348611.JPG?precrop=8192%2C4763%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-04-29/ty-article/.highlight/00000196-8024-dc9b-a7bf-8ae4a3860000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-04-29",
+          "magazine_date": "2025-05-02",
+          "title": "היטלר הפך ל\"היטלר\", ה–GOAT של הרוע. אלה לא חדשות טובות",
+          "og_image": "https://img.haarets.co.il/bs/00000196-8024-dc9b-a7bf-8ae4a3860000/3f/bb/32f2e78d43299f49e4505f39becb/hitler.jpg?precrop=1031%2C599%2Cx0%2Cy99&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-04-30/ty-article-midrug/.highlight/00000196-8239-dc27-a3df-f2b97f740000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-04-30",
+          "magazine_date": "2025-05-02",
+          "title": "77 לישראל. ולדיפ־סטייט כמובן",
+          "og_image": "https://img.haarets.co.il/bs/00000196-8239-dc27-a3df-f2b97f740000/c1/48/7e2b872046b48470c1770348444a/headline.jpg?precrop=2000%2C1162%2Cx0%2Cy804&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-04-29/ty-article/.highlight/00000196-7c67-dae8-a5de-7d6fa5120000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-04-29",
+          "magazine_date": "2025-05-02",
+          "title": "מה פתאום לשכת עורכי הדין משתתפת בכנס שכותרתו \"הבא להורגך השכם להורגו\"?",
+          "og_image": "https://img.haarets.co.il/bs/00000196-7c67-dae8-a5de-7d6fa5120000/cc/1d/af95b1ad41939b0b9319688b2455/61358465.JPG?precrop=3068%2C1784%2Cx0%2Cy106&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-04-30/ty-article-quotes/.highlight/00000196-81aa-d9ad-a19e-c5bffdbf0001",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-04-30",
+          "magazine_date": "2025-05-02",
+          "title": "\"אם הוא היה יפני אני מניח שהוא היה עושה חרקירי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000196-81aa-d9ad-a19e-c5bffdbf0001/82/02/abc8f890412f848a8df1674e86a1/206086.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-04-30/ty-article-20q/.highlight/00000196-8197-d22a-a3de-b1b791bc0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-04-30",
+          "magazine_date": "2025-05-02",
+          "title": "מה השם האמיתי של ג'אגר בסרט \"יוסי וג'אגר\"?",
+          "og_image": "https://img.haarets.co.il/bs/00000196-8197-d22a-a3de-b1b791bc0000/d0/94/2b1249a7460b8f071d1ab6de9b78/611239.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2025-04-30/ty-article-20q/.highlight/00000196-819e-d9ad-a19e-c59ffded0000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2025-04-30",
+          "magazine_date": "2025-05-02",
+          "title": "20 שאלות לילדים ולילדות: באיזו עיר הכריז דוד בן־גוריון על הקמת המדינה?",
+          "og_image": "https://img.haarets.co.il/bs/00000196-819e-d9ad-a19e-c59ffded0000/e3/e1/2256a67840fcbbb9807c773c7db6/114821.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-04-30/ty-article-magazine/.premium/00000196-8244-d22a-a3de-b274c1cc0001",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-04-30",
+          "magazine_date": "2025-05-02",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 2.5.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000196-8244-d22a-a3de-b274c1cc0001/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-04-30/ty-article/.premium/00000196-824e-d099-a3d7-93efcb490000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-04-30",
+          "magazine_date": "2025-05-02",
+          "title": "קרלסן בשיאו",
+          "og_image": "https://img.haarets.co.il/bs/00000196-824e-d099-a3d7-93efcb490000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-04-26/ty-article/.premium/00000196-715c-dd54-a7d6-f17d5cc40000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-04-26",
+          "magazine_date": "2025-05-02",
+          "title": "ההיסטוריון מוטי גולני, מחשובי חוקרי הציונות, נהרג בקריסת עץ בגיל 70",
+          "og_image": "https://img.haarets.co.il/bs/00000196-715c-dd54-a7d6-f17d5cc40000/dd/94/5db106c64d3fabeadda08a92af18/574096.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-04-30/ty-article/.premium/00000196-824c-dc9b-a7bf-8aec0ffb0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-04-30",
+          "magazine_date": "2025-05-02",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000196-824c-dc9b-a7bf-8aec0ffb0000/56/e9/63ae117940ed87b9e57d19a49ced/ribooa-musaf-623-new.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-04-29/ty-article/.highlight/00000196-8024-d099-a3d7-93adc2760000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-04-29",
+          "magazine_date": "2025-05-02",
+          "title": "הכתבה על פרופ' רות קרק רצופת שקרים. הייתי בפלמ\"ח. ראיתי זאת במו עיני",
+          "og_image": "https://img.haarets.co.il/bs/00000196-8024-d099-a3d7-93adc2760000/82/89/904040054ac28675a4579f93e865/61269053.JPG?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

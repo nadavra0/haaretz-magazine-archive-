@@ -1,0 +1,333 @@
+{
+  "magazine_date": "2025-04-04",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/00000195-f639-dfc7-a5dd-f7bbd7a90001/f1/a6/a165575945c08342cb8599a1954c/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-04-02/ty-article/.highlight/00000195-f66e-d8de-a795-f6fea4ab0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-04-02/ty-article/.highlight/00000195-f66e-d8de-a795-f6fea4ab0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-04-02",
+          "magazine_date": "2025-04-04",
+          "title": "חברת אל־על, ובעיקר הפרסומת החדשה שלה, הן תמונת מראה למצב של המדינה",
+          "og_image": "https://gif.haarets.co.il/bs/00000195-f66e-d8de-a795-f6fea4ab0000/76/fa/76f654aa46f28d2dc3fe1e22aace/4-4-25-animation.gif?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-04-02/ty-article/.highlight/00000195-f676-d2fe-aff7-fff7194d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-04-02",
+          "magazine_date": "2025-04-04",
+          "title": "מה יקרה כשהגולם יגיע לבית המשפט העליון עם סכין קצבים בידו",
+          "og_image": "https://img.haarets.co.il/bs/00000195-f676-d2fe-aff7-fff7194d0000/d8/99/66db8d0e458587210ce0b62a375f/196829.jpg?precrop=2400%2C1395%2Cx0%2Cy203&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-04-03/ty-article-magazine/.highlight/00000195-f50d-da7e-adb7-fd9d0dee0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-04-03",
+          "magazine_date": "2025-04-04",
+          "title": "נטישת הכפרים בעולם מתפשטת, וכפר שלם ליד ברצלונה נמכר במחיר מצחיק",
+          "og_image": "https://gif.haarets.co.il/bs/00000195-f50d-da7e-adb7-fd9d0dee0000/8a/cd/1c41997c4e8388079b1580de9150/desertedvillages-promotion01.gif?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-04-03/ty-article-magazine/.highlight/00000195-f57d-dfc7-a5dd-f5ffd2280000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-04-03",
+          "magazine_date": "2025-04-04",
+          "title": "ישראלים פיתחו גבינה מהצומח עם טעם זהה למקור. טעמנו, וזה מדהים",
+          "og_image": "https://img.haarets.co.il/bs/00000195-f57d-dfc7-a5dd-f5ffd2280000/e4/26/29c8cee0464b9d6065c443af45ef/956472.jpg?precrop=2400%2C1395%2Cx0%2Cy23&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-04-03/ty-article-magazine/.highlight/00000195-f5a9-d470-addd-f5ebe2cc0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-04-03",
+          "magazine_date": "2025-04-04",
+          "title": "בגיל 80, תום שגב מסתכל לאחור וחושב שאולי הציונות היתה טעות",
+          "og_image": "https://img.haarets.co.il/bs/00000195-f5a9-d470-addd-f5ebe2cc0000/96/c4/1b07045b4bbba69ce767120f117b/026320.jpg?precrop=1603%2C932%2Cx0%2Cy150&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-04-03/ty-article-magazine/.highlight/00000195-f5d1-d470-addd-f5fbdd0d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-04-03",
+          "magazine_date": "2025-04-04",
+          "title": "מה אם מקור כל הבעיות טמון בהעדפה שאנחנו נותנים להמיספרה השמאלית במוח?",
+          "og_image": "https://img.haarets.co.il/bs/00000195-f5d1-d470-addd-f5fbdd0d0000/c7/c2/27b9731444e183315ebe21f7d549/809170.jpg?precrop=2400%2C1395%2Cx0%2Cy206&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-04-02/ty-article-magazine/.highlight/00000195-f5d1-d470-addd-f5fb21910000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-04-02",
+          "magazine_date": "2025-04-04",
+          "title": "\"חופש ודמוקרטיה לא הולכים יחד\": צריך להקשיב לאנשים שהשתלטו על אמריקה",
+          "og_image": "https://img.haarets.co.il/bs/00000195-f5d1-d470-addd-f5fb21910000/6e/34/4e8e83d64a1b86c9929d828cd5cf/61017986.JPG?precrop=8051%2C4681%2Cx0%2Cy689&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-04-02/ty-article/.highlight/00000195-f585-da7e-adb7-fd9d82120000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-04-02",
+          "magazine_date": "2025-04-04",
+          "title": "מהפוליטיקה ועד למשרד, השקר הפך לברירת המחדל של הישראלים",
+          "og_image": "https://img.haarets.co.il/bs/00000195-f585-da7e-adb7-fd9d82120000/e5/32/df471d484e87a102e837e8934efe/626101.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-04-02/ty-article/.highlight/00000195-f5b3-da7e-adb7-fdbbfdb70000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-04-02",
+          "magazine_date": "2025-04-04",
+          "title": "בכירי עמק הסיליקון התמסרו מרצון לידיו של טראמפ. זה לא קרה במקרה",
+          "og_image": "https://img.haarets.co.il/bs/00000195-f5b3-da7e-adb7-fdbbfdb70000/a3/6c/c8e9d06c445786d27357c4055f19/61014720.JPG?precrop=5047%2C2934%2Cx0%2Cy433&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-04-02/ty-article-face/.highlight/00000195-f5c3-da7e-adb7-fddbb2cf0002",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-04-02",
+          "magazine_date": "2025-04-04",
+          "title": "רינה מצליח: \"אחרי הפרישה, הייתי באופוריה. יכולתי לישון בלי לדאוג מי יהיה המרואיין מחר\"",
+          "og_image": "https://img.haarets.co.il/bs/00000195-f5c3-da7e-adb7-fddbb2cf0002/70/7f/5e10b256472c8b4deee0e7e773d9/152121.jpg?precrop=2400%2C1395%2Cx0%2Cy78&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-04-02/ty-article-magazine/.highlight/00000195-f602-ddf6-a7f5-f68af10d0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-04-02",
+          "magazine_date": "2025-04-04",
+          "title": "\"השאיפה שלנו היא להיות ביחד, עמר הוא דם מדמי. הנשים שלנו יודעות את זה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000195-f602-ddf6-a7f5-f68af10d0000/20/dd/ec4f504443bc8070eebe137d5245/130923.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-04-02/ty-article-magazine/.highlight/00000195-f6b9-d855-a7bf-f6bb11ce0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-04-02",
+          "magazine_date": "2025-04-04",
+          "title": "הילד עמית מאשקלון חלם ללמוד הנדסת מחשבים. בסוף יצא שהוא פרקליט השטן",
+          "og_image": "https://img.haarets.co.il/bs/00000195-f6b9-d855-a7bf-f6bb11ce0000/03/0c/4af2717d4b639a3845cf5f6d356d/61049924.JPG?precrop=2292%2C1332%2Cx428%2Cy181&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-04-03/ty-article-midrug/.highlight/00000195-fba4-d6b6-a9dd-ffff4cd40000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-04-03",
+          "magazine_date": "2025-04-04",
+          "title": "\"בנט 2026\". אופטימי, אה?",
+          "og_image": "https://img.haarets.co.il/bs/00000195-fba4-d6b6-a9dd-ffff4cd40000/66/93/4e64898c48dc8a8e2330c0b97f39/headline.jpg?precrop=2000%2C1163%2Cx0%2Cy390&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-04-02/ty-article/.highlight/00000195-f69e-d6b6-a9dd-feffa9f20000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-04-02",
+          "magazine_date": "2025-04-04",
+          "title": "לפני שנה וחצי התעקשת שהמבצר לא נפל. זו עדיין דעתך?\n\"בהחלט\"",
+          "og_image": "https://img.haarets.co.il/bs/00000195-f69e-d6b6-a9dd-feffa9f20000/66/d0/33f56a6746798c16e9a0d2e7d70b/546944.jpg?precrop=2200%2C1279%2Cx0%2Cy134&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-04-03/ty-article-quotes/.highlight/00000195-f5a0-d470-addd-f5ea7b530001",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-04-03",
+          "magazine_date": "2025-04-04",
+          "title": "\"זה נכון שבבוקר תמכתי במינוי, כמו שאני אתמוך אם רה\"מ יבטל את המינוי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000195-f5a0-d470-addd-f5ea7b530001/d4/50/7f96e0d14236a2efd1c6e2b22a29/866377.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-04-02/ty-article-20q/.highlight/00000195-f50c-d470-addd-f5ee28090000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-04-02",
+          "magazine_date": "2025-04-04",
+          "title": "באיזה יישוב בישראל יש רחוב שומשום?",
+          "og_image": "https://img.haarets.co.il/bs/00000195-f50c-d470-addd-f5ee28090000/a2/06/baee50d948709a9decb3eaf8e744/510678.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2025-04-02/ty-article-20q/.highlight/00000195-f514-da7e-adb7-fd9c8dcb0000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2025-04-02",
+          "magazine_date": "2025-04-04",
+          "title": "20 שאלות לילדים ולילדות: מה נמצא ברחוב דאוּנינג 10 בלונדון?",
+          "og_image": "https://img.haarets.co.il/bs/00000195-f514-da7e-adb7-fd9c8dcb0000/d7/e9/0ca5acb74da4be10a114f2fa9c30/054634.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-04-03/ty-article-magazine/.highlight/00000195-f60e-ddf6-a7f5-f68e00510000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-04-03",
+          "magazine_date": "2025-04-04",
+          "title": "שדרות כולה לקתה בטראומה ב-7 באוקטובר. בעזרת המטבח, הילדים חוזרים לדבר",
+          "og_image": "https://img.haarets.co.il/bs/00000195-f60e-ddf6-a7f5-f68e00510000/b8/a8/83a0cbb346d7823808b466175498/2.jpg?precrop=2000%2C1163%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-04-03/ty-article-magazine/.premium/00000195-fb2f-dbc7-a5ff-fbef24200000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-04-03",
+          "magazine_date": "2025-04-04",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 4.4.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000195-fb2f-dbc7-a5ff-fbef24200000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-04-03/ty-article/.premium/00000195-fb28-dbc7-a5ff-fbea0b650000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-04-03",
+          "magazine_date": "2025-04-04",
+          "title": "הישג ישראלי באירופה",
+          "og_image": "https://img.haarets.co.il/bs/00000195-fb28-dbc7-a5ff-fbea0b650000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-04-03/ty-article/00000195-fa4c-d6b6-a9dd-fe7fd0180000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-04-03",
+          "magazine_date": "2025-04-04",
+          "title": "נכדו של בן יהודה, שעזב את ישראל וחזר בתשובה, מת בקנזס סיטי",
+          "og_image": "https://img.haarets.co.il/bs/00000195-fa4c-d6b6-a9dd-fe7fd0180000/de/e2/2e5a4c4a4d6ca943c3c4a2a7126f/188615670.jpg?precrop=750%2C436%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2025-04-03/ty-article/.premium/00000195-fb32-d6b6-a9dd-ff7bc5310000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2025-04-03",
+          "magazine_date": "2025-04-04",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000195-fb32-d6b6-a9dd-ff7bc5310000/52/c3/c863256d471880099307a63baada/israel-palestinians.jpg?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-04-03/ty-article/.premium/00000195-fb36-dbc7-a5ff-fbf6ea260000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-04-03",
+          "magazine_date": "2025-04-04",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000195-fb36-dbc7-a5ff-fbf6ea260000/16/8e/c835848c4035b93ca1fb654489c4/ribooa-musaf-619-new.jpg?precrop=1083%2C630%2Cx0%2Cy105&width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-04-03/ty-article-magazine/.highlight/00000195-faa2-dbc7-a5ff-fae2bc240000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-04-03",
+          "magazine_date": "2025-04-04",
+          "title": "קראתי את כתבת השער שלכם וחשתי בחילה במשך שעות",
+          "og_image": "https://gif.haarets.co.il/bs/00000195-faa2-dbc7-a5ff-fae2bc240000/5c/5a/6f38413240038450053a550ca363/kids-gaza-homepage2.gif?width=1200&height=630&cmsprod=&watermark=htz-2025",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

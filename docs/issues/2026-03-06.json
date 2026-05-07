@@ -1,0 +1,328 @@
+{
+  "magazine_date": "2026-03-06",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/0000019c-ba42-d0a6-a5ff-bfc21d2a0001/a9/bf/be4dd6004302af913571178e8df1/mu2.jfif?&width=1500&height=1981&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-03-05/ty-article-magazine/.highlight/0000019c-b98a-d0a6-a5ff-bdcae3980000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-03-05/ty-article-magazine/.highlight/0000019c-b98a-d0a6-a5ff-bdcae3980000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-03-05",
+          "magazine_date": "2026-03-06",
+          "title": "באמריקה הלטינית מאשימים היום את ישראל בהכל. אפילו במשבר האקלים",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-b98a-d0a6-a5ff-bdcae3980000/04/b3/18fc642f43fd89a4261178a5b2db/64880572.JPG?precrop=3500,2035,x0,y62&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-03-05/ty-article-magazine/.highlight/0000019c-b98b-d0a6-a5ff-bdcb04e30000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-03-05",
+          "magazine_date": "2026-03-06",
+          "title": "\"אני חוששת שטראמפ ונתניהו ישאירו לעם האיראני חורבן, ויגידו: סיימנו\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-b98b-d0a6-a5ff-bdcb04e30000/1e/1c/51075528454da2cebc45963b4edd/099375.jpg?precrop=2400,1396,x0,y0&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-03-05/ty-article-magazine/.highlight/0000019c-b98d-d7e7-a19c-b99fb47e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-03-05",
+          "magazine_date": "2026-03-06",
+          "title": "כל הרקדניות בלהקה בנות 70, 80 ו-90. ואי אפשר להסיר מהן את העיניים",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-b98d-d7e7-a19c-b99fb47e0000/07/5e/ccdf7f084c5c9269d9ad3abf1c1f/080260.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-03-05/ty-article/.highlight/0000019c-b92c-d7e7-a19c-b93f127b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-03-05",
+          "magazine_date": "2026-03-06",
+          "title": "דמיינתי לעצמי מה יהיה הנאום האחרון של נתניהו",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-b92c-d7e7-a19c-b93f127b0000/e6/45/6ea395174f6c95cc933c3124b5fb/64896122.JPG?&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-03-05/ty-article/.highlight/0000019c-bdce-d7e7-a19c-bddf332e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-03-05",
+          "magazine_date": "2026-03-06",
+          "title": "חיי החברה שלי עברו מגינת הכלבים למקלט השכונתי, ויש כמה הבדלים",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-bdce-d7e7-a19c-bddf332e0000/cc/98/94660c3c4e1eb59baaefaa977588/6-3-26-web.jpg?precrop=1311,762,x5,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-03-04/ty-article/.highlight/0000019c-b986-d7e7-a19c-b99f512b0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-03-04",
+          "magazine_date": "2026-03-06",
+          "title": "בגוש השינוי חוששים מחבירה לערבים. המצביעים שלהם דווקא פתוחים לכך",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-b986-d7e7-a19c-b99f512b0000/6b/18/dd01e1ad43dc8e2f11e0e233a80c/64813462.JPG?precrop=4883,2839,x0,y18&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-03-05/ty-article-magazine/.highlight/0000019c-bd70-d600-a9be-bdf25a480000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-03-05",
+          "magazine_date": "2026-03-06",
+          "title": "עם תיאום מסועף, ריכוזיות והיררכיה: המהפך המסוכן של נוער הגבעות",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-bd70-d600-a9be-bdf25a480000/04/67/c79ac78140d982902e9abc5ba2fc/64883116.JPG?precrop=8192,4763,x0,y103&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-03-05/ty-article/.highlight/0000019c-bda3-d600-a9be-bdb3b8420000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-03-05",
+          "magazine_date": "2026-03-06",
+          "title": "\"על יד פתח תקווה בוער פרימוס בשמים\": כשאבות ישורון צפה בשביט C/1973 E1",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-bda3-d600-a9be-bdb3b8420000/5f/85/023958db432093a85229b5a79d29/2.JPG?precrop=1145,665,x0,y41&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-03-04/ty-article/.highlight/0000019c-b928-d0a6-a5ff-bde8f6000000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-03-04",
+          "magazine_date": "2026-03-06",
+          "title": "כמו ממלכת ויג'איאנגר, גם ישראל עלולה ללמוד שיעור במגבלות הכוח",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-b928-d0a6-a5ff-bde8f6000000/2a/a2/8ed68c9644c29ffb0f668a5e873b/64886788.JPG?precrop=2720,1582,x0,y44&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-03-05/ty-article-face/.highlight/0000019c-bd7b-df64-a59c-ff7fc0b40000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-03-05",
+          "magazine_date": "2026-03-06",
+          "title": "גיה באר גורביץ'",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-bd7b-df64-a59c-ff7fc0b40000/cc/34/ff34101b4a318363d4c2a84bc167/facetemplate1800x1200-1-1.jpg?precrop=1800,1047,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-03-05/ty-article-magazine/.highlight/0000019c-bd9c-db5a-a99f-bddda1030000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-03-05",
+          "magazine_date": "2026-03-06",
+          "title": "\"בראש שלנו מדינת ישראל היתה משהו אחר. חשבנו שזה גן עדן\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-bd9c-db5a-a99f-bddda1030000/68/a0/31b38a304e228a05c8962c404748/986437.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2026-03-05/ty-article-magazine/.highlight/0000019c-b955-d600-a9be-b9f7af7d0000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2026-03-05",
+          "magazine_date": "2026-03-06",
+          "title": "\"גברים מחזיקים את סוד הפגיעה המינית כ-20 שנה, בגלל פחד\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-b955-d600-a9be-b9f7af7d0000/cf/8b/0b22e9ee431994c411b26ac1512b/64870532.JPG?precrop=6975,4055,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-03-05/ty-article/.highlight/0000019c-bda9-d0a6-a5ff-bde9549d0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-03-05",
+          "magazine_date": "2026-03-06",
+          "title": "בסמוך, לא בתוך: שירים בין האזעקות",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-bda9-d0a6-a5ff-bde9549d0000/bd/1e/6ccc8c524569819b8f50da3b2d36/klein2.jpg?precrop=589,342,x0,y144&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-03-05/ty-article-midrug/.highlight/0000019c-bdc7-d1af-a1bc-ffcfb78e0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-03-05",
+          "magazine_date": "2026-03-06",
+          "title": "חמינאי איננו. ושירת חייו באמצע נפסקה",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-bdc7-d1af-a1bc-ffcfb78e0000/42/a8/0caf0eb445dc9008956a88009860/051536.jpg?precrop=2400,1395,x0,y33&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-03-02/ty-article/.highlight/0000019c-ae12-d1bd-afde-fe72b78e0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-03-02",
+          "magazine_date": "2026-03-06",
+          "title": "יש בסיס צבאי שתקוע בשכונה כמו עצם בגרון וכולנו מטרות.\n\"מה אתה רוצה שאני אגיד לך?\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-ae12-d1bd-afde-fe72b78e0000/e4/0f/538e358545d8800438dafc0c4aee/068664.jpg?precrop=2400,1395,x0,y76&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-03-05/ty-article-quotes/.highlight/0000019c-be16-db5a-a99f-bf57ff5a0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-03-05",
+          "magazine_date": "2026-03-06",
+          "title": "\"לא בטוח שהוא הספיק לשתות את הקפה של הבוקר\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-be16-db5a-a99f-bf57ff5a0000/3c/04/5ea7bbc842cd95870e5a2a968062/051483.jpg?precrop=2400,1395,x0,y72&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-03-05/ty-article-20q/.highlight/0000019c-bd57-d0a6-a5ff-bdd708500000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-03-05",
+          "magazine_date": "2026-03-06",
+          "title": "איזה מוצר שווק במקור בשם \"Baby Gays\"?",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-bd57-d0a6-a5ff-bdd708500000/3e/dc/cf6c709444c7ae69924db2e9939e/794874.jpg?precrop=2089,1214,x86,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2026-03-05/ty-article-20q/.highlight/0000019c-bdab-db5a-a99f-bdef81cc0000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2026-03-05",
+          "magazine_date": "2026-03-06",
+          "title": "20 שאלות לילדים ולילדות: איזו חיה מייצרת פנינים?",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-bdab-db5a-a99f-bdef81cc0000/76/0f/7f68cc2a4af692344c971db16910/119594.jpg?precrop=2396,1393,x0,y574&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2026-03-05/ty-article-magazine/.highlight/0000019c-be19-db5a-a99f-bf5dc4d50000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2026-03-05",
+          "magazine_date": "2026-03-06",
+          "title": "הקרב על הבייגל והפולמוס על הקציצה: כך נוצרו שמות המאכלים בעברית",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-be19-db5a-a99f-bf5dc4d50000/2c/40/8f6867024c5882dbff27c34ac8ec/659614.jpg?precrop=1601,931,x0,y1234&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-03-05/ty-article-magazine/.premium/0000019c-bd64-db5a-a99f-bd658cbd0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-03-05",
+          "magazine_date": "2026-03-06",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 6.3.2026 + ספיישל למרחב המוגן",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-bd64-db5a-a99f-bd658cbd0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-03-05/ty-article/.premium/0000019c-bd87-d7e7-a19c-bd9fe2980000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-03-05",
+          "magazine_date": "2026-03-06",
+          "title": "קרבות (גם) בפראג",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-bd87-d7e7-a19c-bd9fe2980000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-03-06/ty-article/0000019c-c3a1-db5a-a99f-d3e5ffb70000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-03-06",
+          "magazine_date": "2026-03-06",
+          "title": "\"בדיג אני מלך. יש סערה? אני מחליט אם לצאת לים\": מנחם בן ימי מת בן 99",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-c3a1-db5a-a99f-d3e5ffb70000/6f/2e/2106cdf240b4b8c27721023e39f6/screenshot-2026-03-05-080354.png?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2026-03-05/ty-article/.premium/0000019c-bd80-db5a-a99f-bdc519050000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2026-03-05",
+          "magazine_date": "2026-03-06",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-bd80-db5a-a99f-bdc519050000/b9/aa/29d9f4fe4cadb5f7934c44282ea1/caro.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-03-05/ty-article/.premium/0000019c-bd8f-df72-a9bc-bdefc50d0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-03-05",
+          "magazine_date": "2026-03-06",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-bd8f-df72-a9bc-bdefc50d0000/3b/12/2e41d1bb4ea9afe5251b0f7b9d97/ribooa-musaf-667.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-03-05/ty-article/.highlight/0000019c-bda9-db5a-a99f-bdedd22d0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-03-05",
+          "magazine_date": "2026-03-06",
+          "title": "כדי להבין את 48', צריך לנשום את רוח התקופה",
+          "og_image": "https://img.haarets.co.il/bs/0000019c-bda9-db5a-a99f-bdedd22d0000/4b/9a/960ff23d48a88d87d6339bb9a7a0/64783152.JPG?precrop=615,358,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "magazine_date": "2024-11-22",
+  "total_articles": 22,
+  "cover_image": "https://img.haarets.co.il/bs/00000193-499a-d26b-a1ff-4fbebbc40001/57/39/5b6c884e4981b486e364f85f9e77/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-11-21/ty-article-magazine/.highlight/00000193-4952-dcb4-a993-ffdb5d150000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-11-19/ty-article-magazine/.highlight/00000193-4438-d66c-ad97-ddfe2e850000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-11-19",
+          "magazine_date": "2024-11-22",
+          "title": "\"אפילו השוטרים הכי קשוחים של ירושלים לא עומדים בפנינו\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-4438-d66c-ad97-ddfe2e850000/0c/05/6d57fcaa40aa86ba43ab12648bbc/637776.jpg?precrop=1601%2C931%2Cx0%2Cy518&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-11-20/ty-article-magazine/.highlight/00000193-4917-d58a-abdf-cdd73bbd0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-11-20",
+          "magazine_date": "2024-11-22",
+          "title": "\"אנחנו חייבים להורים שלנו אהבה. אבל אנחנו לא חייבים להם מערכת יחסים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-4917-d58a-abdf-cdd73bbd0000/d8/15/a33d355d4ba498b0714cc70fddac/tiktoknocontact-shituf01.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-11-20/ty-article/.highlight/00000193-49d1-d824-afff-4ffda1a20000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-11-20",
+          "magazine_date": "2024-11-22",
+          "title": "האריס ידעה איפה הבעיה של ארה\"ב. למה היא הסתירה את זה?",
+          "og_image": "https://img.haarets.co.il/bs/00000193-49d1-d824-afff-4ffda1a20000/76/81/49cd5af64e9ba1968e66c5de663b/59291729.JPG?precrop=4368%2C2538%2Cx437%2Cy371&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-11-21/ty-article-magazine/.highlight/00000193-4952-dcb4-a993-ffdb5d150000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-11-21",
+          "magazine_date": "2024-11-22",
+          "title": "\"אתם חיים בבועה של תודעה כוזבת, השעון מתקתק. יצרתם לעצמכם תרחיש אימים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-4952-dcb4-a993-ffdb5d150000/d6/7b/479621334b219eacbd568b53b7e3/59325132.JPG?precrop=3960%2C2301%2Cx0%2Cy99&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-11-20/ty-article/.highlight/00000193-4977-d824-afff-4fff88b20000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-11-20",
+          "magazine_date": "2024-11-22",
+          "title": "הצבא המוסרי בעולם, פי אלף מהאמריקאים? השוואה יסודית מספרת סיפור אחר",
+          "og_image": "https://img.haarets.co.il/bs/00000193-4977-d824-afff-4fff88b20000/c1/da/d1e23bca45d4bcce2b94a830cb7c/131493.jpg?precrop=2400%2C1396%2Cx0%2Cy125&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-11-20/ty-article/.highlight/00000193-49ac-d54f-afdf-79ac08880000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-11-20",
+          "magazine_date": "2024-11-22",
+          "title": "הקוראים לא מחפשים ספרות טובה. הם מחפשים רכילות",
+          "og_image": "https://img.haarets.co.il/bs/00000193-49ac-d54f-afdf-79ac08880000/37/cd/0c48104f4749a405082f83eff2ee/59392832.JPG?precrop=5250%2C3051%2Cx0%2Cy455&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-11-20/ty-article/.highlight/00000193-49ca-ddda-ab97-6fcf9e7a0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-11-20",
+          "magazine_date": "2024-11-22",
+          "title": "בוויכוח בקהילה היהודית בארה\"ב, אקדמאים נדרשים להביע נאמנות — או לשתוק",
+          "og_image": "https://img.haarets.co.il/bs/00000193-49ca-ddda-ab97-6fcf9e7a0000/8b/af/367f22544fa3919751f0cedc80bb/59386655.JPG?precrop=4000%2C2326%2Cx0%2Cy42&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2024-11-20/ty-article/.highlight/00000193-4970-d824-afff-4ffcee750000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2024-11-20",
+          "magazine_date": "2024-11-22",
+          "title": "זו קבוצה מרתקת של שמות, שהיא עדות חיה לשורשיה העתיקים של השפה",
+          "og_image": "https://img.haarets.co.il/bs/00000193-4970-d824-afff-4ffcee750000/a1/2d/5a70f2d14453be0eb7bb4cf160a8/424156.jpg?precrop=2400%2C1396%2Cx0%2Cy77&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-11-20/ty-article/.highlight/00000193-499b-d26b-a1ff-4fbff6ab0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-11-20",
+          "magazine_date": "2024-11-22",
+          "title": "200 מיליון קרפדות זורעות הרס באוסטרליה. איכשהו יש לזה צד אופטימי",
+          "og_image": "https://img.haarets.co.il/bs/00000193-499b-d26b-a1ff-4fbff6ab0000/c3/d3/4295d1f846099c93c0589340726e/629451.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-11-21/ty-article-face/.highlight/00000193-4dd3-d383-abbb-effb9fa60000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-11-21",
+          "magazine_date": "2024-11-22",
+          "title": "אפרת רייטן",
+          "og_image": "https://img.haarets.co.il/bs/00000193-4dd3-d383-abbb-effb9fa60000/ad/f7/21ca09924d78914e18806aee9894/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-11-20/ty-article-magazine/.highlight/00000193-496a-d54f-afdf-796e9f7e0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-11-20",
+          "magazine_date": "2024-11-22",
+          "title": "\"מאז שהתחתנו, אנחנו בסבל. עכשיו מתחילים לחיות\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-496a-d54f-afdf-796e9f7e0000/24/a0/4c21c8ea4d45bd07e0201a886e69/59372041.JPG?precrop=7553%2C4391%2Cx0%2Cy230&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-11-20/ty-article/.highlight/00000193-49e7-ddda-ab97-6fe78f5c0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-11-20",
+          "magazine_date": "2024-11-22",
+          "title": "שופטי \"הכוכב הבא\" לא מפסיקים לבכות. יש להם סיבה לא רעה",
+          "og_image": "https://img.haarets.co.il/bs/00000193-49e7-ddda-ab97-6fe78f5c0000/f7/58/1133c5094330a87b606fa2751016/crying.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-11-21/ty-article-magazine/.highlight/00000193-4dfc-d54f-afdf-7dfc53860000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-11-21",
+          "magazine_date": "2024-11-22",
+          "title": "אוקראינה מפציצה מפעל לייצור מיונז ברוסיה. הכפפות הוסרו",
+          "og_image": "https://img.haarets.co.il/bs/00000193-4dfc-d54f-afdf-7dfc53860000/05/dd/63bcab6d431187a4fed6bf4f04a0/headline.jpg?precrop=2000%2C1163%2Cx0%2Cy595&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-11-21/ty-article/.highlight/00000193-49b7-dcb4-a993-ffffeeb70000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-11-21",
+          "magazine_date": "2024-11-22",
+          "title": "למה אתה מסרב להתגייס? \"נחצו קווים אדומים. אני לא יכול לקחת בזה חלק\"",
+          "og_image": "https://img.haarets.co.il/bs/00000193-49b7-dcb4-a993-ffffeeb70000/89/4d/289abee248d4984b0facbeff9d1c/59402617.JPG?precrop=1536%2C893%2Cx0%2Cy501&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-11-21/ty-article-magazine/.highlight/00000193-4de0-ddc8-aff7-4df7d7870000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-11-21",
+          "magazine_date": "2024-11-22",
+          "title": null,
+          "og_image": null,
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-11-21/ty-article-20q/.highlight/00000193-4b50-d68e-a1db-eb548e190000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-11-21",
+          "magazine_date": "2024-11-22",
+          "title": "הסמל הלאומי של איזו מדינה הוא מרליון, יצור בעל גוף של דג וראש של אריה?",
+          "og_image": "https://img.haarets.co.il/bs/00000193-4b50-d68e-a1db-eb548e190000/19/e9/69aff80c49bab0436c7df7bb7259/660658.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-11-21/ty-article-magazine/.highlight/00000193-4954-dcb4-a993-ffdfec510000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-11-21",
+          "magazine_date": "2024-11-22",
+          "title": "אין תיירים ומסעדות נסגרות, אך בתל אביב נפתחת מסעדת ענק עם רעיון שאפתני",
+          "og_image": "https://img.haarets.co.il/bs/00000193-4954-dcb4-a993-ffdfec510000/fd/d6/8318d21445c59668973ab69807bb/59395131.JPG?precrop=8256%2C4798%2Cx0%2Cy706&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-11-21/ty-article-magazine/.premium/00000193-4de9-d26b-a1ff-4fede9090000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-11-21",
+          "magazine_date": "2024-11-22",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 22.11.2024",
+          "og_image": "https://img.haarets.co.il/bs/00000193-4de9-d26b-a1ff-4fede9090000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-11-21/ty-article/.premium/00000193-4dee-d58a-abdf-cdffc16e0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-11-21",
+          "magazine_date": "2024-11-22",
+          "title": "הקרב על הכתר",
+          "og_image": "https://img.haarets.co.il/bs/00000193-4dee-d58a-abdf-cdffc16e0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-11-21/ty-article/.premium/00000193-4df4-d26b-a1ff-4ffcfe6c0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-11-21",
+          "magazine_date": "2024-11-22",
+          "title": "יועצו הבכיר של טראמפ: כוח אפל הוא דבר טוב, נשלוט ל-50 שנה",
+          "og_image": "https://img.haarets.co.il/bs/00000193-4df4-d26b-a1ff-4ffcfe6c0000/98/cb/43ac14b9486496e2c658481c5b02/mefursamot.jpg?precrop=1250%2C727%2Cx0%2Cy1935&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-11-21/ty-article/00000193-5054-d26b-a1ff-577c2bcd0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-11-21",
+          "magazine_date": "2024-11-22",
+          "title": "מאייכמן עד מרלן דיטריך: \"זקן הוויקיפדים\" מת והותיר מאות ערכים",
+          "og_image": "https://img.haarets.co.il/bs/00000193-5054-d26b-a1ff-577c2bcd0000/e2/71/91b0df8189fc234dd64dbd5e52db/3177075671.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-11-21/ty-article/00000193-4df8-d68e-a1db-edfc847f0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-11-21",
+          "magazine_date": "2024-11-22",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000193-4df8-d68e-a1db-edfc847f0000/4e/3d/bdf7f84e47c889ba8f6e62ebba58/ribooa-musaf-600-new.jpg?precrop=1083%2C630%2Cx0%2Cy54&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

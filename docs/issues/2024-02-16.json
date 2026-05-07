@@ -1,0 +1,333 @@
+{
+  "magazine_date": "2024-02-16",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/0000018d-a9a7-d61b-a19d-efa7fed60001/6e/2c/0b47771a49df95b3746f35acc284/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-02-15/ty-article-magazine/.highlight/0000018d-a3a8-d42f-adcd-ebe8f7690000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-02-15/ty-article-magazine/.highlight/0000018d-a3a8-d42f-adcd-ebe8f7690000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-02-15",
+          "magazine_date": "2024-02-16",
+          "title": "\"אני שמח להירשם כמי שהפר את הברית ההיסטורית בין הקיבוצים לשמאל\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-a3a8-d42f-adcd-ebe8f7690000/58/d6/931320894d8ea04886c030a3c4f4/55504513.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-02-15/ty-article-magazine/.highlight/0000018d-a882-d0cb-a5ef-bbae8f450000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-02-15",
+          "magazine_date": "2024-02-16",
+          "title": "ד\"ר ניצן גונן הצליחה לגדל אשכים במעבדה. יש גברים שזה עוד ישנה את חייהם",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-a882-d0cb-a5ef-bbae8f450000/08/79/e064c82c4e2992d95a04c7880f3a/55504321.JPG?precrop=3872%2C2251%2Cx0%2Cy1258&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-02-15/ty-article-magazine/.highlight/0000018d-a885-d0cb-a5ef-bbaf3e6a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-02-15",
+          "magazine_date": "2024-02-16",
+          "title": "איך קורה שהיידיש פורחת דווקא בשוודיה?",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-a885-d0cb-a5ef-bbaf3e6a0000/10/4c/8f84bff54d50a645405b2186c5a2/55560792.JPG?precrop=5508%2C3202%2Cx0%2Cy511&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-02-15/ty-article-magazine/.highlight/0000018d-a885-d0cb-a5ef-bbafecf30000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-02-15",
+          "magazine_date": "2024-02-16",
+          "title": "קמפיין אחד מצליח לטרוד את מנוחתו של נתניהו. מי עומד מאחוריו?",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-a885-d0cb-a5ef-bbafecf30000/b9/7a/8ffb165d480798f44bc015fb931e/46903-jpg-mseqzpnemtob771jqa0a-igiaicr4zu.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-02-15/ty-article-magazine/.highlight/0000018d-acc5-da6e-af9f-accd8d480000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-02-15",
+          "magazine_date": "2024-02-16",
+          "title": "אומרים שבספל הזה טמונה חוויה מיסטית שנותנת חשק לחיות. הייתי חייב לנסות",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-acc5-da6e-af9f-accd8d480000/12/d2/53ac4e494b9fafac50307a564858/43574.jpg?precrop=2400%2C1395%2Cx0%2Cy167&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-02-15/ty-article/.highlight/0000018d-acf3-da6e-af9f-acfb21480000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-02-15",
+          "magazine_date": "2024-02-16",
+          "title": "מתברר שיש עדיין הרבה אנשים שביבי חשוב להם יותר מאשר החזרת החטופים",
+          "og_image": "https://gif.haarets.co.il/bs/0000018d-acf3-da6e-af9f-acfb21480000/72/a6/d0c757f4402c86be27fc5641365d/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-02-14/ty-article/.highlight/0000018d-a744-dd3b-a5df-bfcf20b00000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-02-14",
+          "magazine_date": "2024-02-16",
+          "title": "בישראל מתרחש כעת ניסוי חברתי, שבוחן את סף הסבל של אנשי המילואים",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-a744-dd3b-a5df-bfcf20b00000/b5/3d/f876004b496d998794fecf3dab36/68384.jpg?precrop=2400%2C1396%2Cx0%2Cy50&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-02-14/ty-article/.highlight/0000018d-a774-dd3b-a5df-bfff4b900000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-02-14",
+          "magazine_date": "2024-02-16",
+          "title": "קשה לשכנע אדם לשנות את דעתו. מחקרים מציעים נקודות פתיחה אפשריות",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-a774-dd3b-a5df-bfff4b900000/35/74/ff1f44b54b1cbcabab41510a783b/55576240.JPG?precrop=4670%2C2715%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-02-14/ty-article/.highlight/0000018d-a78a-dc34-afed-a79bf93d0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-02-14",
+          "magazine_date": "2024-02-16",
+          "title": "המדינה השתנתה, המשפחה השתנתה. לאיזה בית שבים החיילים מהמלחמה?",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-a78a-dc34-afed-a79bf93d0000/93/85/185d97724c5fa9140d70bf4a587b/52638.jpg?precrop=1141%2C664%2Cx263%2Cy169&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2024-02-14/ty-article/.highlight/0000018d-a729-d9a5-afdd-b76dd4d40000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2024-02-14",
+          "magazine_date": "2024-02-16",
+          "title": "המילה שיצר \"שר הלשון העברית\" התקבלה מיד, אך לא כפי שרצה",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-a729-d9a5-afdd-b76dd4d40000/ad/92/7e04de1f4364b20d581ed9545412/55562944.JPG?precrop=1417%2C824%2Cx0%2Cy989&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-02-14/ty-article/.highlight/0000018d-a737-d9a5-afdd-b77f49100000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-02-14",
+          "magazine_date": "2024-02-16",
+          "title": "מערכת הבחירות בארה\"ב היא חלק מבעיה רחבה יותר: דיקטטורה של קשישים",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-a737-d9a5-afdd-b77f49100000/01/4c/b128d56c4b3a96e3812b5ec650f7/31690.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-02-15/ty-article-face/.highlight/0000018d-ad1f-da6e-af9f-ad1f18f10000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-02-15",
+          "magazine_date": "2024-02-16",
+          "title": "\"מאז 7 באוקטובר אני בוכה מכל סיפור עוד באוטו בדרך לראיון\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-ad1f-da6e-af9f-ad1f18f10000/57/dc/fdfbe3f94fb7aa6a1b1b4e04b460/facetemplate1800x1200-1.jpg?precrop=1800%2C1046%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-02-14/ty-article-magazine/.highlight/0000018d-a6ea-dd3b-a5df-bfebdd9a0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-02-14",
+          "magazine_date": "2024-02-16",
+          "title": "\"חייתי לבד עוד לפני שהייתי בת 18. אין לי למי לפנות\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-a6ea-dd3b-a5df-bfebdd9a0000/0d/cf/638c231d4c3da12bbd19380492c1/55564413.JPG?precrop=7128%2C4144%2Cx0%2Cy446&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-02-15/ty-article-magazine/.highlight/0000018d-a7fa-da7e-a5ad-e7faf2200000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-02-15",
+          "magazine_date": "2024-02-16",
+          "title": "עבאס הוא מהראשונים שעברו את הטיפול המלא של מכונת הרעל הביביסטית",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-a7fa-da7e-a5ad-e7faf2200000/ea/08/7485d0ca4507a2036498919ae119/55579875.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-02-15/ty-article-magazine/.highlight/0000018d-abb8-d221-af9f-eff9308b0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-02-15",
+          "magazine_date": "2024-02-16",
+          "title": "התיעוד של סינוואר. יש משהו מגיל 21?",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-abb8-d221-af9f-eff9308b0000/2a/12/dff95f4243b9b59b3f3e409299b4/mid-2.jpg?precrop=1563%2C908%2Cx0%2Cy85&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-02-15/ty-article/.highlight/0000018d-a7f2-da6e-af9f-affb4e5a0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-02-15",
+          "magazine_date": "2024-02-16",
+          "title": "למה אתה עושה סלקציה בהכנסת כתבים זרים לעזה? \"אלה שיקולים מקצועיים שלי\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-a7f2-da6e-af9f-affb4e5a0000/f2/3b/377125804f85bcd594d53edf7e49/55578993.JPG?precrop=4897%2C2847%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-02-15/ty-article-magazine/.highlight/0000018d-adc4-dc8c-a3df-fff5a2f60000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-02-15",
+          "magazine_date": "2024-02-16",
+          "title": "\"גדלים פה ישראלים שחושבים שהזהות שלהם זה שהם אוהבים פיצה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-cfcc-ddba-abad-cfed9e730000/dc/e7/ac3cab8745f5aa6508d9eecf3fcb/611328-3.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-02-15/ty-article-20q/.highlight/0000018d-aa14-d0cb-a5ef-bb3e78070000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-02-15",
+          "magazine_date": "2024-02-16",
+          "title": "מה יהיה הצבע של זברה אם נגלח את כל הפרווה שלה?",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-aa14-d0cb-a5ef-bb3e78070000/5c/2a/6c614893b3e15b3d6ace3b8f6e5a/4238191557.jpg?precrop=2180%2C1269%2Cx20%2Cy178&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-02-15/ty-article-magazine/.premium/0000018d-abae-d221-af9f-efef2b4b0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-02-15",
+          "magazine_date": "2024-02-16",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 16.2.2024",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-abae-d221-af9f-efef2b4b0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-02-15/ty-article/.premium/0000018d-aba9-d221-af9f-efe9e6f60000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-02-15",
+          "magazine_date": "2024-02-16",
+          "title": "קרבות עזים ברשת",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-aba9-d221-af9f-efe9e6f60000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-02-15/ty-article/.premium/0000018d-abb4-d221-af9f-effd6c210000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-02-15",
+          "magazine_date": "2024-02-16",
+          "title": "כך נראה הסוף. המשטר הישראלי נהפך לכהניסטי",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-abb4-d221-af9f-effd6c210000/7a/87/250745d64ef9975534045f3fd6b7/fam.jpg?precrop=1250%2C727%2Cx0%2Cy1471&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-02-16/ty-article/0000018d-b0c3-de6d-a1fd-b9c70fa50000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-02-16",
+          "magazine_date": "2024-02-16",
+          "title": "הביא מים ל-600 מיליון סינים: שאול ארלוזורוב, הבן של, מת בגיל 93",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-b0c3-de6d-a1fd-b9c70fa50000/45/b5/c4625cac4f0c9a37670e53da57b0/img-20240215-wa0009.jpg?precrop=1379%2C802%2Cx0%2Cy130&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-02-15/ty-article/.premium/0000018d-abbb-da6e-af9f-abbbc6300000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-02-15",
+          "magazine_date": "2024-02-16",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-abbb-da6e-af9f-abbbc6300000/09/23/525c232e4fca9b3621185e4859ab/ribooa-musaf-560.jpg?precrop=1083%2C630%2Cx0%2Cy239&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-02-14/ty-article/.highlight/0000018d-a7d9-dc85-a9af-bffd7b870000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-02-14",
+          "magazine_date": "2024-02-16",
+          "title": "לאריק איינשטיין מותר לשבת על הגדר. לנו אסור",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-a7d9-dc85-a9af-bffd7b870000/72/34/a77f5b00434385f5b712e4f1ed1d/55455245.JPG?precrop=2160%2C1256%2Cx0%2Cy1017&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

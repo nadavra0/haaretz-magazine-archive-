@@ -1,0 +1,323 @@
+{
+  "magazine_date": "2024-10-25",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/00000192-ae95-d7bf-a7d2-afff8d4f0001/8a/f6/36ca13ce449a9b5a0833abd7f7ff/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-10-24/ty-article-magazine/.highlight/00000192-ae83-dca2-a7d2-afb324980000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-10-22/ty-article-magazine/.highlight/00000192-ae82-d5ff-ad92-bf87b28e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-10-22",
+          "magazine_date": "2024-10-25",
+          "title": "האנושות מתקרבת לתקרת תוחלת החיים, אבל יש מקום אחד שמנפץ את כל התחזיות",
+          "og_image": "https://img.haarets.co.il/bs/00000192-ae82-d5ff-ad92-bf87b28e0000/47/92/0eac788b43ffb1e341f2b0f70a01/287179.jpg?precrop=2400%2C1395%2Cx0%2Cy143&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-10-22/ty-article-magazine/.highlight/00000192-ae82-da5c-a9b7-fe97ccdc0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-10-22",
+          "magazine_date": "2024-10-25",
+          "title": "\"אתם באמת חושבים שאתם הדמוקרטיה היחידה במזרח התיכון?\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-ae82-da5c-a9b7-fe97ccdc0000/55/56/c9e9955d495492955853b42839a4/58978472.JPG?precrop=3000%2C1744%2Cx0%2Cy311&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-10-22/ty-article-magazine/.highlight/00000192-ae83-dca2-a7d2-afb39a360000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-10-22",
+          "magazine_date": "2024-10-25",
+          "title": "הימין הפופוליסטי בארה\"ב מתכוון לנצח בבחירות, גם אם טראמפ יפסיד",
+          "og_image": "https://img.haarets.co.il/bs/00000192-ae83-dca2-a7d2-afb39a360000/bb/32/262bcb024cef95a60ade11ad961b/58966225.JPG?precrop=5000%2C2905%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-10-23/ty-article/.highlight/00000192-b918-d542-a9ba-b95b31890000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-10-23",
+          "magazine_date": "2024-10-25",
+          "title": "רק אחרי שעברתי צנתור, אני פתאום מזכירה לעצמי את אבא שלי",
+          "og_image": "https://gif.haarets.co.il/bs/00000192-b918-d542-a9ba-b95b31890000/b7/93/85a7da4046ba8068cd06b459eaa8/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-10-24/ty-article-magazine/.highlight/00000192-ae83-dca2-a7d2-afb324980000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-10-24",
+          "magazine_date": "2024-10-25",
+          "title": "המדינה השתנתה. גם דן חלוץ השתנה. והוא חרד שנכדיו לא יחיו פה. ראיון",
+          "og_image": "https://img.haarets.co.il/bs/00000192-ae83-dca2-a7d2-afb324980000/2f/39/2d232e0740488060f4641498d1f1/205111.jpg?precrop=1603%2C932%2Cx0%2Cy817&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-10-22/ty-article/.highlight/00000192-ae29-da5c-a9b7-fe3d0b090000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-10-22",
+          "magazine_date": "2024-10-25",
+          "title": "היהודים והפלסטינים חולקים גורל דומה. יכולנו לכונן כאן ברית של דחויים",
+          "og_image": "https://img.haarets.co.il/bs/00000192-ae29-da5c-a9b7-fe3d0b090000/81/d6/6a6494084fe48dec3d560a9e88d1/58968214.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-10-22/ty-article/.highlight/00000192-b3ef-d7bf-a7d2-bfef94dc0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-10-22",
+          "magazine_date": "2024-10-25",
+          "title": "קודם משתלטים על השטח, ואז מחכים להזדמנות. כך מקימים התנחלות חדשה",
+          "og_image": "https://img.haarets.co.il/bs/00000192-b3ef-d7bf-a7d2-bfef94dc0000/2b/26/4a90e5c24d23b22091a977d9ebed/768947.jpg?precrop=1956%2C1137%2Cx2%2Cy192&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-10-24/ty-article/.highlight/00000192-ae28-daee-a9fb-eeba92710000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-10-24",
+          "magazine_date": "2024-10-25",
+          "title": "יצרנו מפלצת, ובדרך הפכנו להיות גרועים לא פחות",
+          "og_image": "https://img.haarets.co.il/bs/00000192-ae28-daee-a9fb-eeba92710000/40/dd/d3001ca644c1bb4e3acf711e2f8b/841609.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2024-10-24/ty-article/.highlight/00000192-ae28-d5ff-ad92-bf2f85310000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2024-10-24",
+          "magazine_date": "2024-10-25",
+          "title": "הוא הופיע לראשונה בבריאת העולם, והפך להיות כלי נשק מתוחכם",
+          "og_image": "https://img.haarets.co.il/bs/00000192-ae28-d5ff-ad92-bf2f85310000/8d/55/dfdc20b64feeaa2900e26f9cda2a/079105.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-10-24/ty-article-face/.highlight/00000192-ae24-d5ff-ad92-bf2726590002",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-10-24",
+          "magazine_date": "2024-10-25",
+          "title": "ידין גלמן",
+          "og_image": "https://img.haarets.co.il/bs/00000192-ae24-d5ff-ad92-bf2726590002/73/60/07e2dd914dcba59e377e5a1152c9/facetemplate1800x1200-1.jpg?precrop=1800%2C1046%2Cx0%2Cy41&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-10-24/ty-article-magazine/.highlight/00000192-af5b-daee-a9fb-efdb6e160000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-10-24",
+          "magazine_date": "2024-10-25",
+          "title": "\"אפילו לא ידעתי שאני ישראלית. אבא שלי לא סיפר\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-af5b-daee-a9fb-efdb6e160000/66/9a/7bcfc1044301ab3ffcb976a0fca7/58968475.JPG?precrop=8192%2C4763%2Cx0%2Cy287&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2024-10-24/ty-article-magazine/.highlight/00000192-af32-daee-a9fb-efbacbc30000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2024-10-24",
+          "magazine_date": "2024-10-25",
+          "title": "\"הממשלה החליטה להוריד את ראשי ארגוני הפשע. זה התגלה כאסטרטגיה מסוכנת\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-af32-daee-a9fb-efbacbc30000/6a/88/76359a0e462b89c50bc4a229319d/58983218.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-10-24/ty-article/.highlight/00000192-af77-dca2-a7d2-af7710540000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-10-24",
+          "magazine_date": "2024-10-25",
+          "title": "לא, זה לא היה עוד \"שיעור\" עבורנו, וזה גם לא היה \"מבחן מלמעלה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-af77-dca2-a7d2-af7710540000/cd/3a/af408a2c45dd917e8f520bb01cd1/58983277.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-10-24/ty-article-magazine/.highlight/00000192-be09-d9ee-a5de-ff0945030000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-10-24",
+          "magazine_date": "2024-10-25",
+          "title": "הגרי \"חושף את הציניות של סינוואר\". בפרקים הבאים: האירוניה והסרקזם",
+          "og_image": "https://img.haarets.co.il/bs/00000192-be09-d9ee-a5de-ff0945030000/e3/17/918b6b8a482c9860c535b458a0bc/headline.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-10-21/ty-article/.highlight/00000192-af09-d30f-a39e-ef6f8baf0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-10-21",
+          "magazine_date": "2024-10-25",
+          "title": "הליכוד עכשיו רשמית בעד התיישבות בעזה? \"כל התיישבות יהודית — מבורכת\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-af09-d30f-a39e-ef6f8baf0000/ae/58/876563fc4f30be9eaf00dcd37465/58966251.JPG?precrop=2482%2C1442%2Cx1388%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-10-24/ty-article-magazine/.highlight/00000192-bed6-d9ee-a5de-ffdf56a00002",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-10-24",
+          "magazine_date": "2024-10-25",
+          "title": "\"אנחנו צריכים להיות גם לומדי תורה, אי אפשר להטיל עלינו הכול\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-89ab-d5e7-ad8d-ebabc1b80000/2c/b7/3f7eee50462484ab6fac23e62001/39251.jpg?precrop=2400,1396,x0,y0&height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-10-24/ty-article-20q/.highlight/00000192-a9af-dca2-a7d2-adbf90250000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-10-24",
+          "magazine_date": "2024-10-25",
+          "title": "מי המצביא שנאלץ לברוח עם אנשיו מפני מאות ארנבים שאותם התכוונו לצוד?",
+          "og_image": "https://img.haarets.co.il/bs/00000192-a9af-dca2-a7d2-adbf90250000/09/a1/51c0f82346bea2824cf67e716060/883514.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-10-24/ty-article-magazine/.premium/00000192-bdfc-d9ee-a5de-fdfd25d40000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-10-24",
+          "magazine_date": "2024-10-25",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 25.10.2024",
+          "og_image": "https://img.haarets.co.il/bs/00000192-bdfc-d9ee-a5de-fdfd25d40000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-10-24/ty-article/.premium/00000192-be01-d62d-ab96-be0914700000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-10-24",
+          "magazine_date": "2024-10-25",
+          "title": "אריגייסי ניצח בלונדון",
+          "og_image": "https://img.haarets.co.il/bs/00000192-be01-d62d-ab96-be0914700000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-10-24/ty-article/.premium/00000192-be0c-d84b-a3d6-befe38170000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-10-24",
+          "magazine_date": "2024-10-25",
+          "title": "מוקד התיירות העיקרי בשנת 2020 יהיה החלל",
+          "og_image": "https://img.haarets.co.il/bs/00000192-be0c-d84b-a3d6-befe38170000/d6/16/7ca9ef384b369010f8dc399f3bd2/mefursamot.jpg?precrop=1250%2C727%2Cx0%2Cy2632&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-10-24/ty-article/00000192-bff1-d721-a996-fff384f90000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-10-24",
+          "magazine_date": "2024-10-25",
+          "title": "\"אין לנו עם אחר, אם כי הוא מזופת מאוד\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-bff1-d721-a996-fff384f90000/59/54/65bed2d04e6f6b92c3442c8df64e/4009052275.jpg?precrop=1500%2C872%2Cx0%2Cy94&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-10-24/ty-article/.premium/00000192-be0f-d249-a99a-ffffa9250000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-10-24",
+          "magazine_date": "2024-10-25",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000192-be0f-d249-a99a-ffffa9250000/6c/45/be4c5e0142d093a19e0e031d56b2/ribooa-musaf-596.jpg?precrop=1084%2C630%2Cx0%2Cy156&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-10-24/ty-article/.highlight/00000192-af77-daee-a9fb-efff21a50000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-10-24",
+          "magazine_date": "2024-10-25",
+          "title": "זיק של תקווה מתוך עזה",
+          "og_image": "https://img.haarets.co.il/bs/00000192-af77-daee-a9fb-efff21a50000/b1/6a/cdb0b8f54643b7fcca5672e7a537/25704.jpg?precrop=1603%2C932%2Cx0%2Cy436&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

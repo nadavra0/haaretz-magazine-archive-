@@ -1,0 +1,333 @@
+{
+  "magazine_date": "2024-06-28",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/00000190-5437-de5a-a3fd-f5f720a60001/e3/58/1b41d6ec470cad0481182a642a7d/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-06-27/ty-article-magazine/.highlight/00000190-5343-d37f-a392-7beb085a0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-06-26/ty-article-magazine/.highlight/00000190-5340-de5e-abd0-fb722eaa0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-06-26",
+          "magazine_date": "2024-06-28",
+          "title": "מחקרים חדשים: הורות מכווצת לגברים את המוח",
+          "og_image": "https://img.haarets.co.il/bs/00000190-5340-de5e-abd0-fb722eaa0000/da/4d/0cf2040d42b6be1aa9cf80fbc8be/50079-2.jpg?precrop=2374%2C1381%2Cx12%2Cy11&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-06-26/ty-article-magazine/.highlight/00000190-5474-d31c-afb9-dc779c950000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-06-26",
+          "magazine_date": "2024-06-28",
+          "title": "היא היתה ביביסטית. היום היא שיאנית המעצרים במחאה נגד הממשלה",
+          "og_image": "https://img.haarets.co.il/bs/00000190-5474-d31c-afb9-dc779c950000/6a/d2/d6d362794e59a667b3c942aa87b2/20805.jpg?precrop=1603%2C932%2Cx0%2Cy365&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-06-27/ty-article-magazine/.highlight/00000190-5343-d37f-a392-7beb085a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-06-27",
+          "magazine_date": "2024-06-28",
+          "title": "ההפיכה משתוללת, אנחנו בסכנה למשטר טוטליטרי: אזעקת האמת של שופטת העליון",
+          "og_image": "https://img.haarets.co.il/bs/00000190-5343-d37f-a392-7beb085a0000/0a/58/9683acba4e67b37916642cd1be60/61217.jpg?precrop=1601%2C931%2Cx0%2Cy817&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-06-27/ty-article-magazine/.highlight/00000190-5363-ddd9-a1f1-d3f3d5730000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-06-27",
+          "magazine_date": "2024-06-28",
+          "title": "ב–1999 כתב רון פונדק תחזית לישראל ב-2025. הוא ראה את הנולד",
+          "og_image": "https://img.haarets.co.il/bs/00000190-5363-ddd9-a1f1-d3f3d5730000/07/e0/e77f2d90415188650375bc12a9c4/044475.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-06-27/ty-article-magazine/.highlight/00000190-5478-ddd9-a1f1-d6fad8620000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-06-27",
+          "magazine_date": "2024-06-28",
+          "title": "שבעה זה לא מספיק. אנחנו צריכים ללמוד להתאבל לגמרי אחרת",
+          "og_image": "https://img.haarets.co.il/bs/00000190-5478-ddd9-a1f1-d6fad8620000/10/3f/36f5763a46bdaf641af42180f5ba/57300281.JPG?precrop=5568%2C3236%2Cx0%2Cy389&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-06-27/ty-article/.highlight/00000190-5975-def3-a5b6-db77596e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-06-27",
+          "magazine_date": "2024-06-28",
+          "title": "ביקשתי מהבינה המלאכותית לכתוב על איל מגד. זה היה גרוע, אז כתבתי בעצמי",
+          "og_image": "https://gif.haarets.co.il/bs/00000190-5975-def3-a5b6-db77596e0000/c6/ca/a8bc9f144209acf7d9dc48aa0b6b/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-06-26/ty-article/.highlight/00000190-53f4-dbd4-ab9b-d7fda7ca0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-06-26",
+          "magazine_date": "2024-06-28",
+          "title": "המינוי של שמאלוב־ברקוביץ' הוא לא טעות בשיקול הדעת. זה חיסול ממוקד",
+          "og_image": "https://img.haarets.co.il/bs/00000190-53f4-dbd4-ab9b-d7fda7ca0000/0e/70/8a935af141779bfb4453c22acb52/57349010.JPG?precrop=3360%2C1953%2Cx0%2Cy121&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-06-26/ty-article/.highlight/00000190-53fe-dbd4-ab9b-d7ffa3980000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-06-26",
+          "magazine_date": "2024-06-28",
+          "title": "השכן שלי נחמד, חייכני, מתעניין. אבל עכשיו הוא משתייך למחנה האויב",
+          "og_image": "https://img.haarets.co.il/bs/00000190-53fe-dbd4-ab9b-d7ffa3980000/81/25/fbada0184162aed2f0ee38bb728f/56188.jpg?precrop=1650%2C960%2Cx0%2Cy456&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-06-26/ty-article/.highlight/00000190-548f-de5e-abd0-ffffdb100000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-06-26",
+          "magazine_date": "2024-06-28",
+          "title": "האם אפשר ליצור אמנות בזמן מלחמה, והאם בכלל יש בכך טעם?",
+          "og_image": "https://img.haarets.co.il/bs/00000190-548f-de5e-abd0-ffffdb100000/58/3f/9ef6296642a187cd9f980c9381f0/57347552.JPG?precrop=2885%2C1677%2Cx88%2Cy157&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-06-26/ty-article/.highlight/00000190-53e9-dc65-abff-7beb9c320000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-06-26",
+          "magazine_date": "2024-06-28",
+          "title": "השלכות הרצח הפוליטי הראשון בארץ ישראל מורגשות גם אחרי מאה שנה",
+          "og_image": "https://img.haarets.co.il/bs/00000190-53e9-dc65-abff-7beb9c320000/2c/8d/e4be1682494bb9ea142ef8e6dc1a/57377329.JPG?precrop=2235%2C1299%2Cx0%2Cy160&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-06-26/ty-article-face/.highlight/00000190-536e-dbd4-ab9b-d77f67410002",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-06-26",
+          "magazine_date": "2024-06-28",
+          "title": "\"בגיל 60 חטפתי דיכאון. לא הבנתי מאיפה משיגים רצון להמשיך חיים באופן יצירתי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-536e-dbd4-ab9b-d77f67410002/54/a0/98ae007f4bcebab60a1b0efa65f6/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-06-26/ty-article-magazine/.highlight/00000190-5400-dc65-abff-7c2bfa3b0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-06-26",
+          "magazine_date": "2024-06-28",
+          "title": "\"אני מאמצת בעבודה סגנון תקשורת שמזכיר מו\"מ על בני ערובה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-5400-dc65-abff-7c2bfa3b0000/d6/30/9a7a75c6498a8e9eec3b0344e483/57358994.JPG?precrop=7753%2C4507%2Cx0%2Cy455&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-06-26/ty-article-magazine/.highlight/00000190-54bc-dc65-abff-7cbf49f40000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-06-26",
+          "magazine_date": "2024-06-28",
+          "title": "שרה והבקבוקים הריקים: בגדי המלך החדשים, גרסה עדכנית",
+          "og_image": "https://img.haarets.co.il/bs/00000190-54bc-dc65-abff-7cbf49f40000/52/ca/53ec686c4e39adb17409245b2990/57380770.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-06-27/ty-article-magazine/.highlight/00000190-586a-ddd9-a1f1-dafa44610000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-06-27",
+          "magazine_date": "2024-06-28",
+          "title": "ערוץ הקניות, הסוף. מישהו שם למעלה נחוש לחסל את התקשורת הביקורתית",
+          "og_image": "https://img.haarets.co.il/bs/00000190-586a-ddd9-a1f1-dafa44610000/b1/ec/3e10ad6f422e8f15512b0d7cebdc/headline-m.jpg?precrop=1563%2C908%2Cx0%2Cy84&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-06-26/ty-article/.highlight/00000190-54b0-ddd9-a1f1-d6f2552f0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-06-26",
+          "magazine_date": "2024-06-28",
+          "title": "\"מאז שכתבתי על שרה נתניהו, אני ממש מפחדת. אף פעם לא היה לי דבר כזה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-54b0-ddd9-a1f1-d6f2552f0000/44/bb/66d2d6a24b898058198692a1b9a9/edna.jpg?precrop=2336%2C1358%2Cx0%2Cy463&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-06-27/ty-article-magazine/.highlight/00000190-596f-d7e5-a1f3-dd7f81ba0002",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-06-27",
+          "magazine_date": "2024-06-28",
+          "title": "\"השם הכניס אותי להריון ועל זה אני מודה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-598a-dc65-abff-79ab1a4a0000/01/e7/a299203742c0bcfa5ddd20b7caa4/395390.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-06-26/ty-article-20q/.highlight/00000190-4ecc-d8cb-a19d-4fcf74620000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-06-26",
+          "magazine_date": "2024-06-28",
+          "title": "באיזו חיה נעשה שימוש ניסיוני במלחמת לבנון השנייה, אך הניסיון כשל?",
+          "og_image": "https://img.haarets.co.il/bs/00000190-4ecc-d8cb-a19d-4fcf74620000/4e/48/a490bceb4e4981810184a1a5a272/592277.jpg?precrop=1342%2C780%2Cx545%2Cy80&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-06-26/ty-article-magazine/.highlight/00000190-545b-dc65-abff-7c7b55ee0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-06-26",
+          "magazine_date": "2024-06-28",
+          "title": "כחמישית מהפירות נזרקים לפח. כאן הופכים אותם לסיידר מצוין",
+          "og_image": "https://img.haarets.co.il/bs/00000190-545b-dc65-abff-7c7b55ee0000/a1/7c/ad38dd1c44cd8a83746e93073ce6/36628.jpg?precrop=1457%2C847%2Cx47%2Cy865&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-06-27/ty-article-magazine/.premium/00000190-5861-def3-a5b6-da67c7f90000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-06-27",
+          "magazine_date": "2024-06-28",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 28.6.2024",
+          "og_image": "https://img.haarets.co.il/bs/00000190-5861-def3-a5b6-da67c7f90000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-06-27/ty-article/.premium/00000190-5856-d506-ab9a-787e14520000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-06-27",
+          "magazine_date": "2024-06-28",
+          "title": "אריגייסי נוסק",
+          "og_image": "https://img.haarets.co.il/bs/00000190-5856-d506-ab9a-787e14520000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-06-27/ty-article/.premium/00000190-5867-def3-a5b6-da670b540000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-06-27",
+          "magazine_date": "2024-06-28",
+          "title": "הטוענת לשיר הללויה - נבדקה במכונת אמת",
+          "og_image": "https://img.haarets.co.il/bs/00000190-5867-def3-a5b6-da670b540000/e7/09/bde81eaa4354a75611ee4aa2a63e/mefursamot.jpg?precrop=1250%2C727%2Cx0%2Cy3197&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-06-27/ty-article/00000190-594c-def3-a5b6-db6fa46c0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-06-27",
+          "magazine_date": "2024-06-28",
+          "title": "בגיל 101 בירכה את בנה המילואימניק בן ה-73: \"שהשמירה תהיה למען השלום\"",
+          "og_image": "https://img.haarets.co.il/bs/00000190-594c-def3-a5b6-db6fa46c0000/c9/e5/ee7d98a747da8357dbe4f277eb58/screenshot-2024-06-27-131609.png?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-06-27/ty-article/.premium/00000190-5868-d506-ab9a-786ae87f0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-06-27",
+          "magazine_date": "2024-06-28",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000190-5868-d506-ab9a-786ae87f0000/7a/a9/dbf1422e4832af7aecf19c4acc03/ribooa-musaf-579-new.jpg?precrop=1083%2C630%2Cx0%2Cy219&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-06-27/ty-article/.highlight/00000190-58bf-dc65-abff-78bfb0ac0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-06-27",
+          "magazine_date": "2024-06-28",
+          "title": "לא צריך להרחיק לחוף המערבי. המגפה כבר פה",
+          "og_image": "https://img.haarets.co.il/bs/00000190-58bf-dc65-abff-78bfb0ac0000/3e/8e/4a7fd166488ba0b26387aeae2ac5/57286911.JPG?precrop=3000%2C1743%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

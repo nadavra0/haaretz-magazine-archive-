@@ -1,0 +1,323 @@
+{
+  "magazine_date": "2024-05-03",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/0000018f-346a-d8c4-afef-3dfe02d80001/a5/81/b2df63c9465ea4882eced82052bc/frontpage.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-05-01/ty-article-magazine/.highlight/0000018f-3388-d9c3-abcf-7bfd0a3c0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-05-01/ty-article-magazine/.highlight/0000018f-3278-d8c4-afef-3ffc85380000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-05-01",
+          "magazine_date": "2024-05-03",
+          "title": "הם היו בני 10, שרק ביקשו לעלות ארצה. המכתבים שהותירו אחריהם נוגעים ללב",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-3278-d8c4-afef-3ffc85380000/ae/28/ce844e9f4df0b44af62c47f3e5b3/80563.jpg?precrop=2400%2C1396%2Cx0%2Cy7&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-05-01/ty-article-magazine/.highlight/0000018f-3388-d9c3-abcf-7bfd0a3c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-05-01",
+          "magazine_date": "2024-05-03",
+          "title": "החשש: לונדון תהפוך לסיביר. מסע לגן עדן בעקבות שינוי הזרמים באוקיינוסים",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-3388-d9c3-abcf-7bfd0a3c0000/88/0e/4c17d5e84af0b4399146521a292f/93898.jpg?precrop=2400%2C1395%2Cx0%2Cy174&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-05-01/ty-article/.highlight/0000018f-3419-d8fb-a1df-bd7fb53b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-05-01",
+          "magazine_date": "2024-05-03",
+          "title": "איך נמלטתי ברגע האחרון מציפורני התובע הראשי בבית הדין הפלילי בהאג",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-3419-d8fb-a1df-bd7fb53b0000/c9/ab/0e56056640cc86cbf24d0e136e1c/56611762.JPG?precrop=3222%2C1873%2Cx0%2Cy4&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-05-02/ty-article-magazine/.highlight/0000018f-3280-d8fb-a1df-bfe68e3c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-05-02",
+          "magazine_date": "2024-05-03",
+          "title": "איך הפכה החברה הצנועה הזאת לאמזון הישראלית",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-3280-d8fb-a1df-bfe68e3c0000/b9/cd/129fdb494da2a6cb1541f04e445e/ksp.jpg?precrop=1920%2C1116%2Cx0%2Cy165&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-05-02/ty-article/.highlight/0000018f-3976-d8fb-a1df-bd76b3a90000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-05-02",
+          "magazine_date": "2024-05-03",
+          "title": "מה הסיבה האמיתית לכך שאני לא נוטשת את הארץ",
+          "og_image": "https://gif.haarets.co.il/bs/0000018f-3976-d8fb-a1df-bd76b3a90000/0b/1d/b8b487db4cda88e31a227b46beaa/neri.gif?precrop=1311%2C762%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-05-01/ty-article-magazine/.highlight/0000018f-33e4-d8fb-a1df-bfe6791e0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-05-01",
+          "magazine_date": "2024-05-03",
+          "title": "הטרול הגדול ביותר בארה\"ב החליט להכניע את המערכת. השיטה: מעטפה עם בול",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-33e4-d8fb-a1df-bfe6791e0000/fa/c2/f04e95644a4da6de3f4bb8bd914d/56591576.JPG?precrop=1976%2C1149%2Cx0%2Cy486&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-05-01/ty-article/.highlight/0000018f-3378-d8c4-afef-3ffc35240000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-05-01",
+          "magazine_date": "2024-05-03",
+          "title": "הבנאליות של הרוע? מחקרים עדכניים מסבירים מה הניע את פרויקט ההשמדה",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-3378-d8c4-afef-3ffc35240000/aa/3d/6026a45e46d2b79c33e45a86d7f1/321.JPG?precrop=1134%2C659%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-05-01/ty-article/.highlight/0000018f-3384-d0b5-a59f-33c5c28f0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-05-01",
+          "magazine_date": "2024-05-03",
+          "title": "אתי הילסום סירבה לטשטש את המציאות, והצליחה לעמוד במבחן המוסרי העליון",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-3384-d0b5-a59f-33c5c28f0000/ef/1f/e5c26bd94c21b7b64f2c76b3df5c/21221.jpg?precrop=2489%2C1447%2Cx0%2Cy932&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2024-05-01/ty-article/.highlight/0000018f-33da-d8fb-a1df-bffe6c950000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2024-05-01",
+          "magazine_date": "2024-05-03",
+          "title": "המילה \"דרדלה\" הגיחה לחיינו בזכות צירוף נסיבות מיוחד וישראלי מאוד",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-33da-d8fb-a1df-bffe6c950000/9e/c1/b60ebabc4a97b0f8f3f9be06a1cf/56590276.JPG?precrop=3207%2C1865%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-05-01/ty-article/.highlight/0000018f-338b-d0b5-a59f-33cf49010000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-05-01",
+          "magazine_date": "2024-05-03",
+          "title": "יין עם חלב והימנעות מהדחת האסלה: הטרנדים החמים של האביב",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-338b-d0b5-a59f-33cf49010000/ae/6f/21d5413c4bae946805922180e41e/capture.JPG?precrop=529%2C308%2Cx98%2Cy35&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-05-01/ty-article-face/.highlight/0000018f-3277-d215-afdf-7777db9b0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-05-01",
+          "magazine_date": "2024-05-03",
+          "title": "\"אני מפתח תקוה - עיר מכוערת ובינונית. אף אחד שבא משם לא יכול להתנשא\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-3277-d215-afdf-7777db9b0000/7c/99/8504c70a4f90bbc6a4395ad6d963/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-05-01/ty-article-magazine/.highlight/0000018f-345c-d8c4-afef-3dfc2eaa0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-05-01",
+          "magazine_date": "2024-05-03",
+          "title": "\"סתם עשיתי עלייה. אני לא יודע מה מחזיק אותי פה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-345c-d8c4-afef-3dfc2eaa0000/90/a5/1f4f9dd34b538261c6ed031458c7/56601156.JPG?precrop=5844%2C3397%2Cx624%2Cy688&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-05-01/ty-article-magazine/.highlight/0000018f-346a-d0b5-a59f-35efb7a10000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-05-01",
+          "magazine_date": "2024-05-03",
+          "title": "בסוף בסוף, אחרי כל ההסברים וההתחכמויות, זה הסיפור: אנחנו טיפשים",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-346a-d0b5-a59f-35efb7a10000/8b/00/0836a1be4a8eabde7e8c8a0e1a45/15293.jpg?precrop=2400%2C1395%2Cx0%2Cy4&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-05-02/ty-article-magazine/.highlight/0000018f-37f4-d0b5-a59f-37f593640000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-05-02",
+          "magazine_date": "2024-05-03",
+          "title": "הדלק מתייקר. סמוטריץ' גם ככה ממלא תמיד ב-700 ליטר",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-37f4-d0b5-a59f-37f593640000/25/3e/dd3297dc4221b4be77c93d040626/headline-m.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-05-01/ty-article/.highlight/0000018f-3428-d0b5-a59f-35ed5c050000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-05-01",
+          "magazine_date": "2024-05-03",
+          "title": "אם קרוב משפחה שלי ייפצע בתאונת דרכים תסיעו אותי לבית החולים? \"לא\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-3428-d0b5-a59f-35ed5c050000/12/20/715b4bf2444cafba6e4a7d204c97/56611424.JPG?precrop=2048%2C1191%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-05-02/ty-article-magazine/.highlight/0000018f-39e6-d516-afbf-ffe680330002",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-05-02",
+          "magazine_date": "2024-05-03",
+          "title": "\"אף אחד מכל אותם שרים שמקשקשים עכשיו לא יהיה רלוונטי\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-39e7-d516-afbf-ffe755400000/da/73/4d6021fd4f1ca56e849316209ddd/026106.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-05-02/ty-article-20q/.highlight/0000018f-2f0b-d278-a58f-bf7b45ac0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-05-02",
+          "magazine_date": "2024-05-03",
+          "title": "גולדה מאיר היתה האישה הראשונה בישראל שמונתה לתפקיד שרה. מי השנייה?",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-2f0b-d278-a58f-bf7b45ac0000/78/0d/79280a124f6790aa524d9ebf977d/649409.jpg?precrop=1639%2C953%2Cx0%2Cy317&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-05-02/ty-article-magazine/.premium/0000018f-37e7-d0b5-a59f-37e7cc0a0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-05-02",
+          "magazine_date": "2024-05-03",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 3.5.2024",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-37e7-d0b5-a59f-37e7cc0a0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-05-02/ty-article/.premium/0000018f-37d6-d0b5-a59f-37d72d1f0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-05-02",
+          "magazine_date": "2024-05-03",
+          "title": "בן ה–17 טוען לכתר",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-37d6-d0b5-a59f-37d72d1f0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-05-02/ty-article/.premium/0000018f-37ec-d8fb-a1df-bfeeac8c0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-05-02",
+          "magazine_date": "2024-05-03",
+          "title": "נתניהו: \"אנחנו בעד השלום, אך יש בליכוד מיעוט קיצוני שלא רוצה בכך\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-37ec-d8fb-a1df-bfeeac8c0000/ff/fa/49544718483f9b4eac171bf0a853/mefursamot-3-5.jpg?precrop=1250%2C727%2Cx0%2Cy2130&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-04-27/ty-article/0000018f-1dec-d1f3-afcf-3fed4c800000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-04-27",
+          "magazine_date": "2024-05-03",
+          "title": "\"את סמכות האב לקח הרב\": הרופא שנאבק בכפייה הדתית",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-1dec-d1f3-afcf-3fed4c800000/ac/94/0badf196e9f68bd8ab07a698277f/2735259997.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2024-05-02/ty-article/.premium/0000018f-38dc-d516-afbf-fededf660000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2024-05-02",
+          "magazine_date": "2024-05-03",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-38dc-d516-afbf-fededf660000/6b/a1/a886f83e4931ac48e5cf192325f7/caro-reg.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-05-01/ty-article/.highlight/0000018f-3496-d9c3-abcf-7ef738140000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-05-01",
+          "magazine_date": "2024-05-03",
+          "title": "אכן, יש חפיפה בין דנ\"א של יהודים ופלסטינים",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-3496-d9c3-abcf-7ef738140000/83/ea/74101e8149caa607112fde8e38bd/56478091.JPG?precrop=1174%2C682%2Cx77%2Cy57&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

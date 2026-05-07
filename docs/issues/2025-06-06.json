@@ -1,0 +1,348 @@
+{
+  "magazine_date": "2025-06-06",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/00000197-3ee0-d079-ab97-7fe576430001/f5/d3/1e12c32e410e9a8e6aaadcfc04ab/shaar-10.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2025-06-04/ty-article/.highlight/00000197-3b2f-d9f1-abb7-7b7fa8fa0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-06-04/ty-article/.highlight/00000197-3b2f-d9f1-abb7-7b7fa8fa0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-06-04",
+          "magazine_date": "2025-06-06",
+          "title": "חשבתי שבעקבות המלחמה נשכח קצת מענייני המזרחים ואשכנזים, אז חשבתי",
+          "og_image": "https://gif.haarets.co.il/bs/00000197-3b2f-d9f1-abb7-7b7fa8fa0000/79/ae/fdb4c39746d9bb3cd3ac13ad6b77/6-6-25-animation.gif?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-06-05/ty-article-magazine/.highlight/00000197-39d5-dd58-add7-39d7ea240000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-06-05",
+          "magazine_date": "2025-06-06",
+          "title": "איך מזהים שילדים נמצאים במצוקה עמוקה? היא משוכנעת שמצאה את הדרך",
+          "og_image": "https://img.haarets.co.il/bs/00000197-39d5-dd58-add7-39d7ea240000/31/a5/351377c84983bff120ee87f57c68/929063.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-06-05/ty-article-magazine/.highlight/00000197-39d9-d079-ab97-7ddd816c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-06-05",
+          "magazine_date": "2025-06-06",
+          "title": "מנזר השתקנים כמעט נחרב בשריפה, וכעת הנזירים שוברים שתיקה",
+          "og_image": "https://img.haarets.co.il/bs/00000197-39d9-d079-ab97-7ddd816c0000/9c/96/a97b6cc543fe83a5d8c31bf65f1e/920630.jpg?precrop=1932,1123,x339,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-06-05/ty-article-magazine/.highlight/00000197-3a80-dd58-add7-3bd3db1e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-06-05",
+          "magazine_date": "2025-06-06",
+          "title": "אופרציה סודית שפועלת מבית באפרת מזרימה הון עתק מחו\"ל לגופי ימין. תחקיר",
+          "og_image": "https://img.haarets.co.il/bs/00000197-3a80-dd58-add7-3bd3db1e0000/ad/18/5eaf532247f48cc49adb7f7a3669/926259.jpg?precrop=1241,722,x360,y274&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-06-05/ty-article-magazine/.highlight/00000197-3ad7-dd58-add7-3bd7995b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-06-05",
+          "magazine_date": "2025-06-06",
+          "title": "איך ייראו בתי הספר של העתיד? כנראה ככה",
+          "og_image": "https://img.haarets.co.il/bs/00000197-3ad7-dd58-add7-3bd7995b0000/e1/3b/d63c750d4aeca6e096cd18566c18/876583.jpg?precrop=1801,1047,x0,y338&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2025-06-05/ty-article-magazine/.highlight/00000197-3d1c-d079-ab97-7d5dab910000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2025-06-05",
+          "magazine_date": "2025-06-06",
+          "title": "יותר ויותר אמריקאים הופכים את הבית שלהם למבצר. כולל בונקר ומנהרת מילוט",
+          "og_image": "https://img.haarets.co.il/bs/00000197-3d1c-d079-ab97-7d5dab910000/18/b9/370904824cfeac68378795ec4907/896519.jpg?precrop=2004,1165,x207,y306&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-06-04/ty-article/.highlight/00000197-3add-dd58-add7-3bdf07230000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-06-04",
+          "magazine_date": "2025-06-06",
+          "title": "מה שדרוש לנו זה לא עוד מנהיג ממלכתי. עכשיו צריך בן גביר שמאלני",
+          "og_image": "https://img.haarets.co.il/bs/00000197-3add-dd58-add7-3bdf07230000/7b/78/8a71207f4e05815d19df43245faa/931197.jpg?precrop=1918,1115,x215,y183&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-06-04/ty-article/.highlight/00000197-3aee-d079-ab97-7fefd3710000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-06-04",
+          "magazine_date": "2025-06-06",
+          "title": "הסיסים הם משהו שבין ציפור לכוכב. ניתנה לנו הזכות להיות שכנים",
+          "og_image": "https://img.haarets.co.il/bs/00000197-3aee-d079-ab97-7fefd3710000/29/b4/0802568c4ba0bfb0488d872e71e1/61806778.JPG?precrop=4288,2494,x0,y126&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2025-06-04/ty-article/.highlight/00000197-3b13-d079-ab97-7f5720d80000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2025-06-04",
+          "magazine_date": "2025-06-06",
+          "title": "ברוסיה כבר הבינו: לא חייבים טנקים כדי לרמוס זכויות אזרח",
+          "og_image": "https://img.haarets.co.il/bs/00000197-3b13-d079-ab97-7f5720d80000/6f/4e/fb4e075942be835867966561bb17/61806760.JPG?precrop=3600,2093,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2025-06-04/ty-article/.highlight/00000197-3ace-dd58-add7-3bdf04960000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2025-06-04",
+          "magazine_date": "2025-06-06",
+          "title": "מסע היסטורי מגלה את הקשר שבין טורף אכזרי לממתק מתוק",
+          "og_image": "https://img.haarets.co.il/bs/00000197-3ace-dd58-add7-3bdf04960000/52/56/22190b6d4a86987e898938f163dc/460271.jpg?precrop=2400,1396,x0,y205&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2025-06-04/ty-article/.highlight/00000197-3ac0-dd58-add7-3bd3a3410000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2025-06-04",
+          "magazine_date": "2025-06-06",
+          "title": "בישראל של ימינו, לגדל ילדים זה הימור מסוכן מאין כמוהו",
+          "og_image": "https://img.haarets.co.il/bs/00000197-3ac0-dd58-add7-3bd3a3410000/08/76/5b34a868487daaed3a1815c15366/61792643.JPG?precrop=8192,4763,x0,y445&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2025-06-05/ty-article-face/.highlight/00000197-39d4-d340-a5d7-b9fe4f5f0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2025-06-05",
+          "magazine_date": "2025-06-06",
+          "title": "יואב זהבי: \"רק בגיל חמש סיפרו לי שירון לונדון הוא אבי. ביקשו שאשמור זאת בסוד\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-39d4-d340-a5d7-b9fe4f5f0000/ca/16/d23b45114cd3be593e98a8b3d6a7/928755.jpg?precrop=2400,1395,x0,y48&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2025-06-04/ty-article-magazine/.highlight/00000197-3b45-dd58-add7-3bd739510000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2025-06-04",
+          "magazine_date": "2025-06-06",
+          "title": "\"מלבורן היא המקום הכי טוב בעולם. כל שבוע מהגרות לשם משפחות מישראל\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-3b45-dd58-add7-3bd739510000/51/93/24da0a4447af963366cfcebd2c93/897300.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2025-06-05/ty-article/.highlight/00000197-3b71-da41-a9f7-3ff589190000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2025-06-05",
+          "magazine_date": "2025-06-06",
+          "title": "בנתינה כבר הייתם? ובצניעות? הפארקים החדשים ששווים ביקור",
+          "og_image": "https://img.haarets.co.il/bs/00000197-3b71-da41-a9f7-3ff589190000/d5/05/6a363c3c46d382c83ffc2ea2b3de/61810603.JPG?precrop=833,485,x1076,y144&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2025-06-05/ty-article-midrug/.highlight/00000197-3fc2-da41-a9f7-3fc61a310000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2025-06-05",
+          "magazine_date": "2025-06-06",
+          "title": "דרייפוס מועלה לדרגת תת־אלוף. חייבים דם חדש בפאנלים",
+          "og_image": "https://img.haarets.co.il/bs/00000197-3fc2-da41-a9f7-3fc61a310000/82/d9/d24d95b54cfbbed07731f9a73a70/headline-9.jpg?precrop=2000,1162,x0,y190&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2025-06-05/ty-article/.highlight/00000197-3b1e-d9f1-abb7-7b7eee680000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2025-06-05",
+          "magazine_date": "2025-06-06",
+          "title": "למה את מתחפשת לברוקולי? \"כדי להביע את דעתי הנוקבת נגד המלחמה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-3b1e-d9f1-abb7-7b7eee680000/a7/5e/c2f2e61507be02922b36c0c6493a/3717101915.jpg?precrop=2449,1426,x0,y79&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2025-06-05/ty-article-quotes/.highlight/00000197-3fb8-d9f1-abb7-7ffcf9a70000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2025-06-05",
+          "magazine_date": "2025-06-06",
+          "title": "\"לא יעזור לו הספין על הראש של ישראל. מי יקנה עצות והמלצות מגבר מוכה?\"",
+          "og_image": "https://img.haarets.co.il/bs/00000197-3fb8-d9f1-abb7-7ffcf9a70000/6e/d3/13ac632a4d45883abeed69beda99/145385.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2025-06-04/ty-article-20q/.highlight/00000197-39b0-d079-ab97-7df5f46e0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2025-06-04",
+          "magazine_date": "2025-06-06",
+          "title": "מי כיהן הכי הרבה שנים בתפקיד שר בממשלות ישראל (במשרדים שונים)?",
+          "og_image": "https://img.haarets.co.il/bs/00000197-39b0-d079-ab97-7df5f46e0000/00/38/1afa467e42f7a30a0d58e0d8c817/253452.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2025-06-04/ty-article-20q/.highlight/00000197-39c1-d079-ab97-7dc56c350000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2025-06-04",
+          "magazine_date": "2025-06-06",
+          "title": "איך נקרא צבע שאי אפשר לייצר מערבוב של צבעים אחרים?",
+          "og_image": "https://img.haarets.co.il/bs/00000197-39c1-d079-ab97-7dc56c350000/87/6d/8c76e0b5405ca74f5631762fc115/224489.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2025-06-04/ty-article-magazine/.highlight/00000197-3a67-dd58-add7-3bf760890000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2025-06-04",
+          "magazine_date": "2025-06-06",
+          "title": "זה ויכוח יהודי־ערבי בן יותר מ-100 שנה: מי הביא את המנדרינה הזו לארץ?",
+          "og_image": "https://img.haarets.co.il/bs/00000197-3a67-dd58-add7-3bf760890000/db/33/23cb5f404135b490995eaea78ee1/61807038.JPG?precrop=5504,3200,x0,y2505&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2025-06-05/ty-article-magazine/.premium/00000197-4002-dc9f-afbf-e0e3eaf50000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2025-06-05",
+          "magazine_date": "2025-06-06",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 6.6.2025",
+          "og_image": "https://img.haarets.co.il/bs/00000197-4002-dc9f-afbf-e0e3eaf50000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2025-06-05/ty-article/.premium/00000197-4007-da41-a9f7-7d87ac150000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2025-06-05",
+          "magazine_date": "2025-06-06",
+          "title": "דרמות בין ענקים",
+          "og_image": "https://img.haarets.co.il/bs/00000197-4007-da41-a9f7-7d87ac150000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2025-06-06/ty-article/00000197-43e6-dc9f-afbf-e3e75a6f0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2025-06-06",
+          "magazine_date": "2025-06-06",
+          "title": "אחרי 40 שנה גילה אבי בר אור מי היה החייל שנהרג במסוק שהופל",
+          "og_image": "https://img.haarets.co.il/bs/00000197-43e6-dc9f-afbf-e3e75a6f0000/b9/e5/4b55ae894174abd195ddc4ec6a8d/img-20250604-wa0012.jpg?precrop=1200,698,x0,y618&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2025-06-05/ty-article/.premium/00000197-4009-d079-ab97-654dc0590000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2025-06-05",
+          "magazine_date": "2025-06-06",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000197-4009-d079-ab97-654dc0590000/73/55/f97428fe43f48bf6b06fe3555ed7/ribooa-musaf-628.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2025-06-04/ty-article/00000197-3b71-dd58-add7-3bf3d1c40000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2025-06-04",
+          "magazine_date": "2025-06-06",
+          "title": "להיות \"ערכי\" או להיות בובת סמרטוטים מושחתת",
+          "og_image": "https://img.haarets.co.il/bs/00000197-3b71-dd58-add7-3bf3d1c40000/ad/11/1e29328645bbab269c9867563714/607818-13.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "magazine_date": "2024-10-11",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/00000192-7165-dcf6-abd2-7ff792f10001/f2/7c/af90e57d443fb35b3ff91004cb70/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-10-10/ty-article-magazine/.highlight/00000192-70ab-d292-a392-78bfa8210000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-10-09/ty-article-magazine/.highlight/00000192-6b49-dfca-adb7-7bd9fe8d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-10-09",
+          "magazine_date": "2024-10-11",
+          "title": "יובל בזק ידע שהמלחמה מגיעה. בסתר לבו, הרגיש שבנו עוד ישלם על כך בחייו",
+          "og_image": "https://img.haarets.co.il/bs/00000192-6b49-dfca-adb7-7bd9fe8d0000/e1/0e/152b620e4cf19af69cf973b1c130/58774352.JPG?precrop=4593%2C2670%2Cx0%2Cy3251&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-10-09/ty-article-magazine/.highlight/00000192-7091-d4e7-adb2-f1b7af2c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-10-09",
+          "magazine_date": "2024-10-11",
+          "title": "זה לא סתם ילקוט חד־קרן. זה תיק חסין כדורים לבית הספר",
+          "og_image": "https://img.haarets.co.il/bs/00000192-7091-d4e7-adb2-f1b7af2c0000/52/0f/55c576e647cea457bacda11532d6/071064.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-10-09/ty-article-magazine/.highlight/00000192-7092-dcf6-abd2-7fd6a9ef0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-10-09",
+          "magazine_date": "2024-10-11",
+          "title": "שאלו אותי למה בעצם להישאר ולגדל ילדים בישראל. מצאתי סיבה אחת",
+          "og_image": "https://img.haarets.co.il/bs/00000192-7092-dcf6-abd2-7fd6a9ef0000/7c/cd/13e5e23a436aa144d02559f54c0c/007496.jpg?precrop=2400%2C1395%2Cx0%2Cy110&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-10-09/ty-article/.highlight/00000192-71ba-dfca-adb7-73fbbbac0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-10-09",
+          "magazine_date": "2024-10-11",
+          "title": "השדים בשאול עסוקים בהימורים מי שופך יותר דם — פוטין או נתניהו",
+          "og_image": "https://img.haarets.co.il/bs/00000192-71ba-dfca-adb7-73fbbbac0000/f5/a5/2d222639402daf3ac3f6b88ee7d8/putin.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-10-10/ty-article-magazine/.highlight/00000192-70ab-d292-a392-78bfa8210000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-10-10",
+          "magazine_date": "2024-10-11",
+          "title": "ממשלת נתניהו לא סתם מאפשרת את הטרור היהודי בגדה. היא מממנת אותו",
+          "og_image": "https://img.haarets.co.il/bs/00000192-70ab-d292-a392-78bfa8210000/43/c4/374e91884d8cbe644807d7046867/settelers-sharing3.jpg?precrop=939%2C546%2Cx196%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-10-10/ty-article/.highlight/00000192-75c0-dfca-adb7-77d1daa60000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-10-10",
+          "magazine_date": "2024-10-11",
+          "title": "כדי לא להתייאש, אני תולה את תקוותי בנשים כמו נירה שפק ולינוי בר־גפן",
+          "og_image": "https://gif.haarets.co.il/bs/00000192-75c0-dfca-adb7-77d1daa60000/8b/59/a59d75894fef9bff7928e8dab798/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-10-09/ty-article-magazine/.highlight/00000192-7124-d2b4-afbe-ffbd2b9d0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-10-09",
+          "magazine_date": "2024-10-11",
+          "title": "זה המטוס המפורסם ביותר בעולם. אסור לנו לדבר עליו",
+          "og_image": "https://img.haarets.co.il/bs/00000192-7124-d2b4-afbe-ffbd2b9d0000/a2/79/5b32e3bb4e7cbd33360dd7aba8f0/0161379.jpg?precrop=2400%2C1395%2Cx0%2Cy467&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-10-09/ty-article/.highlight/00000192-70fc-d292-a392-78feffec0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-10-09",
+          "magazine_date": "2024-10-11",
+          "title": "זה לא עוד ספר משונה. זה מדריך לשכתוב ההיסטוריה",
+          "og_image": "https://img.haarets.co.il/bs/00000192-70fc-d292-a392-78feffec0000/9c/21/a7fae70c4f78a93ee15c057e8627/58789447.JPG?precrop=3000%2C1744%2Cx0%2Cy71&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-10-10/ty-article/.highlight/00000192-70c4-df7d-afd2-f0f544d70000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-10-10",
+          "magazine_date": "2024-10-11",
+          "title": "אל מול עליונות יהודית, גם צווי פיוס לא יועילו. מכתב לחברה מהימין",
+          "og_image": "https://img.haarets.co.il/bs/00000192-70c4-df7d-afd2-f0f544d70000/20/ab/25c722cf4604a7304125f23a7b19/544494.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2024-10-09/ty-article/.highlight/00000192-70f5-d478-adf7-74fd30e90000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2024-10-09",
+          "magazine_date": "2024-10-11",
+          "title": "מבטיחים לנו שאנחנו נמצאים כְּפֶסַע מניצחון. מה משמעות המילה?",
+          "og_image": "https://img.haarets.co.il/bs/00000192-70f5-d478-adf7-74fd30e90000/f3/a2/17a754044e25808c325aa0644e5f/58785650.JPG?precrop=4000%2C2326%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-10-09/ty-article/.highlight/00000192-711a-d478-adf7-755e30ab0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-10-09",
+          "magazine_date": "2024-10-11",
+          "title": "ליהודים ולאיראנים יש הרבה יותר במשותף ממה שנהוג לחשוב",
+          "og_image": "https://img.haarets.co.il/bs/00000192-711a-d478-adf7-755e30ab0000/7d/bf/d5f490664ecc827797f2e52f8787/087435.jpg?precrop=2400%2C1396%2Cx0%2Cy161&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-10-09/ty-article-face/.highlight/00000192-70a7-d4e7-adb2-f1a7cad10002",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-10-09",
+          "magazine_date": "2024-10-11",
+          "title": "עינב צנגאוקר",
+          "og_image": "https://img.haarets.co.il/bs/00000192-70a7-d4e7-adb2-f1a7cad10002/a6/c6/78d0de6a49dfa308a49a1440f50c/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-10-09/ty-article-magazine/.highlight/00000192-71f7-d4e7-adb2-f1f7e9820000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-10-09",
+          "magazine_date": "2024-10-11",
+          "title": "\"מה אנחנו עושות בפרלמנט? כל אחת מספרת על נכד אחד ועל מחלה אחת\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-71f7-d4e7-adb2-f1f7e9820000/ad/19/57dfa9c842b8aa073f28cb3d3294/58793595.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-10-09/ty-article/.highlight/00000192-71ca-dcf6-abd2-7fded8ee0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-10-09",
+          "magazine_date": "2024-10-11",
+          "title": "נתניהו פנה אל האיראנים והלבנונים? לא, הוא פנה לאזרחי ישראל",
+          "og_image": "https://img.haarets.co.il/bs/00000192-71ca-dcf6-abd2-7fded8ee0000/58/0d/da9096944a7598d1c9fa1d2e3da3/728053.jpg?precrop=2400%2C1396%2Cx0%2Cy274&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-10-10/ty-article-magazine/.highlight/00000192-75d3-dcf6-abd2-7fd7a3ca0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-10-10",
+          "magazine_date": "2024-10-11",
+          "title": "השלט הזה עם האיומים על ישראל בטהרן. שטח פרסום זה יכול להיות שלך",
+          "og_image": "https://img.haarets.co.il/bs/00000192-75d3-dcf6-abd2-7fd7a3ca0000/07/dd/68e49ae94e22953ff8b5f6e08d0d/headline.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-10-10/ty-article/.highlight/00000192-71a3-df7d-afd2-f1f737a60000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-10-10",
+          "magazine_date": "2024-10-11",
+          "title": "אתם מצלמים גם יהודים עם פלנלית על העיניים? \"חבל שאתה רואה את זה ככה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-71a3-df7d-afd2-f1f737a60000/c1/81/a9d80ed64cbca76f8d9f413f7717/gontag.jpeg?precrop=456%2C265%2Cx216%2Cy260&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-10-09/ty-article-magazine/.highlight/00000192-7190-dcf6-abd2-7fd67c040002",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-10-09",
+          "magazine_date": "2024-10-11",
+          "title": "\"אני מאחל לנו שהחטופים יחזרו, ולעצמי שהשופט הזה לא ישפוט אותי יותר\"",
+          "og_image": "https://img.haarets.co.il/bs/00000192-719c-ded3-adbe-7fdc92ff0000/66/06/73b70b584a3195fff8ce4b8235ab/613586.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-10-09/ty-article-20q/.highlight/00000192-6b75-d476-a5fe-6f7f11b50000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-10-09",
+          "magazine_date": "2024-10-11",
+          "title": "מי פגש את גולדה ב–25.9.73 והזהיר אותה מפני המתקפה של סוריה ומצרים?",
+          "og_image": "https://img.haarets.co.il/bs/00000192-6b75-d476-a5fe-6f7f11b50000/26/82/1924bfda44d4b005655ba62f5ec9/118885.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-10-10/ty-article-magazine/.premium/00000192-7607-dcf6-abd2-7fd7939a0001",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-10-10",
+          "magazine_date": "2024-10-11",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 11.10.2024",
+          "og_image": "https://img.haarets.co.il/bs/00000192-7607-dcf6-abd2-7fd7939a0001/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-10-10/ty-article/.highlight/00000192-760d-d4eb-a7b2-767fb5510000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-10-10",
+          "magazine_date": "2024-10-11",
+          "title": "פרידה מאלוף",
+          "og_image": "https://img.haarets.co.il/bs/00000192-760d-d4eb-a7b2-767fb5510000/24/5f/5645ecd64b6fab9e367fe2a60a5f/58789395.JPG?precrop=1846%2C1073%2Cx0%2Cy3&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-10-10/ty-article/.premium/00000192-75de-dc69-a1d6-f7fee0df0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-10-10",
+          "magazine_date": "2024-10-11",
+          "title": "מפת דרכים לאינתיפאדה: כל הדרכים מובילות להסלמה",
+          "og_image": "https://img.haarets.co.il/bs/00000192-75de-dc69-a1d6-f7fee0df0000/06/a2/e88a673c43f89a9307e70897c889/mefursamot.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-10-11/ty-article/00000192-7aa8-dcf6-abd2-7ffeb2680000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-10-11",
+          "magazine_date": "2024-10-11",
+          "title": "מחצית מחייו בין העופות: בגיל 100 מת הלולן הוותיק בישראל",
+          "og_image": "https://img.haarets.co.il/bs/00000192-7aa8-dcf6-abd2-7ffeb2680000/9b/0a/10f62c4147a784d8538bb3244561/david7.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2024-10-10/ty-article/.highlight/00000192-75ec-dc2f-addb-75fd99570000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2024-10-10",
+          "magazine_date": "2024-10-11",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000192-75ec-dc2f-addb-75fd99570000/1d/6a/4d3f6bec4d1886f00792f31fe51f/israel-striking-iran-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-10-10/ty-article/.premium/00000192-75e1-d4e7-adb2-f5e729f80000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-10-10",
+          "magazine_date": "2024-10-11",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000192-75e1-d4e7-adb2-f5e729f80000/0d/3c/b6df223945fb8762d518dfab896a/ribooa-musaf-594-new.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-10-10/ty-article/.highlight/00000192-757c-d857-a193-75ffa5fd0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-10-10",
+          "magazine_date": "2024-10-11",
+          "title": "ערב הסעודית יותר קרובה אלינו מאשר קפריסין",
+          "og_image": "https://img.haarets.co.il/bs/00000192-757c-d857-a193-75ffa5fd0000/a4/70/8dbe73144f2abd81735e5c3a9b3f/550084.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "magazine_date": "2024-06-07",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/0000018f-e8f5-d4cf-abcf-eef584c20001/57/89/4af050b644c7a5d27396bc10fb9d/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-06-05/ty-article-magazine/.highlight/0000018f-e88f-d6f2-adaf-fabf47c00000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-06-05/ty-article-magazine/.highlight/0000018f-e6b4-d11f-a5cf-e7bf17c40000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-06-05",
+          "magazine_date": "2024-06-07",
+          "title": "הנאצי שבנה לישראל כור גרעיני: הפרק האפל של אדריכל־העל פיליפ ג'ונסון",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-e6b4-d11f-a5cf-e7bf17c40000/f9/49/8ad3327342cb9f8f0d2849627caf/59307.jpg?precrop=1629%2C947%2Cx0%2Cy309&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-06-05/ty-article-magazine/.highlight/0000018f-e83b-dfee-ad8f-efbf417b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-06-05",
+          "magazine_date": "2024-06-07",
+          "title": "זה לא רק עניין של אוקראינה. אם פוטין ינצח, כולנו נסבול",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-e83b-dfee-ad8f-efbf417b0000/d1/46/e489f5ff4875ad1fdcf0736dfff3/57084850.JPG?precrop=2667%2C1551%2Cx0%2Cy175&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-06-05/ty-article-magazine/.highlight/0000018f-e88f-d6f2-adaf-fabf47c00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-06-05",
+          "magazine_date": "2024-06-07",
+          "title": "חייו ומותו של האיש מהרחוב הכי יפה בתל אביב (והירושה המפתיעה לגנן)",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-e88f-d6f2-adaf-fabf47c00000/13/1a/0ec64771472d9d436a12e9bc0027/rothshild-shenkin-v3.jpg?precrop=2717%2C1580%2Cx0%2Cy1770&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-06-05/ty-article/.highlight/0000018f-e880-d811-a5bf-ecb68f940000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-06-05",
+          "magazine_date": "2024-06-07",
+          "title": "איך קרה שפרנץ קפקא הגיע למשרדי וביקש שאייצג אותו בתביעה",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-e880-d811-a5bf-ecb68f940000/9f/26/54c5ec094384b40f5b9d6431e740/566018.jpg?precrop=1953%2C1135%2Cx0%2Cy76&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-06-06/ty-article/.highlight/0000018f-ecda-da58-a1ef-fcdaead80000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-06-06",
+          "magazine_date": "2024-06-07",
+          "title": "מותה של מכרה שלי גרם לי להיזכר בהלוויות של אבי ואמי",
+          "og_image": "https://gif.haarets.co.il/bs/0000018f-ecda-da58-a1ef-fcdaead80000/36/ca/b928747e4899a18ad3a7b9ceffa2/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-06-03/ty-article/.highlight/0000018f-d8ad-d673-ab8f-ffed90220000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-06-03",
+          "magazine_date": "2024-06-07",
+          "title": "בארה\"ב מדווחים: מרים אדלסון תתרום לטראמפ הון עתק. למה היא מצפה בתמורה?",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-d8ad-d673-ab8f-ffed90220000/4d/69/c5e06e434343b3fb41b8784faf07/483416.jpg?precrop=2400%2C1395%2Cx0%2Cy33&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-06-05/ty-article/.highlight/0000018f-e7b1-d104-abff-e7b510970000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-06-05",
+          "magazine_date": "2024-06-07",
+          "title": "כולנו מתמודדים עם סבל יומיומי. \"ימים מושלמים\" מציע פתרון לא מקובל",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-e7b1-d104-abff-e7b510970000/98/f8/b9adc4d84ecfb78b155ab79ae023/57085854.JPG?precrop=3936%2C2288%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-06-05/ty-article/.highlight/0000018f-e7a1-d1da-adaf-f7af17340000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-06-05",
+          "magazine_date": "2024-06-07",
+          "title": "הארץ שלנו הפכה למקום נורא. כבר אי אפשר להיות אירוני",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-e7a1-d1da-adaf-f7af17340000/77/eb/82311ad649ba8315371f6f62cbc3/57085918.JPG?precrop=5461%2C3175%2Cx0%2Cy390&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-06-06/ty-article-face/.highlight/0000018f-edaa-d36e-abcf-fdeea7100002",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-06-06",
+          "magazine_date": "2024-06-07",
+          "title": "\"מגיל צעיר ידעתי שאהיה אמן. המלחמה הגיעה אל היצירה שלי ממש בהתחלה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-edaa-d36e-abcf-fdeea7100002/8b/44/ec4ece41410c981ff35593b20748/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-06-05/ty-article-magazine/.highlight/0000018f-e7be-d6de-a7df-f7be7e810000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-06-05",
+          "magazine_date": "2024-06-07",
+          "title": "\"כבר הייתי אצלכם במדור פעם. גם אז חזרתי מריקודים\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-e7be-d6de-a7df-f7be7e810000/10/e5/3e8fc98248378d82f034fd629a5f/57085618.JPG?precrop=8192%2C4763%2Cx0%2Cy158&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2024-06-05/ty-article-magazine/.highlight/0000018f-e83b-d6f2-adaf-fa3f6a630000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2024-06-05",
+          "magazine_date": "2024-06-07",
+          "title": "\"אחרי 7 באוקטובר האנטישמיות בסין פשוט התפרצה. זה זיעזע אותי\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-e83b-d6f2-adaf-fa3f6a630000/a0/4a/327d1f324ab28509c38b62422f22/42811-2.jpg?precrop=1603%2C932%2Cx0%2Cy364&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-06-05/ty-article/.highlight/0000018f-e88e-dc46-a5bf-f8ceeb330000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-06-05",
+          "magazine_date": "2024-06-07",
+          "title": "אין אותי. מישהו יודע לאן נעלמתי?",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-e88e-dc46-a5bf-f8ceeb330000/68/91/f7e4bd4a4444a0644bf10871de3f/025710.jpg?precrop=1627%2C946%2Cx202%2Cy434&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-06-06/ty-article-magazine/.highlight/0000018f-ec78-dda1-a99f-efff1bb80000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-06-06",
+          "magazine_date": "2024-06-07",
+          "title": "טלי גוטליב בדרך להיחקר. על זכות השתיקה היא כבר לא תשמור",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-ec78-dda1-a99f-efff1bb80000/da/1e/bf04e43c42c9a2898bda314d2f73/headline-m.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-06-05/ty-article/.highlight/0000018f-e88b-d811-a5bf-ecbf27a20000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-06-05",
+          "magazine_date": "2024-06-07",
+          "title": "\"הפחד הכי גדול שלנו היה המטוסים של צה\"ל\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-e88b-d811-a5bf-ecbf27a20000/22/35/161bd3a642eba7c281fbe3c9ab7a/57104985.JPG?precrop=5088%2C2958%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-06-06/ty-article-magazine/.highlight/0000018f-edae-d17a-a19f-fffea0780000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-06-06",
+          "magazine_date": "2024-06-07",
+          "title": "\"ניסים ואטורי יש לו את הנקודות משבר שלו גם כן\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-edc1-d22d-a3bf-edd30ebf0000/fc/20/26841736486db92fc9cdc2c2e727/861149.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-06-05/ty-article-20q/.highlight/0000018f-e937-dc46-a5bf-f9f776110000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-06-05",
+          "magazine_date": "2024-06-07",
+          "title": "מי האדם המביט לאחור בתמונה של רבין, דיין ונרקיס בשער האריות?",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-e937-dc46-a5bf-f9f776110000/7a/f6/2a3abb0c4e99ab2eda08a2f5bf49/815465.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-06-05/ty-article-magazine/.highlight/0000018f-e7b8-d1da-adaf-f7bf74c40000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-06-05",
+          "magazine_date": "2024-06-07",
+          "title": "קרואסון טוב, גבינה טובה. לא צריך יותר מזה",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-e7b8-d1da-adaf-f7bf74c40000/7a/ad/eae85ef64a069800014bc35a06db/50160.jpg?precrop=2400%2C1396%2Cx0%2Cy57&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-06-06/ty-article-magazine/.premium/0000018f-ec6a-dba5-afdf-fefa5a320000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-06-06",
+          "magazine_date": "2024-06-07",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 7.6.2024",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-ec6a-dba5-afdf-fefa5a320000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-06-06/ty-article/.premium/0000018f-ec5f-dba5-afdf-fedffe450000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-06-06",
+          "magazine_date": "2024-06-07",
+          "title": "ניצחון יוקרתי בנורווגיה",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-ec5f-dba5-afdf-fedffe450000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-06-06/ty-article/.premium/0000018f-ec74-da58-a1ef-fcf6f3590000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-06-06",
+          "magazine_date": "2024-06-07",
+          "title": "נשים מעדיפות גברים שחצנים ויהירים",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-ec74-da58-a1ef-fcf6f3590000/ae/ff/1fcdf8ca40e99867c914e7a0a1be/mefursamot.jpg?precrop=1250%2C727%2Cx0%2Cy936&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-06-06/ty-article/0000018f-ed66-d620-a3ef-eff6d80a0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-06-06",
+          "magazine_date": "2024-06-07",
+          "title": "\"כל עוד אני חיה, השפה חיה\": מתה מתילדה כהן-סראנו, \"מלכת הלאדינו\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-ed66-d620-a3ef-eff6d80a0000/cf/f7/6dca1e024468b42d494d733ebe8d/429086.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2024-06-06/ty-article/.premium/0000018f-ec6f-dc46-a5bf-fcef5d6b0000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2024-06-06",
+          "magazine_date": "2024-06-07",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-ec6f-dc46-a5bf-fcef5d6b0000/76/a0/f8ea300943b3a48f2bb3f6dbc32f/caro-reg.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-06-06/ty-article/.premium/0000018f-ec72-dcb4-a38f-fd73f3390000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-06-06",
+          "magazine_date": "2024-06-07",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-ec72-dcb4-a38f-fd73f3390000/ea/7c/2c8da1d349b2b4ae0ae950531b40/ribooa-musaf-576.jpg?precrop=1083%2C630%2Cx0%2Cy150&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-06-05/ty-article/.highlight/0000018f-e7e7-d11f-a5cf-e7ef67840000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-06-05",
+          "magazine_date": "2024-06-07",
+          "title": "אוי לנו מפקדים כמו ברק חירם",
+          "og_image": "https://img.haarets.co.il/bs/0000018f-e7e7-d11f-a5cf-e7ef67840000/65/a3/aebc8cf741acbb5a0e21d08a8f49/24855.jpg?precrop=2200%2C1279%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

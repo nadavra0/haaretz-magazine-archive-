@@ -1,0 +1,348 @@
+{
+  "magazine_date": "2024-03-01",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/0000018d-f017-dd0a-afcf-ffd7cfbf0001/06/62/1cfcb5144c628aa4ee46f38be2b2/frontpage.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-02-29/ty-article-magazine/.highlight/0000018d-ef6e-d05b-addd-efef0b890000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-02-28/ty-article-magazine/.highlight/0000018d-ef6c-d05b-addd-efed1b5f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-02-28",
+          "magazine_date": "2024-03-01",
+          "title": "מי שמזיק והוביל לפנייה להאג היא ממשלת ישראל, לא חבריי ואני",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-ef6c-d05b-addd-efed1b5f0000/dc/a4/0a440d0340b0be80814609e80907/95517.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-02-28/ty-article-magazine/.highlight/0000018d-ef6c-d401-a3dd-ef7e2de90000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-02-28",
+          "magazine_date": "2024-03-01",
+          "title": "איך הפך רעל מסוכן לתכשיר שמיליונים מזריקים לעצמם בכל העולם?",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-ef6c-d401-a3dd-ef7e2de90000/99/b5/261081da418abf92cb856b870c37/botox2.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-02-28/ty-article-magazine/.highlight/0000018d-f052-d7f4-a3dd-f65e5a0e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-02-28",
+          "magazine_date": "2024-03-01",
+          "title": "\"זה ההישג העמוק של נתניהו - הוא לקח מפלגה ליברלית, ומשך אותה לקצה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-f052-d7f4-a3dd-f65e5a0e0000/f1/f0/3ab84730423ea16e7449c9d86ce2/34577.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-02-28/ty-article/.highlight/0000018d-f02c-d7f4-a3dd-f62c31ba0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-02-28",
+          "magazine_date": "2024-03-01",
+          "title": "יש לי לא מעט תלונות על תל אביב, אבל אז אני נזכרת בימים שחייתי בירושלים",
+          "og_image": "https://gif.haarets.co.il/bs/0000018d-f02c-d7f4-a3dd-f62c31ba0000/80/58/dde4d3174a6598d67b6ebd3f9261/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-02-29/ty-article-magazine/.highlight/0000018d-ef6b-d401-a3dd-ef7bb9b10000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-02-29",
+          "magazine_date": "2024-03-01",
+          "title": "יש רק פתרון אחד שיציל את ישראל מהקיצונים: בחירות אזוריות",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-ef6b-d401-a3dd-ef7bb9b10000/9d/fc/03a6cae5494995ffef109993083d/55744434.JPG?precrop=5028%2C2923%2Cx0%2Cy2206&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-02-29/ty-article-magazine/.highlight/0000018d-ef6e-d05b-addd-efef0b890000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-02-29",
+          "magazine_date": "2024-03-01",
+          "title": "היישוב הכי רדיקלי ומסוגר בישראל עובר מהפכה, ופותח את שעריו",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-ef6e-d05b-addd-efef0b890000/bf/c5/fff7a0d540979f0c4c018e8a3e27/87482.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-02-28/ty-article-magazine/.highlight/0000018d-ef97-d401-a3dd-ef9fcd0b0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-02-28",
+          "magazine_date": "2024-03-01",
+          "title": "השפלה בקרמלין, לעג בימין: ההתרסקות המפתיעה של העיתונאי המשפיע בארה\"ב",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-ef97-d401-a3dd-ef9fcd0b0000/75/92/84713a434c40b5ebd3b735991006/03145.jpg?precrop=2400%2C1395%2Cx0%2Cy204&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-02-28/ty-article/.highlight/0000018d-efcc-d401-a3dd-efdee7bf0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-02-28",
+          "magazine_date": "2024-03-01",
+          "title": "המסמך הזה, שיצא בחתימה רשמית, הוא סטירת לחי מעליבה לכל אזרח בישראל",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-efcc-d401-a3dd-efdee7bf0000/b6/4b/bab98ced45cd96f5430e0632c19a/22.JPG?precrop=682%2C397%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-02-28/ty-article/.highlight/0000018d-effd-dd0a-afcf-efff0e190000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-02-28",
+          "magazine_date": "2024-03-01",
+          "title": "בהיעדר מבוגר אחראי, יוזמות אזרחיות נוטלות את האחריות על תיעוד המלחמה",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-effd-dd0a-afcf-efff0e190000/53/b0/22cb796f4ee399c4b10593b0b089/55747219.JPG?precrop=7908%2C4598%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2024-02-28/ty-article/.highlight/0000018d-ef8e-d401-a3dd-ef9e784c0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2024-02-28",
+          "magazine_date": "2024-03-01",
+          "title": "בַּעֲלִיל תמיד נחשבה למילה מסתורית, אך יש לה פירוש יפה",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-ef8e-d401-a3dd-ef9e784c0000/70/fd/034b4ebf405f93edf573a06ab1a7/55729585.JPG?precrop=3481%2C2025%2Cx1296%2Cy101&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-02-28/ty-article/.highlight/0000018d-efea-d401-a3dd-effa688d0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-02-28",
+          "magazine_date": "2024-03-01",
+          "title": "האמונה באל אחד היתה בעיניו הטראומה האלימה ביותר בהיסטוריה של הדת",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-efea-d401-a3dd-effa688d0000/92/c4/e0acb4bc4745bc8c4c6b2141c662/55745448.JPG?precrop=4726%2C2748%2Cx0%2Cy324&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-02-28/ty-article-face/.highlight/0000018d-f06d-dd0a-afcf-ffff479a0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-02-28",
+          "magazine_date": "2024-03-01",
+          "title": "\"כשאני חוזרת מהצגה בבאר שבע, אני עדיין מציצה שאין בדרך איזה מחבל\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-f06d-dd0a-afcf-ffff479a0000/e9/17/ceabf55841afbf561f57d425c149/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-02-28/ty-article-magazine/.highlight/0000018d-f03c-dd0a-afcf-fffe90820000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-02-28",
+          "magazine_date": "2024-03-01",
+          "title": "\"אשתי ואני גרנו על סירה שנתיים וחצי. זה טיפול זוגי מדהים\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-f03c-dd0a-afcf-fffe90820000/dd/c6/8e207f3b4d4b98f74b4cc873b63c/55744404.JPG?precrop=4684%2C2722%2Cx0%2Cy279&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-02-29/ty-article/.highlight/0000018d-f09c-d401-a3dd-f99eae960000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-02-29",
+          "magazine_date": "2024-03-01",
+          "title": "שאנחנו נתנצל? על מה בדיוק? על ההתנצלות ללא התנצלות של כאן 11",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-f09c-d401-a3dd-f99eae960000/70/50/410e8eed4c75854f1c62d87002e2/26978.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-02-29/ty-article-magazine/.highlight/0000018d-f3f3-da4e-a18d-fffb561b0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-02-29",
+          "magazine_date": "2024-03-01",
+          "title": "יאיר גולן רץ לראשות מפלגת העבודה. שכבר יתפטר מראש וזהו",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-f3f3-da4e-a18d-fffb561b0000/e3/25/fc6106484a4d882e43c9df8fc35e/mid-2.jpg?precrop=1563%2C908%2Cx0%2Cy342&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-02-28/ty-article/.highlight/0000018d-eeec-d05b-addd-eeed352c0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-02-28",
+          "magazine_date": "2024-03-01",
+          "title": "אתה ידעת שבמשרד עורכי הדין של בתך תלויה תמונת ענק שלך. \"לא! זה לא ענק\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-eeec-d05b-addd-eeed352c0000/ba/db/64021a674b12a692408526c3d10e/698473.jpg?precrop=2400%2C1395%2Cx0%2Cy41&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-02-29/ty-article-magazine/.highlight/0000018d-f637-d401-a3dd-ff3f44290000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-02-29",
+          "magazine_date": "2024-03-01",
+          "title": "\"הלוחמים שלנו... יש מחירים כואבים, אבל בסך הכול אוכלים טוב וישנים טוב\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-f646-d401-a3dd-ff5e28cb0000/1c/d5/a6d0b59f40bfa4f9f69a3fc583fc/031695.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-02-28/ty-article-20q/.highlight/0000018d-eeb4-d05b-addd-eeb5b02c0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-02-28",
+          "magazine_date": "2024-03-01",
+          "title": "באיזה הקשר אמר בצלאל סמוטריץ' על בנימין נתניהו שהוא \"שקרן בן שקרן\"?",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-eeb4-d05b-addd-eeb5b02c0000/0c/5f/eaecf83c4ce891f0d8e6c186f2b7/017696.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-02-28/ty-article-magazine/.highlight/0000018d-efed-dd8a-a5af-efff20860000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-02-28",
+          "magazine_date": "2024-03-01",
+          "title": "אם יש גן עדן, יש בו ארטישוקים כמו שמגדלים כאן",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-efed-dd8a-a5af-efff20860000/24/63/ae8844eb4ae98060ebd05f30bcce/88888888888888888.jpg?precrop=1920%2C1116%2Cx80%2Cy70&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-02-29/ty-article-magazine/.premium/0000018d-f3ec-d7f4-a3dd-f7ec08d30000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-02-29",
+          "magazine_date": "2024-03-01",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 1.3.2024",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-f3ec-d7f4-a3dd-f7ec08d30000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-02-29/ty-article/.premium/0000018d-f3e8-d7f4-a3dd-f7ec9ec00000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-02-29",
+          "magazine_date": "2024-03-01",
+          "title": "קרבות כחול־לבן",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-f3e8-d7f4-a3dd-f7ec9ec00000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-02-29/ty-article/.premium/0000018d-f3f1-d401-a3dd-fbfb5b510000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-02-29",
+          "magazine_date": "2024-03-01",
+          "title": "צה\"ל גייס דגיגים למלחמה נגד יתושים",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-f3f1-d401-a3dd-fbfb5b510000/da/d1/109ef2c94384b28c455ba1c02566/mefursamot.jpg?precrop=1250%2C727%2Cx0%2Cy1374&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-03-01/ty-article/0000018d-f89d-d72b-a18d-fbfd751d0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-03-01",
+          "magazine_date": "2024-03-01",
+          "title": "\"הגבורה ניצחה את ההשפלה\": חסיה טאובס, שנקמה בנאצים, מתה בגיל 100",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-f89d-d72b-a18d-fbfd751d0000/05/de/34aefb12412ebef8d8ef23ed5606/screenshot-2024-03-01-071356.png?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-02-29/ty-article/.premium/0000018d-f3f7-d72b-a18d-f3f70ab80000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-02-29",
+          "magazine_date": "2024-03-01",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-f3f7-d72b-a18d-f3f70ab80000/b7/18/0f14b2f4423b871973541d63e259/ribooa-musaf-562.jpg?precrop=1083%2C630%2Cx0%2Cy123&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-02-28/ty-article/.highlight/0000018d-f094-d401-a3dd-f99e72970000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-02-28",
+          "magazine_date": "2024-03-01",
+          "title": "מקדשים התאבדות? מה פתאום. אנחנו עם חפץ חיים",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-f094-d401-a3dd-f99e72970000/71/a9/3f6180014dcea82560506eb84eec/8.jpg?precrop=3543%2C2059%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

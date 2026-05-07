@@ -1,0 +1,348 @@
+{
+  "magazine_date": "2024-02-23",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/0000018d-cca8-deb3-afdd-ffa875c80001/80/96/a766d55b4486a60d91d22a70a9d4/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2024-02-22/ty-article-magazine/.highlight/0000018d-cbf9-d09f-a3df-ebfd44260000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-02-21/ty-article-magazine/.highlight/0000018d-cbf9-dd47-adfd-dbfd3bbb0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-02-21",
+          "magazine_date": "2024-02-23",
+          "title": "מה קורה כשמסעדנית מפריז, נהג פלסטיני ונערה מהמרכז מתנדבים יחד בקטיף",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-cbf9-dd47-adfd-dbfd3bbb0000/df/5c/da3079cc47408255c36ac4385f1f/55666372.JPG?precrop=1200%2C698%2Cx0%2Cy475&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-02-21/ty-article-magazine/.highlight/0000018d-cbfc-d09f-a3df-ebfce2640000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-02-21",
+          "magazine_date": "2024-02-23",
+          "title": "הורים בתל אביב יצאו למלחמה בסמארטפונים. הם סוחפים אחריהם את העיר כולה",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-cbfc-d09f-a3df-ebfce2640000/be/8d/6aa3f1fe4735ab054578c6923d6a/d457-104.jpg?precrop=3035%2C1764%2Cx0%2Cy684&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-02-21/ty-article-magazine/.highlight/0000018d-cc01-dd47-adfd-df750e810000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-02-21",
+          "magazine_date": "2024-02-23",
+          "title": "\"אני מאמינה שחיזבאללה לא היה עושה את המעשים הנוראיים שעשה החמאס\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-cc01-dd47-adfd-df750e810000/6a/e3/d5254aa2406e9c13554e74dbd07a/55654601.JPG?precrop=4656%2C2707%2Cx0%2Cy145&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-02-22/ty-article-magazine/.highlight/0000018d-cbf9-d09f-a3df-ebfd44260000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-02-22",
+          "magazine_date": "2024-02-23",
+          "title": "דוד עברי היה שם בבור בכל הרגעים הדרמטיים. היום הוא מוכן לדבר על הכל",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-cbf9-d09f-a3df-ebfd44260000/66/18/958f0aaa446bb5d235b2b1ec08f0/84345.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-02-22/ty-article/.highlight/0000018d-d0e5-d3b8-af9f-dbed73fd0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-02-22",
+          "magazine_date": "2024-02-23",
+          "title": "ההצגה שראיתי הצליחה לנסוך בי אופטימיות. אבל אז נזכרתי שוב בנתניהו",
+          "og_image": "https://gif.haarets.co.il/bs/0000018d-d0e5-d3b8-af9f-dbed73fd0000/66/7d/b6bbda6a4997bbc589bbdf37404a/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2024-02-22/ty-article/.highlight/0000018d-d0eb-d74b-addf-d7fb35a70000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2024-02-22",
+          "magazine_date": "2024-02-23",
+          "title": "הסיפור המוזר על החייל שנסע איתי ברכבת מבאר שבע",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-d0eb-d74b-addf-d7fb35a70000/42/9e/580538b99bc4ce23b6ed9015f80f/2593653600.jpg?precrop=2448%2C1425%2Cx0%2Cy44&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-02-21/ty-article-magazine/.highlight/0000018d-cb98-d6e9-a38d-fb9d406e0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-02-21",
+          "magazine_date": "2024-02-23",
+          "title": "יש שאיפה משותפת לדתיים ולחילונים: לא מספיק לנקום. כולם צריכים למות",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-cb98-d6e9-a38d-fb9d406e0000/85/28/a7b02a354fe6863e9715264095c1/801223.jpg?precrop=1635%2C951%2Cx222%2Cy280&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-02-21/ty-article/.highlight/0000018d-cb44-d6e9-a38d-fb5d38780000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-02-21",
+          "magazine_date": "2024-02-23",
+          "title": "אוכלי בשר עדיין חושדים בחלבון אלטרנטיבי. טכנולוגיה חדשה משנה את התמונה",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-cb44-d6e9-a38d-fb5d38780000/d2/7b/e5e215d94842b2d556e60eedd549/55653465.JPG?precrop=1437%2C836%2Cx0%2Cy534&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2024-02-21/ty-article/.highlight/0000018d-cbd3-d6e9-a38d-fbdfec6a0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2024-02-21",
+          "magazine_date": "2024-02-23",
+          "title": "הבטתי במראה, ותהיתי: מה זה בכלל \"אף יהודי\"?",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-cbd3-d6e9-a38d-fbdfec6a0000/dd/a4/6193694b44d188bdc8c5306478fc/55653007.JPG?precrop=5760%2C3349%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2024-02-21/ty-article/.highlight/0000018d-cbcc-d6e9-a38d-fbdd0e940000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2024-02-21",
+          "magazine_date": "2024-02-23",
+          "title": "כיצד יהודים יכולים לדמוע מסדרה בנטפליקס, אבל להיות אדישים למתרחש בעזה?",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-cbcc-d6e9-a38d-fbdd0e940000/03/07/2a03c80e4adfb17b4d7dec1e2741/19743.jpg?precrop=2400%2C1395%2Cx0%2Cy66&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2024-02-21/ty-article-face/.highlight/0000018d-cd4f-dc9a-a3ad-edef3fbc0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2024-02-21",
+          "magazine_date": "2024-02-23",
+          "title": "\"יוסי בניון פנה אלי עם דמעות בעיניים. מאז אני משתדל לא להתלהם\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-cd4f-dc9a-a3ad-edef3fbc0000/8f/0d/96cf2d1449fd95eb1374c35b4457/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2024-02-22/ty-article-magazine/.highlight/0000018d-cb61-ddae-a18f-ffff20b00000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2024-02-22",
+          "magazine_date": "2024-02-23",
+          "title": "\"כולם בקנדה אמרו לי לחזור הביתה מיד. אמרתי להם שאני לא רוצה לעזוב\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-cb61-ddae-a18f-ffff20b00000/81/45/074c7f1c47dcb1afc882c53a66a6/55652761.JPG?precrop=5808%2C3375%2Cx0%2Cy116&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2024-02-22/ty-article/.highlight/0000018d-cc0b-dd47-adfd-df7fa1bc0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2024-02-22",
+          "magazine_date": "2024-02-23",
+          "title": "גם ישראל קימבנה תו נכה: עוד זווית על המצב הקטסטרופלי שנקלענו אליו",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-cc0b-dd47-adfd-df7fa1bc0000/1c/e1/37d427bba643c1107d4be7365084/3084347110.jpg?precrop=2181%2C1268%2Cx19%2Cy147&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2024-02-21/ty-article-magazine/.highlight/0000018d-cd0f-deb3-afdd-ffaf7e4c0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2024-02-21",
+          "magazine_date": "2024-02-23",
+          "title": "נשיא ברזיל, אישיות בלתי רצויה. לא, כי ישראל כץ",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-cd0f-deb3-afdd-ffaf7e4c0000/96/eb/a2c3eb474bd487c98d43c0eee910/headline.jpg?precrop=1563%2C909%2Cx0%2Cy276&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2024-02-21/ty-article/.highlight/0000018d-cbde-dd47-adfd-dbfe86060000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2024-02-21",
+          "magazine_date": "2024-02-23",
+          "title": "אני מנסה להבין איך נכנסת לעזה. \"למה שאדבר עם ביטאון של החמאס\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-cbde-dd47-adfd-dbfe86060000/b9/f3/f9469f1643c581e77a57551dea10/55668102.JPG?precrop=1469%2C854%2Cx0%2Cy443&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2024-02-21/ty-article-magazine/.highlight/0000018d-cd53-d2b4-a9bf-cf772f3c0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2024-02-21",
+          "magazine_date": "2024-02-23",
+          "title": "\"רק מהמבט שלה אני מקבלת אנרגיות של קדושה וטהרה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-cd7d-df79-a5cd-ed7fcdd10000/68/22/15eb064f4389b18f59db0083bf72/022548.jpg?height=630&width=1200&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2024-02-21/ty-article-20q/.highlight/0000018d-cd1a-d2b4-a9bf-cf7ed2ee0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2024-02-21",
+          "magazine_date": "2024-02-23",
+          "title": "מה היה ההר הגבוה ביותר בישראל לפני מלחמת ששת הימים?",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-cd1a-d2b4-a9bf-cf7ed2ee0000/e1/1c/ebd64e114df1a121759b3081c644/811921.jpg?precrop=1864%2C1084%2Cx246%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2024-02-21/ty-article-magazine/.highlight/0000018d-cbec-d6e9-a38d-fbfdf0a30000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2024-02-21",
+          "magazine_date": "2024-02-23",
+          "title": "מעטים מכינים את מאכל התאווה הזה כמו שמכינים אותו כאן",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-cbec-d6e9-a38d-fbfdf0a30000/41/8b/d9a39f614ac6bb2d49249deb6eff/88.jpg?precrop=1333%2C775%2Cx0%2Cy1152&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2024-02-21/ty-article-magazine/.premium/0000018d-cd05-deb3-afdd-ffa56bb40000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2024-02-21",
+          "magazine_date": "2024-02-23",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 23.2.2024",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-cd05-deb3-afdd-ffa56bb40000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2024-02-21/ty-article/.premium/0000018d-cd01-d081-a39d-ed63af680000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2024-02-21",
+          "magazine_date": "2024-02-23",
+          "title": "משחקים ללא תיאוריה",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-cd01-d081-a39d-ed63af680000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2024-02-21/ty-article/.premium/0000018d-cd17-d914-a5ad-cf1729db0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2024-02-21",
+          "magazine_date": "2024-02-23",
+          "title": "קליאו פטרה תפגיש אותך עם גורלך",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-cd17-d914-a5ad-cf1729db0000/15/fc/d321e54c4067a55eb363f280db29/mefursamot.jpg?precrop=1250%2C727%2Cx0%2Cy2826&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2024-02-22/ty-article/0000018d-d040-d398-a5ff-f246ddf10000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2024-02-22",
+          "magazine_date": "2024-02-23",
+          "title": "היא שרדה שני פוגרומים ביהודים. רחל שזר, ממקימות בארי, מתה בגיל 97",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-d040-d398-a5ff-f246ddf10000/9e/aa/6a6f24d04edab6b114bc12f40d58/54500524.JPG?width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2024-02-21/ty-article/.premium/0000018d-cd0c-d101-a3dd-fdbf36630000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2024-02-21",
+          "magazine_date": "2024-02-23",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-cd0c-d101-a3dd-fdbf36630000/b1/1f/fa699f6643c7a81465886466bd3f/car-photo.jpg?precrop=2800%2C1628%2Cx0%2Cy34&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2024-02-21/ty-article/.premium/0000018d-cd23-d606-a79d-ddff79c60000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2024-02-21",
+          "magazine_date": "2024-02-23",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-cd23-d606-a79d-ddff79c60000/09/a2/331517d6412a834c18a174e3edce/ribooa-musaf-561.jpg?precrop=1084%2C630%2Cx0%2Cy168&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2024-02-22/ty-article/.highlight/0000018d-cbec-dd47-adfd-dbfc73bc0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2024-02-22",
+          "magazine_date": "2024-02-23",
+          "title": "לקיבוץ יש זכות קיום רק אם יילחם על דמותה של המדינה",
+          "og_image": "https://img.haarets.co.il/bs/0000018d-cbec-dd47-adfd-dbfc73bc0000/81/58/63f430f3440ca0e5b85f8a705900/09307.jpg?precrop=1601%2C931%2Cx0%2Cy534&width=1200&height=630&cmsprod=&watermark=htz-2024",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "magazine_date": "2026-01-16",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/0000019b-bcd5-d85c-a9fb-fdd72dda0001/d4/ba/275713934e96bdf54fc75065de27/shaar-6.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-01-14/ty-article-magazine/.highlight/0000019b-bb83-dfa7-a5bb-bb833b960000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-01-14/ty-article-magazine/.highlight/0000019b-bb83-dfa7-a5bb-bb833b960000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-01-14",
+          "magazine_date": "2026-01-16",
+          "title": "אני והחבר הנאצי שלי",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-bb83-dfa7-a5bb-bb833b960000/6e/50/14035d384eae974c8099f48baacf/untitled-2-1.jpg?precrop=2924,1699,x0,y253&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-01-14/ty-article-magazine/.highlight/0000019b-bbce-d6d3-a59b-bbef1a2b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-01-14",
+          "magazine_date": "2026-01-16",
+          "title": "איש חינוך מירושלים עושה טעות ונכנס לכלא. היומן שהוא כותב לא נותן מנוח",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-bbce-d6d3-a59b-bbef1a2b0000/0f/db/c2d03f86439d8f52eb37f486a4fc/301955.jpg?precrop=2400,1396,x0,y205&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-01-15/ty-article-magazine/.highlight/0000019b-bb8b-db72-a19b-bb8b0f3c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-01-15",
+          "magazine_date": "2026-01-16",
+          "title": "הוא שמר במשך שנים את הסודות הכמוסים ביותר של נתניהו. כעת הוא מספר הכל",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-bb8b-db72-a19b-bb8b0f3c0000/6a/5a/8d2c65214b5d8038f0fc165225fe/301290.jpg?precrop=1740,1012,x0,y346&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-01-15/ty-article/.highlight/0000019b-c0a1-d85c-a9fb-f1e752c30000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-01-15",
+          "magazine_date": "2026-01-16",
+          "title": "ביקור עם חברות בחיפה העלה בי מחשבות על הגיל שלי",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-c0a1-d85c-a9fb-f1e752c30000/2c/15/e79da708440f9a10e2c9cb14975b/16-1-26-web.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-01-14/ty-article/.highlight/0000019b-bc78-d6d3-a59b-bd7be66b0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-01-14",
+          "magazine_date": "2026-01-16",
+          "title": "יהודים מכובדים עסקו במשך דורות בסרסרות. מתי קיבלה המילה תפנית נפשעת?",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-bc78-d6d3-a59b-bd7be66b0000/cf/9e/dfd5de3440119865e49aee469060/64401852.JPG?precrop=5284,3072,x326,y0&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-01-14/ty-article/.highlight/0000019b-bc95-dafc-a39b-bcf525490000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-01-14",
+          "magazine_date": "2026-01-16",
+          "title": "כשישראל ניסתה לקבוע עובדות בשטח באמצעות שדה התעופה בירושלים",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-bc95-dafc-a39b-bcf525490000/f0/4f/767e30a6486e8c0c676348d2f4be/64381599.JPG?precrop=3252,1893,x0,y0&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-01-14/ty-article/.highlight/0000019b-bca4-d641-a9bf-bfb440380000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-01-14",
+          "magazine_date": "2026-01-16",
+          "title": "ופתאום נתקלתי בו בפייסבוק: אמיר, הבריון שהטיל אימה על שכונת הילדות שלי",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-bca4-d641-a9bf-bfb440380000/a3/a9/8b62390746f1969c89a209962cc4/64287674.JPG?precrop=5301,3082,x0,y452&width=1200&height=630&cmsprod"
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-01-15/ty-article/.highlight/0000019b-c103-d85c-a9fb-f1472fa60000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-01-15",
+          "magazine_date": "2026-01-16",
+          "title": "ההסברה לא נכשלת. היא עובדת מצוין, מול הישראלים עצמם",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-c103-d85c-a9fb-f1472fa60000/3d/8e/187489674e14a1d1cb314239c7ca/64411483.JPG?precrop=1792,1042,x18,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-01-14/ty-article/.highlight/0000019b-bc82-d66b-a5df-bed2f6a50000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-01-14",
+          "magazine_date": "2026-01-16",
+          "title": "היסטוריונים מתווכחים האם טראמפ דומה לנירון קיסר. ההשוואה אופטימית מדי",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-bc82-d66b-a5df-bed2f6a50000/df/3b/51c978524a66a63aa93ead953ca0/64401282.JPG?precrop=3227,1876,x0,y129&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-01-14/ty-article-face/.highlight/0000019b-bc99-decf-a99f-bff9624b0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-01-14",
+          "magazine_date": "2026-01-16",
+          "title": "סולימאן מסוודה",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-bc99-decf-a99f-bff9624b0000/74/30/50938866460baef2bfb05fb9040e/391542.jpg?precrop=2400,1395,x0,y39&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-01-14/ty-article-magazine/.highlight/0000019b-bc6c-d356-a3fb-feec5d760000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-01-14",
+          "magazine_date": "2026-01-16",
+          "title": "\"היגרתי בגיל 60 פלוס. יש רגעים בשווייץ שאני תוהה מה בדיוק חשבתי לעצמי\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-bc6c-d356-a3fb-feec5d760000/1b/2e/0f6c66f84ec382b608867aa767c2/64381606.JPG?precrop=7548,4388,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2026-01-14/ty-article-magazine/.highlight/0000019b-bcc3-d85c-a9fb-fdc7036e0000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2026-01-14",
+          "magazine_date": "2026-01-16",
+          "title": "\"אם הפעם זה ייכשל, המשטר באיראן יבין שכוחו בלתי מוגבל. יהיה סרט אימה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-bcc3-d85c-a9fb-fdc7036e0000/ef/0f/aca946164eecac9184e58e8238f4/tamar.JPG?precrop=2067,1202,x0,y1412&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-01-15/ty-article-midrug/.highlight/0000019b-c1e5-d810-a99f-d3f5ceea0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-01-15",
+          "magazine_date": "2026-01-16",
+          "title": "יאיר נתניהו, חבר מרכז הליכוד. הגיע הזמן להשפיע מבפנים",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-c1e5-d810-a99f-d3f5ceea0000/17/b2/ef1392f841ba93510bd1ff17df57/headline.jpg?precrop=2000,1163,x0,y349&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-01-14/ty-article/.highlight/0000019b-bc63-dfa7-a5bb-bf63dd950000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-01-14",
+          "magazine_date": "2026-01-16",
+          "title": "למה שיריינת מקום ליאיר נתניהו במרכז הליכוד? \"היה לי מקום פנוי\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-bc63-dfa7-a5bb-bf63dd950000/46/64/a9d92bc64954afdafc8a2b84190d/64412743.JPG?precrop=1718,998,x1688,y1083&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-01-14/ty-article-quotes/.highlight/0000019b-bc8b-d641-a9bf-bf9b08300000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-01-14",
+          "magazine_date": "2026-01-16",
+          "title": "\"אם היינו מתעסקים בכל אחד שחוקרים, היינו נשארים שני אנשים\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-bc8b-d641-a9bf-bf9b08300000/7d/7c/d5476ea54b228fec63b2e4f5b1bd/304926.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-01-14/ty-article-20q/.highlight/0000019b-bc78-d356-a3fb-fefc986e0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-01-14",
+          "magazine_date": "2026-01-16",
+          "title": "מה הקשר בין הסרטים \"אלאדין\" ו\"רשימת שינדלר\"?",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-bc78-d356-a3fb-fefc986e0000/3b/70/9577a6384b4fb082ce1671dcfb85/609225.jpg?precrop=2400,1395,x0,y269&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2026-01-15/ty-article-magazine/.highlight/0000019b-c12b-d641-a9bf-c3bb07ed0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2026-01-15",
+          "magazine_date": "2026-01-16",
+          "title": "יחידת אגוז: האנשים שחולמים למלא את הארץ בעצי מקדמיה",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-c12b-d641-a9bf-c3bb07ed0000/74/53/c70f73ee44cdb6d46c540385c443/392933.jpg?precrop=2400,1395,x0,y85&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-01-15/ty-article-magazine/.premium/0000019b-c0cf-d810-a99f-d2ff50610000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-01-15",
+          "magazine_date": "2026-01-16",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 16.1.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-c0cf-d810-a99f-d2ff50610000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-01-15/ty-article/.premium/0000019b-c0d3-d85c-a9fb-f1d714fb0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-01-15",
+          "magazine_date": "2026-01-16",
+          "title": "מתכונת חדשה",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-c0d3-d85c-a9fb-f1d714fb0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2026-01-15/ty-article/.premium/0000019b-c0db-d810-a99f-d2ff5f460000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2026-01-15",
+          "magazine_date": "2026-01-16",
+          "title": "ואנונו יקבל בחזרה את הווקמן",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-c0db-d810-a99f-d2ff5f460000/cd/3e/c8e8843c4bf79e6286536caf51e3/mefursamot.jpg?precrop=1250,727,x0,y42&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-01-15/ty-article/0000019b-c0d9-d810-a99f-d2fd6ee80000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-01-15",
+          "magazine_date": "2026-01-16",
+          "title": "נער נודניק הביא את ד\"ר גבי ברקאי לתגלית חייו: הטקסט המקראי הקדום ביותר",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-c0d9-d810-a99f-d2fd6ee80000/b8/c7/83e15d724d5ab4d75adba38003ee/047907070311tommere-03894.jpg?&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-01-15/ty-article/.premium/0000019b-c0dc-d85c-a9fb-f1dfa3c50000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-01-15",
+          "magazine_date": "2026-01-16",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-c0dc-d85c-a9fb-f1dfa3c50000/ba/a6/b40cd2b142e7becd2b952518b579/ribooa-musaf-660-new.jpg?precrop=1083,630,x0,y95&width=1200&height=630&cmsprod"
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-01-14/ty-article/0000019b-bde9-d484-a9bf-fff9208d0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-01-14",
+          "magazine_date": "2026-01-16",
+          "title": "\"ביבי מלך\" זו לא רק שפה דלה. זה ויתור על מעמדנו כאזרחים",
+          "og_image": "https://img.haarets.co.il/bs/0000019b-bde9-d484-a9bf-fff9208d0000/0b/ec/e71a997a4b9293c4e40a2d9ccf8d/160040.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod"
+        }
+      ]
+    }
+  }
+}
