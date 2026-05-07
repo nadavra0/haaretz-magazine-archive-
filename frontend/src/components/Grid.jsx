@@ -20,7 +20,7 @@ export default function Grid({ issues, onSelect, formatDate }) {
   const [selectedYear, setSelectedYear] = useState(() => years[0] ?? null)
 
   const filtered = useMemo(
-    () => issues.filter(i => i.magazine_date.startsWith(selectedYear)),
+    () => selectedYear === 'all' ? issues : issues.filter(i => i.magazine_date.startsWith(selectedYear)),
     [issues, selectedYear]
   )
 
@@ -35,6 +35,12 @@ export default function Grid({ issues, onSelect, formatDate }) {
   return (
     <div>
       <div className="year-tabs">
+        <button
+          className={`year-tab ${'all' === selectedYear ? 'active' : ''}`}
+          onClick={() => setSelectedYear('all')}
+        >
+          הכל
+        </button>
         {years.map(y => (
           <button
             key={y}
@@ -46,7 +52,7 @@ export default function Grid({ issues, onSelect, formatDate }) {
         ))}
       </div>
       <div className="grid-heading">
-        <h2>גיליונות {selectedYear}</h2>
+        <h2>{selectedYear === 'all' ? 'כל הגיליונות' : `גיליונות ${selectedYear}`}</h2>
         <span className="grid-count">{filtered.length} מוספים</span>
       </div>
       <div className="grid">
