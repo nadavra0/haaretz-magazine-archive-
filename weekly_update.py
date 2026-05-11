@@ -17,7 +17,7 @@ How cover detection works:
   - Priority 2: og:image whose filename matches the date pattern
   - Existing cover is NEVER overwritten unless a Priority-1 shaar_image is found
 """
-import subprocess, shutil, os, sys
+import subprocess, shutil, os, sys, json, re
 from datetime import datetime, timedelta
 
 ARCHIVE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -56,17 +56,24 @@ def main():
     if r.returncode != 0:
         log(f"ERROR in scraper: {r.stderr.strip()}")
 
-    # 2. Find/update cover for the new issue
+    # 2. Find/update cover for the new issue — skip if already has a shaar/frontpage cover
     issue_path = os.path.join(ISSUES_DIR, f"{mag_date}.json")
     if os.path.exists(issue_path):
-        log(f"Finding cover for {mag_date}...")
-        r = subprocess.run(
-            [PYTHON, "find_cover.py", mag_date],
-            cwd=ARCHIVE_DIR, capture_output=True, text=True
-        )
-        log(r.stdout.strip() or "(no output)")
-        if r.returncode != 0:
-            log(f"WARN cover finder: {r.stderr.strip()}")
+        existing_cover = json.load(open(issue_path)).get("cover_image", "")
+        fname = existing_cover.split('/')[-1].split('?')[0].lower()
+        has_good_cover = ('shaar' in fname or bool(re.match(r'mu\d+', fname))
+                          or fname.startswith('frontpage') or fname.startswith('frontpgae'))
+        if has_good_cover:
+            log(f"Cover already set ({fname}) — skipping find_cover.py")
+        else:
+            log(f"Finding cover for {mag_date}...")
+            r = subprocess.run(
+                [PYTHON, "find_cover.py", mag_date],
+                cwd=ARCHIVE_DIR, capture_output=True, text=True
+            )
+            log(r.stdout.strip() or "(no output)")
+            if r.returncode != 0:
+                log(f"WARN cover finder: {r.stderr.strip()}")
     else:
         log(f"WARN: {mag_date}.json not found — magazine may not exist yet")
 
