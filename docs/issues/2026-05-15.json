@@ -1,0 +1,353 @@
+{
+  "magazine_date": "2026-05-15",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/0000019e-21ca-d907-ad9e-3fff2fb90001/f2/cf/976dc647484bba311341f47835e2/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-05-13/ty-article-magazine/.highlight/0000019e-2081-d14f-abfe-2385f2d50000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-05-13/ty-article-magazine/.highlight/0000019e-207a-d907-ad9e-3eff70800000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-05-13",
+          "magazine_date": "2026-05-15",
+          "title": "איך זה מרגיש כשמתנחל מפוצץ אותך במכות",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-207a-d907-ad9e-3eff70800000/d9/4f/e6a747c84e4982ed260dddf2080b/938645.jpg?precrop=1351,786,x0,y549&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-05-13/ty-article-magazine/.highlight/0000019e-2081-d14f-abfe-2385f2d50000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-05-13",
+          "magazine_date": "2026-05-15",
+          "title": "האם יש חיים מחוץ לכדור הארץ? כל הסימנים מעידים שהתשובה מעבר לפינה",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-2081-d14f-abfe-2385f2d50000/7e/6b/610586774e2fac816651e52ab2d2/kepler-shituf.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-05-13/ty-article-magazine/.highlight/0000019e-20bd-d336-a9be-20fde0a30000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-05-13",
+          "magazine_date": "2026-05-15",
+          "title": "לקראת הבחירות: ארגון ליברלי יוזם הטסה המונית של ישראלים שגרים בחו\"ל",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-20bd-d336-a9be-20fde0a30000/00/c2/7c75dda44c7e9c6004714030e01e/a111.jpg?precrop=6020,3499,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-05-13/ty-article/.highlight/0000019e-2157-d618-adde-31776d5d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-05-13",
+          "magazine_date": "2026-05-15",
+          "title": "אפשר להפסיק לחפש אשמים ב-7 באוקטובר. החלטתי להודות",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-2157-d618-adde-31776d5d0000/97/6d/2db9538647a7a14e7c9a6feb5ae8/65615377.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-05-14/ty-article/.highlight/0000019e-25a5-d14f-abfe-27a554dd0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-05-14",
+          "magazine_date": "2026-05-15",
+          "title": "ספרה האחרון של נורית גרץ עורר בי מחשבות על זיקנה, זיכרון ושיכחה",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-25a5-d14f-abfe-27a554dd0000/3b/d7/6141c9304b02a8044bc56a096128/15-5-26-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-05-13/ty-article-magazine/.highlight/0000019e-2159-d14f-abfe-23dd19370000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-05-13",
+          "magazine_date": "2026-05-15",
+          "title": "\"מחר אני הולך למות על ידי תלייה. האם יש עוד בן אדם מאושר כמוני?\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-2159-d14f-abfe-23dd19370000/cc/44/7cf56d184882b6a4658c3d522da6/65595389.JPG?precrop=2716,1579,x0,y67&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-05-13/ty-article/.highlight/0000019e-2108-dccb-abde-697a04270000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-05-13",
+          "magazine_date": "2026-05-15",
+          "title": "כשהבית נשרף, השאלה \"האם אתה ציוני\" כבר לא רלוונטית",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-2108-dccb-abde-697a04270000/da/b9/fe35c72d47bb9fff13d5d89136b6/865734.jpg?precrop=2400,1395,x0,y208&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-05-13/ty-article/.highlight/0000019e-211c-d907-ad9e-3fbf4fb80000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-05-13",
+          "magazine_date": "2026-05-15",
+          "title": "טיפוס חדש השתלט על החברה הישראלית: הנובוריש הפוליטי",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-211c-d907-ad9e-3fbf4fb80000/37/fc/3aa60b064ee7b14a2dbc0f8e33a6/65592512.JPG?precrop=3335,1938,x1444,y851&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-05-13/ty-article/.highlight/0000019e-2113-d14f-abfe-2397d5d80000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-05-13",
+          "magazine_date": "2026-05-15",
+          "title": "ראש כרות ושפתיים משגעות: כיצד הפך מחזה מהמאה ה-19 ללהיט בתל אביב?",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-2113-d14f-abfe-2397d5d80000/4e/42/f0d38bdc432bb9ac5663d3364847/65602085.JPG?precrop=3064,1782,x1076,y387&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-05-14/ty-article-face/.highlight/0000019e-2574-d336-a9be-257458ef0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-05-14",
+          "magazine_date": "2026-05-15",
+          "title": "אלי חביב",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-2574-d336-a9be-257458ef0000/a9/98/63b660044f4089c29fd5c7c842ef/939723.jpg?precrop=2400,1395,x0,y47&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-05-13/ty-article-magazine/.highlight/0000019e-2047-d336-a9be-204719390000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-05-13",
+          "magazine_date": "2026-05-15",
+          "title": "\"גם אם תעבוד שם בשכר מינימום, תוך כמה שנים תוכל לקנות דירה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-2047-d336-a9be-204719390000/7f/cb/6c250216468d9bee990202eeb242/65585547.JPG?precrop=8192,4763,x0,y134&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2026-05-13/ty-article-magazine/.highlight/0000019e-2165-d907-ad9e-3fff500d0000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2026-05-13",
+          "magazine_date": "2026-05-15",
+          "title": "\"ההצעות המגונות בכל מקום. פעם הוזמנתי לבית ומישהו הציע לי בת דודה שלו\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-2165-d907-ad9e-3fff500d0000/6f/b0/2b0f585d45f39c1bccb03d97642b/65612498.JPG?precrop=5568,3236,x0,y476&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-05-13/ty-article/.highlight/0000019e-2177-d14f-abfe-23f7ed510000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-05-13",
+          "magazine_date": "2026-05-15",
+          "title": "הם מפרגנים לנשים שלהם, לכאורה. אבל משהו מסתתר שם בשפת החנופה",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-2177-d14f-abfe-23f7ed510000/97/51/b4d8af3745e79bb779e71953dd42/65612568.JPG?precrop=1181,687,x0,y587&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-05-14/ty-article-midrug/.highlight/0000019e-2638-d336-a9be-267c3a990000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-05-14",
+          "magazine_date": "2026-05-15",
+          "title": "עובדת ששרה נתניהו זרקה עליה עגבניות וזיתים תקבל פיצוי. לחם שום",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-2638-d336-a9be-267c3a990000/e6/2d/7e17d79345a989fd3bcae837ddaf/headline.jpg?precrop=2000,1163,x0,y315&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-05-14/ty-article/.highlight/0000019e-2111-d618-adde-317324af0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-05-14",
+          "magazine_date": "2026-05-15",
+          "title": "כשבעלי הון מתערבים בערוץ אתה לא זועק כי הם שמאלנים? \"זה לא המצב\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-2111-d618-adde-317324af0000/2a/93/649cb95244b3af8eea27191776f7/65605399.JPG?precrop=5517,3207,x577,y489&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-05-14/ty-article-quotes/.highlight/0000019e-2577-d618-adde-3577dfbf0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-05-14",
+          "magazine_date": "2026-05-15",
+          "title": "\"אחריות היא דבר טכני\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-2577-d618-adde-3577dfbf0000/1a/4e/0ca24d6e45fa81235b99a5d9678c/882403.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-05-14/ty-article-20q/.highlight/0000019e-255d-d14f-abfe-27dd5f6e0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-05-14",
+          "magazine_date": "2026-05-15",
+          "title": "באיזו מדינה חיים כמעט כל הלמורים בעולם?",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-255d-d14f-abfe-27dd5f6e0000/6a/6f/71f510614556a2d928fd3337331d/0584719.jpg?precrop=2400,1395,x0,y259&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2026-05-14/ty-article-magazine/.highlight/0000019e-256f-dccb-abde-6d7f8c3a0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2026-05-14",
+          "magazine_date": "2026-05-15",
+          "title": "קשה לחשוב על עונג גדול יותר מאשר המשקאות שמייצרים ומגישים כאן",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-256f-dccb-abde-6d7f8c3a0000/df/68/209e658e4efb84d98bf15270d0e3/1.jpg?precrop=1428,830,x0,y587&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-05-14/ty-article-magazine/.premium/0000019e-255b-d336-a9be-255f1cc00000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-05-14",
+          "magazine_date": "2026-05-15",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 15.5.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-255b-d336-a9be-255f1cc00000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-05-14/ty-article/.premium/0000019e-255e-d14f-abfe-27dea0830000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-05-14",
+          "magazine_date": "2026-05-15",
+          "title": "קרלסן ניצח בשוודיה",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-255e-d14f-abfe-27dea0830000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2026-05-14/ty-article/.premium/0000019e-2560-dccb-abde-6d72fc440000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2026-05-14",
+          "magazine_date": "2026-05-15",
+          "title": "הליכוד: לא נסתיר את שמיר, נפיץ דיוקנו על גלויה",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-2560-dccb-abde-6d72fc440000/85/04/b82588aa4c9e9d5e02c02880e998/mefursamot.jpg?precrop=1250,727,x0,y844&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-05-14/ty-article/0000019e-27b5-d336-a9be-27f5525f0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-05-14",
+          "magazine_date": "2026-05-15",
+          "title": "במנזר קיוו שיהיה לאפיפיור, אך לשלמה ברזניץ היו תוכניות אחרות",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-27b5-d336-a9be-27f5525f0000/77/eb/cecfaaa746e0ba47a05225ac3113/kaminski2007-4872.jpg?precrop=2400,1394,x0,y87&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2026-05-14/ty-article/.premium/0000019e-2564-dccb-abde-6d766b3c0000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2026-05-14",
+          "magazine_date": "2026-05-15",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-2564-dccb-abde-6d766b3c0000/07/5a/489779c9477aa0dad98eb452d6e2/caro.jpg?precrop=860,500,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-05-14/ty-article/.premium/0000019e-2568-d618-adde-357a0ad60000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-05-14",
+          "magazine_date": "2026-05-15",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-2568-d618-adde-357a0ad60000/48/50/8cf98e4c4797ab30c97e3c2409b3/ribooa-musaf-677.jpg?precrop=1083,630,x0,y125&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-05-13/ty-article/.highlight/0000019e-212b-d336-a9be-216f65400000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-05-13",
+          "magazine_date": "2026-05-15",
+          "title": "קשה להאמין: בישראל קם כוח שנלחם בלקחי השואה",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-212b-d336-a9be-216f65400000/a7/14/748e99f946d3a1f69bb942a74d77/777862.jpg?precrop=2400,1396,x0,y94&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}
