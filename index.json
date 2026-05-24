@@ -1,6 +1,12 @@
 {
   "issues": [
     {
+      "magazine_date": "2026-05-22",
+      "total_articles": 24,
+      "section_count": 18,
+      "cover_image": "https://img.haarets.co.il/bs/0000019e-46c3-dc0d-a99e-ceef363e0001/69/73/1a813ed044449b0ae3ba02326014/shaar-2.jpg?precrop=1071,623,x316,y201&width=230&height=134&cmsprod"
+    },
+    {
       "magazine_date": "2026-05-15",
       "total_articles": 25,
       "section_count": 19,
@@ -775,6 +781,6 @@
       "cover_image": null
     }
   ],
-  "last_updated": "2026-05-17T10:30:26.529114",
-  "total_issues": 129
+  "last_updated": "2026-05-24T10:30:28.368763",
+  "total_issues": 130
 }
