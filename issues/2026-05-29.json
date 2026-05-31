@@ -1,0 +1,338 @@
+{
+  "magazine_date": "2026-05-29",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/0000019e-69a2-de90-a7be-fba7b2140000/b1/4f/a3ffd93e4b6fb2072cfaec0983b5/shaar-21.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-05-28/ty-article-magazine/.highlight/0000019e-68cf-da5d-a7fe-7befffb80000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-05-28/ty-article-magazine/.highlight/0000019e-68cf-da5d-a7fe-7befffb80000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-05-28",
+          "magazine_date": "2026-05-29",
+          "title": "13 הסימנים שפוספסו והתיעוד המבעית חצי שעה לפני. מה קרה בליל 7 באוקטובר",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-68cf-da5d-a7fe-7befffb80000/55/ca/1b944295403baff278ee1116d51a/musaf-amosharel-27-02-2026-amos-promotionshakuf.png?precrop=1049,610,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-05-28/ty-article-magazine/.highlight/0000019e-68f0-d1b9-a9bf-f8fcb8d40000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-05-28",
+          "magazine_date": "2026-05-29",
+          "title": "רק חרדים מצביעים בהמוניהם? מחקר חושף את המצביעים החבויים של השמאל",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-68f0-d1b9-a9bf-f8fcb8d40000/0e/36/8e0ba0604588b13872d2d5313aca/65835667.JPG?precrop=3840,2231,x0,y329&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-05-28/ty-article-magazine/.highlight/0000019e-68f1-da7d-a1bf-f8f122af0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-05-28",
+          "magazine_date": "2026-05-29",
+          "title": "קבוצת מדענים בווירג'יניה עוסקת בחקר גלגול נשמות. זה מסעיר כמו שזה נשמע",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-68f1-da7d-a1bf-f8f122af0000/39/a5/42b260df41e5834d6444214928a5/65825492.JPG?precrop=4500,2616,x0,y317&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-05-28/ty-article/.highlight/0000019e-6d7a-d3a6-addf-effe40b00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-05-28",
+          "magazine_date": "2026-05-29",
+          "title": "למה התנגדתי למינוי של רומן גופמן, ולמה שיניתי את דעתי",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-6d7a-d3a6-addf-effe40b00000/e7/ec/eef5ec7c40788e2a122bf4aba00a/029682.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-05-27/ty-article/.highlight/0000019e-68fa-de90-a7be-faffc45b0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-05-27",
+          "magazine_date": "2026-05-29",
+          "title": "הרחפנים מתפוצצים, האזעקות לא מפסיקות. ובכל זאת, נסעתי לחפש שקט בצפון",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-68fa-de90-a7be-faffc45b0000/25/a6/09e53c6c4467ad57d5edffbdf757/65827023.JPG?precrop=2125,1235,x0,y93&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-05-27/ty-article/.highlight/0000019e-6918-de90-a7be-fb3fc10e0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-05-27",
+          "magazine_date": "2026-05-29",
+          "title": "קריאות הבוז של הסטודנטים בארה\"ב הן רגע נדיר, שמשקף מרד ראשוני נגד ה-AI",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-6918-de90-a7be-fb3fc10e0000/27/dc/d0785e7245acbc583b0aac2e9b54/untitled.png?precrop=1644,956,x24,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-05-27/ty-article/.highlight/0000019e-694c-d3a6-addf-efcc68f70000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-05-27",
+          "magazine_date": "2026-05-29",
+          "title": "שער ניצחון והרפתקאות בקובה: טראמפ נחוש להותיר מורשת, ולא מבזבז רגע",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-694c-d3a6-addf-efcc68f70000/42/43/d613c03240e2a96b83ae74f12078/071662.jpg?precrop=2400,1395,x0,y37&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-05-28/ty-article/.highlight/0000019e-6d99-da5d-a7fe-7fbd28320000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-05-28",
+          "magazine_date": "2026-05-29",
+          "title": "גרמניה ניסתה לבנות חברה בלי לאומיות. הימין הקיצוני ממלא את החלל",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-6d99-da5d-a7fe-7fbd28320000/3e/57/fe44539c403c940918f0d9cb17f2/65843955.JPG?precrop=2820,1639,x617,y364&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-05-28/ty-article/.highlight/0000019e-6970-da5d-a7fe-7b7c5d360000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-05-28",
+          "magazine_date": "2026-05-29",
+          "title": "אנחנו מניחים שיש גבול ברור בין האדם למכונה, אבל ייתכן שהוא קרס מזמן",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-6970-da5d-a7fe-7b7c5d360000/50/8b/5306dd8e493a886465e9b962e321/65837931.JPG?precrop=3333,1938,x0,y1153&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-05-28/ty-article-face/.highlight/0000019e-6d95-de90-a7be-ffb75a600000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-05-28",
+          "magazine_date": "2026-05-29",
+          "title": "רותי הולצמן־ברק",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-6d95-de90-a7be-ffb75a600000/ac/b7/db5bc4a348b79d439c7699fc618d/144025.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-05-27/ty-article-magazine/.highlight/0000019e-69bb-de90-a7be-fbbf7ae60000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-05-27",
+          "magazine_date": "2026-05-29",
+          "title": "\"אנחנו באות לשנות את חוקי המשחק. כבר ישבנו עם ח\"כיות מחמש מפלגות\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-69bb-de90-a7be-fbbf7ae60000/8f/0c/18ba5a8a44ef8efad3162636e62e/983458.jpg?precrop=2400,1395,x0,y51&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2026-05-28/ty-article-magazine/.highlight/0000019e-6d61-da5d-a7fe-7f6de27a0000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2026-05-28",
+          "magazine_date": "2026-05-29",
+          "title": "\"הצפע חי איתנו. הוא אורבני, מטייל בין בתים. חיפה מלאה בהם וגם תל אביב\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-6d61-da5d-a7fe-7f6de27a0000/08/a5/c926c57040e68e76b35efd90ef5d/099890.jpg?precrop=1529,889,x0,y564&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-05-27/ty-article/.highlight/0000019e-69cc-da7d-a1bf-f9ddc3540000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-05-27",
+          "magazine_date": "2026-05-29",
+          "title": "מה לעזאזל עושה תלמידו של ארתור פינקלשטיין בצוות של גדי איזנקוט",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-69cc-da7d-a1bf-f9ddc3540000/a4/3c/30aa90f14ddcbd0ba503cfe1dd8e/65846568.JPG?precrop=1493,869,x424,y147&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-05-28/ty-article-midrug/.highlight/0000019e-6da3-de90-a7be-ffa7cc6e0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-05-28",
+          "magazine_date": "2026-05-29",
+          "title": "האפיפיור מפרסם מנשר נגד בינה מלאכותית. רק אל תשכח להחליף מקפים",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-6da3-de90-a7be-ffa7cc6e0000/6c/08/c22e6f6b4658bfcde6285940611d/headline-22.jpg?precrop=3259,1895,x0,y375&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-05-28/ty-article/.highlight/0000019e-6d3b-da5d-a7fe-7f3f75390000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-05-28",
+          "magazine_date": "2026-05-29",
+          "title": "\"תראה את החיילים. מערכת החינוך היא שגורמת לכך שהם יקריבו את חייהם\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-6d3b-da5d-a7fe-7f3f75390000/c0/78/fd6a003e4ce0b208cddc40e2ea39/579545.jpg?precrop=2400,1395,x0,y208&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-05-28/ty-article-quotes/.highlight/0000019e-6d9b-de90-a7be-ffbfe5570000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-05-28",
+          "magazine_date": "2026-05-29",
+          "title": "\"פחות מחבל פחות פחמן. ככה מגינים על הסביבה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-6d9b-de90-a7be-ffbfe5570000/a2/71/c4c521d5445babdb6b847c4192a6/137909.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-05-28/ty-article-20q/.highlight/0000019e-6d88-da5d-a7fe-7fac28010000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-05-28",
+          "magazine_date": "2026-05-29",
+          "title": "מה ייצרה חברת נוקיה כשהוקמה ב-1865?",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-6d88-da5d-a7fe-7fac28010000/16/f2/e9769676488590294941bfa57bfd/kimchi7425b.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-05-28/ty-article-magazine/.premium/0000019e-6e9e-df34-a39e-7ebeecf40000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-05-28",
+          "magazine_date": "2026-05-29",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 29.5.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-6e9e-df34-a39e-7ebeecf40000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-05-28/ty-article/.premium/0000019e-6ea9-d149-a9be-6fedcc8f0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-05-28",
+          "magazine_date": "2026-05-29",
+          "title": "קיימר ניצח בבוקרשט",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-6ea9-d149-a9be-6fedcc8f0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2026-05-28/ty-article/.premium/0000019e-6eaf-dc57-a7be-ffaffccd0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2026-05-28",
+          "magazine_date": "2026-05-29",
+          "title": "נתניהו קרא להמתין לתוצאות האמת",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-6eaf-dc57-a7be-ffaffccd0000/1e/7b/fb37db7342c8b0a175b35bb20dfb/mefursamot.jpg?precrop=1250,727,x0,y2217&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-05-28/ty-article/0000019e-6f19-d84e-a3be-ef393a500000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-05-28",
+          "magazine_date": "2026-05-29",
+          "title": "\"לשאוף ליותר מחיים על החרב\": נסיך התקוות והאשליות, עופר ברונשטיין",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-6f19-d84e-a3be-ef393a500000/fd/c5/ef19b03e4419734ab05cf91e1ed7/1018316866.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2026-05-28/ty-article/.premium/0000019e-6ead-d149-a9be-6fed4eb80000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2026-05-28",
+          "magazine_date": "2026-05-29",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-6ead-d149-a9be-6fed4eb80000/b1/d7/4b47dccd4728974bfbe9a7725a99/caro.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-05-28/ty-article/.premium/0000019e-6eb2-df34-a39e-7eba65a40000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-05-28",
+          "magazine_date": "2026-05-29",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-6eb2-df34-a39e-7eba65a40000/b1/b3/35fee80c41358cb9e0fab9eec02a/ribooa-musaf-679.jpg?precrop=1084,630,x0,y217&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-05-27/ty-article/.highlight/0000019e-69c4-d3a6-addf-efc461f20000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-05-27",
+          "magazine_date": "2026-05-29",
+          "title": "מה למדתי מאלפי מקורות היסטוריים על כאב ואהבה",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-69c4-d3a6-addf-efc461f20000/7c/18/d2114766417bb4e731586aa68c82/014753.jpg?precrop=1854,1078,x0,y169&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}
