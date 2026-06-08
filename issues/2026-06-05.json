@@ -1,0 +1,338 @@
+{
+  "magazine_date": "2026-06-05",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/0000019e-88ae-db6c-adff-b8fe6a270000/ac/fa/eee30a714476b35ef0eca714393c/211576.jpg?precrop=2400,1396,x0,y84&width=1200&height=630&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-06-04/ty-article-magazine/.highlight/0000019e-88ae-db6c-adff-b8fe6a270000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-06-04/ty-article-magazine/.highlight/0000019e-88ae-db6c-adff-b8fe6a270000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-06-04",
+          "magazine_date": "2026-06-05",
+          "title": "איך להיות יהודי בעולם מעורער? לאנשי היהדות ההומניסטית יש תשובה רדיקלית",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-88ae-db6c-adff-b8fe6a270000/ac/fa/eee30a714476b35ef0eca714393c/211576.jpg?precrop=2400,1396,x0,y84&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-06-04/ty-article-magazine/.premium/0000019e-88b1-d0a9-a7df-b9bb90f30000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-06-04",
+          "magazine_date": "2026-06-05",
+          "title": "מחקרים מראים שאי אפשר לשכנע אנשים לשנות עמדה פוליטית. אבל יש דרך אחרת",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-88b1-d0a9-a7df-b9bb90f30000/be/56/52dbfc66488192245393253a6c93/752508.jpg?precrop=1601,931,x0,y607&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-06-04/ty-article-magazine/.highlight/0000019e-88b8-d0a9-a7df-b9baa91e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-06-04",
+          "magazine_date": "2026-06-05",
+          "title": "הגיעה העת להכיר את הפרק שנשכח: ישראל גירשה 300 אלף איש בנכבה של 67'",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-88b8-d0a9-a7df-b9baa91e0000/22/6e/84b4617e493b9de52c8ad3ad829e/146227.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-06-04/ty-article-magazine/.highlight/0000019e-8cec-dddb-a9be-8ffd04280000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-06-04",
+          "magazine_date": "2026-06-05",
+          "title": "זו לא סתם תחרות פריזבי. זו מדיטציה, גבריות חדשה, הספורט של העתיד",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-8cec-dddb-a9be-8ffd04280000/23/93/70d0bc63422a9c25c062c1a17ef5/musaf-frisbee-03-06-2026-frisbee-shituf.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-06-03/ty-article/.highlight/0000019e-8d3c-db6c-adff-bdfe49870000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-06-03",
+          "magazine_date": "2026-06-05",
+          "title": "נוגה וצדק מתייצבים לריקוד צמוד. רק צריך להביט לשמים",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-8d3c-db6c-adff-bdfe49870000/fe/b7/d0ce1d77425987cf30f76afcb129/65895105.JPG?precrop=1600,930,x0,y86&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-06-03/ty-article/.highlight/0000019e-8d4b-db6c-adff-bdff19f30000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-06-03",
+          "magazine_date": "2026-06-05",
+          "title": "סבי נחשב לאבי הטרנספר. גם הוא ראה את האסון שבהתנחלויות",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-8d4b-db6c-adff-bdff19f30000/2b/f7/3af74f42484f8826765bc0f223bf/65894710.JPG?precrop=2052,1193,x0,y329&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-06-04/ty-article/.highlight/0000019e-91bb-db6c-adff-b9ff2a340000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-06-04",
+          "magazine_date": "2026-06-05",
+          "title": "מצפים ממרצים לדבר על פוליטיקה בכיתה. זו עשויה להתברר כטעות קשה",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-91bb-db6c-adff-b9ff2a340000/40/c5/dd3da41f4d4f9aafff27bc31c291/65896102.JPG?precrop=2167,1260,x0,y1613&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-06-04/ty-article/.highlight/0000019e-91c7-da37-a19f-d7cf06750000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-06-04",
+          "magazine_date": "2026-06-05",
+          "title": "העולם זנח את היצירה, וכוחות אפלים השתלטו גם על הדמיון",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-91c7-da37-a19f-d7cf06750000/d6/f6/5dd8b8c14885b193f329fecd90d3/65905417.JPG?precrop=5903,3432,x0,y157&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2026-06-03/ty-article/.highlight/0000019e-8d23-da37-a19f-cfabdaf50000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2026-06-03",
+          "magazine_date": "2026-06-05",
+          "title": "שגיאת כתיב בת אלפי שנים מסמלת את אחת התעלומות הגדולות בתולדות השפה",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-8d23-da37-a19f-cfabdaf50000/16/09/959a193f409793e87bbc0bcfae03/vorderasiatisches-museum-berlin-019.jpg?precrop=1260,733,x0,y30&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-06-03/ty-article/.highlight/0000019e-8d19-d0a9-a7df-bd9b1b500000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-06-03",
+          "magazine_date": "2026-06-05",
+          "title": "היהודים לא פושעים יותר מאחרים, אבל לוקים בדבר אחד: היעדר ביקורת עצמית",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-8d19-d0a9-a7df-bd9b1b500000/b0/23/3a4fddfa44f2bbc31a4568643f2b/65894705.JPG?precrop=5500,3198,x0,y469&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-06-04/ty-article-face/.highlight/0000019e-91ef-d7bd-affe-f9fff98a0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-06-04",
+          "magazine_date": "2026-06-05",
+          "title": "מיטל להבי",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-91ef-d7bd-affe-f9fff98a0000/18/33/cbc4d6dd485fab1c9bf8a6e66bd9/56.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-06-04/ty-article-magazine/.highlight/0000019e-877b-da5c-a9bf-df7fa0da0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-06-04",
+          "magazine_date": "2026-06-05",
+          "title": "\"כולנו טסים לאזרבייג'ן לקורס הזרקות בוטוקס על ראשי גוויות\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-877b-da5c-a9bf-df7fa0da0000/fa/5c/0431fd0440ecbb0a6ccaf03079a2/983466.jpg?precrop=2400,1395,x0,y98&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-06-03/ty-article/.highlight/0000019e-8dfc-d4dc-abbf-fdfc554c0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-06-03",
+          "magazine_date": "2026-06-05",
+          "title": "השופטת קבעה: מותר לבעוט באדם מבוגר ששוכב על הרצפה",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-8dfc-d4dc-abbf-fdfc554c0000/11/91/a4b47c4e4469abf9263c9c9743b6/65905778.JPG?precrop=837,486,x123,y257&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-06-04/ty-article-midrug/.highlight/0000019e-91fd-da37-a19f-d7ffc5090000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-06-04",
+          "magazine_date": "2026-06-05",
+          "title": "בעלי רשת קונים גם את \"ישראל בידור\". מוקדם להספיד את התקשורת החופשית",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-91fd-da37-a19f-d7ffc5090000/da/66/89d81903439abe7d148090209718/headline.jpg?precrop=2000,1163,x0,y228&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-06-04/ty-article/.highlight/0000019e-8c5a-dddb-a9be-8f5f635d0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-06-04",
+          "magazine_date": "2026-06-05",
+          "title": "למה חתמת לבנך כדי שיוכל להתגייס לקרבי? \"מתוך טמטום, ומתוך תמימות\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-8c5a-dddb-a9be-8f5f635d0000/e5/f7/9e7a06ac403ba15df85e810edc15/65904213.JPG?precrop=1185,689,x345,y844&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-06-04/ty-article-quotes/.highlight/0000019e-91f7-d7bd-affe-f9f70ff60000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-06-04",
+          "magazine_date": "2026-06-05",
+          "title": "\"בוודאי יש גם אשכנזים טובים... 20% בערך מהאשכנזים יש להם אופי מזרחי\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-91f7-d7bd-affe-f9f70ff60000/fd/0c/b49d87dd4813b2452cc0364c01cf/054191.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-06-03/ty-article-20q/.highlight/0000019e-8893-d0a9-a7df-b99bc0810000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-06-03",
+          "magazine_date": "2026-06-05",
+          "title": "מה היתה המילה הראשונה שאמר ניל ארמסטרונג בקשר אחרי הנחיתה על הירח?",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-8893-d0a9-a7df-b99bc0810000/6d/4d/0fd111014230999732b8d1715190/288927.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2026-06-03/ty-article-20q/.highlight/0000019e-88a4-da5c-a9bf-dfaeadff0000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2026-06-03",
+          "magazine_date": "2026-06-05",
+          "title": "איזה גז יוצר את הבועות במשקאות מוגזים כמו קולה וסודה?",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-88a4-da5c-a9bf-dfaeadff0000/1d/e6/965c581d426e97cd2401a488e57c/534873.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2026-06-03/ty-article-magazine/.highlight/0000019e-8d73-d4dc-abbf-fdf3b3540000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2026-06-03",
+          "magazine_date": "2026-06-05",
+          "title": "הוא התאהב בקונדיטוריה הבווארית, ומכין בארץ עוגות וקונפיטורות מצוינות",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-8d73-d4dc-abbf-fdf3b3540000/3f/d2/d3943cb0478fa466cabd37e2ba4b/1.jpg?precrop=1428,830,x0,y708&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-06-04/ty-article-magazine/.premium/0000019e-9260-db6c-adff-bafe37c20000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-06-04",
+          "magazine_date": "2026-06-05",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 5.6.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-9260-db6c-adff-bafe37c20000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-06-04/ty-article/0000019e-9260-da37-a19f-d6ea867f0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-06-04",
+          "magazine_date": "2026-06-05",
+          "title": "קרלסן נאבק",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-9260-da37-a19f-d6ea867f0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-06-05/ty-article-opinion/.premium/0000019e-9768-da37-a19f-d7eadb7c0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-06-05",
+          "magazine_date": "2026-06-05",
+          "title": "הם הפכו את שינקין לשינקין ועשו אותו דבר לפרדס חנה-כרכור | דעה",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-9768-da37-a19f-d7eadb7c0000/df/39/7c3eca30455b923502c51408c228/408340.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-06-04/ty-article/.premium/0000019e-9270-d7a4-a9bf-f6f878ac0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-06-04",
+          "magazine_date": "2026-06-05",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-9270-d7a4-a9bf-f6f878ac0000/41/4b/0359a6f243168a0e07f4762e9a6a/ribooa-musaf-680-new.jpg?precrop=1084,630,x0,y191&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-06-03/ty-article/.highlight/0000019e-8e13-d0a9-a7df-bf9bdfcb0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-06-03",
+          "magazine_date": "2026-06-05",
+          "title": "אחוזי ההצבעה בתל אביב גבוהים אפילו יותר מכפי שאנחנו חושבים",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-8e13-d0a9-a7df-bf9bdfcb0000/6b/bd/cee48f22444caafb54e104f7e8bc/637391.jpg?precrop=2400,1395,x0,y101&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}
