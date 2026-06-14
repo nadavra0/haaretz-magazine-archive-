@@ -1,0 +1,363 @@
+{
+  "magazine_date": "2026-06-12",
+  "total_articles": 26,
+  "cover_image": "https://img.haarets.co.il/bs/0000019e-b19d-d7a4-a9bf-f5ddbaa30000/1a/e3/a859b57d4285b74741c4eab032d6/12-6-26-web.jpg?precrop=1311,762,x5,y0&width=1200&height=630&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-06-10/ty-article/.highlight/0000019e-b19d-d7a4-a9bf-f5ddbaa30000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-06-10/ty-article-magazine/.highlight/0000019e-b052-db2a-a59f-f67767b80000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-06-10",
+          "magazine_date": "2026-06-12",
+          "title": "בתי היקרה, לצערי העולם מלא בגברים כמוני",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b052-db2a-a59f-f67767b80000/77/6a/fa90f2524f45bbe8ce3a5b6026bd/2-1.jpg?precrop=2000,1163,x0,y919&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-06-10/ty-article-magazine/.highlight/0000019e-b061-d7a4-a9bf-f4e961980000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-06-10",
+          "magazine_date": "2026-06-12",
+          "title": "שי קפלן נסעה להודו עם גידול בראש וכבר השלימה עם גורלה. ואז הגיעה היוגה",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b061-d7a4-a9bf-f4e961980000/db/7e/6f9294864df78fbc7a5a7880365b/108420.jpg?precrop=1471,855,x0,y183&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-06-10/ty-article-magazine/.highlight/0000019e-b082-db2a-a59f-f6a724e80000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-06-10",
+          "magazine_date": "2026-06-12",
+          "title": "המדינה מונעת מאלף טייסים ודיילים להצביע. זה לא יעבור בשקט",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b082-db2a-a59f-f6a724e80000/7d/5d/8dca980843a3a46464f6f56d40ee/musaf-danitayasim-10-06-2026-danitaysaim-promotion01.png?precrop=630,366,x223,y133&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-06-10/ty-article-magazine/.highlight/0000019e-b0e4-db2a-a59f-f6e7ce1d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-06-10",
+          "magazine_date": "2026-06-12",
+          "title": "הם על גג העולם, בהיי־טק ובמוסדות עלית. אבל משהו חסר לישראלים בבוסטון",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b0e4-db2a-a59f-f6e7ce1d0000/8f/46/b3810fe64d75b138498cfa096d22/052993.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-06-10/ty-article/.highlight/0000019e-b145-d0c7-a5fe-b77713580000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-06-10",
+          "magazine_date": "2026-06-12",
+          "title": "ההישג הגדול של נתניהו הוא ביטול ההפרדה בין המוות לבין החיים",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b145-d0c7-a5fe-b77713580000/e6/1b/45da6fd547a7b826f648fb46b95d/65966507.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-06-10/ty-article/.highlight/0000019e-b19d-d7a4-a9bf-f5ddbaa30000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-06-10",
+          "magazine_date": "2026-06-12",
+          "title": "שברתי את הכתף, והדבר שהכי מצער אותי הוא שנאלצתי להיפרד מהכלב האהוב שלי",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b19d-d7a4-a9bf-f5ddbaa30000/1a/e3/a859b57d4285b74741c4eab032d6/12-6-26-web.jpg?precrop=1311,762,x5,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-06-10/ty-article/.highlight/0000019e-b15a-d02c-afbf-fb5f93950000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-06-10",
+          "magazine_date": "2026-06-12",
+          "title": "החיבור בין בנט ללפיד חושף אמת מרה: הליברלים בישראל הם הכל חוץ מליברלים",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b15a-d02c-afbf-fb5f93950000/f7/c1/13ca70904edaa4fad9f884f5feba/056269.jpg?precrop=2400,1396,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-06-10/ty-article/.highlight/0000019e-b168-dd6c-a3df-f16eb8940000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-06-10",
+          "magazine_date": "2026-06-12",
+          "title": "סדרת רשת בכיכובם של לימון ותפוח אדמה מסמלת מפנה אפל בעידן ה-AI",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b168-dd6c-a3df-f16eb8940000/4b/37/7d0172014b5ca1317291ae25b13b/299056.jpg?precrop=1340,779,x0,y810&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-06-11/ty-article/.highlight/0000019e-b5e9-d02c-afbf-ffef209f0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-06-11",
+          "magazine_date": "2026-06-12",
+          "title": "מי המנווט? היכולת הזאת לא נעלמה, היא מחכה לשימוש",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b5e9-d02c-afbf-ffef209f0000/27/af/12e8da1343dda98e24b256d2c6eb/forest2.jpg?precrop=3000,1744,x0,y85&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-06-10/ty-article/.highlight/0000019e-b17d-db2a-a59f-f77fd3a30000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-06-10",
+          "magazine_date": "2026-06-12",
+          "title": "החיים נמשכים, אבל באופק תמיד ממתינה הפרעה שעלולה לעצור הכל",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b17d-db2a-a59f-f77fd3a30000/08/11/bdb5021a49f79a2e0735280befa1/288764.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-06-11/ty-article-face/.highlight/0000019e-b61e-d02c-afbf-ff1fdc110000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-06-11",
+          "magazine_date": "2026-06-12",
+          "title": "רז הרשקו",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b61e-d02c-afbf-ff1fdc110000/0c/42/78c9fd1449a4b0ad84ae61e6e5fe/306644.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-06-11/ty-article-magazine/.highlight/0000019e-ac64-d7a4-a9bf-fcec0f2c0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-06-11",
+          "magazine_date": "2026-06-12",
+          "title": "\"לא רציתי להיות יותר 'לסלי היהודייה'. רציתי להיות חלק מהרוב\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-ac64-d7a4-a9bf-fcec0f2c0000/13/56/6244bae746f280ba186f371b3c2c/65946447.JPG?precrop=8095,4706,x0,y537&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2026-06-10/ty-article-magazine/.highlight/0000019e-b12b-d7a4-a9bf-f5ebd8ea0000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2026-06-10",
+          "magazine_date": "2026-06-12",
+          "title": "\"בגלל שעברתי את מה שעברתי, הנערות לא יכולות לעבוד עליי שהן בסדר\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b12b-d7a4-a9bf-f5ebd8ea0000/7f/70/79c29acb451c9a59176fbbd19c48/252557.jpg?precrop=1625,945,x419,y130&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-06-10/ty-article/.highlight/0000019e-b1ac-db2a-a59f-f7af14f50000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-06-10",
+          "magazine_date": "2026-06-12",
+          "title": "מה כל כך מרגיז בתמונה של אהרון חליוה",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b1ac-db2a-a59f-f7af14f50000/4c/51/ec37995a463e9e2f08370b80c932/65971164.JPG?precrop=1056,614,x0,y298&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-06-11/ty-article-midrug/.highlight/0000019e-b62b-d7a4-a9bf-f6ebf5a60000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-06-11",
+          "magazine_date": "2026-06-12",
+          "title": "בג\"ץ מורה ללוין להפסיק את החרם על עמית. בשבתו כרכזת השכבה",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b62b-d7a4-a9bf-f6ebf5a60000/15/03/17d1ce714602b40ce47614f1fc1b/409904.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-06-11/ty-article/.highlight/0000019e-b13c-d0c7-a5fe-b77ecc270000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-06-11",
+          "magazine_date": "2026-06-12",
+          "title": "הליכוד ונתניהו שכחו אתכם. \"אנשים כאן מאוכזבים. אני מרגיש את התסיסה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b13c-d0c7-a5fe-b77ecc270000/bf/71/71465b8447e1ba0089809ec872ac/65967433.JPG?precrop=904,526,x0,y79&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-06-11/ty-article-quotes/.highlight/0000019e-b624-dbf2-af9f-bf35eeb40000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-06-11",
+          "magazine_date": "2026-06-12",
+          "title": "\"אני חושב שהוא טיפש יותר מאשר אנטישמי\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b624-dbf2-af9f-bf35eeb40000/ec/b6/b73de7b24ba1ac0bb53603e0680c/328579.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-06-10/ty-article-20q/.highlight/0000019e-b090-d7a4-a9bf-f4d8de690000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-06-10",
+          "magazine_date": "2026-06-12",
+          "title": "מי השחקנית שתמונתה העניקה השראה לשיר \"I Kissed a Girl\" של קייטי פרי?",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b090-d7a4-a9bf-f4d8de690000/59/4f/0053b9204f01a55f388c2f8104e7/212772.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2026-06-10/ty-article-magazine/.highlight/0000019e-b19b-d7a4-a9bf-f5dbd66f0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2026-06-10",
+          "magazine_date": "2026-06-12",
+          "title": "במושב ציפורי טיפחו עצי זית בני מאות שנים. ואז הגיעה השריפה",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b19b-d7a4-a9bf-f5dbd66f0000/30/ba/277d2c734c60918c459f6166e021/12121.jpg?precrop=2000,1163,x0,y47&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-06-11/ty-article-magazine/.premium/0000019e-b5d1-da29-a79e-fff1edb00000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-06-11",
+          "magazine_date": "2026-06-12",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 12.6.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b5d1-da29-a79e-fff1edb00000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-06-11/ty-article/.premium/0000019e-b651-d7a4-a9bf-f6d932290000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-06-11",
+          "magazine_date": "2026-06-12",
+          "title": "פראג מנצח, קרלסן מאכזב",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b651-d7a4-a9bf-f6d932290000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2026-06-11/ty-article/.premium/0000019e-b5db-d7bd-a3bf-bdff12ee0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2026-06-11",
+          "magazine_date": "2026-06-12",
+          "title": "צה\"ל יחזור אחרי שישלים מטרות המבצע",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b5db-d7bd-a3bf-bdff12ee0000/a3/66/a23c9ef8473c8e26c74cbdab025d/mefursamot.jpg?precrop=1250,727,x0,y940&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-06-11/ty-article/0000019e-b799-d0c4-a3df-b79d59910000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-06-11",
+          "magazine_date": "2026-06-12",
+          "title": "דוקטורט על זנב השממית, מחקר על חיזור האילנית: יהודה ורנר מת בן 95",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b799-d0c4-a3df-b79d59910000/07/f5/7d5732da4e9a8e3b3d280fc8cc23/809114.jpg?precrop=2400,1396,x0,y198&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2026-06-11/ty-article/.premium/0000019e-b5d7-d7a4-a9bf-f5df8d760000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2026-06-11",
+          "magazine_date": "2026-06-12",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b5d7-d7a4-a9bf-f5df8d760000/b8/ef/3cb5be6d41808af3b319ba13c38d/caro.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-06-11/ty-article/.premium/0000019e-b640-d02c-afbf-ff4765020000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-06-11",
+          "magazine_date": "2026-06-12",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b640-d02c-afbf-ff4765020000/9c/71/52e338e445f88954f3eeed407df2/ribooa-musaf-681-new.jpg?precrop=1083,630,x0,y234&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-06-10/ty-article/.highlight/0000019e-b1e8-db2a-a59f-f7efcd510000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-06-10",
+          "magazine_date": "2026-06-12",
+          "title": "איך רופא יכול להיות אדיש כל כך לסחר בגופות?",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b1e8-db2a-a59f-f7efcd510000/e0/e1/f05e6650461faf66b8ffb4d365d7/537113.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}
