@@ -1,6 +1,18 @@
 {
   "issues": [
     {
+      "magazine_date": "2026-06-26",
+      "total_articles": 24,
+      "section_count": 18,
+      "cover_image": "https://img.haarets.co.il/bs/0000019e-f9e8-d514-a9bf-f9fb3c060001/1a/08/85e87aa642fc8b5eb7d3b50f9dac/26-6-26-web.jpg?&width=568&height=330&cmsprod"
+    },
+    {
+      "magazine_date": "2026-06-19",
+      "total_articles": 25,
+      "section_count": 18,
+      "cover_image": "https://img.haarets.co.il/bs/0000019e-d60a-dae9-afdf-debb4fd20000/47/cf/ca7d2bdd4edea85504d391920216/19-6-26-web.jpg?&width=1200&height=630&cmsprod"
+    },
+    {
       "magazine_date": "2026-06-12",
       "total_articles": 26,
       "section_count": 19,
@@ -799,6 +811,6 @@
       "cover_image": null
     }
   ],
-  "last_updated": "2026-06-14T14:20:59.747721",
-  "total_issues": 133
+  "last_updated": "2026-06-28T10:30:48.228510",
+  "total_issues": 135
 }
