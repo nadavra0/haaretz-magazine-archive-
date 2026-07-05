@@ -1,0 +1,328 @@
+{
+  "magazine_date": "2026-07-03",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/0000019e-f974-d6e5-a19f-fbf5fd950001/a9/5b/a4d9a09f4160ae3bcc028a895700/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-06-29/ty-article-magazine/.highlight/0000019f-1323-de47-a7bf-3f73a6620001",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-06-29/ty-article-magazine/.highlight/0000019f-1323-de47-a7bf-3f73a6620001",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-06-29",
+          "magazine_date": "2026-07-03",
+          "title": "נתניהו עבר לבית סודי, כך שהציבור כבר משלם על שבעה מעונות. תחקיר",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-1323-de47-a7bf-3f73a6620001/2e/f1/fd27ab2f4d5c884cf89e50914f2b/bibi.jpg?precrop=1488,865,x291,y1235&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-07-01/ty-article-magazine/.highlight/0000019f-1d08-d08d-adbf-9ffc7c860000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-07-01",
+          "magazine_date": "2026-07-03",
+          "title": "המשפחה שלי לא היתה קיימת במשך 80 שנה. פתאום, כמעט במקרה, היא קמה לחיים",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-1d08-d08d-adbf-9ffc7c860000/49/77/0948f9f0408b9482315ea0f6de97/66148770.JPG?precrop=738,429,x0,y84&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-07-01/ty-article-magazine/.highlight/0000019f-1d08-d402-a99f-df6a30400000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-07-01",
+          "magazine_date": "2026-07-03",
+          "title": "גלגל ים עם חור? טוסטר שבור? שמיכה קרועה? כאן יתקנו בשבילכם הכל, בחינם",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-1d08-d402-a99f-df6a30400000/de/80/9a9d2de241d19aeb0226f7f7e21b/611683.jpg?precrop=1921,1117,x0,y716&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-07-01/ty-article-magazine/.highlight/0000019f-1d08-d402-a99f-df6a91570000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-07-01",
+          "magazine_date": "2026-07-03",
+          "title": "כיצד ייתכן שחוקר המנהיגות מיכה פופר כל כך אופטימי לגבי עתידה של ישראל?",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-1d08-d402-a99f-df6a91570000/9b/8f/81b313f64e0e92ae5827e2f75785/65980840.JPG?precrop=4304,2502,x0,y1934&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-07-01/ty-article/.highlight/0000019f-1e6f-d4dc-a3bf-1effad590000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-07-01",
+          "magazine_date": "2026-07-03",
+          "title": "יצאתי לרחובות אחרי הרבה זמן, ואת פניי קיבל שקט גדול ומסתורי",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-1e6f-d4dc-a3bf-1effad590000/89/6b/bad3f1d1433ba8708e3bda93082b/3-7-26-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-07-02/ty-article-magazine/.highlight/0000019f-1db0-d183-a3ff-9ffd71060000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-07-02",
+          "magazine_date": "2026-07-03",
+          "title": "ביוון ובאיטליה חם מדי? אז יוצאים לנופש לבד בחושך, בריביירה הפולנית",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-1db0-d183-a3ff-9ffd71060000/73/bf/6db44b1a42b1b280af92b8ac275a/610225.jpg?precrop=2400,1396,x0,y176&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-07-01/ty-article/.highlight/0000019f-1d5c-d183-a3ff-9f7dd0f20000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-07-01",
+          "magazine_date": "2026-07-03",
+          "title": "ענקיות ה-AI מתחרות בקרב החשוב ביותר: מי יחנך את הדורות הבאים",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-1d5c-d183-a3ff-9f7dd0f20000/88/c9/bd33b6124bb788aa9b5f3f609dff/406986.jpg?precrop=1374,799,x159,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-07-01/ty-article/.highlight/0000019f-1dbc-d9aa-afbf-5dbdb4510000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-07-01",
+          "magazine_date": "2026-07-03",
+          "title": "על קירות בית המשפט העליון צמחו כתמים. אולי הלכלוך הזה הוא בכל זאת משל",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-1dbc-d9aa-afbf-5dbdb4510000/e2/9f/546b7720471e98f64cfda75c291f/425570.jpg?precrop=2074,1206,x153,y72&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-07-02/ty-article-magazine/.highlight/0000019f-218f-de55-a5bf-2baf81250000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-07-02",
+          "magazine_date": "2026-07-03",
+          "title": "הוא היה תופר מחוכים ומהפכן אקסצנטרי, אך הדרמה של חייו החלה רק אחרי שמת",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-218f-de55-a5bf-2baf81250000/a2/c9/a07b6d7c40c197de06b17bed14b9/thomas-paine-a16220.jpg?precrop=5762,3350,x0,y867&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-07-01/ty-article/.highlight/0000019f-1db1-d9aa-afbf-5dbd80e00000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-07-01",
+          "magazine_date": "2026-07-03",
+          "title": "מצר הורמוז נודע תמיד כנקודת התורפה של הכלכלה העולמית. רבים כבר נכוו שם",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-1db1-d9aa-afbf-5dbd80e00000/e2/c1/6499794d4f1fa65fc03727c20192/66149040.JPG?precrop=2242,1304,x0,y98&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-07-01/ty-article-face/.highlight/0000019f-1db5-d183-a3ff-9ffdf2780000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-07-01",
+          "magazine_date": "2026-07-03",
+          "title": "אלי מזרחי",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-1db5-d183-a3ff-9ffdf2780000/9e/d5/75392fdf422c87234a84b9d94968/610771.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-07-02/ty-article-magazine/.highlight/0000019f-1d39-dc67-a9df-9fb913100000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-07-02",
+          "magazine_date": "2026-07-03",
+          "title": "\"רציתי להיות יהודי, תל־אביבי. אבל מאז 7 באוקטובר חטפתי סכין בגב\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-1d39-dc67-a9df-9fb913100000/67/df/a9c5d5ef494eb2e546acb4484ed6/66130793.JPG?precrop=8192,4763,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-07-01/ty-article/.highlight/0000019f-1dcd-db7b-ad9f-dfdf9b7a0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-07-01",
+          "magazine_date": "2026-07-03",
+          "title": "הוא ידע. הוא ידע. הוא ידע. אבל הוא היה עסוק בעצמו",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-1dcd-db7b-ad9f-dfdf9b7a0000/da/2b/5d6c330044388f0a286ddc1a21b2/66161032.JPG?precrop=5939,3453,x1146,y1007&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-07-02/ty-article-midrug/.highlight/0000019f-2287-d48a-a19f-22a7f5400000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-07-02",
+          "magazine_date": "2026-07-03",
+          "title": "ארה\"ב חוגגת 250. מה קונים למדינה שיש לה הכל",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-2287-d48a-a19f-22a7f5400000/7b/74/b6d7f19c47ae91d331ad531a4f0d/headline.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-07-02/ty-article-quotes/.highlight/0000019f-1dbb-d183-a3ff-9fff799c0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-07-02",
+          "magazine_date": "2026-07-03",
+          "title": "\"הוא גבר פרימיטיבי, אי אפשר לקחת את זה ממנו\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-1dbb-d183-a3ff-9fff799c0000/b4/81/792147bb472f9ff2090b8c62d1ea/607366.jpg?precrop=2380,1384,x0,y147&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-07-01/ty-article-20q/.highlight/0000019f-1d09-d183-a3ff-9f6d5b380000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-07-01",
+          "magazine_date": "2026-07-03",
+          "title": "על שם מי מהכותבים בעיתון \"הארץ\" נקרא מין של צדפה?",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-1d09-d183-a3ff-9f6d5b380000/9f/84/d6d067bb9dc40a94b81d74bf5d87/1791815369.jpg?precrop=2200,1280,x0,y172&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2026-07-01/ty-article-20q/.highlight/0000019f-1d11-d402-a99f-df7394fe0000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2026-07-01",
+          "magazine_date": "2026-07-03",
+          "title": "20 שאלות לילדים ולילדות: מה שמו של הנהר הגדול שחוצה את העיר לונדון?",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-1d11-d402-a99f-df7394fe0000/3a/b7/d2bb51964e0590a6acc741fd744f/664028.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2026-07-01/ty-article-magazine/.highlight/0000019f-1dc7-d183-a3ff-9fefadfa0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2026-07-01",
+          "magazine_date": "2026-07-03",
+          "title": "העגבניות עכשיו בשיאן. מרק קר הוא דרך נהדרת ליהנות מהן",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-1dc7-d183-a3ff-9fefadfa0000/60/56/8fe580114d068cda4b21168b68e7/1-2.jpg?precrop=1428,830,x0,y524&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-07-02/ty-article-magazine/.premium/0000019f-217c-da12-afbf-a17defd20000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-07-02",
+          "magazine_date": "2026-07-03",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 3.7.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-217c-da12-afbf-a17defd20000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-07-02/ty-article/.premium/0000019f-2183-da12-afbf-a1afd8730000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-07-02",
+          "magazine_date": "2026-07-03",
+          "title": "במהירות הקליע",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-2183-da12-afbf-a1afd8730000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-06-29/ty-article/.premium/0000019f-13e9-d070-a3ff-d7ef01c90000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-06-29",
+          "magazine_date": "2026-07-03",
+          "title": "\"מעולם לא דיברנו על מה שקרה\": גרושתו של יוני נתניהו מתה בגיל 80",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-13e9-d070-a3ff-d7ef01c90000/72/ad/ec64c82c4267ac80e07b473fe9f4/whatsapp-image-2026-06-29-at-15-38-52.jpeg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-07-02/ty-article/0000019f-22b4-d4c2-abbf-36beb67b0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-07-02",
+          "magazine_date": "2026-07-03",
+          "title": "\"אנחנו שוב במלחמת קיום; הפעם מול בני עמי\": חסידה פעיל, 2026-1930",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-22b4-d4c2-abbf-36beb67b0000/cc/a4/bd7cb45f45efa8a0b7f885a0f004/hasifa.png?precrop=726,422,x0,y54&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-07-02/ty-article/.premium/0000019f-218f-da12-afbf-a1af89220000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-07-02",
+          "magazine_date": "2026-07-03",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-218f-da12-afbf-a1af89220000/a7/2d/80ab4ee14ba5a564cb3ff73b2fa9/ribooa-musaf-684.jpg?precrop=1083,630,x0,y166&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-07-02/ty-article/.highlight/0000019f-1d41-d183-a3ff-9f6d6df20000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-07-02",
+          "magazine_date": "2026-07-03",
+          "title": "אין לנתניהו שבעה בתים. הוא חסר בית, וכך יישאר לעד",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-1d41-d183-a3ff-9f6d6df20000/d6/45/9444ac334280a12911aaab48d1c9/685805.jpg?precrop=2400,1396,x0,y191&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}
