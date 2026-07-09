@@ -13,6 +13,7 @@ import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, date
 from collections import defaultdict
+import difflib
 import html
 import json
 import re
@@ -251,6 +252,81 @@ def load_existing_titles():
     return cache
 
 
+def load_existing_issue_titles():
+    """Load (url, title) pairs from every issue already on disk, grouped by magazine_date.
+    Used to catch re-published articles (same story, new URL/date) that would
+    otherwise land in the wrong issue — see normalize_title / titles_match."""
+    by_date = defaultdict(list)
+    issues_dir = os.path.join(ARCHIVE_DIR, "issues")
+    if not os.path.isdir(issues_dir):
+        return by_date
+    for fname in os.listdir(issues_dir):
+        if not fname.endswith(".json"):
+            continue
+        try:
+            with open(os.path.join(issues_dir, fname), encoding="utf-8") as f:
+                issue = json.load(f)
+            magazine_date = issue.get("magazine_date")
+            for section in issue.get("sections", {}).values():
+                for article in section.get("articles", []):
+                    if article.get("url") and article.get("title"):
+                        by_date[magazine_date].append((article["url"], article["title"]))
+        except Exception:
+            pass
+    return by_date
+
+
+def normalize_title(title):
+    """Strip punctuation and generic editorial labels so re-published articles
+    (same story, reworded/relabeled) compare equal. E.g. Haaretz sometimes
+    re-surfaces an old investigative piece with a "תחקיר" (investigation) label
+    moved from prefix to suffix, or with/without a quoted "הארץ" byline."""
+    if not title:
+        return ""
+    t = re.sub(r'["\'׳״:.,‘’“”?]', ' ', title)
+    t = re.sub(r'\bתחקיר\b|\bהארץ\b|\bבלעדי\b', ' ', t)
+    t = re.sub(r'\s+', ' ', t).strip()
+    return t
+
+
+def titles_match(title_a, title_b, threshold=0.9):
+    na, nb = normalize_title(title_a), normalize_title(title_b)
+    if not na or not nb:
+        return False
+    return difflib.SequenceMatcher(None, na, nb).ratio() >= threshold
+
+
+def drop_cross_issue_duplicates(all_articles):
+    """Haaretz occasionally re-surfaces an already-published article under a new
+    URL with a later date (e.g. a re-highlighted investigative piece), which
+    get_magazine_friday() then buckets into the *following* week's issue even
+    though the story already ran in an earlier issue. Detect same-story
+    duplicates one week apart by title similarity and drop the later copy,
+    keeping the one in the issue it actually belongs to."""
+    by_date = defaultdict(list)
+    for a in all_articles:
+        by_date[a["magazine_date"]].append(a)
+    existing_by_date = load_existing_issue_titles()
+
+    keep = []
+    for a in all_articles:
+        mag_date = date.fromisoformat(a["magazine_date"])
+        prev_date = (mag_date - timedelta(days=7)).isoformat()
+        prev_candidates = [(x["url"], x["title"]) for x in by_date.get(prev_date, [])]
+        prev_candidates += existing_by_date.get(prev_date, [])
+        duplicate_of = next(
+            (url for url, title in prev_candidates
+             if url != a["url"] and titles_match(a.get("title"), title)),
+            None,
+        )
+        if duplicate_of:
+            print(f"  ⚠ Dropping {a['magazine_date']} duplicate of {prev_date} article "
+                  f"({duplicate_of[-40:]}): {a['title']!r}")
+            continue
+        keep.append(a)
+    return keep
+
+
 def build_archive(year_months, fetch_titles=False):
     # Preserve titles from previous runs so a re-scrape doesn't lose them
     existing_titles = load_existing_titles()
@@ -315,6 +391,11 @@ def build_archive(year_months, fetch_titles=False):
                 article["og_image"] = None
             if "shaar_image" not in article:
                 article["shaar_image"] = None
+
+    # Drop re-published articles that already ran in the previous week's issue
+    # (see drop_cross_issue_duplicates) — requires titles, so only meaningful
+    # when fetch_titles=True or titles were already cached from a prior run.
+    all_articles = drop_cross_issue_duplicates(all_articles)
 
     # Group by magazine issue date
     by_issue = defaultdict(list)

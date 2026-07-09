@@ -1,22 +1,12 @@
 {
   "magazine_date": "2026-07-03",
-  "total_articles": 24,
-  "cover_image": "https://img.haarets.co.il/bs/0000019e-f974-d6e5-a19f-fbf5fd950001/a9/5b/a4d9a09f4160ae3bcc028a895700/shaar.jpg?&width=1500&height=1980&cmsprod",
-  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-06-29/ty-article-magazine/.highlight/0000019f-1323-de47-a7bf-3f73a6620001",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/0000019f-1def-d183-a3ff-9fef930b0001/98/68/e62881fd4a118225b5a61ac915f3/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-07-02/ty-article-magazine/.highlight/0000019f-1db0-d183-a3ff-9ffd71060000",
   "sections": {
     "magazine": {
       "name": "כתבות ראשיות",
       "articles": [
-        {
-          "url": "https://www.haaretz.co.il/magazine/2026-06-29/ty-article-magazine/.highlight/0000019f-1323-de47-a7bf-3f73a6620001",
-          "section": "magazine",
-          "section_name": "כתבות ראשיות",
-          "article_date": "2026-06-29",
-          "magazine_date": "2026-07-03",
-          "title": "נתניהו עבר לבית סודי, כך שהציבור כבר משלם על שבעה מעונות. תחקיר",
-          "og_image": "https://img.haarets.co.il/bs/0000019f-1323-de47-a7bf-3f73a6620001/2e/f1/fd27ab2f4d5c884cf89e50914f2b/bibi.jpg?precrop=1488,865,x291,y1235&width=1200&height=630&cmsprod",
-          "shaar_image": null
-        },
         {
           "url": "https://www.haaretz.co.il/magazine/2026-07-01/ty-article-magazine/.highlight/0000019f-1d08-d08d-adbf-9ffc7c860000",
           "section": "magazine",
@@ -65,7 +55,7 @@
           "magazine_date": "2026-07-03",
           "title": "ביוון ובאיטליה חם מדי? אז יוצאים לנופש לבד בחושך, בריביירה הפולנית",
           "og_image": "https://img.haarets.co.il/bs/0000019f-1db0-d183-a3ff-9ffd71060000/73/bf/6db44b1a42b1b280af92b8ac275a/610225.jpg?precrop=2400,1396,x0,y176&width=1200&height=630&cmsprod",
-          "shaar_image": null
+          "shaar_image": "https://img.haarets.co.il/bs/0000019f-1def-d183-a3ff-9fef930b0001/98/68/e62881fd4a118225b5a61ac915f3/shaar.jpg?&width=1500&height=1980&cmsprod"
         }
       ]
     },

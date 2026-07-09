@@ -53,8 +53,7 @@ with sync_playwright() as p:
             for img in page.query_selector_all("img"):
                 alt = img.get_attribute("alt") or ""
                 src = img.get_attribute("src") or ""
-                if ("שער" in alt and ("שער מוסף" in alt or is_cover_filename(src, mag_date))) \
-                        or is_cover_filename(src, mag_date):
+                if "שער" in alt and ("שער מוסף" in alt or is_cover_filename(src, mag_date)):
                     srcset = img.get_attribute("srcset") or ""
                     best = src
                     if srcset:
