@@ -1,6 +1,6 @@
 {
   "magazine_date": "2026-07-03",
-  "total_articles": 23,
+  "total_articles": 21,
   "cover_image": "https://img.haarets.co.il/bs/0000019f-1def-d183-a3ff-9fef930b0001/98/68/e62881fd4a118225b5a61ac915f3/shaar.jpg?&width=1500&height=1980&cmsprod",
   "cover_article_url": "https://www.haaretz.co.il/magazine/2026-07-02/ty-article-magazine/.highlight/0000019f-1db0-d183-a3ff-9ffd71060000",
   "sections": {
@@ -229,21 +229,6 @@
         }
       ]
     },
-    "magazine/haaretzlogicpuzzle": {
-      "name": "תשבץ",
-      "articles": [
-        {
-          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-07-02/ty-article-magazine/.premium/0000019f-217c-da12-afbf-a17defd20000",
-          "section": "magazine/haaretzlogicpuzzle",
-          "section_name": "תשבץ",
-          "article_date": "2026-07-02",
-          "magazine_date": "2026-07-03",
-          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 3.7.2026",
-          "og_image": "https://img.haarets.co.il/bs/0000019f-217c-da12-afbf-a17defd20000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
-          "shaar_image": null
-        }
-      ]
-    },
     "magazine/chess": {
       "name": "שחמט",
       "articles": [
@@ -280,21 +265,6 @@
           "magazine_date": "2026-07-03",
           "title": "\"אנחנו שוב במלחמת קיום; הפעם מול בני עמי\": חסידה פעיל, 2026-1930",
           "og_image": "https://img.haarets.co.il/bs/0000019f-22b4-d4c2-abbf-36beb67b0000/cc/a4/bd7cb45f45efa8a0b7f885a0f004/hasifa.png?precrop=726,422,x0,y54&width=1200&height=630&cmsprod",
-          "shaar_image": null
-        }
-      ]
-    },
-    "magazine/pinatlituf": {
-      "name": "פינת ליטוף",
-      "articles": [
-        {
-          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-07-02/ty-article/.premium/0000019f-218f-da12-afbf-a1af89220000",
-          "section": "magazine/pinatlituf",
-          "section_name": "פינת ליטוף",
-          "article_date": "2026-07-02",
-          "magazine_date": "2026-07-03",
-          "title": "פינת ליטוף",
-          "og_image": "https://img.haarets.co.il/bs/0000019f-218f-da12-afbf-a1af89220000/a7/2d/80ab4ee14ba5a564cb3ff73b2fa9/ribooa-musaf-684.jpg?precrop=1083,630,x0,y166&width=1200&height=630&cmsprod",
           "shaar_image": null
         }
       ]

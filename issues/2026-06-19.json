@@ -1,6 +1,6 @@
 {
   "magazine_date": "2026-06-19",
-  "total_articles": 25,
+  "total_articles": 23,
   "cover_image": "https://img.haarets.co.il/bs/0000019e-d5d6-d2be-abbf-ffde9ac10001/9c/e3/ab8e57394c9fa3fc9e1fc528cc3f/shaar.jpg?&width=1500&height=1980&cmsprod",
   "cover_article_url": "https://www.haaretz.co.il/magazine/2026-06-17/ty-article-magazine/.highlight/0000019e-d477-d6a3-a5be-f577fe660000",
   "sections": {
@@ -254,21 +254,6 @@
         }
       ]
     },
-    "magazine/haaretzlogicpuzzle": {
-      "name": "תשבץ",
-      "articles": [
-        {
-          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-06-18/ty-article-magazine/.premium/0000019e-da2f-deca-ab9e-de7fd5a30000",
-          "section": "magazine/haaretzlogicpuzzle",
-          "section_name": "תשבץ",
-          "article_date": "2026-06-18",
-          "magazine_date": "2026-06-19",
-          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 19.6.2026",
-          "og_image": "https://img.haarets.co.il/bs/0000019e-da2f-deca-ab9e-de7fd5a30000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
-          "shaar_image": null
-        }
-      ]
-    },
     "magazine/chess": {
       "name": "שחמט",
       "articles": [
@@ -310,21 +295,6 @@
           "magazine_date": "2026-06-19",
           "title": "\"הקשר עם הערבים היה טוב עד לפרעות\": ההיסטוריון שחלם להיות השגריר בלוב",
           "og_image": "https://img.haarets.co.il/bs/0000019e-db82-d7a4-a99f-dfce3e930000/ba/39/e3f654d5489cb5a8cefa1a99b8d7/763642.jpg?&width=1200&height=630&cmsprod",
-          "shaar_image": null
-        }
-      ]
-    },
-    "magazine/pinatlituf": {
-      "name": "פינת ליטוף",
-      "articles": [
-        {
-          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-06-18/ty-article/.premium/0000019e-da46-deca-ab9e-de77c67f0000",
-          "section": "magazine/pinatlituf",
-          "section_name": "פינת ליטוף",
-          "article_date": "2026-06-18",
-          "magazine_date": "2026-06-19",
-          "title": "פינת ליטוף",
-          "og_image": "https://img.haarets.co.il/bs/0000019e-da46-deca-ab9e-de77c67f0000/3f/fe/032ecda04df2bc031b43e2c16161/ribooa-musaf-682-new.jpg?precrop=1083,630,x0,y295&width=1200&height=630&cmsprod",
           "shaar_image": null
         }
       ]
