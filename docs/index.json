@@ -1,12 +1,6 @@
 {
   "issues": [
     {
-      "magazine_date": "2026-07-17",
-      "total_articles": 4,
-      "section_count": 4,
-      "cover_image": null
-    },
-    {
       "magazine_date": "2026-07-10",
       "total_articles": 21,
       "section_count": 15,
@@ -830,5 +824,5 @@
     }
   ],
   "last_updated": "2026-07-13T14:42:27.887898",
-  "total_issues": 138
+  "total_issues": 137
 }

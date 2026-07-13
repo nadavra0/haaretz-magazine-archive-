@@ -408,6 +408,13 @@ def build_archive(year_months, fetch_titles=False):
     # when fetch_titles=True or titles were already cached from a prior run.
     all_articles = drop_cross_issue_duplicates(all_articles)
 
+    # Drop issues whose magazine Friday hasn't happened yet — the sitemap often
+    # leaks a handful of articles for the upcoming week's magazine days before
+    # it's actually published (e.g. crossword/columns going up early), which
+    # would otherwise get saved as a bogus, incomplete "future" issue.
+    today = date.today()
+    all_articles = [a for a in all_articles if date.fromisoformat(a["magazine_date"]) <= today]
+
     # Group by magazine issue date
     by_issue = defaultdict(list)
     for a in all_articles:
