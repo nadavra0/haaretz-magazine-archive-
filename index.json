@@ -10,7 +10,7 @@
       "magazine_date": "2026-07-10",
       "total_articles": 21,
       "section_count": 15,
-      "cover_image": "https://img.haarets.co.il/bs/0000019f-4227-d07c-af9f-ca7ffe520000/bf/9a/2a5b30cf490ebffdc428313420e2/10-7-26-web.jpg?&width=1200&height=630&cmsprod"
+      "cover_image": "https://img.haarets.co.il/bs/0000019f-41df-d07c-af9f-c9df89530000/4c/39/fea109b64763a33613e53ee4147a/shaar.jpg?&width=1500&height=1980&cmsprod"
     },
     {
       "magazine_date": "2026-07-03",
@@ -829,6 +829,6 @@
       "cover_image": null
     }
   ],
-  "last_updated": "2026-07-13T14:32:56.897611",
+  "last_updated": "2026-07-13T14:42:27.887898",
   "total_issues": 138
 }

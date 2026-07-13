@@ -255,7 +255,10 @@ def load_existing_titles():
 def load_existing_issue_titles():
     """Load (url, title) pairs from every issue already on disk, grouped by magazine_date.
     Used to catch re-published articles (same story, new URL/date) that would
-    otherwise land in the wrong issue — see normalize_title / titles_match."""
+    otherwise land in the wrong issue — see normalize_title / titles_match.
+    Only articles from the "magazine" (כתבות ראשיות) section are collected: recurring
+    columns (crossword, pet corner, etc.) legitimately repeat near-identical titles
+    every week and must never be treated as cross-issue duplicates."""
     by_date = defaultdict(list)
     issues_dir = os.path.join(ARCHIVE_DIR, "issues")
     if not os.path.isdir(issues_dir):
@@ -267,10 +270,9 @@ def load_existing_issue_titles():
             with open(os.path.join(issues_dir, fname), encoding="utf-8") as f:
                 issue = json.load(f)
             magazine_date = issue.get("magazine_date")
-            for section in issue.get("sections", {}).values():
-                for article in section.get("articles", []):
-                    if article.get("url") and article.get("title"):
-                        by_date[magazine_date].append((article["url"], article["title"]))
+            for article in issue.get("sections", {}).get("magazine", {}).get("articles", []):
+                if article.get("url") and article.get("title"):
+                    by_date[magazine_date].append((article["url"], article["title"]))
         except Exception:
             pass
     return by_date
@@ -302,14 +304,23 @@ def drop_cross_issue_duplicates(all_articles):
     get_magazine_friday() then buckets into the *following* week's issue even
     though the story already ran in an earlier issue. Detect same-story
     duplicates one week apart by title similarity and drop the later copy,
-    keeping the one in the issue it actually belongs to."""
+    keeping the one in the issue it actually belongs to.
+
+    Scoped to the "magazine" (כתבות ראשיות) section only — recurring columns
+    (crossword, pet corner, chess, etc.) repeat near-identical or identical
+    titles every single week by design and are NOT duplicates; only the main
+    investigative/feature pieces are ever re-highlighted under a new URL."""
     by_date = defaultdict(list)
     for a in all_articles:
-        by_date[a["magazine_date"]].append(a)
+        if a["section"] == "magazine":
+            by_date[a["magazine_date"]].append(a)
     existing_by_date = load_existing_issue_titles()
 
     keep = []
     for a in all_articles:
+        if a["section"] != "magazine":
+            keep.append(a)
+            continue
         mag_date = date.fromisoformat(a["magazine_date"])
         prev_date = (mag_date - timedelta(days=7)).isoformat()
         prev_candidates = [(x["url"], x["title"]) for x in by_date.get(prev_date, [])]

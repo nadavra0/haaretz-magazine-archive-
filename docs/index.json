@@ -10,36 +10,36 @@
       "magazine_date": "2026-07-10",
       "total_articles": 21,
       "section_count": 15,
-      "cover_image": "https://img.haarets.co.il/bs/0000019f-4227-d07c-af9f-ca7ffe520000/bf/9a/2a5b30cf490ebffdc428313420e2/10-7-26-web.jpg?&width=1200&height=630&cmsprod"
+      "cover_image": "https://img.haarets.co.il/bs/0000019f-41df-d07c-af9f-c9df89530000/4c/39/fea109b64763a33613e53ee4147a/shaar.jpg?&width=1500&height=1980&cmsprod"
     },
     {
       "magazine_date": "2026-07-03",
-      "total_articles": 21,
-      "section_count": 14,
+      "total_articles": 23,
+      "section_count": 16,
       "cover_image": "https://img.haarets.co.il/bs/0000019f-1def-d183-a3ff-9fef930b0001/98/68/e62881fd4a118225b5a61ac915f3/shaar.jpg?&width=1500&height=1980&cmsprod"
     },
     {
       "magazine_date": "2026-06-26",
-      "total_articles": 22,
-      "section_count": 16,
+      "total_articles": 24,
+      "section_count": 18,
       "cover_image": "https://img.haarets.co.il/bs/0000019e-f974-d6e5-a19f-fbf5fd950001/a9/5b/a4d9a09f4160ae3bcc028a895700/shaar.jpg?&width=1500&height=1980&cmsprod"
     },
     {
       "magazine_date": "2026-06-19",
-      "total_articles": 23,
-      "section_count": 16,
+      "total_articles": 25,
+      "section_count": 18,
       "cover_image": "https://img.haarets.co.il/bs/0000019e-d5d6-d2be-abbf-ffde9ac10001/9c/e3/ab8e57394c9fa3fc9e1fc528cc3f/shaar.jpg?&width=1500&height=1980&cmsprod"
     },
     {
       "magazine_date": "2026-06-12",
-      "total_articles": 24,
-      "section_count": 17,
+      "total_articles": 26,
+      "section_count": 19,
       "cover_image": "https://img.haarets.co.il/bs/0000019e-b064-db2a-a59f-f667a07b0001/8c/23/5be4755f446b8485ce4eb6605562/shaar-23.jpg?&width=1500&height=1980&cmsprod"
     },
     {
       "magazine_date": "2026-06-05",
-      "total_articles": 22,
-      "section_count": 16,
+      "total_articles": 24,
+      "section_count": 18,
       "cover_image": "https://img.haarets.co.il/bs/0000019e-88b7-d0a9-a7df-b9bf634d0000/13/fa/802fe5dc42e99bf5837274b766db/shaar-22.jpg?&width=1500&height=1980&cmsprod"
     },
     {
@@ -829,6 +829,6 @@
       "cover_image": null
     }
   ],
-  "last_updated": "2026-07-13T14:32:56.897611",
+  "last_updated": "2026-07-13T14:42:27.887898",
   "total_issues": 138
 }
