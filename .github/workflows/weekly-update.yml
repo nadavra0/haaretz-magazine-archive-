@@ -1,0 +1,38 @@
+name: Weekly Haaretz magazine update
+
+on:
+  schedule:
+    # 07:00 UTC every Sunday ≈ 10:00 Asia/Jerusalem (drifts ±1h across DST changes)
+    - cron: "0 7 * * 0"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Write Haaretz cookies
+        env:
+          HAARETZ_COOKIES: ${{ secrets.HAARETZ_COOKIES }}
+        run: echo "$HAARETZ_COOKIES" > haaretz_cookies.json
+
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Run weekly update
+        run: python weekly_update.py
