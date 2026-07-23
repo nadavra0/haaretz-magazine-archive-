@@ -1,6 +1,6 @@
 {
   "magazine_date": "2026-06-12",
-  "total_articles": 24,
+  "total_articles": 26,
   "cover_image": "https://img.haarets.co.il/bs/0000019e-b064-db2a-a59f-f667a07b0001/8c/23/5be4755f446b8485ce4eb6605562/shaar-23.jpg?&width=1500&height=1980&cmsprod",
   "cover_article_url": "https://www.haaretz.co.il/magazine/2026-06-10/ty-article-magazine/.highlight/0000019e-b061-d7a4-a9bf-f4e961980000",
   "sections": {
@@ -254,6 +254,21 @@
         }
       ]
     },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-06-11/ty-article-magazine/.premium/0000019e-b5d1-da29-a79e-fff1edb00000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-06-11",
+          "magazine_date": "2026-06-12",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 12.6.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b5d1-da29-a79e-fff1edb00000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
     "magazine/chess": {
       "name": "שחמט",
       "articles": [
@@ -310,6 +325,21 @@
           "magazine_date": "2026-06-12",
           "title": "פוטוסינתזה",
           "og_image": "https://img.haarets.co.il/bs/0000019e-b5d7-d7a4-a9bf-f5df8d760000/b8/ef/3cb5be6d41808af3b319ba13c38d/caro.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-06-11/ty-article/.premium/0000019e-b640-d02c-afbf-ff4765020000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-06-11",
+          "magazine_date": "2026-06-12",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-b640-d02c-afbf-ff4765020000/9c/71/52e338e445f88954f3eeed407df2/ribooa-musaf-681-new.jpg?precrop=1083,630,x0,y234&width=1200&height=630&cmsprod",
           "shaar_image": null
         }
       ]
