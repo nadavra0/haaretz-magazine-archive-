@@ -1,6 +1,6 @@
 {
   "magazine_date": "2026-06-05",
-  "total_articles": 22,
+  "total_articles": 24,
   "cover_image": "https://img.haarets.co.il/bs/0000019e-88b7-d0a9-a7df-b9bf634d0000/13/fa/802fe5dc42e99bf5837274b766db/shaar-22.jpg?&width=1500&height=1980&cmsprod",
   "cover_article_url": "https://www.haaretz.co.il/magazine/2026-06-04/ty-article-magazine/.premium/0000019e-88b1-d0a9-a7df-b9bb90f30000",
   "sections": {
@@ -259,6 +259,21 @@
         }
       ]
     },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-06-04/ty-article-magazine/.premium/0000019e-9260-db6c-adff-bafe37c20000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-06-04",
+          "magazine_date": "2026-06-05",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 5.6.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-9260-db6c-adff-bafe37c20000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
     "magazine/chess": {
       "name": "שחמט",
       "articles": [
@@ -285,6 +300,21 @@
           "magazine_date": "2026-06-05",
           "title": "הם הפכו את שינקין לשינקין ועשו אותו דבר לפרדס חנה-כרכור | דעה",
           "og_image": "https://img.haarets.co.il/bs/0000019e-9768-da37-a19f-d7eadb7c0000/df/39/7c3eca30455b923502c51408c228/408340.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-06-04/ty-article/.premium/0000019e-9270-d7a4-a9bf-f6f878ac0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-06-04",
+          "magazine_date": "2026-06-05",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-9270-d7a4-a9bf-f6f878ac0000/41/4b/0359a6f243168a0e07f4762e9a6a/ribooa-musaf-680-new.jpg?precrop=1084,630,x0,y191&width=1200&height=630&cmsprod",
           "shaar_image": null
         }
       ]

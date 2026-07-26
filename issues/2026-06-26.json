@@ -1,6 +1,6 @@
 {
   "magazine_date": "2026-06-26",
-  "total_articles": 22,
+  "total_articles": 24,
   "cover_image": "https://img.haarets.co.il/bs/0000019e-f974-d6e5-a19f-fbf5fd950001/a9/5b/a4d9a09f4160ae3bcc028a895700/shaar.jpg?&width=1500&height=1980&cmsprod",
   "cover_article_url": "https://www.haaretz.co.il/magazine/2026-06-25/ty-article-magazine/.highlight/0000019e-f8dc-d58e-afbf-fcdf13570000",
   "sections": {
@@ -229,6 +229,21 @@
         }
       ]
     },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-06-25/ty-article-magazine/.premium/0000019e-fda7-d514-a9bf-fdff5fc40000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-06-25",
+          "magazine_date": "2026-06-26",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 26.6.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-fda7-d514-a9bf-fdff5fc40000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
     "magazine/chess": {
       "name": "שחמט",
       "articles": [
@@ -285,6 +300,21 @@
           "magazine_date": "2026-06-26",
           "title": "פוטוסינתזה",
           "og_image": "https://img.haarets.co.il/bs/0000019e-fdb6-d803-abdf-fdbea8a40000/83/f2/f85ac76a427893dcde89960ce149/usa-obama.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-06-25/ty-article/.premium/0000019e-fdb9-d4c5-a9fe-fdfb23060000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-06-25",
+          "magazine_date": "2026-06-26",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019e-fdb9-d4c5-a9fe-fdfb23060000/33/ac/7a6081a94c599d36ae5c7df3719a/ribooa-musaf-683.jpg?precrop=1083,630,x0,y234&width=1200&height=630&cmsprod",
           "shaar_image": null
         }
       ]
