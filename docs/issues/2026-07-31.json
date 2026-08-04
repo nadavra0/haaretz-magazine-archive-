@@ -1,0 +1,358 @@
+{
+  "magazine_date": "2026-07-31",
+  "total_articles": 26,
+  "cover_image": "https://img.haarets.co.il/bs/0000019f-ada4-de01-a5bf-ffe478070000/ca/c8/f49886f845aa8077c7ca1ae9c447/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-07-29/ty-article-magazine/.highlight/0000019f-ad85-d709-a39f-aded1f900000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-07-29/ty-article-magazine/.highlight/0000019f-ad84-de01-a5bf-ffc4e3b00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-07-29",
+          "magazine_date": "2026-07-31",
+          "title": "בבניין שלי גרו ענקי רוח, היום זה רק אני והצעירים. אז הזמנתי אותם לממ\"ד",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-ad84-de01-a5bf-ffc4e3b00000/4d/53/0cdcd24d466198ac21d02f70a2f5/bider.jpg?precrop=2481,1442,x0,y572&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-07-29/ty-article-magazine/.highlight/0000019f-ad85-d709-a39f-aded1f900000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-07-29",
+          "magazine_date": "2026-07-31",
+          "title": "אחד המדענים הגדולים בעולם עוזב את ארה\"ב לטובת סין. מדובר במהפכה",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-ad85-d709-a39f-aded1f900000/82/10/4103012d4f1f80aa2763773b2aad/66387061.JPG?precrop=3000,1744,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-07-29/ty-article-magazine/.highlight/0000019f-ad85-dfac-a5df-bdd520310000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-07-29",
+          "magazine_date": "2026-07-31",
+          "title": "מוסר, מחיר החירות ועתיד הציונות. שיחות עם אחד מגדולי הפילוסופים בישראל",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-ad85-dfac-a5df-bdd520310000/d2/09/0690a0754481a7f9f5a31d15cf32/66349387.JPG?precrop=5294,3078,x0,y1320&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-07-29/ty-article-magazine/.highlight/0000019f-ad87-d6af-a9ff-afdfac670000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-07-29",
+          "magazine_date": "2026-07-31",
+          "title": "שירלי ברנע נגד ראש ממשלת קנדה: הצעירה שתובעת את היורש של טרודו",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-ad87-d6af-a9ff-afdfac670000/d1/37/1348ccc34d06846257681df0dffb/66349408.JPG?precrop=3951,2297,x0,y1382&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-07-29/ty-article/.highlight/0000019f-adf1-d993-af9f-bdf7f55a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-07-29",
+          "magazine_date": "2026-07-31",
+          "title": "ברדוגו טוען שאיזנקוט הוא לא איש של ספרים. אז יש לי כמה הצעות בעניין",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-adf1-d993-af9f-bdf7f55a0000/d8/f8/e13e8cdf485eb0a69f79815c05e7/66397185.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-07-30/ty-article-magazine/.highlight/0000019f-ae19-dfac-a5df-bfd990590000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-07-30",
+          "magazine_date": "2026-07-31",
+          "title": "האם ייתכן שאדם מסביבת נתניהו מתדלק את ההימורים על זכייתו בבחירות?",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-ae19-dfac-a5df-bfd990590000/17/16/d1ec25d64cd8a9e64445512e55b5/poly2.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-07-30/ty-article/.highlight/0000019f-b20e-de01-a5bf-f74e1e210000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-07-30",
+          "magazine_date": "2026-07-31",
+          "title": "מה אמרה לי חברה שלי, ואיך זה קשור לעצלנות שלי",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-b20e-de01-a5bf-f74e1e210000/4d/e4/c6e2b04746749d2c5e3ee99c4d6c/31-7-26-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-07-29/ty-article-magazine/.highlight/0000019f-ad26-dfac-a5df-bdf7cb570000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-07-29",
+          "magazine_date": "2026-07-31",
+          "title": "האסלה היפנית רק נראית כמו גימיק. היא עדות למהפכה חברתית",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-ad26-dfac-a5df-bdf7cb570000/5a/20/653ff756452f83acf800758eebc8/954149.jpg?precrop=1381,802,x931,y517&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-07-29/ty-article/.highlight/0000019f-aced-dfac-a5df-bdfd6ff50000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-07-29",
+          "magazine_date": "2026-07-31",
+          "title": "אין פלא שהציבור הישראלי מעוניין במלחמה. אלימות זה שמחה",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-aced-dfac-a5df-bdfd6ff50000/fe/a9/c84870a249099d6c19654ccf2b92/66349346.JPG?precrop=1453,845,x415,y1506&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-07-29/ty-article/.highlight/0000019f-ad09-dfac-a5df-bdd99cc10000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-07-29",
+          "magazine_date": "2026-07-31",
+          "title": "ליאור שליין מתעקש שאין מקום לדת, ומפספס סיפור של דור שלם",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-ad09-dfac-a5df-bdd99cc10000/16/c2/c280f439413e9875d76447dd8c0e/66387836.JPG?precrop=2006,1166,x763,y114&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-07-29/ty-article/.highlight/0000019f-ada9-d993-af9f-bdfff45e0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-07-29",
+          "magazine_date": "2026-07-31",
+          "title": "אנחנו נוסעים לחו\"ל מתוך מיאוס ועייפות, וזה כבר לא משנה לאן",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-ada9-d993-af9f-bdfff45e0000/92/f6/305f7118482cb049c161d74a671e/66385879.JPG?precrop=5500,3198,x0,y469&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-07-29/ty-article-face/.highlight/0000019f-ae41-d993-af9f-be57d2c10000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-07-29",
+          "magazine_date": "2026-07-31",
+          "title": "אבי נוסבאום",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-ae41-d993-af9f-be57d2c10000/b9/99/6182b862470ab1c34a6040997b44/942542.jpg?precrop=2400,1395,x0,y29&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-07-30/ty-article-magazine/.highlight/0000019f-ad2f-dfac-a5df-bdff5a160000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-07-30",
+          "magazine_date": "2026-07-31",
+          "title": "\"יש אנשים שלמדו אצלי ועברו לצד האפל. יש שם הרבה כסף, הפיתוי גדול\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-ad2f-dfac-a5df-bdff5a160000/87/56/d7b74e7140d8863c163ceff6c651/796487.jpg?precrop=2400,1395,x0,y153&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-07-29/ty-article/.highlight/0000019f-adde-de15-a79f-bdde4ae00000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-07-29",
+          "magazine_date": "2026-07-31",
+          "title": "הוא מייחל למותו של מושונוב. הוא רוצה להרוג את התרבות החילונית בישראל",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-adde-de15-a79f-bdde4ae00000/56/d8/6192b937463484e6a09f484a73fe/66397889.JPG?precrop=662,385,x53,y281&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-07-31/ty-article-midrug/.highlight/0000019f-b76e-da04-a7ff-bf6e5bb20000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-07-31",
+          "magazine_date": "2026-07-31",
+          "title": "לכהניסטים מותר לרוץ לכנסת. אל תגלו אבל הם כבר שם",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-b76e-da04-a7ff-bf6e5bb20000/12/a7/ae903c3348b5883723bf34bea2bd/727534.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-07-30/ty-article/.highlight/0000019f-adfb-d6af-a9ff-affb8e420000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-07-30",
+          "magazine_date": "2026-07-31",
+          "title": "מה פשר תגובתך על אירוע הירי ביישוב הפלסטיני? \"יש פה שיעור שלמדתי\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-adfb-d6af-a9ff-affb8e420000/fd/71/41a50dd942e89b26593f3b328d16/66393619.JPG?precrop=2140,1244,x0,y333&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-07-29/ty-article-quotes/.highlight/0000019f-ae45-dfac-a5df-bfd56ea30000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-07-29",
+          "magazine_date": "2026-07-31",
+          "title": "\"בעלי אלג'ירי... אני אוכלת את המאכלים המזרחיים\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-ae45-dfac-a5df-bfd56ea30000/7e/93/b635086e4d80b73053e8ab715dc2/556932.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-07-29/ty-article-20q/.highlight/0000019f-ad85-d709-a39f-adedb9cf0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-07-29",
+          "magazine_date": "2026-07-31",
+          "title": "איזו מחווה מסתתרת בשמותיהן של כמה מהדמויות הראשיות ב\"לשבור את הקרח\"?",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-ad85-d709-a39f-adedb9cf0000/45/c1/9b1301364b848e4a960557354027/943031.jpg?precrop=1890,1099,x255,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2026-07-30/ty-article-magazine/.highlight/0000019f-b29f-d135-abbf-f6ffd7ea0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2026-07-30",
+          "magazine_date": "2026-07-31",
+          "title": "הגפנים האלה ננטשו ב–1948. כנגד כל הסיכויים, הן שרדו",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-b29f-d135-abbf-f6ffd7ea0000/f9/41/60b9ebd94ef889796f08bd69d58a/1.jpg?precrop=1333,775,x0,y681&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-07-30/ty-article-magazine/.premium/0000019f-b2a3-d993-af9f-b2f717950000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-07-30",
+          "magazine_date": "2026-07-31",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 31.7.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-b2a3-d993-af9f-b2f717950000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-07-30/ty-article/.premium/0000019f-b2a0-de01-a5bf-f7e002800000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-07-30",
+          "magazine_date": "2026-07-31",
+          "title": "גוקש בצרות",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-b2a0-de01-a5bf-f7e002800000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2026-07-30/ty-article/.premium/0000019f-b2c4-d6af-a9ff-b3dcae960000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2026-07-30",
+          "magazine_date": "2026-07-31",
+          "title": "פרס מתפטר מהממשלה, למקרה שייבחר כנשיא",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-b2c4-d6af-a9ff-b3dcae960000/ed/b9/fd397f764c8393c6f22a85581f2a/mefursamot.jpg?precrop=1250,727,x0,y1500&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-07-30/ty-article/0000019f-b2eb-d6af-a9ff-b3fb12ce0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-07-30",
+          "magazine_date": "2026-07-31",
+          "title": "בגיל 23 ניהל את מבצע חילוץ יהודי ביזרטה בתוניסיה. בגיל 89 מת באשדוד",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-b2eb-d6af-a9ff-b3fb12ce0000/a2/56/069eb5b043fa9b2e8b04445a1859/old-port-of-bizerte-2008.jpg?precrop=2559,1489,x49,y35&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2026-07-30/ty-article/.premium/0000019f-b2b8-d6af-a9ff-b3f872a10000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2026-07-30",
+          "magazine_date": "2026-07-31",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-b2b8-d6af-a9ff-b3f872a10000/d9/3c/020a13ed401ca58ad758bdc846a8/cro.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-07-30/ty-article/.premium/0000019f-b2c6-d6af-a9ff-b3de6a090000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-07-30",
+          "magazine_date": "2026-07-31",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-b2c6-d6af-a9ff-b3de6a090000/48/8f/5ef0051c4dd099558eb46350fbe3/ribooa-musaf-688.jpg?precrop=1083,630,x0,y62&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-07-30/ty-article/.highlight/0000019f-adc1-de01-a5bf-ffc126260000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-07-30",
+          "magazine_date": "2026-07-31",
+          "title": "לא קל להכיר תודה. גם קאנט וניטשה הבינו זאת",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-adc1-de01-a5bf-ffc126260000/79/58/c264f56a4496a07e23578e3fde1c/66339829.JPG?precrop=1846,1073,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}
