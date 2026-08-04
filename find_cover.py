@@ -8,6 +8,16 @@ ISSUES_DIR = os.path.join(os.path.dirname(__file__), "issues")
 INDEX_PATH = os.path.join(os.path.dirname(__file__), "index.json")
 COOKIES_FILE = os.path.join(os.path.dirname(__file__), "haaretz_cookies.json")
 
+def alt_date_conflicts(alt, mag_date):
+    """True if alt text explicitly cites a day.month different from mag_date.
+    Catches inline in-article references to a past cover (e.g. an article
+    recalling 'שער מוסף הארץ מ-5.12...') which are not this issue's own cover."""
+    d = datetime.fromisoformat(mag_date).date()
+    for day, month in re.findall(r'(\d{1,2})[.\-](\d{1,2})(?!\d)', alt):
+        if (int(day), int(month)) != (d.day, d.month):
+            return True
+    return False
+
 def is_cover_filename(url, mag_date=None):
     """Check if image filename looks like a magazine cover.
     For date-pattern covers (D-M-YY-web), validate against mag_date to avoid
@@ -54,6 +64,8 @@ with sync_playwright() as p:
                 alt = img.get_attribute("alt") or ""
                 src = img.get_attribute("src") or ""
                 if "שער" in alt and ("שער מוסף" in alt or is_cover_filename(src, mag_date)):
+                    if alt_date_conflicts(alt, mag_date):
+                        continue
                     srcset = img.get_attribute("srcset") or ""
                     best = src
                     if srcset:
