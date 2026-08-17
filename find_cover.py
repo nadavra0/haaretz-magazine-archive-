@@ -18,16 +18,33 @@ def alt_date_conflicts(alt, mag_date):
             return True
     return False
 
+def is_strict_cover_filename(url):
+    """Filename markers that are exclusively used for real Haaretz magazine
+    covers (shaar*, mu\\d+, frontpage*) — safe to trust on their own, with no
+    date check and no dependence on alt text."""
+    if not url:
+        return False
+    fname = url.split('/')[-1].split('?')[0].lower()
+    return (
+        'shaar' in fname or
+        bool(re.match(r'mu\d+', fname)) or
+        fname.startswith('frontpage') or
+        fname.startswith('frontpgae')
+    )
+
 def is_cover_filename(url, mag_date=None):
     """Check if image filename looks like a magazine cover.
     For date-pattern covers (D-M-YY-web), validate against mag_date to avoid
-    cross-issue false positives from sidebars showing other issues' covers."""
+    cross-issue false positives from sidebars showing other issues' covers.
+    NOTE: date-pattern filenames are a WEAK signal on their own — Haaretz uses
+    the same '-web.'/'-animation.' suffix on ordinary same-day photos too, not
+    just covers. Callers must pair this with a strict alt-text check (exact
+    bare "שער" label, not just a substring) — see find_cover.py's main loop
+    and the 2026-08-14 incident this guards against."""
+    if not url:
+        return False
     fname = url.split('/')[-1].split('?')[0].lower()
-    # shaar/mu prefix — always a cover
-    if 'shaar' in fname or bool(re.match(r'mu\d+', fname)):
-        return True
-    # frontpage — always a cover
-    if fname.startswith('frontpage') or fname.startswith('frontpgae'):
+    if is_strict_cover_filename(url):
         return True
     # Date-pattern covers: only accept if they match THIS issue's date
     if mag_date and ('-web.' in fname or '-animation.' in fname):
@@ -63,7 +80,17 @@ with sync_playwright() as p:
             for img in page.query_selector_all("img"):
                 alt = img.get_attribute("alt") or ""
                 src = img.get_attribute("src") or ""
-                if "שער" in alt and ("שער מוסף" in alt or is_cover_filename(src, mag_date)):
+                # Accept only: (a) alt explicitly says "שער מוסף", or
+                # (b) filename alone is an unambiguous cover asset (shaar/mu/frontpage),
+                # or (c) alt is the *exact* bare label "שער" (not just a substring
+                # inside some unrelated caption) paired with a date-matched filename.
+                # A bare "שער" substring inside a longer caption used to be enough
+                # together with any date-matched filename — that's what let a
+                # comic-strip illustration get picked up as the 2026-08-14 cover.
+                is_explicit = "שער מוסף" in alt
+                is_strict_filename = is_strict_cover_filename(src)
+                is_bare_label = alt.strip() == "שער" and is_cover_filename(src, mag_date)
+                if is_explicit or is_strict_filename or is_bare_label:
                     if alt_date_conflicts(alt, mag_date):
                         continue
                     srcset = img.get_attribute("srcset") or ""

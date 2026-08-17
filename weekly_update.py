@@ -9,13 +9,25 @@ How article fetching works:
   - Metadata: title, og:image, section are extracted from HTML
   - Articles grouped by section, saved to issues/YYYY-MM-DD.json
 
-How cover detection works:
-  - Priority 1 (Playwright): looks for <img alt="שר מוסף..."> or <img alt="שר"> with
-    a cover filename (shaar*, mu\d+, frontpage*), or any img whose filename matches
-    the date pattern DD-M-YY-web / DD-M-YY-animation — date-validated to avoid
-    sidebar false-positives from other issues' covers bleeding in.
-  - Priority 2: og:image whose filename matches the date pattern
-  - Existing cover is NEVER overwritten unless a Priority-1 shaar_image is found
+How cover detection works (tightened 2026-08-17 after 3 wrong-cover incidents):
+  - Priority 1 (scraper.py, static HTML): <img alt="שער מוסף..."> anywhere, OR any
+    img whose filename alone is an unambiguous cover asset (shaar*, mu\d+, frontpage*).
+    Generic "-web."/"-animation." filenames are NOT accepted here on their own —
+    that's Haaretz's normal same-day image-optimization suffix, not cover-exclusive,
+    and combined with a bare "שער" substring in an unrelated caption it previously
+    let a comic-strip illustration get picked up as the cover (2026-08-14).
+  - Priority 2: og:image whose filename matches the date pattern (date-validated,
+    guards against cross-issue sidebar bleed-in from a different week's cover).
+  - No more blind fallback to "first article's og:image" — if nothing matches a
+    real cover marker, cover_image is left unset and a "NO COVER FOUND — needs
+    manual review" warning is printed instead of silently shipping a guess.
+  - find_cover.py (Playwright, run when Priority 1/2 found nothing usable) applies
+    the same tightened rule: explicit "שער מוסף", or a strict cover filename alone,
+    or an *exact* bare "שער" label (not a substring) paired with a date-matched
+    filename.
+  - Existing cover is NEVER overwritten unless a Priority-1 shaar_image is found.
+  - Whatever find_cover.py/scraper.py produce should still be visually sanity-checked
+    before it ships — see CLAUDE.md for the manual-fix checklist.
 """
 import subprocess, shutil, os, sys, json, re
 from datetime import datetime, timedelta

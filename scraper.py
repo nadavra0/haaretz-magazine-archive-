@@ -193,17 +193,25 @@ def fetch_metadata(url):
 
 def is_cover_filename(image_url):
     """Check if an image URL filename looks like a Haaretz magazine cover.
-    Cover images are named: shaar.jpg, shaar-N.jpg, mu1.jfif, mu2.jfif, etc.
+    Cover images are named: shaar.jpg, shaar-N.jpg, mu1.jfif, mu2.jfif, frontpage*, etc.
     This is used to validate alt='שר' (exact) matches — distinguishing the
-    real in-article cover from the sidebar widget (which has a numeric filename)."""
+    real in-article cover from the sidebar widget (which has a numeric filename).
+
+    Deliberately does NOT match generic '-web.'/'-animation.' filenames: that's
+    Haaretz's normal web-image-optimization suffix used on ordinary photos too
+    (not cover-exclusive), and combined with a bare "שער" substring elsewhere in
+    an unrelated caption it previously caused a comic-strip illustration to be
+    picked up as the 2026-08-14 cover. Only trust the unambiguous cover-only
+    filename markers here; date-pattern filenames are handled separately by
+    is_cover_image(), which is scoped to og:image and date-validated."""
     if not image_url:
         return False
     filename = image_url.split('/')[-1].split('?')[0].lower()
     return (
         'shaar' in filename or
         bool(re.match(r'mu\d+', filename)) or
-        '-web.' in filename or
-        '-animation.' in filename
+        filename.startswith('frontpage') or
+        filename.startswith('frontpgae')
     )
 
 
@@ -490,13 +498,14 @@ def save_archive(by_issue):
                     cover_image = a["og_image"]
                     cover_article_url = a["url"]
                     break
-        # Priority 3 — og_image of first main article
-        if not cover_image:
-            for a in articles:
-                if a["section"] == "magazine" and a.get("og_image"):
-                    cover_image = a["og_image"]
-                    cover_article_url = a["url"]
-                    break
+        # No blind Priority-3 fallback anymore (used to guess the first main
+        # article's og_image — that's zero cover-specific signal and is what
+        # produced multiple wrong covers). If neither priority above found a
+        # real cover marker, leave cover_image unset and flag it loudly so a
+        # human checks it instead of silently shipping a guess.
+        if not cover_image and not existing_cover:
+            print(f"  ⚠️  NO COVER FOUND for {magazine_date} — needs manual review "
+                  f"(python find_cover.py {magazine_date})")
 
         # Never downgrade an existing cover.
         # Only replace it if we found a Priority 1 shaar_image directly in an article body.
