@@ -1,0 +1,358 @@
+{
+  "magazine_date": "2026-08-14",
+  "total_articles": 26,
+  "cover_image": "https://img.haarets.co.il/bs/0000019f-f661-d569-a5ff-f6652a0f0000/63/87/f38695414c0db89c412f89056fd3/14-8-26-web.jpg?&width=1200&height=630&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-08-12/ty-article/.highlight/0000019f-f661-d569-a5ff-f6652a0f0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/mishpaha-boharim/2026-08-12/ty-article-face/.highlight/0000019f-f05d-d28e-a3df-f05d09d00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-08-12",
+          "magazine_date": "2026-08-14",
+          "title": "משפחה אחת, חמישה מתלבטים בין איזנקוט לבנט. מדור חדש",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-f05d-d28e-a3df-f05d09d00000/ba/2f/1a2905de4210ba9ef49851467171/046810.jpg?precrop=1825,1061,x0,y705&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-08-12/ty-article/.highlight/0000019f-f626-d569-a5ff-f666d77c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-08-12",
+          "magazine_date": "2026-08-14",
+          "title": "כמה מילים על יחידת הנקם המיוחדת שהקימה ישראל אחרי 7 באוקטובר",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-f626-d569-a5ff-f666d77c0000/93/7b/4cb9ae5a441a8a7613b528adff0c/66501295.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-08-12/ty-article/.highlight/0000019f-f661-d569-a5ff-f6652a0f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-08-12",
+          "magazine_date": "2026-08-14",
+          "title": "ממש נדהמתי מכמויות האהבה, האמפתיה וטוב הלב שהרעפתם עליי",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-f661-d569-a5ff-f6652a0f0000/63/87/f38695414c0db89c412f89056fd3/14-8-26-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-08-13/ty-article-magazine/.highlight/0000019f-f54f-d101-a5bf-ff5ffc7d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-08-13",
+          "magazine_date": "2026-08-14",
+          "title": "גירוי של עצב אחד עשוי לשפר מצב רוח, לטפל בדיכאון ולרפא דלקות",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-f54f-d101-a5bf-ff5ffc7d0000/fd/9c/02cdede645eab78bcf0921cb8684/brain.jpg?precrop=2000,1163,x0,y604&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-08-13/ty-article-magazine/.highlight/0000019f-f550-d28e-a3df-f5505cd30000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-08-13",
+          "magazine_date": "2026-08-14",
+          "title": "הוא הציע שאבוא לבקר בביתו בשטחים. פחדתי, אבל נסעתי",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-f550-d28e-a3df-f5505cd30000/c7/1e/3336d90d403ab52a10e186f01591/trees.jpg?precrop=2000,1162,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-08-13/ty-article-magazine/.highlight/0000019f-f550-d28e-a3df-f550af710000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-08-13",
+          "magazine_date": "2026-08-14",
+          "title": "סלמון גדל במים קרים? סטארט-אפ ישראלי מגדל אותו בארץ, בלי אנטיביוטיקה",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-f550-d28e-a3df-f550af710000/e0/6a/6d34065d4021b788cacbadb08dcd/070880.jpg?precrop=1800,1047,x0,y96&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-08-13/ty-article-magazine/.highlight/0000019f-f572-db94-a3df-fdf3c6820000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-08-13",
+          "magazine_date": "2026-08-14",
+          "title": "איפה היית כשעזה הורעבה? ולמה לא צריך מזרחי על שטר? שיחה עם נעמה לזימי",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-f572-db94-a3df-fdf3c6820000/c8/7f/b1cd62e448799aaca8f3d92ff0cf/898347.jpg?precrop=1603,932,x0,y565&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-08-12/ty-article/.highlight/0000019f-f55b-d929-afff-f7dbdbcc0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-08-12",
+          "magazine_date": "2026-08-14",
+          "title": "נולאן יפה נפש? אצל הומרוס הגיבורים אכזריים יותר — ובכיינים הרבה יותר",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-f55b-d929-afff-f7dbdbcc0000/75/d6/4a0f9d064a07bd39df523e0d7052/66491075.JPG?precrop=1955,1137,x0,y104&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-08-12/ty-article/.highlight/0000019f-f595-d929-afff-f79fcdb80000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-08-12",
+          "magazine_date": "2026-08-14",
+          "title": "האמריקאים לא הצליחו להבין: איך זה שהאדם החזק בעולם הוא גבר שחור?",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-f595-d929-afff-f79fcdb80000/cf/af/1722b3da49f089f39ec1d21f4dd2/071058.jpg?precrop=1804,1049,x0,y306&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-08-13/ty-article/.highlight/0000019f-fa25-de80-ab9f-fb2f412b0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-08-13",
+          "magazine_date": "2026-08-14",
+          "title": "צרפת קוברת מחדש היסטוריון יהודי, ושדים מן העבר מתעוררים",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-fa25-de80-ab9f-fb2f412b0000/d1/e8/dec5e9a4486e87c48eb929ccfcc3/66492120.JPG?precrop=3667,2131,x0,y102&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-08-12/ty-article/.highlight/0000019f-f53d-d929-afff-f7bf2f500000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-08-12",
+          "magazine_date": "2026-08-14",
+          "title": "כדור הארץ משתנה במהירות, ונצטרך להסתגל. לחיות כמו שפירית",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-f53d-d929-afff-f7bf2f500000/c5/69/4b43c0414769ad060da9567cd7e1/428752.jpg?precrop=2400,1395,x0,y206&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-08-12/ty-article-face/.highlight/0000019f-f649-d569-a5ff-f66d39840000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-08-12",
+          "magazine_date": "2026-08-14",
+          "title": "נתי קלוגר",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-f649-d569-a5ff-f66d39840000/86/f5/d4a473e34a2aa4ad39192ccc8ca6/061673.jpg?precrop=2400,1395,x0,y59&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-08-12/ty-article-magazine/.highlight/0000019f-f656-db94-a3df-ffd72bb20000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-08-12",
+          "magazine_date": "2026-08-14",
+          "title": "\"התחבקתי עם אנשים שהכרתי לפני עשר דקות\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-f656-db94-a3df-ffd72bb20000/67/0c/fef3f48f484b9b7d7df33d8cb000/001543.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-08-12/ty-article/.highlight/0000019f-f65e-d28e-a3df-f65e787d0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-08-12",
+          "magazine_date": "2026-08-14",
+          "title": "תמיר בר שר \"יא עמלק אני פאקינג חי\", ולא מבין למה שונאים אותו",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-f65e-d28e-a3df-f65e787d0000/ce/00/4a6c46984e15b01353d80209246f/072118.jpg?precrop=1391,809,x0,y965&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-08-13/ty-article-midrug/.highlight/0000019f-fab1-d569-a5ff-faf573d80000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-08-13",
+          "magazine_date": "2026-08-14",
+          "title": "צה\"ל מגנה מתנחלים שהקימו מאחז בחצר של משפחה פלסטינית. יותר מזה?",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-fab1-d569-a5ff-faf573d80000/ef/9a/8aa705bd4cb48316f49ca479e721/headline.jpg?precrop=2000,1163,x0,y715&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-08-12/ty-article/.highlight/0000019f-f62c-db94-a3df-ffafdcff0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-08-12",
+          "magazine_date": "2026-08-14",
+          "title": "למה ליברמן צירף לישראל ביתנו \nאדם שהצביע בעד חוקי ההפיכה? \n\"אני שומע, אבל לא יכול להשיב\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-f62c-db94-a3df-ffafdcff0000/78/af/150bdeb5488487ad65703e54fc3f/66500677.JPG?precrop=8192,4763,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-08-12/ty-article-quotes/.highlight/0000019f-f64c-d569-a5ff-f66cb8a70000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-08-12",
+          "magazine_date": "2026-08-14",
+          "title": "\"אני איש ימין. בטח אחרי 7.10, בטח אחרי שראינו גם דברים נוראים מהשמאל\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-f64c-d569-a5ff-f66cb8a70000/ee/b2/224e743545d2bf44deb1adfa7236/055936.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-08-12/ty-article-20q/.highlight/0000019f-f568-d101-a5bf-ff7848c60000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-08-12",
+          "magazine_date": "2026-08-14",
+          "title": "מה פירוש שם המשפחה איזנקוט?",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-f568-d101-a5bf-ff7848c60000/11/e7/fe6983ff43ed9f877f8a4166fd9c/421858.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2026-08-12/ty-article-magazine/.highlight/0000019f-f5b2-d101-a5bf-ffb24ea80000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2026-08-12",
+          "magazine_date": "2026-08-14",
+          "title": "מסעדת השיפודים \"סיח\" מגישה תחת של תרנגולת. זה דווקא נהדר",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-f5b2-d101-a5bf-ffb24ea80000/82/ec/58681d1e4e2aba2fdb1f80e9756a/4.jpg?precrop=2000,1162,x0,y46&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-08-13/ty-article-magazine/.premium/0000019f-faf8-d28e-a3df-faf878cb0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-08-13",
+          "magazine_date": "2026-08-14",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 14.8.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-faf8-d28e-a3df-faf878cb0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-08-13/ty-article/.premium/0000019f-fb4d-db94-a3df-ffcfb2600000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-08-13",
+          "magazine_date": "2026-08-14",
+          "title": "תחבולה ערמומית",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-fb4d-db94-a3df-ffcfb2600000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2026-08-13/ty-article/.premium/0000019f-fb69-d337-a7df-ffed85f10000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2026-08-13",
+          "magazine_date": "2026-08-14",
+          "title": "מתנה לערפאת ביום הולדתו: תת-מקלע מתוצרת ישראל",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-fb69-d337-a7df-ffed85f10000/68/ef/e3f9697c44b1b50f7565718032fc/mefursamot.jpg?precrop=1250,727,x0,y910&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-08-14/ty-article/0000019f-ff0b-d75f-a3bf-ff7b3a710000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-08-14",
+          "magazine_date": "2026-08-14",
+          "title": "המורה קרא לו סביוני. \"חשתי רגשי נחיתות\" אמר פרופ' דניאל סיון (סיבוני)",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-ff0b-d75f-a3bf-ff7b3a710000/1f/a7/f3705ca5415c9396b2c3247b3b2f/tablet-private-letter-ao-19940-p5280339-gradient.jpg?precrop=1280,744,x0,y269&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2026-08-13/ty-article/.premium/0000019f-fb63-d6b0-abdf-ff6b2ea10000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2026-08-13",
+          "magazine_date": "2026-08-14",
+          "title": "עינב צנגאוקר, שער בגין בקריה, 24.8.25",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-fb63-d6b0-abdf-ff6b2ea10000/92/7d/14aad582443d963b0202eb6583b9/caro.jpg?precrop=2000,1163,x0,y101&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-08-13/ty-article/.premium/0000019f-fb55-d569-a5ff-fb7537f40000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-08-13",
+          "magazine_date": "2026-08-14",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-fb55-d569-a5ff-fb7537f40000/f9/51/925fc85c4fd0aae67b0fc29a07fa/ribooa-musaf-690-new-1.jpg?precrop=1083,630,x0,y105&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-08-12/ty-article/.premium/0000019f-f660-d929-afff-f6eb62890000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-08-12",
+          "magazine_date": "2026-08-14",
+          "title": "איך משפחה קטנה כזאת מוציאה כל כך הרבה?",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-f660-d929-afff-f6eb62890000/54/ec/67c8bb464fd8a925e2f7b60d81ce/551008.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

@@ -1,6 +1,18 @@
 {
   "issues": [
     {
+      "magazine_date": "2026-08-14",
+      "total_articles": 26,
+      "section_count": 18,
+      "cover_image": "https://img.haarets.co.il/bs/0000019f-f661-d569-a5ff-f6652a0f0000/63/87/f38695414c0db89c412f89056fd3/14-8-26-web.jpg?&width=1200&height=630&cmsprod"
+    },
+    {
+      "magazine_date": "2026-08-07",
+      "total_articles": 24,
+      "section_count": 18,
+      "cover_image": "https://img.haarets.co.il/bs/0000019f-d23c-dc86-a59f-d73cf9b80001/e5/b0/2f11dc27400892c05b643a2d3c41/shaar.jpg?&width=1500&height=1980&cmsprod"
+    },
+    {
       "magazine_date": "2026-07-31",
       "total_articles": 26,
       "section_count": 18,
@@ -26,7 +38,7 @@
     },
     {
       "magazine_date": "2026-07-03",
-      "total_articles": 23,
+      "total_articles": 22,
       "section_count": 16,
       "cover_image": "https://img.haarets.co.il/bs/0000019f-1def-d183-a3ff-9fef930b0001/98/68/e62881fd4a118225b5a61ac915f3/shaar.jpg?&width=1500&height=1980&cmsprod"
     },
@@ -841,6 +853,6 @@
       "cover_image": null
     }
   ],
-  "last_updated": "2026-08-16T10:00:23.490559",
-  "total_issues": 140
+  "last_updated": "2026-08-16T07:35:57.492699",
+  "total_issues": 142
 }

@@ -1,0 +1,338 @@
+{
+  "magazine_date": "2026-08-07",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/0000019f-d23c-dc86-a59f-d73cf9b80001/e5/b0/2f11dc27400892c05b643a2d3c41/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-08-05/ty-article-magazine/.highlight/0000019f-d14b-de9b-adff-f7ffdc500000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-08-05/ty-article-magazine/.highlight/0000019f-d14b-de9b-adff-f7ffdc500000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-08-05",
+          "magazine_date": "2026-08-07",
+          "title": "היא בטוחה שאפשר לחוש שמחה עמוקה גם כשקשה, ומיליונים הולכים בעקבותיה",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d14b-de9b-adff-f7ffdc500000/e5/14/cc3a1ef442418aab5de2d73257bd/001367.jpg?precrop=2400,1395,x0,y177&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-08-05/ty-article-magazine/.highlight/0000019f-d15d-de9b-adff-f7fd4cb90000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-08-05",
+          "magazine_date": "2026-08-07",
+          "title": "עלייה באי־שוויון? אנחנו כל הזמן מתקדמים לעבר יותר ויותר שוויון",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d15d-de9b-adff-f7fd4cb90000/cf/cf/bb5103c14d24b14faf761440fcf9/000448.jpg?precrop=2400,1395,x0,y194&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-08-05/ty-article-magazine/.highlight/0000019f-d16d-d310-a3df-d56fd5c10000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-08-05",
+          "magazine_date": "2026-08-07",
+          "title": "נשלחנו לשיקום בבני ברק. לא מדברים כאן עברית. גם לא יידיש",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d16d-d310-a3df-d56fd5c10000/bc/e2/f0b613c34e588a0ed7e7cc1117ef/1.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-08-05/ty-article/.highlight/0000019f-d231-d04a-a3df-d6f1782c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-08-05",
+          "magazine_date": "2026-08-07",
+          "title": "שלום, אני נרי ליבנה ואני חולת פרקינסון",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d231-d04a-a3df-d6f1782c0000/71/c9/b18f22d24bcc88f9308ebd8a5de3/7-8-26-web.jpg?precrop=1311,762,x2,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-08-06/ty-article-magazine/.highlight/0000019f-d121-d312-a3ff-ff294f8b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-08-06",
+          "magazine_date": "2026-08-07",
+          "title": "שהם ישלמו למטפלים? עלילות \"משפחת מאירוביץ\" בקופת חולים מכבי",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d121-d312-a3ff-ff294f8b0000/e4/9f/0c16941040a791af63861b2a281b/865243.jpg?precrop=2031,1181,x177,y281&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-08-05/ty-article/.highlight/0000019f-d1db-d04a-a3df-d5db78db0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-08-05",
+          "magazine_date": "2026-08-07",
+          "title": "אשתו סיפרה שהוא הכה אותה ואת בתם הפעוטה. הרפובליקאים התייצבו להגנתו",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d1db-d04a-a3df-d5db78db0000/73/21/61c3550c4cdd8e27fd9bb9fac3c6/66441981.JPG?precrop=3641,2116,x0,y27&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-08-06/ty-article-magazine/.highlight/0000019f-d654-d310-a3df-d657c0e40000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-08-06",
+          "magazine_date": "2026-08-07",
+          "title": "תערוכה בלונדון חושפת את וינסטון צ'רצ'יל כפי שמעטים הכירו: צייר פורה",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d654-d310-a3df-d657c0e40000/6e/1a/6990493d463abd24266338f784d8/994113.jpg?precrop=2400,1395,x0,y212&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-08-06/ty-article/.highlight/0000019f-d61a-dabd-abdf-ff5af4850000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-08-06",
+          "magazine_date": "2026-08-07",
+          "title": "המתנחלים ניצחו? המציאות בשטח מעלה תמונה אחרת לחלוטין",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d61a-dabd-abdf-ff5af4850000/98/9b/09b8c87740248ab01c8fdfabcf20/928633.jpg?precrop=1902,1106,x293,y190&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-08-05/ty-article/.highlight/0000019f-d1d1-d310-a3df-d5d38c010000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-08-05",
+          "magazine_date": "2026-08-07",
+          "title": "הפוליטיקה של הישבן המשוחרר: הטיפוס האנאלי חוזר, והוא שונה ממה שהכרנו",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d1d1-d310-a3df-d5d38c010000/31/11/81e7e21b49efb16d14b51c58dafd/506767.jpg?precrop=1648,958,x317,y120&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-08-05/ty-article-face/.highlight/0000019f-d23d-d7e2-a39f-f7ffca990000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-08-05",
+          "magazine_date": "2026-08-07",
+          "title": "לאה לופטין",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d23d-d7e2-a39f-f7ffca990000/3c/e1/ed6e7eca4b0e8d4e91a08aae9d29/015710.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-08-05/ty-article-magazine/.highlight/0000019f-d252-dc86-a59f-d756d8150000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-08-05",
+          "magazine_date": "2026-08-07",
+          "title": "\"באוסטרליה אני חווה גזענות, אבל זה עדיף. זו בעיה פחות מסכנת חיים\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d252-dc86-a59f-d756d8150000/2f/39/4e23bf88428abb9ad34186fee1f5/001537.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2026-08-05/ty-article-magazine/.highlight/0000019f-d20f-dc86-a59f-d70f29500000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2026-08-05",
+          "magazine_date": "2026-08-07",
+          "title": "\"פגשתי בגן מאיר נערה בת 13\nשסיפרה לי שהיא נכנסת לגמילה מהרואין\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d20f-dc86-a59f-d70f29500000/50/05/f3d8b34c49f0af225ef3728053a9/66448980.JPG?precrop=8192,4763,x0,y308&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-08-05/ty-article/.highlight/0000019f-d248-d04a-a3df-d6c87ed40000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-08-05",
+          "magazine_date": "2026-08-07",
+          "title": "בושה, בושה, איכס, גועל נפש, בושה: עיון בשירתו של חנוך מילביצקי",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d248-d04a-a3df-d6c87ed40000/b4/99/ab9c9b3246e490fa3216c70cb15d/mil.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-08-06/ty-article-midrug/.highlight/0000019f-d626-d7e2-a39f-f7e6691a0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-08-06",
+          "magazine_date": "2026-08-07",
+          "title": "אדם בתחפושת פיל מושבע לסנאט בקולומביה. לא, כי מפלגה בראשות ארדן",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d626-d7e2-a39f-f7e6691a0000/39/1c/36dbbc26413ca9ec6ac917696dbd/headline-1.jpg?precrop=2000,1163,x0,y424&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-08-05/ty-article/.highlight/0000019f-d204-d310-a3df-d607c6b00000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-08-05",
+          "magazine_date": "2026-08-07",
+          "title": "מעולם לא שמעתי אותך עצבני ככה.\n\"אני לא עצבני. תתאזר בסבלנות ותראה איך המפלגה שלנו תצליח\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d204-d310-a3df-d607c6b00000/dc/a9/e18f4bdf44a6b709654e7ef3ae53/66449041.JPG?precrop=6767,3934,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-08-05/ty-article-quotes/.highlight/0000019f-d241-dc86-a59f-d7459f1d0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-08-05",
+          "magazine_date": "2026-08-07",
+          "title": "\"אני חד וחלק בעד אחדות מלאה ללא המפלגות הערביות\"",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d241-dc86-a59f-d7459f1d0000/5e/51/ba36728f40bf856f3398079a4ed6/830446.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-08-05/ty-article-20q/.highlight/0000019f-d227-dc86-a59f-d72736c40000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-08-05",
+          "magazine_date": "2026-08-07",
+          "title": "לפי \"האודיסיאה\" של הומרוס, כמה שנים נעדר אודיסאוס מביתו?",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d227-dc86-a59f-d72736c40000/af/de/1569d56749d0a33b0bfef29a074b/671596.jpg?precrop=2400,1396,x0,y95&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2026-08-05/ty-article-20q/.highlight/0000019f-d230-d315-a1df-fb3e9f8b0000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2026-08-05",
+          "magazine_date": "2026-08-07",
+          "title": "20 שאלות לילדים ולילדות: מה השפה העיקרית שמדוברת בברזיל?",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d230-d315-a1df-fb3e9f8b0000/75/b1/0590b5f7482b9915654fcdb77daa/71126-031060.jpg?precrop=2400,1395,x0,y301&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2026-08-06/ty-article-magazine/.highlight/0000019f-d61b-d310-a3df-d61ba9440000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2026-08-06",
+          "magazine_date": "2026-08-07",
+          "title": "מ\"ג'וסי לוסי\" ועד \"איילת מקבלת\", הצילומים שלו היו חלק מכל בית בישראל",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d61b-d310-a3df-d61ba9440000/86/17/6fcfdb034bc99772aa82bc0ed0f9/66441170.JPG?precrop=1771,1030,x0,y286&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-08-06/ty-article-magazine/.premium/0000019f-d5fb-dabd-abdf-fdfb3e110000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-08-06",
+          "magazine_date": "2026-08-07",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 7.8.2026",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d5fb-dabd-abdf-fdfb3e110000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-08-06/ty-article/.premium/0000019f-d602-dc86-a59f-d706e6710000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-08-06",
+          "magazine_date": "2026-08-07",
+          "title": "ניצחון אמריקאי",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d602-dc86-a59f-d706e6710000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-08-06/ty-article/0000019f-d65e-d310-a3df-d65f87e90000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-08-06",
+          "magazine_date": "2026-08-07",
+          "title": "\"ראיתי את האשה והילדים. לא היה לי לב לירות בו\": וידויו של חובש בתש\"ח",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d65e-d310-a3df-d65f87e90000/c3/f9/96da78804805bac8457153d1ccee/screenshot-2026-08-06-113907.png?precrop=537,312,x5,y11&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-08-06/ty-article/.premium/0000019f-d5f9-d7e2-a39f-f7fb54a60000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-08-06",
+          "magazine_date": "2026-08-07",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d5f9-d7e2-a39f-f7fb54a60000/6b/6d/40dc98d24b55acae72a47d749fd8/ribooa-musaf-689.jpg?precrop=1083,630,x0,y282&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-08-05/ty-article/.highlight/0000019f-d261-d04a-a3df-d6e14f590000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-08-05",
+          "magazine_date": "2026-08-07",
+          "title": "זה לא היה אליטיזם. היה בשכונת רחביה עושר תרבותי אמיתי",
+          "og_image": "https://img.haarets.co.il/bs/0000019f-d261-d04a-a3df-d6e14f590000/e8/1f/fcabb3fd46258d9b4cb2a4da6d2e/227358.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

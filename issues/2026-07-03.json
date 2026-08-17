@@ -1,6 +1,6 @@
 {
   "magazine_date": "2026-07-03",
-  "total_articles": 23,
+  "total_articles": 22,
   "cover_image": "https://img.haarets.co.il/bs/0000019f-1def-d183-a3ff-9fef930b0001/98/68/e62881fd4a118225b5a61ac915f3/shaar.jpg?&width=1500&height=1980&cmsprod",
   "cover_article_url": "https://www.haaretz.co.il/magazine/2026-07-02/ty-article-magazine/.highlight/0000019f-1db0-d183-a3ff-9ffd71060000",
   "sections": {
@@ -262,16 +262,6 @@
     "magazine/obit": {
       "name": "נספד",
       "articles": [
-        {
-          "url": "https://www.haaretz.co.il/magazine/obit/2026-06-29/ty-article/.premium/0000019f-13e9-d070-a3ff-d7ef01c90000",
-          "section": "magazine/obit",
-          "section_name": "נספד",
-          "article_date": "2026-06-29",
-          "magazine_date": "2026-07-03",
-          "title": "\"מעולם לא דיברנו על מה שקרה\": גרושתו של יוני נתניהו מתה בגיל 80",
-          "og_image": "https://img.haarets.co.il/bs/0000019f-13e9-d070-a3ff-d7ef01c90000/72/ad/ec64c82c4267ac80e07b473fe9f4/whatsapp-image-2026-06-29-at-15-38-52.jpeg?&width=1200&height=630&cmsprod",
-          "shaar_image": null
-        },
         {
           "url": "https://www.haaretz.co.il/magazine/obit/2026-07-02/ty-article/0000019f-22b4-d4c2-abbf-36beb67b0000",
           "section": "magazine/obit",
