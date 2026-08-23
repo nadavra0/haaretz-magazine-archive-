@@ -9,7 +9,7 @@ How article fetching works:
   - Metadata: title, og:image, section are extracted from HTML
   - Articles grouped by section, saved to issues/YYYY-MM-DD.json
 
-How cover detection works (tightened 2026-08-17 after 3 wrong-cover incidents):
+How cover detection works (tightened 2026-08-17, then again 2026-08-23):
   - Priority 1 (scraper.py, static HTML): <img alt="שער מוסף..."> anywhere, OR any
     img whose filename alone is an unambiguous cover asset (shaar*, mu\d+, frontpage*).
     Generic "-web."/"-animation." filenames are NOT accepted here on their own —
@@ -25,12 +25,37 @@ How cover detection works (tightened 2026-08-17 after 3 wrong-cover incidents):
     the same tightened rule: explicit "שער מוסף", or a strict cover filename alone,
     or an *exact* bare "שער" label (not a substring) paired with a date-matched
     filename.
-  - Existing cover is NEVER overwritten unless a Priority-1 shaar_image is found.
+  - Existing cover is NEVER overwritten unless a Priority-1 shaar_image is found
+    AND it passes is_portrait_cover_crop() below.
+  - 2026-08-21 incident: Priority 2's date-pattern filename match put an unrelated
+    column's photo (og:image happened to be named '21-8-26-web.jpg') into the cover
+    slot. The real cover DOES exist and IS embedded on the flagship article's page
+    as a "שער מוסף" widget (confirmed directly by Nadav — shaar.jpg, masthead+date
+    visible) — but this repo's own scraper session (Playwright + haaretz_cookies.json,
+    headless) could not see it there: a full HTML dump of that exact page found zero
+    "שער"/"shaar" occurrences. Root cause of that gap is UNCONFIRMED (stale/degraded
+    session auth vs. headless/bot detection vs. something else — see CLAUDE.md). Do
+    NOT assume the widget itself is gone from Haaretz's site; only that Priority 1
+    couldn't see it in this run. Fix: scraper.is_portrait_cover_crop() gates every
+    candidate (both priorities, plus find_cover.py and the "already has a cover"
+    skip-check just above) on the image's width/height query params — real covers
+    are always requested at the portrait full-page-scan crop (width=1500,
+    height~1959-1981, ratio ~0.756-0.766); ordinary og:image thumbnails are
+    landscape (1200x630, ratio 1.9) and structurally cannot contain the masthead.
+    This closes the specific false-positive that caused this incident regardless of
+    why Priority 1 didn't fire. An archive-wide audit on 2026-08-23 found 3 more
+    older issues with the same wrong crop shape (2024-08-23, 2024-09-13,
+    2025-06-13) — left alone per Nadav's call, only 2026-08-21 was corrected (to
+    the real shaar.jpg Nadav found). If Priority 1 keeps missing the widget on
+    future runs, issues will land on "NO COVER FOUND" (safe) rather than a wrong
+    guess — but that should be investigated (try refresh_cookies.py first), not
+    assumed permanent.
   - Whatever find_cover.py/scraper.py produce should still be visually sanity-checked
     before it ships — see CLAUDE.md for the manual-fix checklist.
 """
 import subprocess, shutil, os, sys, json, re
 from datetime import datetime, timedelta
+from scraper import is_portrait_cover_crop
 
 ARCHIVE_DIR = os.path.dirname(os.path.abspath(__file__))
 DOCS_DIR    = os.path.join(ARCHIVE_DIR, "docs")
@@ -71,10 +96,12 @@ def main():
     # 2. Find/update cover for the new issue — skip if already has a shaar/frontpage cover
     issue_path = os.path.join(ISSUES_DIR, f"{mag_date}.json")
     if os.path.exists(issue_path):
-        existing_cover = json.load(open(issue_path)).get("cover_image", "")
+        existing_cover = json.load(open(issue_path)).get("cover_image") or ""
         fname = existing_cover.split('/')[-1].split('?')[0].lower()
-        has_good_cover = ('shaar' in fname or bool(re.match(r'mu\d+', fname))
-                          or fname.startswith('frontpage') or fname.startswith('frontpgae'))
+        # Filename alone is NOT enough (see 2026-08-21 incident: a wrong
+        # og:image cover kept its date-pattern filename but was a landscape
+        # article thumbnail, not the cover). Require the portrait crop shape too.
+        has_good_cover = bool(existing_cover) and is_portrait_cover_crop(existing_cover)
         if has_good_cover:
             log(f"Cover already set ({fname}) — skipping find_cover.py")
         else:

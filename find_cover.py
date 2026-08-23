@@ -8,6 +8,26 @@ ISSUES_DIR = os.path.join(os.path.dirname(__file__), "issues")
 INDEX_PATH = os.path.join(os.path.dirname(__file__), "index.json")
 COOKIES_FILE = os.path.join(os.path.dirname(__file__), "haaretz_cookies.json")
 
+def is_portrait_cover_crop(url):
+    """Gate on crop shape, not just filename/alt text. Real Haaretz covers are
+    requested at width=1500 & height~1959-1981 (portrait, ratio ~0.756-0.766) —
+    the actual scanned front page including masthead + date. Ordinary og:image
+    thumbnails are width=1200&height=630 (landscape, ratio 1.9) and can never
+    contain the masthead, no matter how plausible the filename/alt looks. See
+    scraper.py's is_portrait_cover_crop() for the archive-wide audit that
+    established these numbers (2026-08-23)."""
+    if not url:
+        return False
+    m = re.search(r'width=(\d+)&height=(\d+)', url)
+    if not m:
+        return False
+    width, height = int(m.group(1)), int(m.group(2))
+    if width <= 0 or height <= width:
+        return False
+    ratio = width / height
+    return 0.70 <= ratio <= 0.80
+
+
 def alt_date_conflicts(alt, mag_date):
     """True if alt text explicitly cites a day.month different from mag_date.
     Catches inline in-article references to a past cover (e.g. an article
@@ -100,6 +120,8 @@ with sync_playwright() as p:
                         if entries:
                             entries.sort(key=lambda x: int(x[1]), reverse=True)
                             best = entries[0][0].rstrip(",")
+                    if not is_portrait_cover_crop(best):
+                        continue
                     cover_url = best
                     cover_article = art["url"]
                     break

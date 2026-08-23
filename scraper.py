@@ -215,11 +215,47 @@ def is_cover_filename(image_url):
     )
 
 
+def is_portrait_cover_crop(image_url):
+    """Check the width/height query params on a Haaretz CMS image URL match the
+    portrait full-page cover-scan crop, not the landscape social-share thumbnail crop.
+
+    Checked all 141 issues in this archive (2026-08-23 audit): every confirmed-real
+    cover requests width=1500 & height in 1959-1981 (aspect ratio ~0.756-0.766,
+    a tall portrait — the actual scanned magazine front page, masthead + date
+    included). Every confirmed-WRONG cover (2024-08-23, 2024-09-13, 2025-06-13,
+    2026-08-21) instead requests width=1200&height=630 (ratio 1.9, landscape) —
+    that's Haaretz's generic per-article og:image social-card crop, which can
+    never contain the masthead. This is a purely mechanical, format-based check:
+    it doesn't care what the photo *is*, only whether the crop shape is even
+    capable of being a front-page scan. Use as a hard gate before ever accepting
+    an og:image-based cover candidate."""
+    if not image_url:
+        return False
+    m = re.search(r'width=(\d+)&height=(\d+)', image_url)
+    if not m:
+        return False
+    width, height = int(m.group(1)), int(m.group(2))
+    if width <= 0 or height <= width:
+        return False
+    ratio = width / height
+    return 0.70 <= ratio <= 0.80
+
+
 def is_cover_image(image_url, magazine_date):
     """Check whether an og:image filename matches the magazine cover pattern.
     Haaretz names cover images like '1-5-26-web.jpg' (D-M-YY-web)
-    or '1-5-26-animation.gif' (animated covers)."""
+    or '1-5-26-animation.gif' (animated covers).
+
+    NOTE: the filename date-match alone is a WEAK signal — Haaretz reuses this
+    exact naming convention for ordinary per-article same-day thumbnails too
+    (see the 2026-08-21 incident: an og:image named '21-8-26-web.jpg' belonged
+    to an unrelated personal column, not the cover). As of the 2026-08-23 fix,
+    this function ALSO requires is_portrait_cover_crop() to pass — the date
+    pattern narrows to "published this week", the crop-shape check narrows to
+    "structurally a front-page scan". Both must hold."""
     if not image_url:
+        return False
+    if not is_portrait_cover_crop(image_url):
         return False
     d = datetime.fromisoformat(magazine_date).date()
     year2 = str(d.year)[2:]
@@ -484,10 +520,12 @@ def save_archive(by_issue):
                 pass
 
         # Find cover image: priority 1 — <img alt="שער מוסף..."> tag in any article
+        # Gate on is_portrait_cover_crop() too: even an explicit "שער מוסף" alt tag
+        # is worthless if the image itself isn't a portrait front-page scan.
         cover_image = None
         cover_article_url = None
         for a in articles:
-            if a.get("shaar_image"):
+            if a.get("shaar_image") and is_portrait_cover_crop(a["shaar_image"]):
                 cover_image = a["shaar_image"]
                 cover_article_url = a["url"]
                 break
@@ -503,15 +541,26 @@ def save_archive(by_issue):
         # produced multiple wrong covers). If neither priority above found a
         # real cover marker, leave cover_image unset and flag it loudly so a
         # human checks it instead of silently shipping a guess.
-        if not cover_image and not existing_cover:
+
+        # An existing_cover that fails is_portrait_cover_crop() is a known-bad
+        # value (the 2026-08-21 incident: a wrong og:image cover, once written,
+        # would otherwise be preserved forever by the "never downgrade" rule
+        # below if Priority 1 keeps failing to find the real שער image on a
+        # later run — see CLAUDE.md for why that happened once; not confirmed
+        # to be a permanent site change). Don't let a bad shape count as
+        # "already has a cover" — treat it the same as no cover at all so it
+        # can be replaced (by a valid Priority 1/2 hit) or explicitly nulled.
+        existing_cover_valid = existing_cover and is_portrait_cover_crop(existing_cover)
+
+        if not cover_image and not existing_cover_valid:
             print(f"  ⚠️  NO COVER FOUND for {magazine_date} — needs manual review "
                   f"(python find_cover.py {magazine_date})")
 
-        # Never downgrade an existing cover.
+        # Never downgrade an existing *valid* cover.
         # Only replace it if we found a Priority 1 shaar_image directly in an article body.
         # Preserve covers set by --fetch-covers / Playwright / manual patching.
         found_via_shaar = any(a.get("shaar_image") for a in articles)
-        if existing_cover and not found_via_shaar:
+        if existing_cover_valid and not found_via_shaar:
             cover_image = existing_cover
             cover_article_url = existing_cover_article
 
@@ -670,7 +719,7 @@ def fetch_shaar_images_playwright(issues_needing_cover):
                                 if entries:
                                     entries.sort(key=lambda x: int(x[1]), reverse=True)
                                     src = entries[0][0].rstrip(",")
-                            if src:
+                            if src and is_portrait_cover_crop(src):
                                 results[magazine_date] = src
                                 print(f"  ✓ {magazine_date}: found שער in {article['url'][-40:]}")
                                 found = True
