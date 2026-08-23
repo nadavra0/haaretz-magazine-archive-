@@ -79,21 +79,42 @@ def sync_to_github_secret():
     HAARETZ_COOKIES secret so the weekly workflow doesn't keep running on a
     stale copy after a local refresh. Never raises — this repo's `gh` CLI
     defaults to a different (Forter) account with no access here, so this
-    switches accounts first and just prints a warning if anything fails."""
+    switches accounts first and just prints a warning if anything fails.
+
+    GitHub Actions secrets cap at 48KB. The full cookie jar Playwright saves
+    (2026-08-23: 364 cookies, ~100KB) is mostly third-party ad-tech tracking
+    cookies (taboola, doubleclick, etc.) picked up incidentally while
+    browsing — none of that is needed to scrape haaretz.co.il. Only the
+    ~34 cookies actually scoped to *.haaretz.co.il matter for auth, and
+    those fit comfortably under the limit."""
     try:
+        all_cookies = json.load(open(COOKIES_FILE, encoding="utf-8"))
+        haaretz_cookies = [c for c in all_cookies if "haaretz.co.il" in c.get("domain", "")]
+        body = json.dumps(haaretz_cookies)
+        if len(body.encode("utf-8")) > 48 * 1024:
+            print(f"⚠ Even the {len(haaretz_cookies)} haaretz.co.il-scoped cookies "
+                  f"exceed the 48KB GitHub secret limit ({len(body)} bytes) — sync skipped")
+            return
+
         subprocess.run(["gh", "auth", "switch", "--user", GH_ACCOUNT],
                         check=True, capture_output=True, text=True)
         subprocess.run(
-            ["gh", "secret", "set", "HAARETZ_COOKIES", "--repo", GH_REPO,
-             "--body", open(COOKIES_FILE, encoding="utf-8").read()],
+            ["gh", "secret", "set", "HAARETZ_COOKIES", "--repo", GH_REPO, "--body", body],
             check=True, capture_output=True, text=True,
         )
-        print(f"✓ Synced fresh cookies to the {GH_REPO} HAARETZ_COOKIES secret")
+        print(f"✓ Synced {len(haaretz_cookies)} haaretz.co.il cookies to the "
+              f"{GH_REPO} HAARETZ_COOKIES secret")
+    except subprocess.CalledProcessError as e:
+        # str(e) on a CalledProcessError just repeats the command args, not
+        # the actual failure — e.stderr has the real reason (e.g. the
+        # "Value is too large" 48KB-limit error that this function's domain
+        # filter exists to avoid).
+        print(f"⚠ Could not sync cookies to GitHub secret: {e.stderr.strip()} — "
+              f"GitHub Actions will keep using its stale copy until this is done "
+              f"manually.")
     except Exception as e:
         print(f"⚠ Could not sync cookies to GitHub secret ({e}) — "
-              f"GitHub Actions will keep using its stale copy until this is "
-              f"done manually: gh secret set HAARETZ_COOKIES --repo {GH_REPO} "
-              f"--body \"$(cat {COOKIES_FILE})\"")
+              f"GitHub Actions will keep using its stale copy until this is done manually.")
 
 
 if __name__ == "__main__":
