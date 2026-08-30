@@ -1,0 +1,368 @@
+{
+  "magazine_date": "2026-08-28",
+  "total_articles": 27,
+  "cover_image": null,
+  "cover_article_url": null,
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-08-26/ty-article-magazine/.highlight/000001a0-3d5b-d274-a7f4-bdfb382b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-08-26",
+          "magazine_date": "2026-08-28",
+          "title": "מאות מתנדבים ליברלים יוצאים לשטח לשכנע את הצד השני. חסר סיכוי? לא בטוח",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-3d5b-d274-a7f4-bdfb382b0000/3c/6b/b7f5ec054b51a21547fe988375ce/011983.jpg?precrop=1181,687,x626,y270&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-08-26/ty-article-magazine/.highlight/000001a0-3d72-d274-a7f4-bdf3662e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-08-26",
+          "magazine_date": "2026-08-28",
+          "title": "יצאתי למסע בעומק מערות האדם הקדמון, שאחריו העולם כבר לא נראה אותו הדבר",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-3d72-d274-a7f4-bdf3662e0000/55/0e/3fd8faef4ffbb309353986744ec1/196841.jpg?precrop=2324,1351,x76,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-08-26/ty-article-magazine/.highlight/000001a0-3dbf-dba3-a3ff-3dff523b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-08-26",
+          "magazine_date": "2026-08-28",
+          "title": "מתנחלים משמיעים לו טראנס בפול ווליום 24 שעות ביממה, והוא מחייך",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-3dbf-dba3-a3ff-3dff523b0000/46/fe/251ba5aa4b6791ceaad8f46a3355/196860.jpg?precrop=1547,900,x405,y429&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-08-26/ty-article-magazine/.highlight/000001a0-3dce-dba3-a3ff-3ddff7860000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-08-26",
+          "magazine_date": "2026-08-28",
+          "title": "איפה זה פוגש את קלוד: האם יכול להיות שהבינה המלאכותית פיתחה רגשות?",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-3dce-dba3-a3ff-3ddff7860000/20/5f/a99c26454a96a40e6e4f8fc39b49/ai.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/mishpaha-boharim/2026-08-26/ty-article-face/.highlight/000001a0-3e4a-df1e-a1ea-7fcbcae70000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-08-26",
+          "magazine_date": "2026-08-28",
+          "title": "הם עולים מארה\"ב, והם נוטים להצביע למפלגה החרדית החדשה",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-3e4a-df1e-a1ea-7fcbcae70000/77/5b/e6ba18cb4b2c84e2eaf878000c09/204265.jpg?precrop=1688,981,x0,y406&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-08-26/ty-article/.highlight/000001a0-3db5-d936-a7ac-3dbda2e40000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-08-26",
+          "magazine_date": "2026-08-28",
+          "title": "מציאת אלטלנה החזירה אותי אל הבג\"ץ הראשון במדינה",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-3db5-d936-a7ac-3dbda2e40000/4e/c3/ee1e6a814bf9a9be219c4e44455a/66611977.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-08-26/ty-article/.highlight/000001a0-3e04-d217-a1f4-3f4df4af0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-08-26",
+          "magazine_date": "2026-08-28",
+          "title": "מה אפשר ללמוד מסיפורו של הפרופסור הצעיר שהואשם בפלגיאטים והתאבד",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-3e04-d217-a1f4-3f4df4af0000/b9/51/799ce9f44b7ca7e1e4455e4faa61/28-8-26-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-08-26/ty-article/.highlight/000001a0-3d15-d936-a7ac-3d3dbf160000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-08-26",
+          "magazine_date": "2026-08-28",
+          "title": "לא היו מזהים אותה ברחוב. היא היתה ההפך המוחלט משרה נתניהו",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-3d15-d936-a7ac-3d3dbf160000/15/ac/6512d4ac43eb9abc7ef195849872/66600795.JPG?precrop=3066,1783,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-08-26/ty-article/.highlight/000001a0-3d29-d268-a1fe-3d7dab340000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-08-26",
+          "magazine_date": "2026-08-28",
+          "title": "לפתע נוחתת בשורה: הילד שלך הרג מישהו. מה עושים עכשיו?",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-3d29-d268-a1fe-3d7dab340000/d2/b0/211adc7a4ac989eda975096cd190/66594265.JPG?precrop=5472,3180,x0,y468&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-08-26/ty-article/.highlight/000001a0-3d36-d5ed-a7a6-7dbefcb00000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-08-26",
+          "magazine_date": "2026-08-28",
+          "title": "זכינו בהזדמנות היסטורית לגור ליד הים. לא נצא להרפתקה?",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-3d36-d5ed-a7a6-7dbefcb00000/6a/a3/076a4268400c8dd11129a586df27/66594258.JPG?precrop=5933,3449,x0,y374&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-08-26/ty-article/.highlight/000001a0-3de5-dba3-a3ff-3dff8d5f0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-08-26",
+          "magazine_date": "2026-08-28",
+          "title": "הם נכנסו לאולפן ל-11 ימים, ושינו לעד את עולם המוזיקה",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-3de5-dba3-a3ff-3dff8d5f0000/da/22/d69cd0ad4912bf701166cf1ef66a/66610858.JPG?precrop=2823,1641,x0,y235&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-08-26/ty-article/.highlight/000001a0-3d0c-d02f-a9ed-7d6fe7eb0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-08-26",
+          "magazine_date": "2026-08-28",
+          "title": "הכוחות השולטים בישראל אימצו במודע את תפקיד הנבל, ודבקים בו בכל מחיר",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-3d0c-d02f-a9ed-7d6fe7eb0000/e5/e1/601621914190b284cb98a5cdcfb2/422901.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-08-26/ty-article-face/.highlight/000001a0-3e03-d274-a7f4-bea39e050000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-08-26",
+          "magazine_date": "2026-08-28",
+          "title": "אברהם סלקטר",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-3e03-d274-a7f4-bea39e050000/b3/dd/32a7c201486fa17c29347ed53771/1o5a1016-1.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-08-27/ty-article-magazine/.highlight/000001a0-3de5-d936-a7ac-3dede6200000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-08-27",
+          "magazine_date": "2026-08-28",
+          "title": "\"אם הכל ילך כמתוכנן, אני מתכנן לפרוש בגיל 40\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-3de5-d936-a7ac-3dede6200000/49/67/d8d0b9f74fcd910451f8a6f6d8ce/107351.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-08-26/ty-article/.highlight/000001a0-3e7c-d936-a7ac-3e7d8fab0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-08-26",
+          "magazine_date": "2026-08-28",
+          "title": "יוסף חדאד הוא הפנטזיה היהודית של הישראלים. ספק אם הוא באמת קיים",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-3e7c-d936-a7ac-3e7d8fab0000/ed/7b/b7a1c18e430284cd11ac54378cc2/241956.jpg?precrop=1359,790,x458,y511&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-08-27/ty-article-midrug/.highlight/000001a0-3fef-d274-a7f4-bfef6b3a0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-08-27",
+          "magazine_date": "2026-08-28",
+          "title": "תעזבו אותה, היא רצתה להיעלם",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-3fef-d274-a7f4-bfef6b3a0000/1f/e9/af978adf433db08184ee480d5dea/headline-3.jpg?precrop=2000,1163,x0,y376&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-08-27/ty-article/.highlight/000001a0-3da6-d274-a7f4-bda7e77d0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-08-27",
+          "magazine_date": "2026-08-28",
+          "title": "\"בשמאל לא מבינים: אני לא פנאטי שיעשה הכל כדי שהימין יישאר בשלטון\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-3da6-d274-a7f4-bda7e77d0000/fd/35/d54e2e1c40368605e1eb26035efc/66601422.JPG?precrop=1376,800,x3040,y1195&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-08-27/ty-article-quotes/.highlight/000001a0-3e14-d936-a7ac-3e3daad80000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-08-27",
+          "magazine_date": "2026-08-28",
+          "title": "\"יכול להיות שהוא עשה איזה מעשה שובב כזה או אחר כשהוא היה צעיר\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-3e14-d936-a7ac-3e3daad80000/a5/95/d84c5d734f8cbbc7955a160c8001/kimchi2698b.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-08-26/ty-article-20q/.highlight/000001a0-3d46-d274-a7f4-bde74b970000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-08-26",
+          "magazine_date": "2026-08-28",
+          "title": "בסרט \"בחזרה לעתיד\", מה היה אמור לשמש כמכונת הזמן לפני שהוחלף בדלוריאן?",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-3d46-d274-a7f4-bde74b970000/f0/ee/220db0f34903aeb7606971f41210/376822.jpg?precrop=2400,1395,x0,y67&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2026-08-27/ty-article-magazine/.highlight/000001a0-3dda-dba3-a3ff-3ddb8e1c0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2026-08-27",
+          "magazine_date": "2026-08-28",
+          "title": "זה מטבח איטלקי ללא פשרות, עם עגבניות מצוינות ולחם אלוהי",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-3dda-dba3-a3ff-3ddb8e1c0000/60/2f/aff39f844b52bd49f5755767f8bd/dor3202.jpg?precrop=5373,3124,x0,y2230&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-08-27/ty-article-magazine/.premium/000001a0-42a9-d518-a5ad-eeffb3130000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-08-27",
+          "magazine_date": "2026-08-28",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 28.8.2026",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-42a9-d518-a5ad-eeffb3130000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-08-27/ty-article/.premium/000001a0-42ce-d02f-a9ed-5eefb4c40000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-08-27",
+          "magazine_date": "2026-08-28",
+          "title": "צריך גם מזל",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-42ce-d02f-a9ed-5eefb4c40000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2026-08-27/ty-article/.premium/000001a0-42bc-d518-a5ad-eeff296c0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2026-08-27",
+          "magazine_date": "2026-08-28",
+          "title": "בבא־ברוך חייב 1500 שקל על שיחות טלפון ולא משלם",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-42bc-d518-a5ad-eeff296c0000/03/92/4b822ea14ff2a6e82f6e291cb406/mefursamot.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-08-27/ty-article/000001a0-41f5-d274-a7f4-f5f512870000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-08-27",
+          "magazine_date": "2026-08-28",
+          "title": "שאול משעל, שעלה מבגדד, קרא למזרחים \"להפסיק ליילל\". לא כולם אהבו את זה",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-41f5-d274-a7f4-f5f512870000/df/1f/333215ad4a448eea7b64ae7f5f17/gemini-generated-image-vf2630vf2630vf26.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2026-08-27/ty-article/.premium/000001a0-42c7-d518-a5ad-eedfae130000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2026-08-27",
+          "magazine_date": "2026-08-28",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-42c7-d518-a5ad-eedfae130000/55/a0/a6772a384226998c21399befe7c4/israel-palestinians-gaza.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-08-27/ty-article/.premium/000001a0-42c4-d840-abbe-7af562920000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-08-27",
+          "magazine_date": "2026-08-28",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-42c4-d840-abbe-7af562920000/b0/83/1679416e41ba960d4dc6268a823e/ribooa-musaf-692-new.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-08-26/ty-article/.highlight/000001a0-3ec6-d936-a7ac-3eefec7b0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-08-26",
+          "magazine_date": "2026-08-28",
+          "title": "הצילום של אלכס ליבק גרם לי להחסיר נשימה",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-3ec6-d936-a7ac-3eefec7b0000/50/ac/3b0bb3594779970bc626137027dd/141015.jpg?precrop=2400,1396,x0,y195&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

@@ -1,6 +1,12 @@
 {
   "issues": [
     {
+      "magazine_date": "2026-08-28",
+      "total_articles": 27,
+      "section_count": 18,
+      "cover_image": null
+    },
+    {
       "magazine_date": "2026-08-21",
       "total_articles": 26,
       "section_count": 17,
@@ -859,6 +865,6 @@
       "cover_image": null
     }
   ],
-  "last_updated": "2026-08-23T10:00:26.193385",
-  "total_issues": 143
+  "last_updated": "2026-08-30T12:42:31.315926",
+  "total_issues": 144
 }
