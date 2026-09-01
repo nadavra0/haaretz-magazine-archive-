@@ -53,3 +53,11 @@ jobs:
           HAARETZ_EMAIL: ${{ secrets.HAARETZ_EMAIL }}
           HAARETZ_PASSWORD: ${{ secrets.HAARETZ_PASSWORD }}
         run: python weekly_update.py
+
+      - name: Upload login failure screenshot (if any)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: login-failure-screenshot
+          path: login_failure.png
+          if-no-files-found: ignore
