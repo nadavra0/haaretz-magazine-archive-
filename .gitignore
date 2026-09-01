@@ -1,5 +1,7 @@
-# Sensitive — never commit login cookies
+# Sensitive — never commit login cookies/session data
 haaretz_cookies.json
+haaretz_browser_profile/
+login_failure.png
 
 # Python
 __pycache__/

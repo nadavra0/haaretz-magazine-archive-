@@ -174,32 +174,27 @@ def _probe_session_degraded(probe_url):
 
 
 def _nudge_refresh(reason):
-    """Best-effort, non-blocking nudge to refresh cookies — never blocks the
-    rest of the pipeline, and never runs anywhere without a human (i.e. never
-    in GitHub Actions)."""
-    notify_phone(f"Haaretz cookies need a real login ({reason}). Run refresh_cookies.py.")
+    """Purely informational now — login_haaretz.py (run at the top of main(),
+    inside the persistent browser profile) is the real fix path and runs
+    automatically every time, so there's nothing left to "nudge". This used
+    to also auto-launch refresh_cookies.py in the background as a fallback,
+    but that opens a brand-new, non-persistent browser identity — exactly
+    the "new device every run" pattern that caused the 2026-09-01 device-
+    quota lockout. Only log + notify now; if the persistent profile's own
+    login is failing, that needs a look (see login_failure.png), not another
+    ad-hoc login attempt."""
+    notify_phone(f"Haaretz cookie probe degraded ({reason}) — check login_failure.png if logins keep failing.")
     if os.environ.get("GITHUB_ACTIONS"):
-        log("  (running in GitHub Actions — can't refresh interactively here; "
-            "someone needs to run refresh_cookies.py locally and update the "
-            "HAARETZ_COOKIES secret)")
+        log("  (running in GitHub Actions — informational only, no interactive fallback here)")
         return
     try:
         subprocess.run([
             "osascript", "-e",
-            f'display notification "Reason: {reason}. Run refresh_cookies.py when you get a chance." '
-            f'with title "Haaretz cookies need a refresh"'
+            f'display notification "Reason: {reason}." '
+            f'with title "Haaretz cookie probe degraded"'
         ], check=False)
     except Exception as e:
         log(f"  (couldn't send macOS notification: {e})")
-    try:
-        # Detached, non-blocking — opens a headed browser for Nadav to log
-        # into whenever he's next at the machine; doesn't hold up this run.
-        subprocess.Popen([PYTHON, "refresh_cookies.py"], cwd=ARCHIVE_DIR,
-                          stdout=open(os.path.join(ARCHIVE_DIR, "refresh_cookies.log"), "a"),
-                          stderr=subprocess.STDOUT, start_new_session=True)
-        log("  → launched refresh_cookies.py in the background (non-blocking)")
-    except Exception as e:
-        log(f"  (couldn't launch refresh_cookies.py: {e})")
 
 
 def main():
@@ -211,6 +206,17 @@ def main():
     yyyymm   = last_friday.strftime("%Y%m")
 
     log(f"=== Weekly update starting — target date: {mag_date} ===")
+
+    # 0. Log in fresh every run (local Keychain or GH Actions secrets) — no
+    # human click needed. Falls back to whatever cookies already exist if
+    # this fails, so it's never worse than before.
+    try:
+        from login_haaretz import login_and_save_cookies
+        if not login_and_save_cookies():
+            log("WARN: automated login failed — continuing with existing cookies")
+            notify_phone("Haaretz automated login failed this run — check login_failure.png")
+    except Exception as e:
+        log(f"WARN: automated login step crashed: {e}")
 
     # 1. Scrape the month (discovers new issue, preserves existing ones)
     log(f"Scraping {yyyymm}...")

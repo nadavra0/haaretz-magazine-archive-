@@ -24,10 +24,24 @@ jobs:
           pip install -r requirements.txt
           playwright install --with-deps chromium
 
-      - name: Write Haaretz cookies
+      - name: Write Haaretz cookies (fallback if the persistent-profile login below can't run)
         env:
           HAARETZ_COOKIES: ${{ secrets.HAARETZ_COOKIES }}
         run: echo "$HAARETZ_COOKIES" > haaretz_cookies.json
+
+      # Restores the same on-disk browser profile every run (cookies + local
+      # storage) so Haaretz sees ONE consistent "device" across scheduled
+      # runs instead of a fresh one each time — see login_haaretz.py's
+      # docstring for why that matters (device-quota lockout, 2026-09-01).
+      # Exact key never hits (run_id is unique) so a fresh snapshot always
+      # saves at the end of a successful job; restore-keys picks up the most
+      # recent previous one.
+      - name: Restore Haaretz browser profile cache
+        uses: actions/cache@v4
+        with:
+          path: haaretz_browser_profile
+          key: haaretz-browser-profile-${{ github.run_id }}
+          restore-keys: haaretz-browser-profile-
 
       - name: Configure git identity
         run: |
@@ -35,4 +49,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Run weekly update
+        env:
+          HAARETZ_EMAIL: ${{ secrets.HAARETZ_EMAIL }}
+          HAARETZ_PASSWORD: ${{ secrets.HAARETZ_PASSWORD }}
         run: python weekly_update.py
