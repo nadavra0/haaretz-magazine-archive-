@@ -65,6 +65,7 @@ LOG_PATH      = os.path.join(ARCHIVE_DIR, "weekly_update.log")
 COOKIES_PATH  = os.path.join(ARCHIVE_DIR, "haaretz_cookies.json")
 PYTHON        = sys.executable
 COOKIE_MAX_AGE_DAYS = 14  # the 2026-08-21 incident's cookies were 41 days old
+NTFY_TOPIC = "haaretz-archive-b0a8f6d2a6a8"  # subscribe in the ntfy app to get alerts
 
 
 def log(msg):
@@ -73,6 +74,25 @@ def log(msg):
     print(line)
     with open(LOG_PATH, "a") as f:
         f.write(line + "\n")
+
+
+def notify_phone(message):
+    """Push a real phone alert via ntfy.sh (free, no account, plain HTTPS POST) —
+    works the same from a local run and from GitHub Actions, unlike the macOS
+    osascript banner (local-only, easy to miss) or a log line nobody reads
+    proactively. Never raises — a failed notification shouldn't fail the run."""
+    try:
+        import urllib.request
+        req = urllib.request.Request(
+            f"https://ntfy.sh/{NTFY_TOPIC}",
+            data=message.encode("utf-8"),
+            headers={"Title": "Haaretz archive"},
+            method="POST",
+        )
+        urllib.request.urlopen(req, timeout=10)
+        log(f"  → pushed phone notification: {message}")
+    except Exception as e:
+        log(f"  (couldn't push phone notification: {e})")
 
 
 def check_cookie_health(probe_url=None):
@@ -157,6 +177,7 @@ def _nudge_refresh(reason):
     """Best-effort, non-blocking nudge to refresh cookies — never blocks the
     rest of the pipeline, and never runs anywhere without a human (i.e. never
     in GitHub Actions)."""
+    notify_phone(f"Haaretz cookies need a real login ({reason}). Run refresh_cookies.py.")
     if os.environ.get("GITHUB_ACTIONS"):
         log("  (running in GitHub Actions — can't refresh interactively here; "
             "someone needs to run refresh_cookies.py locally and update the "
@@ -234,6 +255,12 @@ def main():
             log(r.stdout.strip() or "(no output)")
             if r.returncode != 0:
                 log(f"WARN cover finder: {r.stderr.strip()}")
+            final_cover = json.load(open(issue_path)).get("cover_image") or ""
+            if not final_cover:
+                notify_phone(
+                    f"{mag_date} magazine cover still missing — site is showing the "
+                    f"generic placeholder. Needs a manual fix (see CLAUDE.md)."
+                )
     else:
         log(f"WARN: {mag_date}.json not found — magazine may not exist yet")
 
