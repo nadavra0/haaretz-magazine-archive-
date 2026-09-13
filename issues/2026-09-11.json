@@ -1,0 +1,328 @@
+{
+  "magazine_date": "2026-09-11",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/000001a0-7d26-d5e7-a7a0-7f3631cb0001/e7/c0/fe374b9a491b958fb1df76fce63e/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-09-08/ty-article-magazine/.highlight/000001a0-7a8a-d825-afb5-fefe2a9d0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-09-08/ty-article-magazine/.highlight/000001a0-7a8a-d825-afb5-fefe2a9d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-09-08",
+          "magazine_date": "2026-09-11",
+          "title": "נתניהו קיבל התרעה מפורשת ימים לפני 7 באוקטובר אך לא עדכן את צה\"ל ושב\"כ",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-7a8a-d825-afb5-fefe2a9d0000/a5/4f/e7e3fcbe40ae95184100c159f715/musaf-promotion01.jpg?precrop=1049,610,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-09-09/ty-article-magazine/.highlight/000001a0-860f-dc67-a5f1-bedf22270000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-09-09",
+          "magazine_date": "2026-09-11",
+          "title": "הוא היה עילוי בעולם החרדי, הבן המבטיח. היום הוא משורר פרוע וחסר כל",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-860f-dc67-a5f1-bedf22270000/3b/44/29e834c443159974f306bc37c500/330378-2.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-09-09/ty-article-magazine/.highlight/000001a0-864d-d9dc-a9a9-86cfdc8f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-09-09",
+          "magazine_date": "2026-09-11",
+          "title": "מה קורה לילד שמגלה יום אחד שההורים שלו הם בעצם מרגלים של הקג\"ב?",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-864d-d9dc-a9a9-86cfdc8f0000/0f/47/9dca7dd24f98b00fb2c7f2f20d05/66708412.JPG?precrop=1117,649,x0,y278&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-09-09/ty-article-magazine/.highlight/000001a0-86a0-d9dc-a9a9-86e665b90000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-09-09",
+          "magazine_date": "2026-09-11",
+          "title": "השימוש הנפוץ ביותר ב–AI הוא לטובת יחסים אישיים עם הבוט",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-86a0-d9dc-a9a9-86e665b90000/d9/08/e1d636924079b9b2f75e1be85501/ai.jpg?precrop=2481,1442,x0,y620&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/mishpaha-boharim/2026-09-09/ty-article-face/.highlight/000001a0-86d3-d865-abbd-d7f38fc80000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-09-09",
+          "magazine_date": "2026-09-11",
+          "title": "הם היו מצביעי בל\"ד. היום הם מתלבטים בין המשותפת, רע\"מ והדמוקרטים",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-86d3-d865-abbd-d7f38fc80000/fb/97/c28bd2784d1c927ac4321dec4fe5/323000.jpg?precrop=1998,1162,x0,y889&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-09-09/ty-article/.highlight/000001a0-861b-d9dc-a9a9-86dfab1a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-09-09",
+          "magazine_date": "2026-09-11",
+          "title": "מה אמרה לי איימי, המטפלת הפילפינית שלי, ולמה זה הפתיע אותי",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-861b-d9dc-a9a9-86dfab1a0000/38/91/e37e876d4527b5712f7b16822df5/11-9-26-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-09-09/ty-article/.highlight/000001a0-8626-d219-a3ed-bffe43630000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-09-09",
+          "magazine_date": "2026-09-11",
+          "title": "מה בעצם רוצות כל המפלגות שהוקמו לקראת הבחירות",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-8626-d219-a3ed-bffe43630000/42/0d/17edb6b64273ae49f7a84f8d53f2/66731363.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-09-09/ty-article-magazine/.highlight/000001a0-85a3-d3bd-adf3-95a374b70000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-09-09",
+          "magazine_date": "2026-09-11",
+          "title": "זו יצירה ספרותית מורכבת ומפתיעה, שמתמודדת עם השאלה הגדולה של הקיום",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-85a3-d3bd-adf3-95a374b70000/a4/90/82815e9e4d04bd7adb0ea7f0786f/66711602.JPG?precrop=2529,1471,x0,y230&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-09-09/ty-article-magazine/.highlight/000001a0-85b8-d4aa-a7fd-f7feee8a0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-09-09",
+          "magazine_date": "2026-09-11",
+          "title": "יהודי נודד, יחף ולבוש לבן: מי היה נביא הצמחונות אליעזר קמיניצקי?",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-85b8-d4aa-a7fd-f7feee8a0000/74/1b/2e2755b54da7b951439595e21f23/1.png?precrop=1513,879,x93,y13&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-09-09/ty-article/.highlight/000001a0-8557-dc67-a5f1-bddfd4a50000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-09-09",
+          "magazine_date": "2026-09-11",
+          "title": "לא סתם נדמה לנו שהרשת הפכה לסלט מילולי. סוכני AI התחילו לדבר זה עם זה",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-8557-dc67-a5f1-bddfd4a50000/0a/f7/c3b656d34f6a983e63696bbbf9e9/kodak.jpg?precrop=2479,1440,x67,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-09-09/ty-article/.highlight/000001a0-8569-d148-afbd-f7698eb30000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-09-09",
+          "magazine_date": "2026-09-11",
+          "title": "יש משהו שבכל זאת מאחד בין יהודים לערבים: האובססיה לירח",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-8569-d148-afbd-f7698eb30000/fd/a1/fd62be48437ea9af76620f2ddc76/300928.jpg?precrop=2400,1395,x0,y153&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-09-10/ty-article-face/.highlight/000001a0-86c7-d219-a3ed-bfdf87110000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-09-10",
+          "magazine_date": "2026-09-11",
+          "title": "מירב גרובר",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-86c7-d219-a3ed-bfdf87110000/a4/13/f81441fa4d95ab811890ca7e3a21/facetemplate1800x1200-1.jpg?precrop=1800,1046,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-09-10/ty-article-magazine/.highlight/000001a0-8603-d4aa-a7fd-f64799510000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-09-10",
+          "magazine_date": "2026-09-11",
+          "title": "\"בברלין הייתי רופא מומחה. בישראל שקלתי אפילו לעבוד במלצרות\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-8603-d4aa-a7fd-f64799510000/69/05/13015f5242749418fb9703044a83/66703958.JPG?precrop=6948,4039,x0,y131&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-09-10/ty-article-midrug/.highlight/000001a0-872f-d9dc-a9a9-87eff58f0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-09-10",
+          "magazine_date": "2026-09-11",
+          "title": "שרה ויאיר, פרשת הפצ\"רית ודני אבדיה: ועדת המדרוג מסכמת שנה",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-872f-d9dc-a9a9-87eff58f0000/8d/52/04da0a7d4744bc20f52506915c5c/headline.jpg?precrop=2000,1162,x0,y357&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-09-10/ty-article/.highlight/000001a0-860a-d3bd-adf3-96abf7b40000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-09-10",
+          "magazine_date": "2026-09-11",
+          "title": "למה חברת למנסור עבאס? \"בחרתי להצטרף למיעוט על מנת שהרוב יחשוב\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-860a-d3bd-adf3-96abf7b40000/c5/3b/9c68cb6d40b9a28ba66bb3ed7a2f/264239.jpg?precrop=895,521,x552,y167&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-09-10/ty-article-quotes/.highlight/000001a0-8711-d219-a3ed-bfdbf2a60000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-09-10",
+          "magazine_date": "2026-09-11",
+          "title": "\"שאלוהים ישמור על המלך. וכן, אני מתכוון לאחד והיחיד — הקב\"ה\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-8711-d219-a3ed-bfdbf2a60000/0a/df/546ca16d4bdba8036c69cc1bac15/280836.jpg?precrop=2400,1395,x0,y2&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-09-10/ty-article-20q/.highlight/000001a0-8060-d7d5-a9fc-ecff6b960000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-09-10",
+          "magazine_date": "2026-09-11",
+          "title": "מי היה ראש ממשלת ישראל כשהושק החטיף במבה?",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-8060-d7d5-a9fc-ecff6b960000/e7/7c/9121aa914c759124c59c510f98b3/810837-3-2-2.jpg?precrop=2400,1395,x0,y361&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-09-10/ty-article-magazine/.premium/000001a0-8adf-d532-a9ba-8edfcea30000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-09-10",
+          "magazine_date": "2026-09-11",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 11.9.2026",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-8adf-d532-a9ba-8edfcea30000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-09-10/ty-article/.premium/000001a0-8adb-ded9-adad-aeffe8f30000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-09-10",
+          "magazine_date": "2026-09-11",
+          "title": "המהיר מכולם",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-8adb-ded9-adad-aeffe8f30000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2026-09-10/ty-article/.premium/000001a0-8aee-d9a4-a3a7-9ffe3fe20000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2026-09-10",
+          "magazine_date": "2026-09-11",
+          "title": "הצהרת המילניום: עד 2015 העולם יהיה מקום טוב יותר לחיות בו",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-8aee-d9a4-a3a7-9ffe3fe20000/04/de/92fe83514adb95ab00c50b36cb47/mefursamot.jpg?precrop=1250,727,x0,y1926&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-09-11/ty-article/000001a0-8efa-dfa9-ada3-cefa07280000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-09-11",
+          "magazine_date": "2026-09-11",
+          "title": "\"כל השושלות החסידיות ידועות לו\": הרב והד\"ר יצחק אלפסי מת בן 97",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-8efa-dfa9-ada3-cefa07280000/10/ce/a6bf58214e23a32ba96f312a9563/gemini-generated-image-63s5uu63s5uu63s5.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2026-09-10/ty-article/.premium/000001a0-8ae3-d9dc-a9a9-8ae779ad0000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2026-09-10",
+          "magazine_date": "2026-09-11",
+          "title": "נשיא איחוד האמירויות, מוחמד בן זאיד",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-8ae3-d9dc-a9a9-8ae779ad0000/1b/af/38852c1948ab8badc4938239aa9e/zaid-caro.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-09-10/ty-article/.premium/000001a0-8af4-d9a4-a3a7-9ff6d13c0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-09-10",
+          "magazine_date": "2026-09-11",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-8af4-d9a4-a3a7-9ff6d13c0000/57/83/2880dd444c6ea160c0f35a4b405b/ribooa-musaf-694-new-1.jpg?precrop=1084,630,x0,y266&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-09-10/ty-article/000001a0-863e-d532-a9ba-863effea0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-09-10",
+          "magazine_date": "2026-09-11",
+          "title": "יש שיטת חינוך אחת שלא מאוימת על ידי AI",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-863e-d532-a9ba-863effea0000/14/de/403ab406459a92ddb5df4562d96b/439716.jpg?precrop=2400,1395,x0,y209&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}
