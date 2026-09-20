@@ -1,0 +1,338 @@
+{
+  "magazine_date": "2026-09-18",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/000001a0-aa58-df5b-adf2-fe7d24480001/d8/61/c963d91e45cabf39bbbe3112ea40/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/ayelet-shani/2026-09-16/ty-article-magazine/.highlight/000001a0-aa4a-df5b-adf2-fe6f27ac0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-09-16/ty-article-magazine/.highlight/000001a0-a905-de68-a7e0-bb4782260000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-09-16",
+          "magazine_date": "2026-09-18",
+          "title": "בימין מטיפים לנו שהאסלאם אלים. יש להם סיבה להסתיר את האסלאם המתון",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-a905-de68-a7e0-bb4782260000/37/08/7735bded4f939366ffd2c0d4417d/450159.jpg?precrop=2400,1395,x0,y213&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-09-16/ty-article-magazine/.highlight/000001a0-a9b4-d5b2-a9ee-abbe454a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-09-16",
+          "magazine_date": "2026-09-18",
+          "title": "\"אם לא היינו מתגרשים בגלל שהוא הומו, היינו מתגרשים כי הוא הפך לביביסט\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-a9b4-d5b2-a9ee-abbe454a0000/c9/ed/f27db23342b7a8793714cb8d441c/66770310.JPG?precrop=2880,1674,x0,y1684&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-09-16/ty-article-magazine/.highlight/000001a0-aa7b-de68-a7e0-bb7fc6a10000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-09-16",
+          "magazine_date": "2026-09-18",
+          "title": "בערב סטנדאפ היפי, הופיע לפתע ההוא שהתנפל על מוני מושונוב. גם אני חטפתי",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-aa7b-de68-a7e0-bb7fc6a10000/3b/52/ec3a371e4d139cdf3d3c984519bf/66767900.JPG?precrop=3072,1786,x0,y1169&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/mishpaha-boharim/2026-09-16/ty-article-face/.highlight/000001a0-aaa8-d5b2-a9ee-aaaa8d740000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-09-16",
+          "magazine_date": "2026-09-18",
+          "title": "הם תושבי עוטף עזה שתמכו במרצ וחד\"ש, אבל הפעם הם נוטים להצביע לרע\"ם",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-aaa8-d5b2-a9ee-aaaa8d740000/a6/e3/9c2b6f564ae09c81b5459d34774e/440068.jpg?precrop=1754,1020,x0,y845&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-09-17/ty-article/.highlight/000001a0-aeb7-d91d-afeb-eef7b8670000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-09-17",
+          "magazine_date": "2026-09-18",
+          "title": "בשביל נתניהו לא רק הפלסטינים הם נזק אגבי, אלא גם אני",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-aeb7-d91d-afeb-eef7b8670000/ab/84/51cdc7d1472085294af1123ea8dc/18-9-26-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-09-16/ty-article-magazine/.highlight/000001a0-aa2d-df5b-adf2-fe6dedbf0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-09-16",
+          "magazine_date": "2026-09-18",
+          "title": "שני קוסמים בראו את ארץ עוץ, והסוף שלהם היה שונה בתכלית",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-aa2d-df5b-adf2-fe6dedbf0000/b0/d7/74bb85734ed8b4066199de210760/66778025.JPG?precrop=430,250,x0,y75&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-09-16/ty-article/.highlight/000001a0-a924-d5b2-a9ee-abae65710000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-09-16",
+          "magazine_date": "2026-09-18",
+          "title": "אני פוסע בירושלים ומתקשה לזהות אותה. מה דוד קרויאנקר היה אומר?",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-a924-d5b2-a9ee-abae65710000/40/e9/d5d3daeb4bf095584e885be79f50/66768768.JPG?precrop=5616,3265,x0,y479&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-09-16/ty-article/.highlight/000001a0-a959-d91d-afeb-e959aa920000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-09-16",
+          "magazine_date": "2026-09-18",
+          "title": "טוסקנה, בורגון, הנגב. כן, המדבר שלנו הוא חבל יין מפואר",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-a959-d91d-afeb-e959aa920000/56/fc/bd0516844aba8d76da1d2d8c833b/450458.jpg?precrop=2400,1395,x0,y138&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2026-09-16/ty-article/.highlight/000001a0-a902-de68-a7e0-bb46dab10000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2026-09-16",
+          "magazine_date": "2026-09-18",
+          "title": "שפכטל, שיבר וקנטים: כך השתלטה הגרמנית של הייקים על העברית",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-a902-de68-a7e0-bb46dab10000/b6/43/411e693a4140a7c8ac591fba5f5c/66779752.JPG?precrop=6240,3628,x0,y393&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-09-16/ty-article/.highlight/000001a0-a91b-d5b2-a9ee-ab9b62650000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-09-16",
+          "magazine_date": "2026-09-18",
+          "title": "הישראלים התמכרו לעוף. זה כבר לא כוכב האדם, אלא כוכב התרנגולות",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-a91b-d5b2-a9ee-ab9b62650000/c9/9f/8f1e433b419a9071a47314f3db59/66768753.JPG?precrop=4510,2621,x0,y844&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-09-17/ty-article-face/.highlight/000001a0-aafa-d91d-afeb-eafab86b0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-09-17",
+          "magazine_date": "2026-09-18",
+          "title": "דניאל גל",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-aafa-d91d-afeb-eafab86b0000/45/a3/321af2ac4fbbb5d23fa83fc3484f/facetemplate1800x1200-1.jpg?precrop=1800,1047,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-09-17/ty-article-magazine/.highlight/000001a0-a975-d5b2-a9ee-abff7ccc0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-09-17",
+          "magazine_date": "2026-09-18",
+          "title": "\"יש שם מינוס 50 מעלות, מקום קיצוני מאוד. אבל צילמתי שם את הזאב הארקטי\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-a975-d5b2-a9ee-abff7ccc0000/2a/9c/4f54fe5a492eb841e6d3342c04a0/66767943.JPG?precrop=6883,4002,x0,y169&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2026-09-16/ty-article-magazine/.highlight/000001a0-aa4a-df5b-adf2-fe6f27ac0000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2026-09-16",
+          "magazine_date": "2026-09-18",
+          "title": "\"יחשבו שאני לא נורמלי: מה, יש לך חמש שנים לחיות ואתה נוסע למות?\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-aa4a-df5b-adf2-fe6f27ac0000/c4/11/6bf955ac4433804400a70bda90b7/talmon.jpg?precrop=3176,1846,x517,y1148&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-09-17/ty-article-midrug/.highlight/000001a0-ab24-d5b2-a9ee-abae36390000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-09-17",
+          "magazine_date": "2026-09-18",
+          "title": "ניצחון למרכז־שמאל בשוודיה. כמה יצאו המילואימניקים?",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-ab24-d5b2-a9ee-abae36390000/8f/e4/fe1554434738a563bf422e4fddcf/headline.jpg?precrop=1999,1162,x1,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-09-17/ty-article/.highlight/000001a0-aa41-d5b2-a9ee-aacb2e8f0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-09-17",
+          "magazine_date": "2026-09-18",
+          "title": "רני רהב, למה אתה תומך בשלילת אזרחותם? \"הם היו צריכים לעשות סרט על נוער הגבעות!\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-aa41-d5b2-a9ee-aacb2e8f0000/e4/f4/c6e96131480ab283051c03b41be0/66791875.JPG?precrop=2000,1163,x0,y197&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-09-17/ty-article-quotes/.highlight/000001a0-ab4d-de68-a7e0-bb4f3e170000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-09-17",
+          "magazine_date": "2026-09-18",
+          "title": "\"אנחנו כן מוכנים שיגורו פה אנשים כמו יוסף חדאד\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-ab4d-de68-a7e0-bb4f3e170000/23/ec/2df76aa740f4a6fb15160a2661f9/316217.jpg?precrop=2400,1395,x0,y127&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-09-17/ty-article-20q/.highlight/000001a0-ab06-de68-a7e0-bb46b9090000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-09-17",
+          "magazine_date": "2026-09-18",
+          "title": "במה עסק הדיון שבו אמרה נשיאת העליון אסתר חיות: \"שום מבצר לא נופל\"?",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-ab06-de68-a7e0-bb46b9090000/10/02/b1c7a7964f6595252c9c21baae64/114940.jpg?precrop=2400,1396,x0,y148&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2026-09-17/ty-article-magazine/.highlight/000001a0-aa58-d5b2-a9ee-aadab8570000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2026-09-17",
+          "magazine_date": "2026-09-18",
+          "title": "פרה אדומה ובירה מהשעורה של קיבוץ בארי: שתי המלצות לשנה החדשה",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-aa58-d5b2-a9ee-aadab8570000/b4/09/7da112e84d71b5d920cb76341048/1221.jpg?precrop=1428,830,x0,y314&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-09-17/ty-article-magazine/.premium/000001a0-ae34-d91d-afeb-ee748dc00000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-09-17",
+          "magazine_date": "2026-09-18",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 18.9.2026",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-ae34-d91d-afeb-ee748dc00000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2026-09-17/ty-article/.premium/000001a0-ae35-d91d-afeb-ee75211a0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2026-09-17",
+          "magazine_date": "2026-09-18",
+          "title": "התחלה אולימפית",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-ae35-d91d-afeb-ee75211a0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196,1275,x4,y16&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2026-09-17/ty-article/.premium/000001a0-ae31-df5b-adf2-fe7544ab0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2026-09-17",
+          "magazine_date": "2026-09-18",
+          "title": "רוב האמריקאים רוצים מלחמה, אך לא יודעים נגד מי",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-ae31-df5b-adf2-fe7544ab0000/46/0a/133fb4eb42bcb9f1f3f71997b55a/mefursamot.jpg?precrop=1250,727,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-09-17/ty-article/000001a0-ae42-d736-a1b2-fff2bfb40000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-09-17",
+          "magazine_date": "2026-09-18",
+          "title": "\"זה היה סדין, לא תחתונים\": מת יוחנן אלישוב, ממניפי דגל הדיו",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-ae42-d736-a1b2-fff2bfb40000/f2/47/8e60ff8c4c8cbbc2a5aa767d90da/gemini-generated-image-5efnz65efnz65efn.jpg?precrop=928,540,x0,y381&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-09-17/ty-article/.premium/000001a0-ae3e-d91d-afeb-ee7e1b520000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-09-17",
+          "magazine_date": "2026-09-18",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-ae3e-d91d-afeb-ee7e1b520000/7f/a0/c3ae574b48aaa6e4c44a447e31ed/ribooa-musaf-695-new.jpg?precrop=1083,630,x0,y244&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-09-16/ty-article/.highlight/000001a0-aa21-d5b2-a9ee-aaab008d0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-09-16",
+          "magazine_date": "2026-09-18",
+          "title": "\"בודקת\" מציגה את נתב\"ג כרקע רומנטי, ומעלימה את ההשפלה שבבידוק",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-aa21-d5b2-a9ee-aaab008d0000/73/a3/a8bda9734746b92b36d9473fbfc1/277028.jpg?precrop=2324,1351,x76,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}
