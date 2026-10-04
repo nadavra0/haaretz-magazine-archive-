@@ -1,0 +1,318 @@
+{
+  "magazine_date": "2026-10-02",
+  "total_articles": 23,
+  "cover_image": null,
+  "cover_article_url": null,
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-09-30/ty-article-magazine/.highlight/000001a0-f142-d0bd-a3f5-f9db70b50000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-09-30",
+          "magazine_date": "2026-10-02",
+          "title": "זה לא מדע בדיוני, זה בפיתוח: מדבקה קטנה תגלה מחלות עוד לפני הסימפטומים",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f142-d0bd-a3f5-f9db70b50000/da/b7/ec9f977c4a4892ce059834958ac4/323392-3.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-09-30/ty-article-magazine/.highlight/000001a0-f19d-dfbb-afa4-f3dd41de0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-09-30",
+          "magazine_date": "2026-10-02",
+          "title": "היא הגיעה הכי רחוק שעיתונאי יכול לחלום. דווקא אז היא החליטה לחזור לארץ",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f19d-dfbb-afa4-f3dd41de0000/68/6e/3eb573004a60a9a9f864f5d240f0/66848419.JPG?precrop=7950,4622,x0,y681&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-09-30/ty-article/.highlight/000001a0-f244-d9ab-abfd-f7e5831a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-09-30",
+          "magazine_date": "2026-10-02",
+          "title": "על מה בעצם מדברים כשאומרים \"מוסר יהודי\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f244-d9ab-abfd-f7e5831a0000/42/0e/d52e90c14356897f0e3c4a5b6a10/2-10-26-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-10-01/ty-article-magazine/.highlight/000001a0-f23d-d9ab-abfd-f7bdc1b00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-10-01",
+          "magazine_date": "2026-10-02",
+          "title": "הם דחפו לנו את ההפיכה ופורום קהלת. עכשיו הם הולכים יותר בגדול. תחקיר",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f23d-d9ab-abfd-f7bdc1b00000/20/de/85f8f08045129a157e6e4a4ab70d/514591.jpg?precrop=2299,1336,x2,y92&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/mishpaha-boharim/2026-10-01/ty-article-face/.highlight/000001a0-f29c-de31-a7f0-fa9ffdff0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-10-01",
+          "magazine_date": "2026-10-02",
+          "title": "\"אם יהיו לממשלה 61 אצבעות ומפלגת רע\"ם תרצה להצטרף, שיבואו\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f29c-de31-a7f0-fa9ffdff0000/24/4c/21503ad14ba3a8c203a5beea7327/626323.jpg?precrop=1956,1137,x0,y738&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-09-30/ty-article/.highlight/000001a0-f227-d272-adf6-ffe778a00000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-09-30",
+          "magazine_date": "2026-10-02",
+          "title": "התור לטיסה חזרה לישראל הוא המקום שבו פנטזיית הבריחה מתרסקת",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f227-d272-adf6-ffe778a00000/a0/a6/3bb28c2f4349a231761dd1e77f02/66895678.JPG?precrop=4655,2706,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-10-01/ty-article/.highlight/000001a0-f650-dbb2-a9f8-ffdbcb6e0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-10-01",
+          "magazine_date": "2026-10-02",
+          "title": "מערכות AI כבר עוקפות את המתמטיקאים, אבל גם מעניקות להם מתנה",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f650-dbb2-a9f8-ffdbcb6e0000/27/66/deafb0ac4362a2316111262a3451/1.jpg?precrop=1521,884,x358,y294&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-10-01/ty-article/.highlight/000001a0-f677-d272-adf6-fff7f3d20000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-10-01",
+          "magazine_date": "2026-10-02",
+          "title": "אנחנו שולחים חיילים לתופת של עזה, והם חוזרים אחרים מכפי שנכנסו",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f677-d272-adf6-fff7f3d20000/b6/4e/c2e27eab424a918e388654e2504d/66895636.JPG?precrop=1600,931,x0,y48&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-10-01/ty-article/.highlight/000001a0-f692-de31-a7f0-fe9fb8860000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-10-01",
+          "magazine_date": "2026-10-02",
+          "title": "לא כל קול קובע, אבל פילוסופים מציעים מבט אחר על ההצבעה בבחירות",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f692-de31-a7f0-fe9fb8860000/86/60/bb23555b421ea1643bd1e29a7369/66895637.JPG?precrop=4107,2387,x314,y552&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2026-09-30/ty-article/.highlight/000001a0-f1f8-d272-adf6-fdfee9d90000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2026-09-30",
+          "magazine_date": "2026-10-02",
+          "title": "מעט דיונים בעברית היו אמוציונליים כמו הדיון שסבב את החָצָב",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f1f8-d272-adf6-fdfee9d90000/44/ae/2b72b46d4ecaaec5060319b17d01/423982.jpg?precrop=2400,1396,x0,y131&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-09-30/ty-article/.highlight/000001a0-f242-dbb2-a9f8-fbcbb2b90000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-09-30",
+          "magazine_date": "2026-10-02",
+          "title": "היהדות היא דת עצובה. תראו כמה הומור יש בדתות אחרות",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f242-dbb2-a9f8-fbcbb2b90000/c3/8b/700fe60a456f9957a055734694fc/66895639.JPG?precrop=5504,3200,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-10-01/ty-article-face/.highlight/000001a0-f2c1-d272-adf6-ffc7d2b10000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-10-01",
+          "magazine_date": "2026-10-02",
+          "title": "יובל שגב",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f2c1-d272-adf6-ffc7d2b10000/14/03/66a943f140ebb99e46d68551d1b3/facetemplate1800x1200-1.jpg?precrop=1800,1047,x0,y2&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-10-01/ty-article-magazine/.highlight/000001a0-f1e2-dfbb-afa4-f3f2ab8e0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-10-01",
+          "magazine_date": "2026-10-02",
+          "title": "\"נולדתי בפרגוואי וגדלתי בבית יפני. לישראל הגעתי בעקבות אהבה\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f1e2-dfbb-afa4-f3f2ab8e0000/a1/19/c0f5510c4ab5b784f95e5ae2639c/463178.jpg?precrop=2400,1395,x0,y156&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-09-30/ty-article/.highlight/000001a0-f2d8-dc37-a5f2-fbfc13a30000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-09-30",
+          "magazine_date": "2026-10-02",
+          "title": "\"רגע לפני שהפכנו להיות הוא, זה קרה\", כתבתי אחרי 7 באוקטובר. טעיתי",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f2d8-dc37-a5f2-fbfc13a30000/da/89/687578be481bb8c00d8aa3324b30/558875.jpg?precrop=2204,1282,x83,y123&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-10-01/ty-article-midrug/.highlight/000001a0-f302-de31-a7f0-fb9f8f9c0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-10-01",
+          "magazine_date": "2026-10-02",
+          "title": "בונו נגד בן גביר. שיכנעת",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f302-de31-a7f0-fb9f8f9c0000/93/b0/fe4c403c4992afd6a309bd46c33e/headline.jpg?precrop=1999,1162,x1,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-10-01/ty-article/.highlight/000001a0-f25c-dfbb-afa4-f35c75ae0000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-10-01",
+          "magazine_date": "2026-10-02",
+          "title": "למה כתבת שכל המפלגות הערביות פסולות? \"אתה מטריד אותי!\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f25c-dfbb-afa4-f35c75ae0000/2f/a8/784e49d54c7298882a9359f7ab4b/66900450.JPG?precrop=2832,1645,x2118,y63&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-10-01/ty-article-quotes/.highlight/000001a0-f314-de31-a7f0-fb9f5ee90000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-10-01",
+          "magazine_date": "2026-10-02",
+          "title": "\"לפחות היום כולם יודעים מי זה יצחק רבין בזכותי\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f314-de31-a7f0-fb9f5ee90000/63/0e/1e8be02c4a2fbebb5a733ec32bee/037536.jpg?precrop=1603,932,x0,y281&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-10-01/ty-article-20q/.highlight/000001a0-f2d0-dfbb-afa4-f3d0d0450000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-10-01",
+          "magazine_date": "2026-10-02",
+          "title": "מה מספר המנדטים הנמוך ביותר שקיבלה הליכוד כשבראשה עמד נתניהו?",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f2d0-dfbb-afa4-f3d0d0450000/a8/9a/fd7021b3430fbac758f6a6ee17b4/547994.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions-kids": {
+      "name": "20 שאלות לילדים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions-kids/2026-10-01/ty-article-20q/.highlight/000001a0-f2e7-d9ab-abfd-f7e70a440000",
+          "section": "magazine/20questions-kids",
+          "section_name": "20 שאלות לילדים",
+          "article_date": "2026-10-01",
+          "magazine_date": "2026-10-02",
+          "title": "20 שאלות לילדים ולילדות: מי צייר ציורים מפורסמים של חמניות?",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f2e7-d9ab-abfd-f7e70a440000/f2/b3/eb45491b4002b8f0ba322c18816e/364177.jpg?precrop=2400,1395,x0,y213&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2026-10-01/ty-article-magazine/.highlight/000001a0-f26b-d272-adf6-ffef07080000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2026-10-01",
+          "magazine_date": "2026-10-02",
+          "title": "אבן, אדמה ואש: הנשים שמצילות את הסוד העתיק של חותמות הלחם",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f26b-d272-adf6-ffef07080000/49/46/bf384a3e4741b15c3ffce09099eb/32321.jpg?precrop=1429,831,x0,y452&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-10-01/ty-article-magazine/.premium/000001a0-f671-d9ab-abfd-f7f1d5730000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-10-01",
+          "magazine_date": "2026-10-02",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 2.10.2026",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f671-d9ab-abfd-f7f1d5730000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-10-01/ty-article/000001a0-f70b-d9ab-abfd-f7ab543a0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-10-01",
+          "magazine_date": "2026-10-02",
+          "title": "\"טבח פירושו הרג חסרי מגן. בדיר יאסין היה קרב\": יהודה לפידות מת בן 98",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f70b-d9ab-abfd-f7ab543a0000/ba/e6/de7ee8d342e5b3d72137d4709b3b/yl.jpg?precrop=1484,862,x0,y383&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-10-01/ty-article/.highlight/000001a0-f1ec-dfbb-afa4-f3fc78300000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-10-01",
+          "magazine_date": "2026-10-02",
+          "title": "אף אחד עוד לא ירק עליי. איך אפשר לטעון שיש אנטישמיות באירופה?",
+          "og_image": "https://img.haarets.co.il/bs/000001a0-f1ec-dfbb-afa4-f3fc78300000/78/e2/99114a7b4e5c7fde71ee5d2acf5c/1018316866.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}
