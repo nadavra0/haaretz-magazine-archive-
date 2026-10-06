@@ -150,6 +150,19 @@ def check_cookie_health(probe_url=None):
         _nudge_refresh(", ".join(reason))
 
 
+def has_valid_sso_token():
+    try:
+        cookies = json.load(open(COOKIES_PATH, encoding="utf-8"))
+    except (OSError, ValueError):
+        return False
+    now = time.time()
+    return any(
+        c.get("name") == "sso_token" and c.get("value")
+        and (c.get("expires", -1) <= 0 or c["expires"] > now)
+        for c in cookies
+    )
+
+
 def _probe_session_degraded(probe_url):
     """Fetch a real article page and check for the paywall/subscribe marker
     seen in the 2026-08-21 investigation ('Subscribe to join the
@@ -207,16 +220,22 @@ def main():
 
     log(f"=== Weekly update starting — target date: {mag_date} ===")
 
-    # 0. Log in fresh every run (local Keychain or GH Actions secrets) — no
-    # human click needed. Falls back to whatever cookies already exist if
-    # this fails, so it's never worse than before.
-    try:
-        from login_haaretz import login_and_save_cookies
-        if not login_and_save_cookies():
-            log("WARN: automated login failed — continuing with existing cookies")
-            notify_phone("Haaretz automated login failed this run — check login_failure.png")
-    except Exception as e:
-        log(f"WARN: automated login step crashed: {e}")
+    # 0. Cookies normally come from Nadav's own Chrome session, copied daily by
+    # the local launchd job (extract_chrome_cookies.py --sync). Only fall back
+    # to an automated email/password login when those are missing/expired —
+    # that login fails from GitHub's servers and each attempt risks the
+    # subscription's device quota.
+    if has_valid_sso_token():
+        log("Cookies have a valid sso_token — skipping automated login")
+    else:
+        try:
+            from login_haaretz import login_and_save_cookies
+            if not login_and_save_cookies():
+                log("WARN: automated login failed — continuing with existing cookies")
+                notify_phone("Haaretz cookies expired and automated login failed — "
+                             "open haaretz.co.il in Chrome on the Mac so the daily cookie sync picks it up")
+        except Exception as e:
+            log(f"WARN: automated login step crashed: {e}")
 
     # 1. Scrape the month (discovers new issue, preserves existing ones)
     log(f"Scraping {yyyymm}...")

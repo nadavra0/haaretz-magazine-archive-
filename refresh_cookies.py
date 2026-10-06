@@ -34,7 +34,7 @@ def main():
             ctx.add_cookies(existing_cookies)
         page = ctx.new_page()
 
-        page.goto("https://www.haaretz.co.il/login", wait_until="domcontentloaded")
+        page.goto("https://login.haaretz.co.il/", wait_until="domcontentloaded")
 
         print()
         print("=" * 60)
@@ -51,6 +51,10 @@ def main():
         print("\r  Time's up — saving cookies...          ")
 
         cookies = ctx.cookies()
+        if not any(c["name"] == "sso_token" and "haaretz" in c.get("domain", "") for c in cookies):
+            print("✗ No sso_token — login didn't complete. Existing cookies and GitHub secret left untouched.")
+            browser.close()
+            sys.exit(1)
         json.dump(cookies, open(COOKIES_FILE, "w"), ensure_ascii=False, indent=2)
         print(f"✓ Saved {len(cookies)} cookies to {COOKIES_FILE}")
 

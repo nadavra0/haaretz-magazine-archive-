@@ -1,4 +1,23 @@
-# Haaretz Magazine Archive — cover-fix checklist
+# Haaretz Magazine Archive
+
+## How the Haaretz session works (since 2026-10-06)
+
+Source of truth = Nadav's everyday Chrome (currently "Profile 1"), which is always
+logged in. `extract_chrome_cookies.py --sync` copies its haaretz.co.il cookies into
+`haaretz_cookies.json` and the `HAARETZ_COOKIES` GitHub secret; the launchd job
+`launchd/com.nadavraviv.haaretz-cookie-sync.plist` (installed in
+`~/Library/LaunchAgents`) runs it daily. `weekly_update.py` skips the automated
+email/password login whenever the cookies hold a valid `sso_token`.
+
+- Don't add automated logins: each one risks the subscription's device quota, and
+  from GitHub's servers the login page fails at the email step
+  ("Empty data for CheckEmailExistPersonalQuery").
+- Chrome cookie DB v24+ prefixes each decrypted value with SHA256(host_key); the
+  extractor strips and verifies it. Garbled cookie values = that prefix not stripped.
+- "NO COVER FOUND" usually means the session isn't authenticated: check
+  `cookie_sync.log` and that Chrome is still logged in to haaretz.co.il.
+
+# Cover-fix checklist
 
 There have been repeated wrong-cover incidents (2026-07-09, 2026-07-31, 2026-08-14 —
 the last one wrong twice in a row from guessing — and 2026-08-21, see below). Before
