@@ -1,0 +1,273 @@
+{
+  "magazine_date": "2022-06-10",
+  "total_articles": 20,
+  "cover_image": "https://img.haarets.co.il/bs/00000181-471e-df72-a5cb-c7ff957b0001/2c/70/ffb9fc1543748e45dd4c2e2c4345/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2022-06-09/ty-article-magazine/00000181-46ef-df72-a5cb-c6ff24480000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-08/ty-article-magazine/.highlight/00000181-41f6-d776-a3c1-4bf61b9c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-08",
+          "magazine_date": "2022-06-10",
+          "title": "\"המוח משתבש, מאבדים את המוסר. כל העקרונות והערכים עפים מהחלון\"",
+          "og_image": "https://img.haarets.co.il/bs/00000181-41f6-d776-a3c1-4bf61b9c0000/5f/38/ea871c9e423aa08a1e15b8f1b2a0/vol2-1.jpg?precrop=900%2C523%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-08/ty-article/00000181-429d-ddb3-abd1-5edfacb00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-08",
+          "magazine_date": "2022-06-10",
+          "title": "תודה לכם, חברי הציונות הדתית, על החלשת האפרטהייד בשטחים. \"בסדר ניר\"",
+          "og_image": "https://img.haarets.co.il/bs/00000181-429d-ddb3-abd1-5edfacb00000/8c/f1/de5c8d434528b767f4359e1b65d1/47332855.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-08/ty-article/.premium/00000181-4325-dada-a9a7-ffb596910000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-08",
+          "magazine_date": "2022-06-10",
+          "title": "מתי הפסקתי לפחד מהרומן הרומנטי",
+          "og_image": "https://gif.haarets.co.il/bs/00000181-4325-dada-a9a7-ffb596910000/35/50/094aa20a4cc2b4f1383ced0f1a56/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-09/ty-article-magazine/.premium/00000181-44a4-df72-a5cb-c6ff76d00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-09",
+          "magazine_date": "2022-06-10",
+          "title": "\"ישות דתית וגזענית\": מסמכים מגלים עד כמה התנגדו בארה\"ב להקמת ישראל",
+          "og_image": "https://img.haarets.co.il/bs/00000181-44a4-df72-a5cb-c6ff76d00000/22/6d/8b152e9d4fef8009136b94844f8a/0024264.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-09/ty-article-magazine/.premium/00000181-46dd-df72-a5cb-c6ff90150000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-09",
+          "magazine_date": "2022-06-10",
+          "title": "איך הפך נער יהודי ששומר כשרות לסנסציית בישול עולמית",
+          "og_image": "https://img.haarets.co.il/bs/00000181-46dd-df72-a5cb-c6ff90150000/f9/4e/534ca4c34b3f84396d2aee7f8ab5/35020.jpg?precrop=1601%2C932%2Cx0%2Cy697&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-09/ty-article-magazine/00000181-46ef-df72-a5cb-c6ff24480000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-09",
+          "magazine_date": "2022-06-10",
+          "title": "מה צריך לעשות, ולהפסיק לעשות, כדי לגדל ילדים טובי לב (ומאושרים)",
+          "og_image": "https://img.haarets.co.il/bs/00000181-46ef-df72-a5cb-c6ff24480000/dd/59/a0ecdfb4413093ee5fdc08b6a87d/cover-rain1.jpg?precrop=2832%2C1647%2Cx0%2Cy1244&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-06-08/ty-article-magazine/.highlight/00000181-42ff-df72-a5cb-c2ff87710000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-06-08",
+          "magazine_date": "2022-06-10",
+          "title": "כף היד שלו אוחזת שום דבר, מגיחה באופן מוזר שלא קיים בשום דיוקן אחר",
+          "og_image": "https://img.haarets.co.il/bs/00000181-42ff-df72-a5cb-c2ff87710000/46/d2/c6617ce941d49360c177769e1db7/21.jpg?precrop=2000%2C1163%2Cx0%2Cy249&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-06-08/ty-article/.highlight/00000181-42e6-df72-a5cb-c2fffc6f0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-06-08",
+          "magazine_date": "2022-06-10",
+          "title": "אורי זוהר לא מת עכשיו. הוא מת כבר ב-1978",
+          "og_image": "https://img.haarets.co.il/bs/00000181-42e6-df72-a5cb-c2fffc6f0000/29/1c/aa29811b44dc8543d7c248bbc38e/402899.jpg?precrop=2200%2C1279%2Cx0%2Cy89&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-06-08/ty-article/.highlight/00000181-431a-d6c1-a9b5-db7e00c40000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-06-08",
+          "magazine_date": "2022-06-10",
+          "title": "איך דג עם רגליים שנראה כמו חבובה הפך לכוכב אינטרנטי בלתי צפוי",
+          "og_image": "https://img.haarets.co.il/bs/00000181-431a-d6c1-a9b5-db7e00c40000/b9/a2/bc4751fa4c488bc7947cad1f7451/41944.jpg?precrop=2400%2C1395%2Cx0%2Cy102&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2022-06-08/ty-article/.premium/00000181-42d8-d6c1-a9b5-dbfc85a20000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2022-06-08",
+          "magazine_date": "2022-06-10",
+          "title": "מתי ומדוע הפכה \"שמאלני\" לכינוי גנאי, ומי עשה בה שימוש מפתיע",
+          "og_image": "https://img.haarets.co.il/bs/00000181-42d8-d6c1-a9b5-dbfc85a20000/9a/62/b142d3c74a04b9ed4edd4df68653/47303217.JPG?precrop=5760%2C3349%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-06-08/ty-article/.highlight/00000181-42f4-ddb3-abd1-5ef783270000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-06-08",
+          "magazine_date": "2022-06-10",
+          "title": "בימין מזהירים מפני מדינת להט\"ביסטאן. היא דווקא נשמעת כמו מקום טוב",
+          "og_image": "https://img.haarets.co.il/bs/00000181-42f4-ddb3-abd1-5ef783270000/e5/d7/0090375943af943be134d894b643/47298518.JPG?precrop=4463%2C2595%2Cx0%2Cy84&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-06-08/ty-article-face/.highlight/00000181-4313-df72-a5cb-c3ff928a0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-06-08",
+          "magazine_date": "2022-06-10",
+          "title": "\"בפנים אני קוקטית, קטנה, רזה ועדינה, למרות שמבחוץ לא תמיד רואים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000181-4313-df72-a5cb-c3ff928a0000/09/23/ea94af07477dbd1aeb7521f85775/facetemplate1800x1200-1.jpg?precrop=1800%2C1047%2Cx0%2Cy1&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-06-08/ty-article/00000181-43f0-dada-a9a7-fff5b5bc0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-06-08",
+          "magazine_date": "2022-06-10",
+          "title": "\"מבקשים ממני למצוא מידה שאזלה בכל המדינה. כמעט תמיד אני יכולה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000181-43f0-dada-a9a7-fff5b5bc0000/5e/f2/51170d264b4ea9be204bfea1b26a/47287490.JPG?precrop=8192%2C4763%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-06-08/ty-article-magazine/00000181-43d1-df72-a5cb-c3ffa4fd0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-06-08",
+          "magazine_date": "2022-06-10",
+          "title": "למה כולם כועסים כל כך על \"אלאור אזריה של התיירים\"?",
+          "og_image": "https://img.haarets.co.il/bs/00000181-43d1-df72-a5cb-c3ffa4fd0000/84/6c/a551f2174a86b17893f3f99f3d66/greece.jpg?precrop=336%2C195%2Cx0%2Cy23&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2022-06-09/ty-article-magazine/00000181-47f9-df72-a5cb-c7ff43450000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2022-06-09",
+          "magazine_date": "2022-06-10",
+          "title": "\"חשוב לי שאזכר כמישהי שעשתה היסטוריה, מבחינתי התלתלים הם השליחות שלי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000181-4800-df72-a5cb-caff82b40000/7d/ce/2869401f477bb24735ae577ad1dd/449539.jpg?precrop=2400,1395,x0,y0&height=630&width=1200&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-06-08/ty-article-20q/.highlight/00000181-4309-d6c1-a9b5-db7ddab30000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-06-08",
+          "magazine_date": "2022-06-10",
+          "title": "באיזה להיט פופ נרמזים הסרטים \"פסיכו\", \"ורטיגו\" ו\"חלון אחורי\"?",
+          "og_image": "https://img.haarets.co.il/bs/00000181-4309-d6c1-a9b5-db7ddab30000/5f/72/0e8c1fa14c0f885de7d672778e0b/623900.jpg?precrop=1596%2C928%2Cx0%2Cy299&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2022-06-08/ty-article-magazine/.highlight/00000181-4344-d6c1-a9b5-db7457390000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2022-06-08",
+          "magazine_date": "2022-06-10",
+          "title": "במשך שנים הוא גידל ענבים ליקבי בוטיק. עכשיו הוא מייצר יין בעצמו",
+          "og_image": "https://img.haarets.co.il/bs/00000181-4344-d6c1-a9b5-db7457390000/0b/e4/769c193d4550806b2c0d0605b978/47303323.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2022-06-09/ty-article/00000181-4318-dada-a9a7-ff9d07eb0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2022-06-09",
+          "magazine_date": "2022-06-10",
+          "title": "הגיל אינו מכשול",
+          "og_image": "https://img.haarets.co.il/bs/00000181-4318-dada-a9a7-ff9d07eb0000/e3/37/97e91ef54edd9bf54639a52d8f0e/872496.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2022-06-08/ty-article/.premium/00000181-4321-ddb3-abd1-5fe725e80000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2022-06-08",
+          "magazine_date": "2022-06-10",
+          "title": "הישראלי לא יודע לצחוק על עצמו",
+          "og_image": "https://img.haarets.co.il/bs/00000181-4321-ddb3-abd1-5fe725e80000/32/9a/72c30da949749edb0036c495df95/mefursamot.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-06-08/ty-article/00000181-43e6-d6c1-a9b5-dbf689600000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-06-08",
+          "magazine_date": "2022-06-10",
+          "title": "מה אפשר ללמוד מהמקרה העצוב של חוקרת האושר",
+          "og_image": "https://img.haarets.co.il/bs/00000181-43e6-d6c1-a9b5-dbf689600000/dd/9a/3de242db45d8a20c320d5842601c/47237546.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

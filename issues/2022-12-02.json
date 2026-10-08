@@ -1,0 +1,353 @@
+{
+  "magazine_date": "2022-12-02",
+  "total_articles": 26,
+  "cover_image": "https://img.haarets.co.il/bs/00000184-cc66-d8a0-a9dc-cfee5f6c0001/a6/4a/21b502f64b4aa88c2ab1ab1b35b2/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2022-12-01/ty-article-magazine/.highlight/00000184-cc9a-d4f4-a79d-dc9bf4ef0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-11-30/ty-article/.highlight/00000184-c396-d317-a79e-e7d6efab0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-11-30",
+          "magazine_date": "2022-12-02",
+          "title": "אתם לא מאמינים לרופא שלכם כי הוא ערבי? \"תעביר לי את השאלה במייל\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-c396-d317-a79e-e7d6efab0000/e5/e9/da2908bf4d968802b65a955d62df/49736144.JPG?precrop=1151%2C669%2Cx1849%2Cy75&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-11-30/ty-article/.highlight/00000184-c91c-d81b-a5af-ddbd2d560000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-11-30",
+          "magazine_date": "2022-12-02",
+          "title": "לא ברור מה יש לישראלים לחפש בקטאר",
+          "og_image": "https://gif.haarets.co.il/bs/00000184-c91c-d81b-a5af-ddbd2d560000/23/7a/5a9abfa84e50a880731aed89caa7/neri.gif?precrop=1311%2C762%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-12-01/ty-article-magazine/.highlight/00000184-c3a2-d136-affd-c7f7cebf0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-12-01",
+          "magazine_date": "2022-12-02",
+          "title": "כמה רחוק הייתם מוכנים ללכת כדי לגבוה בכמה סנטימטרים?",
+          "og_image": "https://img.haarets.co.il/bs/00000184-c3a2-d136-affd-c7f7cebf0000/f1/68/24c519d948cbb28b7cfa7aa3a49a/stretched-screen.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-12-01/ty-article-magazine/.highlight/00000184-c3a2-d759-a9a4-e3a3e4140000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-12-01",
+          "magazine_date": "2022-12-02",
+          "title": "בזמן שכולם במונדיאל, אירוע הספורט המסעיר באמת הסתתר בירושלים",
+          "og_image": "https://img.haarets.co.il/bs/00000184-c3a2-d759-a9a4-e3a3e4140000/87/95/cce093e64dbe8b2d7347cf8cd4a7/49685291.JPG?precrop=5472%2C3181%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-12-01/ty-article-magazine/.highlight/00000184-c3a6-d05a-a3b4-e3e643960000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-12-01",
+          "magazine_date": "2022-12-02",
+          "title": "\"מתייחסים לאזרחים כאן כאל טמבלים, כאילו צריך לשעשע אותנו כל הזמן\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-c3a6-d05a-a3b4-e3e643960000/31/06/a9c8bcc54e46a18d692c4cc99921/49717165.JPG?precrop=8146%2C4736%2Cx0%2Cy469&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-12-01/ty-article-magazine/.highlight/00000184-cc9a-d4f4-a79d-dc9bf4ef0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-12-01",
+          "magazine_date": "2022-12-02",
+          "title": "\"תנו לנו להיות אוטיסטים. תפסיקו לאלף אותנו להיות כמוכם\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-cc9a-d4f4-a79d-dc9bf4ef0000/1a/24/d4ac34ac4fa592857bc043a5dc8d/23245.jpg?precrop=1803%2C1048%2Cx0%2Cy464&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-12-01/ty-article/.highlight/00000184-c903-d41d-a5de-e9f38c280000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-12-01",
+          "magazine_date": "2022-12-02",
+          "title": "הבגרות באזרחות הציגה ארגון השתקה ימני כארגון זכויות אדם. זה לא במקרה",
+          "og_image": "https://img.haarets.co.il/bs/00000184-c903-d41d-a5de-e9f38c280000/ed/99/746df87e4cc5b75903297526effa/49733820.JPG?precrop=6720%2C3907%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-11-30/ty-article/.highlight/00000184-c81f-d76a-a7cc-cd3fff930000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-11-30",
+          "magazine_date": "2022-12-02",
+          "title": "כשבונו, עגנון ועוז נקלעים למחוזות האזוטריה הפרוגרסיבית",
+          "og_image": "https://img.haarets.co.il/bs/00000184-c81f-d76a-a7cc-cd3fff930000/41/0b/e945eb3b49cf60d8ec4dc07a77e2/225062516.jpg?precrop=1346%2C783%2Cx0%2Cy31&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-11-30/ty-article/.highlight/00000184-c821-d05a-a3b4-eb61aa440000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-11-30",
+          "magazine_date": "2022-12-02",
+          "title": "יש מי שמנסים לשכנע שכהנא היה בסך הכל פרובוקטור. העובדות שונות בתכלית",
+          "og_image": "https://img.haarets.co.il/bs/00000184-c821-d05a-a3b4-eb61aa440000/6e/bb/bc64dfba4622b4ad0b3f53459b8a/36020.jpg?precrop=2286%2C1330%2Cx42%2Cy73&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-11-30/ty-article/.highlight/00000184-c821-d823-a9f4-dba1172b0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-11-30",
+          "magazine_date": "2022-12-02",
+          "title": "אנחנו שואפים לוודאות, וזה מכשול בפני האושר",
+          "og_image": "https://img.haarets.co.il/bs/00000184-c821-d823-a9f4-dba1172b0000/3c/65/8a06b1334bbf9b4fa973c83cffec/uncertainty.jpg?precrop=2000%2C1163%2Cx0%2Cy274&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2022-11-30/ty-article/.highlight/00000184-c820-d05a-a3b4-eb60ae1c0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2022-11-30",
+          "magazine_date": "2022-12-02",
+          "title": "בן־יהודה התחבט והתפתל, ויצר במקרה מילה שימושית",
+          "og_image": "https://img.haarets.co.il/bs/00000184-c820-d05a-a3b4-eb60ae1c0000/37/5b/2080c8154563b22005213cfcbfab/49722731.JPG?precrop=3000%2C1744%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-11-30/ty-article/.highlight/00000184-c82b-df0e-abcc-feab86fa0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-11-30",
+          "magazine_date": "2022-12-02",
+          "title": "כשמדובר בבני אדם, יש דברים שאי אפשר למדוד בביצועים",
+          "og_image": "https://img.haarets.co.il/bs/00000184-c82b-df0e-abcc-feab86fa0000/14/d8/799a4e644a97a0d37437d95b7200/49722656.JPG?precrop=3522%2C2048%2Cx0%2Cy227&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-12-01/ty-article-face/.highlight/00000184-adba-dd96-ad8c-efba8ead0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-12-01",
+          "magazine_date": "2022-12-02",
+          "title": "\"עברתי ארבע הפלות, האחרונה לפני כחודשיים, בשבוע מאוד מתקדם\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-adba-dd96-ad8c-efba8ead0000/21/1d/18fdec2f4a8f8c12123300089956/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-12-01/ty-article-magazine/.highlight/00000184-adbc-dd96-ad8c-efbc06170000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-12-01",
+          "magazine_date": "2022-12-02",
+          "title": "\"יש אבות שמכים את הבנים שלהם כי בת ניצחה אותם. זה מאוד מכוער\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-adbc-dd96-ad8c-efbc06170000/7e/88/81b72b944bb8a85aab019446e133/12958.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-12-01/ty-article-magazine/.highlight/00000184-ccc0-d8a0-a9dc-cfeeaa0c0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-12-01",
+          "magazine_date": "2022-12-02",
+          "title": "האם הטקס הישראלי הזה קשור רק למה שקרה בזירת האירוע?",
+          "og_image": "https://img.haarets.co.il/bs/00000184-ccc0-d8a0-a9dc-cfeeaa0c0000/9f/10/ed4724d74db3b30f510c4a1bfd4f/847053.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-11-30/ty-article-magazine/.highlight/00000184-c911-d598-a3e6-cddd0ff60000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-11-30",
+          "magazine_date": "2022-12-02",
+          "title": "גזלייטינג נבחרת למילת השנה של מילון מרים־וובסטר. לכאורה",
+          "og_image": "https://img.haarets.co.il/bs/00000184-c911-d598-a3e6-cddd0ff60000/a4/f0/0a674a2d44208e8ae9c0df58ae09/mid-3.jpg?precrop=2001%2C1163%2Cx0%2Cy19&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2022-12-01/ty-article-magazine/.highlight/00000184-adb9-dd96-ad8c-efb9495e0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2022-12-01",
+          "magazine_date": "2022-12-02",
+          "title": "\"אם הקדוש ברוך הוא היה משווה אותנו לעולם, לא היינו יוצאים ממצרים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-cdda-d1b9-adff-cfff971c0000/39/a6/412c242e482aa5fc2c9e177c79c1/602386.jpg?height=630&width=1200&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-12-01/ty-article-20q/.highlight/00000184-adb8-dabe-a7ac-edfa95c10000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-12-01",
+          "magazine_date": "2022-12-02",
+          "title": "איזו חברת מכוניות נתנה את שמה לעיר שבה נמצאים המפעלים שלה?",
+          "og_image": "https://img.haarets.co.il/bs/00000184-adb8-dabe-a7ac-edfa95c10000/e5/c2/097f6b62498e8c684e3bc7eaab65/804671.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2022-11-30/ty-article-magazine/.highlight/00000184-c826-d76a-a7cc-cd2678ae0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2022-11-30",
+          "magazine_date": "2022-12-02",
+          "title": "מסעדה קטנה בירושלים מעניקה הצצה אינטימית למטבח שמעטים זוכים להכיר",
+          "og_image": "https://img.haarets.co.il/bs/00000184-c826-d76a-a7cc-cd2678ae0000/39/c8/9a198537449da771e06940c2e8ad/35092.jpg?precrop=1715%2C997%2Cx0%2Cy968&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2022-11-30/ty-article-magazine/.premium/00000184-c8fd-d41d-a5de-e9fd2a820000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2022-11-30",
+          "magazine_date": "2022-12-02",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 2.12.2022",
+          "og_image": "https://img.haarets.co.il/bs/00000184-c8fd-d41d-a5de-e9fd2a820000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2022-11-30/ty-article/.premium/00000184-c8f5-d81b-a5af-ddfdbcb10000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2022-11-30",
+          "magazine_date": "2022-12-02",
+          "title": "קרבות בירושלים",
+          "og_image": "https://img.haarets.co.il/bs/00000184-c8f5-d81b-a5af-ddfdbcb10000/38/29/5549e45d00f548b27e2027b897ad/584151313.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2022-11-30/ty-article/.premium/00000184-c90d-d180-a99e-d97d3a400000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2022-11-30",
+          "magazine_date": "2022-12-02",
+          "title": "מחצית בני 18 בעד דיקטטורה",
+          "og_image": "https://img.haarets.co.il/bs/00000184-c90d-d180-a99e-d97d3a400000/a6/5d/c9d0532b43b09e323c75ecfcd2a1/fam.jpg?precrop=1250%2C727%2Cx0%2Cy745&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-11-28/ty-article/00000184-bb0b-d136-affd-ff7f17460000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-11-28",
+          "magazine_date": "2022-12-02",
+          "title": "\"99% שלא תחזור מהפעולה\", אמרו לו ב-1941. החודש מת בגיל 101",
+          "og_image": "https://img.haarets.co.il/bs/00000184-bb0b-d136-affd-ff7f17460000/f8/57/499e7dbd4c09b28ceb6a65d99fd1/legionnaires-guards-gladiators.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-12-02/ty-article/00000184-d1c7-dc05-adae-f7f721fd0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-12-02",
+          "magazine_date": "2022-12-02",
+          "title": "\"הבימה\" היה לה כמקדש: השחקנית פנינה פרח מתה בגיל 102",
+          "og_image": "https://img.haarets.co.il/bs/00000184-d1c7-dc05-adae-f7f721fd0000/dc/82/5974bdbb4e8db960da390ea11643/oranit.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2022-11-30/ty-article/.premium/00000184-c919-d41d-a5de-e9f957f40000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2022-11-30",
+          "magazine_date": "2022-12-02",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000184-c919-d41d-a5de-e9f957f40000/31/3b/b1be69fe421587ee1d2395c41bf0/ribooa-musaf-497.jpg?precrop=1083%2C630%2Cx0%2Cy241&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-12-01/ty-article/.highlight/00000184-cdb1-d4f4-a79d-ddb366c40000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-12-01",
+          "magazine_date": "2022-12-02",
+          "title": "אישה בת 69 לא צריכה להתנצל על הקמטים",
+          "og_image": "https://img.haarets.co.il/bs/00000184-cdb1-d4f4-a79d-ddb366c40000/b0/98/2e7fe1a3480baaa53862ca567462/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "magazine_date": "2022-03-25",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/00000180-5bb3-df19-a7f3-dbffa24a0000/62/43/184e49cdfa939ea4262572965fcd/2089064069.jpg?&width=1500&height=1979&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2022-03-24/ty-article-magazine/.highlight/00000180-5bb3-df19-a7f3-dbffa84c0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-03-23/ty-article-magazine/.highlight/00000180-5bbd-dc1d-afc2-fbfdb4150000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-03-23",
+          "magazine_date": "2022-03-25",
+          "title": "היא היתה הקיסרית הראשונה של עולם העיתונות. חייה היו רצופי סודות ושקרים",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bbd-dc1d-afc2-fbfdb4150000/f8/16/45b465052a4ffa5d928ce1037252/3952319624.jpg?precrop=1713%2C997%2Cx0%2Cy55&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/tozeret/parashat/2022-03-23/ty-article/.highlight/00000180-5ba2-db1e-a1d4-dfe38a420000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-03-23",
+          "magazine_date": "2022-03-25",
+          "title": "פרשת הקברת וגם ירשת",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5ba2-db1e-a1d4-dfe38a420000/49/40/c9d683e207917669f565b26d159c/2961802051.jpg?precrop=2022%2C1174%2Cx11%2Cy4&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-03-23/ty-article/.highlight/00000180-5ba6-db1e-a1d4-dfe7871a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-03-23",
+          "magazine_date": "2022-03-25",
+          "title": "השידורים מהלווית קנייבסקי רק עוררו בי רתיעה",
+          "og_image": "https://gif.haarets.co.il/bs/00000180-5ba6-db1e-a1d4-dfe7871a0000/b9/d9/ee3685b50c0c8a93cb64c635f60b/3063850623.gif?precrop=1311%2C762%2Cx4%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-03-23/ty-article/.highlight/00000180-5bcc-de8c-a1aa-dbeccf860000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-03-23",
+          "magazine_date": "2022-03-25",
+          "title": "כמה מרוויחה אחת ממקימות שלום עכשיו כדירקטורית בחברה לסחר בנשק? \"תבדוק\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bcc-de8c-a1aa-dbeccf860000/e5/15/e8d40328324acbd7023f9f70ad9f/3834053928.jpg?precrop=1396%2C812%2Cx652%2Cy177&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-03-24/ty-article-magazine/.highlight/00000180-5bb1-d615-a9bf-dff1df970000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-03-24",
+          "magazine_date": "2022-03-25",
+          "title": "ישראלית טיילה בפריז, ונעלמה. שנתיים וחצי אחר כך היא צצה במפתיע",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bb1-d615-a9bf-dff1df970000/bd/88/91e6838ab52f047404794776aec7/660794221.jpg?precrop=929%2C541%2Cx159%2Cy5&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-03-24/ty-article-magazine/.highlight/00000180-5bb2-d718-afd9-dfbee9bc0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-03-24",
+          "magazine_date": "2022-03-25",
+          "title": "מה הביא את היזמית דריה שועלי לכתוב רומן בלשי על חוקרת שמכורה למין?",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bb2-d718-afd9-dfbee9bc0000/02/b1/0f390031f03a925ed0a6482ef6aa/2023111712.jpg?precrop=2041%2C1185%2Cx7%2Cy78&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-03-24/ty-article-magazine/.highlight/00000180-5bb3-df19-a7f3-dbffa84c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-03-24",
+          "magazine_date": "2022-03-25",
+          "title": "איש הצללים מהמוסד מספר על הרגע הדרמטי שבו ישראל כמעט תקפה באיראן",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bb3-df19-a7f3-dbffa84c0000/49/c8/1e6fa73858bef3113665cb0fd27d/4084089610.jpg?precrop=2048%2C1191%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-03-23/ty-article/.highlight/00000180-5bd9-dee0-afd6-7bddfc580000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-03-23",
+          "magazine_date": "2022-03-25",
+          "title": "זה לא נעים לומר, אבל אין דבר דוחה יותר מאשר גבר אסרטיבי",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bd9-dee0-afd6-7bddfc580000/95/1a/1de0a72cccfac427b925e08cc16f/543114178.jpg?precrop=1216%2C709%2Cx784%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-03-24/ty-article-magazine/.highlight/00000180-5bb3-de8c-a1aa-dbbb4d310000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-03-24",
+          "magazine_date": "2022-03-25",
+          "title": "התקבצו כאן אנשים שחלקו סוד משותף, חברים באגודת סתרים",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bb3-de8c-a1aa-dbbb4d310000/8a/fb/288931af7e4e1cc28a9d03a1076f/2615732522.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-03-24/ty-article/.highlight/00000180-5bb2-de8c-a1aa-dbba3a9b0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-03-24",
+          "magazine_date": "2022-03-25",
+          "title": "דף המסרים של פוטין מצא לו קהל אוהד: המפלגה הרפובליקאית",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bb2-de8c-a1aa-dbba3a9b0000/9a/ee/232c96fca6a6baef4332c96cc113/4292645294.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2022-03-23/ty-article/.highlight/00000180-5bd6-db1e-a1d4-dff7b6380000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2022-03-23",
+          "magazine_date": "2022-03-25",
+          "title": "היוש: בלי ששמנו לב, המילה הזאת מופיעה בכל מקום",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bd6-db1e-a1d4-dff7b6380000/c1/d9/8e82131245297afea08f7d67fb37/2565890526.jpg?precrop=1556%2C905%2Cx330%2Cy111&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-03-24/ty-article/.highlight/00000180-5bb2-db1e-a1d4-dff394a40000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-03-24",
+          "magazine_date": "2022-03-25",
+          "title": "גם לקיטש יש מקום בהיכל התהילה",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bb2-db1e-a1d4-dff394a40000/c5/41/ea86b2f6179b39ae6739fa88e350/503954625.jpg?precrop=1859%2C1080%2Cx6%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-03-24/ty-article-face/.highlight/00000180-5bd0-df19-a7f3-dbdc87c40000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-03-24",
+          "magazine_date": "2022-03-25",
+          "title": "\"בעבר לא הסכמתי לחייך בתמונות. זה היה ממש תנאי לפני כל צילומים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bd0-df19-a7f3-dbdc87c40000/fa/c0/b1cab269804c189071db33794397/4272809405.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-03-23/ty-article-magazine/.highlight/00000180-5b9d-def0-a3c3-5ffd39e40000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-03-23",
+          "magazine_date": "2022-03-25",
+          "title": "\"אפשר יהיה להזמין ארוחת מישלן לכל מקום בעולם. גם מפריז לתל אביב\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5b9d-def0-a3c3-5ffd39e40000/b9/94/b764f3733a58837f234f0dfc05c2/2015994030.jpg?precrop=2048%2C1192%2Cx0%2Cy89&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-03-23/ty-article-magazine/.highlight/00000180-5ba4-d718-afd9-dfbc29560000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-03-23",
+          "magazine_date": "2022-03-25",
+          "title": "איך הפכו הילדים שלנו ל\"מעכבי קריירות שעולים הון ומחסלים את חיי המין\"?",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5ba4-d718-afd9-dfbc29560000/f2/81/b2ea86838f128ed67dd2392b493d/1563343567.jpg?precrop=2117%2C1229%2Cx56%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-03-24/ty-article-magazine/.highlight/00000180-5ba7-dc4e-a5a9-7ff7f7e80000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-03-24",
+          "magazine_date": "2022-03-25",
+          "title": "זלנסקי נואם בפני הכנסת. יהרוג אותך לשים מכופתרת?",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5ba7-dc4e-a5a9-7ff7f7e80000/45/34/f13bda89006c7e7489a53a98450c/469599355.jpg?precrop=1989%2C1156%2Cx11%2Cy76&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2022-03-24/ty-article-magazine/.highlight/00000180-5bd3-d615-a9bf-dfd3bfd90000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2022-03-24",
+          "magazine_date": "2022-03-25",
+          "title": "\"ההליכה למחוזות השואה היתה טעות\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bd3-d615-a9bf-dfd3bb750000/fc/3f/2dc4cdbd6d0e8558e565aa7e8ee2/2724750504.jpg?precrop=2200,1282,x0,y95&height=630&width=1200&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-03-24/ty-article-20q/.highlight/00000180-5bc6-d615-a9bf-dfd6e76f0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-03-24",
+          "magazine_date": "2022-03-25",
+          "title": "איזה רחוב בתל אביב קרוי על שם משורר הודי?",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bc6-d615-a9bf-dfd6e76f0000/aa/5c/5043b22c88115195be643e37b23b/1741110524.jpg?precrop=2200%2C1280%2Cx0%2Cy123&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2022-03-23/ty-article-magazine/.highlight/00000180-5ba4-def0-a3c3-5ffdc5630000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2022-03-23",
+          "magazine_date": "2022-03-25",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 25.3.2022",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5ba4-def0-a3c3-5ffdc5630000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2022-03-23/ty-article/.highlight/00000180-5ba6-d97e-a7fb-7bf7dc7c0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2022-03-23",
+          "magazine_date": "2022-03-25",
+          "title": "האולימפיאדה עוברת להודו",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5ba6-d97e-a7fb-7bf7dc7c0000/73/b8/a5dfa079311782b414ad31acdc18/1860046034.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2022-03-24/ty-article/.highlight/00000180-5bb7-d718-afd9-dfbfd3440000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2022-03-24",
+          "magazine_date": "2022-03-25",
+          "title": "כיצד תראה ישראל בעוד 25 שנה?",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bb7-d718-afd9-dfbfd3440000/92/8f/4d139e214f2810fac6ca4aee9c5d/1932296344.jpg?precrop=1205%2C699%2Cx0%2Cy27&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-03-20/ty-article/.highlight/00000180-5b97-def0-a3c3-5ffffb4b0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-03-20",
+          "magazine_date": "2022-03-25",
+          "title": "כשבעלה הקדיש לה להיט, היא תירגמה קלאסיקה ערבית",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5b97-def0-a3c3-5ffffb4b0000/d1/f7/5a647fb5c98ad9cdfe837176a9e4/1841978860.jpg?precrop=914%2C530%2Cx207%2Cy58&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-03-24/ty-article/.highlight/00000180-5bb8-de8c-a1aa-dbb828980000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-03-24",
+          "magazine_date": "2022-03-25",
+          "title": "בגיל 92 מת הכלכלן שהאשים את בן גוריון ביוקר המחיה",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bb8-de8c-a1aa-dbb828980000/ef/68/0bbb0a8ac9998f851c91ca44d4f6/2132887132.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2022-03-23/ty-article/.highlight/00000180-5bcf-dc1d-afc2-fbcfd8fb0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2022-03-23",
+          "magazine_date": "2022-03-25",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bcf-dc1d-afc2-fbcfd8fb0000/05/04/4a3771133b30dd00699ee6a78338/3561848069.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-03-23/ty-article/.highlight/00000180-5ba4-d615-a9bf-dff487810000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-03-23",
+          "magazine_date": "2022-03-25",
+          "title": "מה שזלנסקי צריך ללמוד מרבן יוחנן בן זכאי",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5ba4-d615-a9bf-dff487810000/e5/1e/c92ffbc725f624f2f3ca5dbf0a3e/4186468731.jpg?precrop=1024%2C595%2Cx0%2Cy31&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

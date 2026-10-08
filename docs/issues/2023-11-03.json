@@ -1,0 +1,333 @@
+{
+  "magazine_date": "2023-11-03",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/0000018b-8d46-d7a8-afcf-afe7134b0001/c2/30/d523616347799264e770a0f75d9d/frontpage.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2023-11-02/ty-article-magazine/.highlight/0000018b-8be2-db71-a7df-ffefa9330000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-11-01/ty-article/.highlight/0000018b-8b25-db7e-af9b-ebe72c810000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-11-01",
+          "magazine_date": "2023-11-03",
+          "title": "אני רוצה להצהיר בזאת על התפטרותי והחזרת כרטיס החבר שלי בשמאל העולמי",
+          "og_image": "https://gif.haarets.co.il/bs/0000018b-8b25-db7e-af9b-ebe72c810000/93/69/5f4719f345db83213d5479fb73e3/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-11-02/ty-article-magazine/.highlight/0000018b-8be2-db71-a7df-ffefa9330000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-11-02",
+          "magazine_date": "2023-11-03",
+          "title": "מעצרי שווא, פיטורים בנימוקים הזויים: כך נראית הרדיפה של ערביי ישראל",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8be2-db71-a7df-ffefa9330000/3d/da/f788c6164f5581d2feb5ccf549d4/67753.jpg?precrop=2400%2C1395%2Cx0%2Cy208&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-11-02/ty-article-magazine/.highlight/0000018b-8beb-db7e-af9b-ebeb84540000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-11-02",
+          "magazine_date": "2023-11-03",
+          "title": "העיתונאי שאל למה השוטרים תקפו אותו. למה? \"בגלל הערבית\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8beb-db7e-af9b-ebeb84540000/e4/01/fb58d9cc42b1af732721cde76ac8/54198850.JPG?precrop=1536%2C892%2Cx137%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-11-02/ty-article-magazine/.highlight/0000018b-8bec-d7a8-afcf-abef56cd0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-11-02",
+          "magazine_date": "2023-11-03",
+          "title": "הגנרל דיוויד פטראוס: \"אל תעשו את הטעויות שאנחנו עשינו בעיראק\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8bec-d7a8-afcf-abef56cd0000/af/2c/84c76b8c441aa19f59fb8c369a29/54182910.JPG?precrop=945%2C549%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-11-02/ty-article-magazine/.highlight/0000018b-8bef-d46b-a18f-8bfffd830000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-11-02",
+          "magazine_date": "2023-11-03",
+          "title": "לקחנו את הכלב, וברחנו: איך נראים החיים הזמניים שנכפו על רבבות ישראלים?",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8bef-d46b-a18f-8bfffd830000/80/9c/67af86284813bc49f223cb9e0b62/54199330.JPG?precrop=8192%2C4763%2Cx0%2Cy474&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-11-02/ty-article-magazine/.highlight/0000018b-8d70-d728-a9ab-dff2d9c60000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-11-02",
+          "magazine_date": "2023-11-03",
+          "title": "נתניהו אשם במחדל? בשיחות עם מצביעי ליכוד עולה תמונה הפוכה",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8d70-d728-a9ab-dff2d9c60000/9f/52/4152fbdb47698dfee61899705264/54186963.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-11-02/ty-article/.highlight/0000018b-8a7d-d466-a9ab-beffead70000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-11-02",
+          "magazine_date": "2023-11-03",
+          "title": "הערבים מפחדים להגיע לעבודה בשדות, ואין מי שיחליף אותם",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8a7d-d466-a9ab-beffead70000/cc/9d/841d32674d84944863c15dd43eb9/54173542.JPG?precrop=6720%2C3907%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-11-02/ty-article/.highlight/0000018b-8b23-db71-a7df-ffef5fc80000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-11-02",
+          "magazine_date": "2023-11-03",
+          "title": "את עדיין חושבת שהמבצר לא נפל? \"לחלוטין! אין לנו, פשוט, מבצר אחר!\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8b23-db71-a7df-ffef5fc80000/6b/f7/e1c999f7baa4d1bb46f622e21a3a/3106119285.jpg?precrop=2048%2C1190%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-11-01/ty-article/.highlight/0000018b-8a60-d570-a99b-9a6af6690000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-11-01",
+          "magazine_date": "2023-11-03",
+          "title": "בשגרה הנוראה של המלחמה, האזעקה מחרידה פחות מן ההמתנה",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8a60-d570-a99b-9a6af6690000/a9/4d/6a16520640fe99bc6c6c304527bf/54183326.JPG?precrop=6000%2C3487%2Cx0%2Cy513&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-11-01/ty-article/.highlight/0000018b-8a68-d466-a9ab-beea1f880000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-11-01",
+          "magazine_date": "2023-11-03",
+          "title": "אחרי שמתמכרים לנקמה, קשה לחשוב על כל דבר אחר",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8a68-d466-a9ab-beea1f880000/d3/aa/250e866f4bfe9df51624c6298529/54205968.JPG?precrop=3499%2C2034%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-11-01/ty-article/.highlight/0000018b-8a6f-dce3-afaf-af6f2e530000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-11-01",
+          "magazine_date": "2023-11-03",
+          "title": "במלחמה הזאת, לשמאל הקיצוני ולביביסטים יש שפה משותפת",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8a6f-dce3-afaf-af6f2e530000/1b/f2/7f006e324650bb372da270199e7c/54204110.JPG?precrop=3064%2C1781%2Cx0%2Cy321&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-11-01/ty-article/.highlight/0000018b-8ad0-ddfb-a78f-fefb7ade0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-11-01",
+          "magazine_date": "2023-11-03",
+          "title": "השאננות שהובילה למלחמה לא נבעה רק מכשל מודיעיני",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8ad0-ddfb-a78f-fefb7ade0000/4d/ad/b05d75094597b51d6f276ac603d2/51650.jpg?precrop=1790%2C1041%2Cx610%2Cy221&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2023-11-01/ty-article/.highlight/0000018b-8a72-dce3-afaf-af7ac7d90000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2023-11-01",
+          "magazine_date": "2023-11-03",
+          "title": "מעגל הנקמה בעזה עלול להידרדר במהירות, ולהגיע למחוזות לא צפויים",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8a72-dce3-afaf-af7ac7d90000/93/8a/e80fae6e48078dee0c9e59e881ba/18123.jpg?precrop=2400%2C1395%2Cx0%2Cy206&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2023-11-02/ty-article-face/.highlight/0000018b-8d12-d46b-a18f-8dfb309e0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2023-11-02",
+          "magazine_date": "2023-11-03",
+          "title": "\"המחבלים ניסו למחוק לקורבנות צלם אנוש. אנחנו נחזיר להם את הזהות\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8d12-d46b-a18f-8dfb309e0000/83/31/4ddac869471d89e5064ca1879881/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2023-11-02/ty-article-magazine/.highlight/0000018b-8aa8-dce3-afaf-afea06660000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2023-11-02",
+          "magazine_date": "2023-11-03",
+          "title": "\"הילדים שואלים אותי, 'סנטה קלאוס, אתה תבוא למרות המלחמה?'\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8aa8-dce3-afaf-afea06660000/0d/a6/b93e026c4bf4aa2da01632ce4016/54199298.JPG?precrop=8192%2C4763%2Cx0%2Cy456&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2023-11-02/ty-article/.highlight/0000018b-8f7f-db7e-af9b-efff050d0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2023-11-02",
+          "magazine_date": "2023-11-03",
+          "title": "קשת היא מכונה של אסקפיזם רדיקלי. עדיין לא הפנימו שם את חלקם במצב",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8f7f-db7e-af9b-efff050d0000/b9/2e/b3a27f544056ba21435331e997a7/54219023.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2023-11-02/ty-article-magazine/.highlight/0000018b-8f03-d7a8-afcf-afa3a4340000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2023-11-02",
+          "magazine_date": "2023-11-03",
+          "title": "יריב לוין בדיכאון. הניצוץ שבעיניים כבה",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8f03-d7a8-afcf-afa3a4340000/e4/9c/743af77b4931ae9384e7beed365f/mid-2.jpg?precrop=1563%2C909%2Cx0%2Cy183&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2023-11-02/ty-article-magazine/.highlight/0000018b-8d16-db7e-af9b-efd753f20000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2023-11-02",
+          "magazine_date": "2023-11-03",
+          "title": "\"החיילים שנלחמים עכשיו בעזה אלה הילדים שגדלו על ערוץ הילדים\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8d25-db7e-af9b-efe729230000/ab/da/ef2a885e49e9ac3471aeaac25b7c/656787.jpg?precrop=2400,1395,x0,y0&height=630&width=1200&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2023-11-02/ty-article-20q/.highlight/0000018b-8d08-db7e-af9b-efcb64730000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2023-11-02",
+          "magazine_date": "2023-11-03",
+          "title": "מדוע נקרא צו 8 בשם זה?",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8d08-db7e-af9b-efcb64730000/56/af/554d19ef40938df0f07e13d4e8c9/32379-2.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2023-11-02/ty-article-magazine/.premium/0000018b-8ed2-d7a8-afcf-aef3e57a0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2023-11-02",
+          "magazine_date": "2023-11-03",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 3.11.2023",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8ed2-d7a8-afcf-aef3e57a0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2023-11-02/ty-article/.premium/0000018b-8ec6-d728-a9ab-dfd6f47d0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2023-11-02",
+          "magazine_date": "2023-11-03",
+          "title": "פסגה באי מאן",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8ec6-d728-a9ab-dfd6f47d0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2023-11-02/ty-article/.premium/0000018b-8ecb-db71-a7df-ffcf59060000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2023-11-02",
+          "magazine_date": "2023-11-03",
+          "title": "נתניהו: לא ייתכן שעזה תהיה בית גידול לכנופיות מרצחים",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8ecb-db71-a7df-ffcf59060000/46/09/70231e00410e8a4cdd67b0f139fa/fam.jpg?precrop=1250%2C727%2Cx0%2Cy1073&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2023-11-03/ty-article/0000018b-9313-db71-a7df-ffdf28180000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2023-11-03",
+          "magazine_date": "2023-11-03",
+          "title": "\"אבא, המדינה שהקמת שוב נלחמת מלחמת קיום. ננצח גם כאן בזכות אותה רוח\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-9313-db71-a7df-ffdf28180000/49/c7/70d30e11436f9c3f19c8fac75700/083127.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2023-11-02/ty-article/0000018b-8f08-d728-a9ab-dfda1fdc0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2023-11-02",
+          "magazine_date": "2023-11-03",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8f08-d728-a9ab-dfda1fdc0000/5a/e2/d8fb9e804cdc95e2f923176928de/ribooa-musaf-545.jpg?precrop=1084%2C630%2Cx0%2Cy149&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2023-11-02/ty-article/.highlight/0000018b-8f7f-db71-a7df-ffff1ef40000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2023-11-02",
+          "magazine_date": "2023-11-03",
+          "title": "כאיש מודיעין ותיק, אינני יכול לקבל את הקונספט",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-8f7f-db71-a7df-ffff1ef40000/7c/b4/849eaeb24b149a2a94c485cf675c/51052315.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

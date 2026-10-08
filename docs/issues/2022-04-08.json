@@ -1,0 +1,303 @@
+{
+  "magazine_date": "2022-04-08",
+  "total_articles": 22,
+  "cover_image": "https://img.haarets.co.il/bs/00000180-5bc3-db1e-a1d4-dfe3cf000000/0e/77/4c5e8d9a3d53108991892bdec08d/3251246733.PNG?&width=1500&height=1978&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2022-04-07/ty-article-magazine/.highlight/00000180-5bc3-db1e-a1d4-dfe3dc330000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-04-06/ty-article-magazine/.highlight/00000180-5bba-d718-afd9-dfbe5dd50000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-04-06",
+          "magazine_date": "2022-04-08",
+          "title": "\"תבואו לבנימינה ותראו בעצמכם את הסופר. זה מטמטם כמה שזה יפה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bba-d718-afd9-dfbe5dd50000/f9/aa/701315a661349f912450b6441959/2416256488.jpg?precrop=2048%2C1189%2Cx0%2Cy63&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-04-06/ty-article/.highlight/00000180-5b9b-d718-afd9-dfbff4c50000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-04-06",
+          "magazine_date": "2022-04-08",
+          "title": "סילמן ל\"הארץ\": \"אם כל אחד יעשה מה בא לו, אין לנו מדינה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5b9b-d718-afd9-dfbff4c50000/3f/e4/3c290dbfe0aa8f45d7694f8eecbc/1122974321.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-04-07/ty-article-magazine/.highlight/00000180-5bb9-db1e-a1d4-dff9fca30000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-04-07",
+          "magazine_date": "2022-04-08",
+          "title": "\"זה לא ייאמן מי נמצא כאן עכשיו. יועצים, במאים, מעצבים – כולם פה!\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bb9-db1e-a1d4-dff9fca30000/c2/13/de0bdb02bedbf12b7a93fab9272f/2715223399.jpg?precrop=1628%2C946%2Cx11%2Cy6&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-04-07/ty-article-magazine/.highlight/00000180-5bc3-db1e-a1d4-dfe3dc330000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-04-07",
+          "magazine_date": "2022-04-08",
+          "title": "חשיפה: ישראל מחזיקה מאגר של מיליון עוברים מוקפאים, חלקם משנות ה-80",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bc3-db1e-a1d4-dfe3dc330000/6b/9e/abc68a8ec375d65c1991e0964f1a/2510034215.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-04-07/ty-article/.highlight/00000180-5bb1-de8c-a1aa-dbb93cb80000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-04-07",
+          "magazine_date": "2022-04-08",
+          "title": "גם אני רוצה להיות כמו ג'ואן קולינס",
+          "og_image": "https://gif.haarets.co.il/bs/00000180-5bb1-de8c-a1aa-dbb93cb80000/16/c8/4011b1bdcc56b868944ae5613776/3063850623.gif?precrop=1309%2C762%2Cx8%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/tozeret/2022-04-07/ty-article/.highlight/00000180-5bc2-dee0-afd6-7bdf1ccc0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-04-07",
+          "magazine_date": "2022-04-08",
+          "title": "\"המדריך לשלום\" של משרד החוץ שוכח את רבין ופרס — וזוכר את נתניהו",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bc2-dee0-afd6-7bdf1ccc0000/4d/50/fcac414ce75f5b6244a4a577cec1/3390995389.jpg?precrop=1977%2C1146%2Cx23%2Cy19&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-04-07/ty-article-magazine/.highlight/00000180-5bc3-df19-a7f3-dbdf78760000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-04-07",
+          "magazine_date": "2022-04-08",
+          "title": "זה כנראה הציור המוזר ביותר שיש בכל הגלריה הגדולה הזאת",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bc3-df19-a7f3-dbdf78760000/6e/35/60a46d9922ee654926dc3437b4b9/3158490923.jpg?precrop=559%2C327%2Cx26%2Cy335&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-04-07/ty-article/.highlight/00000180-5baa-db1e-a1d4-dfeb7b440000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-04-07",
+          "magazine_date": "2022-04-08",
+          "title": "גיבורי הסרט הזה יודעים שהם תמיד ערבים, אבל הפעם הגבול נסדק",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5baa-db1e-a1d4-dfeb7b440000/5b/4c/19f368df5da3dfa1c3322bc8f821/2356879715.jpg?precrop=975%2C567%2Cx261%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-04-07/ty-article/.highlight/00000180-5baf-d97e-a7fb-7bff913e0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-04-07",
+          "magazine_date": "2022-04-08",
+          "title": "זו בסך הכל הגרלה. אז למה נדמה שכולם מפסידים?",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5baf-d97e-a7fb-7bff913e0000/5a/c3/66e68467127c017534c7eb3868c3/2512994839.jpg?precrop=2041%2C1188%2Cx7%2Cy37&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-04-07/ty-article/.highlight/00000180-5bbf-db1e-a1d4-dfff7d8c0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-04-07",
+          "magazine_date": "2022-04-08",
+          "title": "אולי לאושרת קוטלר יהיה בסוף טור ב\"הארץ\" עם הכותרת \"מתנגדת\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bbf-db1e-a1d4-dfff7d8c0000/1c/42/1a6821a5a50a8dd21c5230cf3d4e/81424169.jpg?precrop=2057%2C1194%2Cx143%2Cy167&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-04-07/ty-article-face/.highlight/00000180-5b9f-d97e-a7fb-7bdf5a680000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-04-07",
+          "magazine_date": "2022-04-08",
+          "title": "\"הייתי ילד נמוך וצנום. אחרי הצבא זה התהפך, ומאז אני נלחם לא להשמין\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5b9f-d97e-a7fb-7bdf5a680000/f9/69/9ddb39ddc78d3c28f8d473997e8d/1011094746.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-04-06/ty-article-magazine/.highlight/00000180-5bbe-df19-a7f3-dbfeb0a60000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-04-06",
+          "magazine_date": "2022-04-08",
+          "title": "\"יכולים לצעוק עלינו ולקלל אותנו. אבל בשנייה שאנחנו מתחילים לנגן, משהו משתנה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bbe-df19-a7f3-dbfeb0a60000/2e/7d/734c7de4820ae026e97b8f53ae4e/644317896.jpg?precrop=2041%2C1185%2Cx0%2Cy129&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-04-06/ty-article-magazine/.highlight/00000180-5bc2-de8c-a1aa-dbea73040000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-04-06",
+          "magazine_date": "2022-04-08",
+          "title": "ממש כך יונית: כך טופחים לעצמם הכתבים על השכם",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bc2-de8c-a1aa-dbea73040000/f1/cb/56e7f24f9a388c2cfb30b3bb9162/3812787514.jpg?precrop=1122%2C651%2Cx1078%2Cy321&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-04-07/ty-article-magazine/.highlight/00000180-5b9c-d97e-a7fb-7bdf84780000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-04-07",
+          "magazine_date": "2022-04-08",
+          "title": "ויל סמית פורש מהאקדמיה. מה הוא יעשה עם תואר בקולנוע?",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5b9c-d97e-a7fb-7bdf84780000/fb/d2/7908788219dac151c669501aeaec/469599355.jpg?precrop=2000%2C1162%2Cx0%2Cy265&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2022-04-07/ty-article-magazine/.highlight/00000180-5b9f-def0-a3c3-5ffffd780000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2022-04-07",
+          "magazine_date": "2022-04-08",
+          "title": "\"אני אגב מחכה לגינוי של זלנסקי על 11 הנרצחים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5b9f-def0-a3c3-5ffff9610000/3e/83/a55793daff9bbd357d1a72214108/3169989166.jpg?precrop=2448,1425,x0,y75&height=630&width=1200&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-04-07/ty-article-20q/.highlight/00000180-5bab-def0-a3c3-5fff50b90000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-04-07",
+          "magazine_date": "2022-04-08",
+          "title": "מדוע נקרא אביב גפן בשם זה?",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bab-def0-a3c3-5fff50b90000/99/c5/82ed18ecf50982f6f4485b1a5dd6/3674446483.jpg?precrop=1632%2C946%2Cx0%2Cy278&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2022-04-07/ty-article-magazine/.highlight/00000180-5bc2-df19-a7f3-dbde7bde0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2022-04-07",
+          "magazine_date": "2022-04-08",
+          "title": "בפסח הזה תאכלו סלט מרורים איטלקי: מתכוני החג של \"הבסטה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bc2-df19-a7f3-dbde7bde0000/10/d6/b3692dcbbbbc8f7c286284e14aaf/680417783.jpg?precrop=2361%2C1370%2Cx5%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2022-04-06/ty-article-magazine/.highlight/00000180-5b9e-dc4e-a5a9-7ffe8d950000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2022-04-06",
+          "magazine_date": "2022-04-08",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 8.4.2022",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5b9e-dc4e-a5a9-7ffe8d950000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2022-04-06/ty-article/.highlight/00000180-5ba1-dc4e-a5a9-7ff734aa0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2022-04-06",
+          "magazine_date": "2022-04-08",
+          "title": "נקמורה ורפורט במועמדים",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5ba1-dc4e-a5a9-7ff734aa0000/d8/e7/2bc479160fc6128a8a69b49a027b/3156283179.jpg?precrop=2009%2C1169%2Cx32%2Cy32&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2022-04-07/ty-article/.highlight/00000180-5ba2-d615-a9bf-dff242990000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2022-04-07",
+          "magazine_date": "2022-04-08",
+          "title": "\"רבין, אל תפחד מהימין\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5ba2-d615-a9bf-dff242990000/b5/d5/8543527c4883969a045105afe908/1932296344.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2022-04-06/ty-article/.highlight/00000180-5b9e-d615-a9bf-dfdee2190000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2022-04-06",
+          "magazine_date": "2022-04-08",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5b9e-d615-a9bf-dfdee2190000/50/8b/4039dfdf384b4bca7ca486855755/2928488037.jpg?precrop=1084%2C630%2Cx0%2Cy9&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-04-06/ty-article/.highlight/00000180-5bc6-df19-a7f3-dbde9df20000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-04-06",
+          "magazine_date": "2022-04-08",
+          "title": "השתגעתם? שנתחיל להתייחס למזון כאויב?",
+          "og_image": "https://img.haarets.co.il/bs/00000180-5bc6-df19-a7f3-dbde9df20000/cb/bd/40ef66e1f1239eff883c6c54ecbf/789677793.jpg?precrop=1720%2C1003%2Cx183%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

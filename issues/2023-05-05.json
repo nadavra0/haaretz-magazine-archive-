@@ -1,0 +1,353 @@
+{
+  "magazine_date": "2023-05-05",
+  "total_articles": 26,
+  "cover_image": "https://img.haarets.co.il/bs/00000187-e65b-dac5-a79f-f75fe1b90001/f0/91/d27441e14e2f985f2aef39e073aa/frontpage.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2023-05-04/ty-article-magazine/.highlight/00000187-e1c4-dad5-af87-e7e450600000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-03/ty-article-magazine/.highlight/00000187-e1c2-d5f5-a9af-e7dfe9fd0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-03",
+          "magazine_date": "2023-05-05",
+          "title": "בסך הכל רציתי תעודת זהות. אבל כשחיים במקום מפלצתי, זה הופך למסע מסוכן",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e1c2-d5f5-a9af-e7dfe9fd0000/d1/65/f9d83e684d6eae907e4ec2db372a/91912.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-03/ty-article-magazine/.highlight/00000187-e1c7-dad5-af87-e7e7ab660000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-03",
+          "magazine_date": "2023-05-05",
+          "title": "כאן בית המשפט העליון מתפורר, ובית המקדש השלישי משגשג",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e1c7-dad5-af87-e7e7ab660000/af/32/6871efa04bba9c83a0cb40615e52/51723306.JPG?precrop=6720%2C3905%2Cx0%2Cy443&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-03/ty-article/.highlight/00000187-e1cf-dad5-af87-e7ef683f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-03",
+          "magazine_date": "2023-05-05",
+          "title": "אומרים לך שכנאשם, אתה לא יכול לדבר על מערכת המשפט. \"זה לא רלוונטי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e1cf-dad5-af87-e7ef683f0000/21/9e/49d202e74640b1364962c1244f0b/51740837.JPG?precrop=2200%2C1279%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-03/ty-article/.highlight/00000187-e236-d4b0-af9f-f6fee8930000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-03",
+          "magazine_date": "2023-05-05",
+          "title": "טסתי הרבה לחו\"ל, אבל זו הפעם הראשונה שהתקשיתי למצוא סיבות לחזור",
+          "og_image": "https://gif.haarets.co.il/bs/00000187-e236-d4b0-af9f-f6fee8930000/02/90/52ec3b814ebca97954109a36dfbc/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-04/ty-article-magazine/.highlight/00000187-e1c4-d5f5-a9af-e7df3b1a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-04",
+          "magazine_date": "2023-05-05",
+          "title": "הם בני מאה, אבל ההזדקנות שלהם נעצרה בגיל 60. קוראים להם סופר־אייג'רים",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e1c4-d5f5-a9af-e7df3b1a0000/c9/82/bcc1d10f43f38b71de3ac8738299/51712183.JPG?precrop=2994%2C1741%2Cx0%2Cy698&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-04/ty-article-magazine/.highlight/00000187-e1c4-dad5-af87-e7e450600000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-04",
+          "magazine_date": "2023-05-05",
+          "title": "פסימיסט קיצוני, סגפן, \"נחש במשקפיים\": מיהו בעצם יריב לוין?",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e1c4-dad5-af87-e7e450600000/f9/5e/e8d707f94269a67c22cb5c86f684/levin-homepage.jpg?precrop=668%2C388%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-05-04/ty-article/.highlight/00000187-e683-d230-abc7-f79bbbeb0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-05-04",
+          "magazine_date": "2023-05-05",
+          "title": "הציבור היהודי הופך לימני יותר ויותר, והדת היא הדבק היחיד שנותר",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e683-d230-abc7-f79bbbeb0000/4a/2d/71d2234b429e9fa8143e87d480ff/655209.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-05-04/ty-article/.highlight/00000187-e684-d8a1-a1cf-e6ad299d0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-05-04",
+          "magazine_date": "2023-05-05",
+          "title": "טקסי הזיכרון בבתי הספר מחנכים לציות. זה לא עובד יותר",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e684-d8a1-a1cf-e6ad299d0000/2e/0f/d147de2540509fc07366c402b5f9/51728302.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-05-04/ty-article/.highlight/00000187-e684-d8a1-a1cf-e6ad30080000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-05-04",
+          "magazine_date": "2023-05-05",
+          "title": "אביב נעורים היה ניצחון מזהיר. אולי הוא היה מזהיר מדי",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e684-d8a1-a1cf-e6ad30080000/bc/27/3407341b4d11996255084c628388/51725601.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2023-05-04/ty-article/.highlight/00000187-e684-d8a1-a1cf-e6ad0cce0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2023-05-04",
+          "magazine_date": "2023-05-05",
+          "title": "רופא עיניים נשכח שחידש את העברית עומד בשורה אחת עם בן־יהודה וביאליק",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e684-d8a1-a1cf-e6ad0cce0000/94/10/fb36fceb4a8e94e9bd353a56f099/66209-2.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2023-05-04/ty-article/.highlight/00000187-e683-d230-abc7-f79bb2370000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2023-05-04",
+          "magazine_date": "2023-05-05",
+          "title": "ילדים בני 4 מתאהבים באמא. אבל מה קורה כשגדלים במשפחות חד־מיניות?",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e683-d230-abc7-f79bb2370000/37/e9/9dacab4a43b0884b0ce93bce81d9/51728243.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2023-05-04/ty-article-face/.highlight/00000187-be5a-d1ac-a987-ff7a18920000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2023-05-04",
+          "magazine_date": "2023-05-05",
+          "title": "\"הוורידים שלי במצח מתרחבים בכל פעם שאני צועקת 'בושה'\"",
+          "og_image": "https://img.haarets.co.il/bs/00000187-be5a-d1ac-a987-ff7a18920000/d9/48/f66a3aa248cebc375af3a5692629/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2023-05-03/ty-article-magazine/.highlight/00000187-e1a4-d5f5-a9af-e7bf3cf80000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2023-05-03",
+          "magazine_date": "2023-05-05",
+          "title": "\"אני והבן־זוג שלי אלופים בלקבל החלטות גרועות\"",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e1a4-d5f5-a9af-e7bf3cf80000/5e/32/b8dd2494448e8effc602d2ab227a/04238.jpg?precrop=2193%2C1275%2Cx48%2Cy222&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2023-05-03/ty-article/.highlight/00000187-e1db-d5f5-a9af-e7df1ef50000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2023-05-03",
+          "magazine_date": "2023-05-05",
+          "title": "דווקא עכשיו למות? חמשת שלבי האבל על המפורסם שהלך מאיתנו בלי תיאום מראש",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e1db-d5f5-a9af-e7df1ef50000/1b/45/1140e93e43a4b384e3cac85c99fb/51744819.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2023-05-04/ty-article-magazine/.highlight/00000187-e629-dcb8-abc7-eee97ee90000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2023-05-04",
+          "magazine_date": "2023-05-05",
+          "title": "שביתת התסריטאים בהוליווד. די נו, זה מתואם עם ביבי",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e629-dcb8-abc7-eee97ee90000/a9/b3/421b1aec4827974cfc9aceb24732/koteret.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2023-05-04/ty-article-magazine/.highlight/00000187-be7a-d0b0-a5b7-befea5a00000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2023-05-04",
+          "magazine_date": "2023-05-05",
+          "title": "\"אני בשום צורה לא מעודדת ולא צ'ירלידר\"",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e6f6-d230-abc7-f7fe5f400000/88/ca/628019dc4455a5a47bfad5866f5b/28427.jpg?height=630&width=1200&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2023-05-04/ty-article-20q/.highlight/00000187-be79-d1ac-a987-ff79c7060000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2023-05-04",
+          "magazine_date": "2023-05-05",
+          "title": "באירוויזיון - מה משותף לאדי בטלר, אילנית, יזהר כהן ודנה אינטרנשיונל?",
+          "og_image": "https://img.haarets.co.il/bs/00000187-be79-d1ac-a987-ff79c7060000/7d/d6/d369a6c04f3d97f263082e3eee28/15222.jpg?precrop=2200%2C1279%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2023-05-04/ty-article-magazine/.highlight/00000187-e689-d8a1-a1cf-e6ad1d990000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2023-05-04",
+          "magazine_date": "2023-05-05",
+          "title": "ירושלים שהיינו רוצים לדמיין: סמי תמימי מחדש את התפריט של אמריקן קולוני",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e689-d8a1-a1cf-e6ad1d990000/30/50/a60198c140d4a0175ee2a18df7f0/51739554.JPG?precrop=5504%2C3200%2Cx0%2Cy1638&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2023-05-04/ty-article-magazine/.premium/00000187-e5ad-dcb8-abc7-efed30890000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2023-05-04",
+          "magazine_date": "2023-05-05",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 5.5.2023",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e5ad-dcb8-abc7-efed30890000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2023-05-04/ty-article/.premium/00000187-e59f-dcb8-abc7-efdfa2bc0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2023-05-04",
+          "magazine_date": "2023-05-05",
+          "title": "אלוף אמיץ",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e59f-dcb8-abc7-efdfa2bc0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2023-05-04/ty-article/.premium/00000187-e5cb-dac5-a79f-f5cf50370000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2023-05-04",
+          "magazine_date": "2023-05-05",
+          "title": "יקנאו הרווקים!",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e5cb-dac5-a79f-f5cf50370000/e0/bb/01eb874d432aaf4cce2ae89c95e0/meforsam.jpg?precrop=1250%2C727%2Cx0%2Cy3527&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2023-05-03/ty-article/00000187-e25b-d4b0-af9f-f6df8a850000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2023-05-03",
+          "magazine_date": "2023-05-05",
+          "title": "בגיל 98 מתה מפתחת הספרותרפיה",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e25b-d4b0-af9f-f6df8a850000/f3/b0/34800e8c24247a731ad90319095e/2760638887.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2023-05-03/ty-article/00000187-e26c-d632-a7cf-f6ff0e7c0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2023-05-03",
+          "magazine_date": "2023-05-05",
+          "title": "\"רחוב שוקן יחזור להיות אבו כביר\": המכתב הזועם של ברוך תירוש",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e26c-d632-a7cf-f6ff0e7c0000/e8/96/7011bcf7ed58b91900ab2e97a217/1883492860.jpg?precrop=2132%2C1242%2Cx40%2Cy12&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2023-05-04/ty-article/00000187-e683-d230-abc7-f79b3af70000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2023-05-04",
+          "magazine_date": "2023-05-05",
+          "title": "מטוסים, ספינות ורכבות: איזבל פדרו, המרגלת הישראלית במצרים, מתה בגיל 89",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e683-d230-abc7-f79b3af70000/f2/fe/62f5d7d3dd7c9837309bac87893c/3101062330.jpg?precrop=1522%2C886%2Cx33%2Cy830&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2023-05-04/ty-article/.premium/00000187-e5c7-dac5-a79f-f5cfb8b20000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2023-05-04",
+          "magazine_date": "2023-05-05",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e5c7-dac5-a79f-f5cfb8b20000/4f/39/adfbab2f4e3ea691d4c764cce220/ribooa-musaf-519.jpg?precrop=1083%2C630%2Cx0%2Cy301&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2023-05-03/ty-article/00000187-e212-d632-a7cf-f6b3f01f0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2023-05-03",
+          "magazine_date": "2023-05-05",
+          "title": "האוכל הישראלי מפגר? אילני, על מה אתה מדבר?",
+          "og_image": "https://img.haarets.co.il/bs/00000187-e212-d632-a7cf-f6b3f01f0000/53/97/f41339e841faaa8523adda2b682a/874110.jpg?precrop=2400%2C1395%2Cx0%2Cy164&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

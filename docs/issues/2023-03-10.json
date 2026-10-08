@@ -1,0 +1,408 @@
+{
+  "magazine_date": "2023-03-10",
+  "total_articles": 31,
+  "cover_image": "https://img.haarets.co.il/bs/00000186-c183-db8c-a1be-d5f3c5d50001/4b/12/696d6c6b4435a4e2c1d48b858ce5/frontpage.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2023-03-08/ty-article-magazine/.highlight/00000186-c123-db36-a5ff-f5fb71080000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-03-08/ty-article-magazine/.highlight/00000186-c123-db36-a5ff-f5fb71080000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-03-08",
+          "magazine_date": "2023-03-10",
+          "title": "זו הפיכה לכל דבר. ישראל בדרך להפוך לדיקטטורה",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c123-db36-a5ff-f5fb71080000/4e/3a/e52f54754b5aa9527a3902790b5e/untitled-233333.jpg?precrop=1613%2C938%2Cx161%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-03-08/ty-article-magazine/.highlight/00000186-c124-d739-a9cf-d57e30aa0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-03-08",
+          "magazine_date": "2023-03-10",
+          "title": "האם אפשר למנוע את דעיכת האהבה במערכות יחסים ארוכות?",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c124-d739-a9cf-d57e30aa0000/b2/a8/78db059f4d059d5a4d1a0a1ee2f3/01-01-01.jpg?precrop=2000%2C1162%2Cx0%2Cy100&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-03-08/ty-article-magazine/.highlight/00000186-c124-db36-a5ff-f5ff5ce80000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-03-08",
+          "magazine_date": "2023-03-10",
+          "title": "\"נתמוך בנפגעי ההפיכה, ואם צריך נפעל במחתרת\". שיחה עם נשיא הקרן החדשה",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c124-db36-a5ff-f5ff5ce80000/65/b4/ac238bdb4ca8b1e7a16a9fc2db52/50929475.JPG?precrop=8192%2C4763%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-03-08/ty-article-magazine/.highlight/00000186-c125-d739-a9cf-d57f607b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-03-08",
+          "magazine_date": "2023-03-10",
+          "title": "\"האמריקאים השמרנים מתחילים להבין שהישראלים משקרים להם\"",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c125-d739-a9cf-d57f607b0000/25/59/69e6c54e46aeb3b4b005d5e0111d/17532.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-03-08/ty-article-magazine/.highlight/00000186-c127-d739-a9cf-d57fce410000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-03-08",
+          "magazine_date": "2023-03-10",
+          "title": "אנחנו נוטים לחשוב שפטריות הן דבר מזיק. מתברר שהן יכולות לשנות את חיינו",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c127-d739-a9cf-d57fce410000/d8/64/b7ae06854f4e82ea5ba66918bbfa/50972544.JPG?precrop=6966%2C4050%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-03-08/ty-article/.highlight/00000186-c168-d739-a9cf-d57aa9180000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-03-08",
+          "magazine_date": "2023-03-10",
+          "title": "לטענת רוטמן וחבריו, ברק חולל הפיכה שיפוטית. מוזר, איפה הייתי כשזה קרה?",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c168-d739-a9cf-d57aa9180000/b9/d2/f31b000b4da8befbeff457296d03/07953-4.jpg?precrop=2400%2C1395%2Cx0%2Cy41&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-03-08/ty-article/.highlight/00000186-c182-d739-a9cf-d5fa34d40000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-03-08",
+          "magazine_date": "2023-03-10",
+          "title": "איך יכול להיות שדווקא בתקופה המלחיצה הזו יש מחסור בנוגדי דיכאון?",
+          "og_image": "https://gif.haarets.co.il/bs/00000186-c182-d739-a9cf-d5fa34d40000/85/db/29603e0641e0acb3ee97beee22ba/neri-33333333333333333.gif?precrop=1311%2C762%2Cx7%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-03-08/ty-article/.highlight/00000186-c18a-db36-a5ff-f5fb7c0b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-03-08",
+          "magazine_date": "2023-03-10",
+          "title": "אני מזמין תפילה שההפיכה לא תעבור. \"את זה תעשה בעצמך!\"",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c18a-db36-a5ff-f5fb7c0b0000/e7/1b/ba343da6415995350f4261954996/50971915.JPG?precrop=1772%2C1030%2Cx0%2Cy222&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-03-09/ty-article/00000186-c6c8-d009-a39f-f6faa9100000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-03-09",
+          "magazine_date": "2023-03-10",
+          "title": "איזו דמות ביקום מארוול מבוססת חלקית על מנחם בגין? 40 שאלות הקוראים",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c6c8-d009-a39f-f6faa9100000/1c/1e/f22a4bd944c4b55a2c986a088393/731346.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-03-08/ty-article/.highlight/00000186-c08a-db36-a5ff-f4fb53260000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-03-08",
+          "magazine_date": "2023-03-10",
+          "title": "בעיתונות העברית התפעלו: \"לני ריפנשטאל היא אהובתו היהודיה של היטלר\"",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c08a-db36-a5ff-f4fb53260000/24/07/5b27710c4e3e93e3937d68d4b2d2/50942990.JPG?precrop=3984%2C2316%2Cx0%2Cy136&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-03-08/ty-article/.highlight/00000186-c0c3-dd29-a1be-efd3d1470000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-03-08",
+          "magazine_date": "2023-03-10",
+          "title": "כדי להתגבר על משבר גדול צריך לחשוב בקטן. בקטן מאוד",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c0c3-dd29-a1be-efd3d1470000/34/1e/f12f60c34c0bad587ae8c693365f/77072.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-03-08/ty-article/.highlight/00000186-c0ee-d16e-af87-e9fe7f6d0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-03-08",
+          "magazine_date": "2023-03-10",
+          "title": "צה\"ל הרג 108 אזרחים, אך רה\"מ קבעה: לא מוטל עלינו שמץ של אשמה",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c0ee-d16e-af87-e9fe7f6d0000/4b/cd/b752788f41d9a5dd072a418827cd/50946574.JPG?precrop=3072%2C1786%2Cx0%2Cy35&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2023-03-08/ty-article/.highlight/00000186-c107-d247-a5ff-cb6f81010000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2023-03-08",
+          "magazine_date": "2023-03-10",
+          "title": "אלה בסך הכל ראשי תיבות, אבל הם חוללו מהומת אלוהים",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c107-d247-a5ff-cb6f81010000/7c/22/1b6334f740d5af675c89fc249a12/538044.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2023-03-08/ty-article/.highlight/00000186-c112-d137-ab86-f992b8050000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2023-03-08",
+          "magazine_date": "2023-03-10",
+          "title": "באופן פרדוקסלי, החזונות הרדיקליים ביותר של השמאל נראים פתאום מציאותיים",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c112-d137-ab86-f992b8050000/95/32/efb0a18e4bd99a2d5831aba8694b/50959996.JPG?precrop=6951%2C4041%2Cx0%2Cy525&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2023-03-08/ty-article-face/.highlight/00000186-c1d6-d16e-af87-e9de1db60000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2023-03-08",
+          "magazine_date": "2023-03-10",
+          "title": "\"30 שנה ברחתי מפוליטיקה עד שהיא פגעה בי עם רימון מאחורה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c1d6-d16e-af87-e9de1db60000/41/eb/eb7334404b049e4c24e927ac4faf/facetemplate1800x1200-1.jpg?precrop=1800%2C1046%2Cx0%2Cy78&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2023-03-08/ty-article-magazine/.highlight/00000186-c13d-d40d-a3a6-c93d58760000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2023-03-08",
+          "magazine_date": "2023-03-10",
+          "title": "\"אני מדריכה בבית ספר לחינוך מיוחד. למדתי בבית הספר הזה בעצמי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c13d-d40d-a3a6-c93d58760000/f4/89/1ca68e41443a9035034782aab704/50955487.JPG?precrop=5906%2C3433%2Cx876%2Cy501&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2023-03-08/ty-article/.highlight/00000186-c18b-db36-a5ff-f5fb5a790000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2023-03-08",
+          "magazine_date": "2023-03-10",
+          "title": "בישיבת הממשלה ביום ראשון נחשף לעיני כל מה נתניהו חושב על לוין",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c18b-db36-a5ff-f5fb5a790000/90/dc/bd3816354e41a28c489710ec2473/netanyahu-levin.jpg?precrop=611%2C355%2Cx2%2Cy20&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2023-03-09/ty-article-magazine/.highlight/00000186-c5a6-d739-a9cf-d5feadee0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2023-03-09",
+          "magazine_date": "2023-03-10",
+          "title": "עשית משהו בשיער?",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c5a6-d739-a9cf-d5feadee0000/d6/c9/5e8faac644939957512cb0ee3c91/koteret.jpg?precrop=2000%2C1163%2Cx0%2Cy620&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2023-03-09/ty-article-magazine/.highlight/00000186-c667-dc44-abe6-c7ef98010000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2023-03-09",
+          "magazine_date": "2023-03-10",
+          "title": "\"היום זו הרפורמה, מחר זו תחבורה בשבת\"",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c670-d403-adde-f6fe73050000/48/29/e849eb2d43ce9397edf8b87ccb07/85584-2.jpg?precrop=2400,1395,x0,y92&height=630&width=1200&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2023-03-09/ty-article-20q/.highlight/00000186-c2ed-d739-a9cf-d6ff6c260000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2023-03-09",
+          "magazine_date": "2023-03-10",
+          "title": "מה מחבר בין פרדי מרקורי, פרידריך ניטשה ומכוניות מאזדה?",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c2ed-d739-a9cf-d6ff6c260000/06/90/5c426a84441d875cc5f454f34a94/445385.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2023-03-09/ty-article-20q/.highlight/00000186-c309-d247-a5ff-cb6f80ec0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2023-03-09",
+          "magazine_date": "2023-03-10",
+          "title": "איזו דמות ביקום מארוול מבוססת חלקית על מנחם בגין?",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c309-d247-a5ff-cb6f80ec0000/1c/1e/f22a4bd944c4b55a2c986a088393/731346.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2023-03-08/ty-article-magazine/.highlight/00000186-c131-d739-a9cf-d57b80eb0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2023-03-08",
+          "magazine_date": "2023-03-10",
+          "title": "זה אולי נשמע כמו גימיק, אבל החומוס הזה פשוט נהדר",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c131-d739-a9cf-d57b80eb0000/d3/a8/2c65e7a347ab8d217786df780f0e/08419.jpg?precrop=2400%2C1395%2Cx0%2Cy205&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2023-03-09/ty-article-magazine/.premium/00000186-c5b1-d069-a3df-c7b93c3b0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2023-03-09",
+          "magazine_date": "2023-03-10",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 10.3.2023",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c5b1-d069-a3df-c7b93c3b0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2023-03-09/ty-article/.premium/00000186-c592-d170-a387-dd9f277c0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2023-03-09",
+          "magazine_date": "2023-03-10",
+          "title": "מבטיח ומקיים",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c592-d170-a387-dd9f277c0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2023-03-09/ty-article/.premium/00000186-c5a3-dedf-abe7-d7a3cb720000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2023-03-09",
+          "magazine_date": "2023-03-10",
+          "title": "ירידה באמון בנתניהו",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c5a3-dedf-abe7-d7a3cb720000/d2/6e/ac4ea2de4b078c09e78c7aaf005b/meforsamot.jpg?precrop=1250%2C727%2Cx0%2Cy1015&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2023-03-06/ty-article/00000186-b5ef-d171-a59e-bdefaecf0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2023-03-06",
+          "magazine_date": "2023-03-10",
+          "title": "העיתונאי הוותיק, שנותר \"מכור לחדשות\", חצה את הכביש לקנות עיתון, ונהרג",
+          "og_image": "https://img.haarets.co.il/bs/00000186-b5ef-d171-a59e-bdefaecf0000/0d/68/e91139164acd9592d59d0a530485/12.jpeg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2023-03-09/ty-article/00000186-c539-d71f-afa6-ddff89030000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2023-03-09",
+          "magazine_date": "2023-03-10",
+          "title": "זקן חברי \"ההגנה\" מת בגיל 107",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c539-d71f-afa6-ddff89030000/9c/dd/307ca84546c1910d4ffb4bd69d79/zon.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2023-03-09/ty-article/.premium/00000186-c5aa-d170-a387-ddafe9440000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2023-03-09",
+          "magazine_date": "2023-03-10",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c5aa-d170-a387-ddafe9440000/e5/e6/2d01434941aabdbc6b2528415ded/purim-2023-hebron.jpg?precrop=2000%2C1162%2Cx0%2Cy103&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2023-03-05/ty-article/.premium/00000186-a1a9-d6b7-a3de-fbbf601c0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2023-03-05",
+          "magazine_date": "2023-03-10",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000186-a1a9-d6b7-a3de-fbbf601c0000/de/d2/bcd69a9f418fabbf8cba72f9fccf/ribooa-musaf-510.jpg?precrop=1083%2C630%2Cx0%2Cy36&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2023-03-09/ty-article/.premium/00000186-c5a0-d739-a9cf-d5fa87a30000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2023-03-09",
+          "magazine_date": "2023-03-10",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c5a0-d739-a9cf-d5fa87a30000/da/c0/2d6ca7524d72a7efeacb14836919/ribooa-musaf-511.jpg?precrop=1083%2C630%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2023-03-08/ty-article/.highlight/00000186-c1b1-db8c-a1be-d5f31ff20000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2023-03-08",
+          "magazine_date": "2023-03-10",
+          "title": "ברגע אחד נזרקתי חזרה לכורסה בחדרו של ליבוביץ",
+          "og_image": "https://img.haarets.co.il/bs/00000186-c1b1-db8c-a1be-d5f31ff20000/33/14/6c6cb9c7420cb856b5e68f174491/miluimnikin-shituf.jpg?precrop=623%2C362%2Cx324%2Cy46&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

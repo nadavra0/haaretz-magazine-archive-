@@ -1,0 +1,313 @@
+{
+  "magazine_date": "2022-07-22",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/00000182-1706-da8b-a9f6-f70fa22a0001/d9/89/c503f7c54b13b8a950b8143e405a/frontpage.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2022-07-21/ty-article-magazine/.highlight/00000182-16dc-d3ff-a18e-36dfb5dc0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-07-20/ty-article-magazine/.highlight/00000182-16ac-d5f6-abe3-1ebf1f560000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-07-20",
+          "magazine_date": "2022-07-22",
+          "title": "איך שב\"כ מדובב מחבל בכיר שמסרב לדבר במשך שישה חודשים במעצר?",
+          "og_image": "https://img.haarets.co.il/bs/00000182-16ac-d5f6-abe3-1ebf1f560000/24/32/694ec31042788faacda3bcba9c5b/57448.jpg?precrop=1431%2C831%2Cx0%2Cy302&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-07-20/ty-article-magazine/.highlight/00000182-1a16-d6ae-abca-bf56604e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-07-20",
+          "magazine_date": "2022-07-22",
+          "title": "הם היו חברי נפש. אלא שאחד מהם הסתיר פרק אפל בעברו",
+          "og_image": "https://img.haarets.co.il/bs/00000182-1a16-d6ae-abca-bf56604e0000/44/d9/d4f1120848bf85c44ea369f8f605/47792376.JPG?precrop=3000%2C1744%2Cx0%2Cy109&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-07-20/ty-article/.highlight/00000182-1b2a-dfd4-a7cf-bfeb63770000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-07-20",
+          "magazine_date": "2022-07-22",
+          "title": "גם נתניהו יצא נגד השרשרת. \"הוא לא יצא נגדה. אבל מי שואל אותו בכלל?\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-1b2a-dfd4-a7cf-bfeb63770000/0e/f8/11d2e0ae4073a8c371bbbe9e1614/47825116.JPG?precrop=4368%2C2538%2Cx0%2Cy213&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-07-20/ty-article/.highlight/00000182-1b83-d40a-a782-3f83a0640000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-07-20",
+          "magazine_date": "2022-07-22",
+          "title": "לראשונה זה עשור, תושבי עזה יכולים לרחוץ במי הים התיכון",
+          "og_image": "https://img.haarets.co.il/bs/00000182-1b83-d40a-a782-3f83a0640000/b1/86/dc39ca114832b0232456c4c00cf3/47798176.JPG?precrop=4068%2C2365%2Cx0%2Cy97&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-07-21/ty-article-magazine/.highlight/00000182-16dc-d3ff-a18e-36dfb5dc0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-07-21",
+          "magazine_date": "2022-07-22",
+          "title": "הם היו זוג קשישים חביבים. מה עשה אצלם ציור גנוב בשווי 160 מיליון דולר?",
+          "og_image": "https://img.haarets.co.il/bs/00000182-16dc-d3ff-a18e-36dfb5dc0000/50/9d/395363c240ca83348bf04ff0f6b1/56777.jpg?precrop=1841%2C1069%2Cx298%2Cy355&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-07-21/ty-article-magazine/.highlight/00000182-1725-d3ff-a18e-37af303a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-07-21",
+          "magazine_date": "2022-07-22",
+          "title": "\"חוץ מרצח ואונס, עשיתי הכל. ואז פגשתי לראשונה את אחד הקורבנות שלי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-1725-d3ff-a18e-37af303a0000/55/7e/a31d2efb46089b7c9e27b8d8a2a9/47809320.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-07-21/ty-article-magazine/.highlight/00000182-1ae7-d991-a992-3fef42630000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-07-21",
+          "magazine_date": "2022-07-22",
+          "title": "לגרשון הכהן יש בשורות לא פשוטות עבור כל מי שרוצה פשוט לחיות כאן בשקט",
+          "og_image": "https://img.haarets.co.il/bs/00000182-1ae7-d991-a992-3fef42630000/df/49/a78145994607a5c7d2825cdd668d/47722681.JPG?precrop=6720%2C3905%2Cx0%2Cy79&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-07-21/ty-article/.highlight/00000182-2016-d8fd-a1ea-6ddfe05a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-07-21",
+          "magazine_date": "2022-07-22",
+          "title": "מה אפשר ללמוד משרשרת הזהב של נתניהו",
+          "og_image": "https://gif.haarets.co.il/bs/00000182-2016-d8fd-a1ea-6ddfe05a0000/4a/0a/afd23b0d4009bd1040b4901992a8/neri.gif?precrop=1311%2C762%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-07-20/ty-article/.premium/00000182-1bbe-d55b-a3b3-fbff66620000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-07-20",
+          "magazine_date": "2022-07-22",
+          "title": "המחזה הזה חזר לזמן קצר, ורק עבורו שווה לנסוע ללונדון",
+          "og_image": "https://img.haarets.co.il/bs/00000182-1bbe-d55b-a3b3-fbff66620000/a7/c0/6a372ff94eb1a7103cda6947ed64/47814790.JPG?precrop=2174%2C1264%2Cx0%2Cy229&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-07-20/ty-article/00000182-1bd3-d40a-a782-3fd37a8f0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-07-20",
+          "magazine_date": "2022-07-22",
+          "title": "יותר מחקרים מבקשים לבטל את שיטת הציונים. האם זו הדרך הנכונה?",
+          "og_image": "https://img.haarets.co.il/bs/00000182-1bd3-d40a-a782-3fd37a8f0000/bb/85/72cfdd7746bbb74737fbc6324349/47823474.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2022-07-20/ty-article/.highlight/00000182-1b96-d1a1-a98a-7fd723dc0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2022-07-20",
+          "magazine_date": "2022-07-22",
+          "title": "הוא לא מוכר כמו בן־יהודה, אבל היתה לו תרומה גדולה לשפה העברית",
+          "og_image": "https://img.haarets.co.il/bs/00000182-1b96-d1a1-a98a-7fd723dc0000/57/aa/932c5aac4807826761a910fc8f01/81183.jpg?precrop=2391%2C1390%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-07-20/ty-article/.highlight/00000182-1b86-d55b-a3b3-fbef5ba00000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-07-20",
+          "magazine_date": "2022-07-22",
+          "title": "החנונים יצאו מהמרתף. לחשיפה הזאת יש גם צדדים קודרים",
+          "og_image": "https://img.haarets.co.il/bs/00000182-1b86-d55b-a3b3-fbef5ba00000/62/ef/c8bc6c8640419aaab4e2e30a4498/47814394.JPG?precrop=3289%2C1912%2Cx233%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-07-20/ty-article-face/.highlight/00000182-0c2e-d8f9-a7af-9f6efcf30000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-07-20",
+          "magazine_date": "2022-07-22",
+          "title": "\"יש מצב שתוך שנה אגיש תפריט שלם ללא בשר\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-0c2e-d8f9-a7af-9f6efcf30000/c5/71/36876918440db60f9deeccd28a42/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-07-20/ty-article-magazine/.highlight/00000182-1bbb-d55b-a3b3-fbfba6500000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-07-20",
+          "magazine_date": "2022-07-22",
+          "title": "\"מהרגע שנהיינו ביחד, ידענו שיש לזה תאריך סיום\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-1bbb-d55b-a3b3-fbfba6500000/b6/60/39ebdc604483945660224e29cc63/47801366.JPG?precrop=3667%2C2131%2Cx893%2Cy246&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-07-20/ty-article-magazine/.highlight/00000182-1bc3-d55b-a3b3-fbeb344c0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-07-20",
+          "magazine_date": "2022-07-22",
+          "title": "טל ברמן ואביעד קיסוס עושים כבר 20 שנה דבר די גדול בישראל",
+          "og_image": "https://img.haarets.co.il/bs/00000182-1bc3-d55b-a3b3-fbeb344c0000/e7/97/590cca5f5092ca08d62682bee114/620025339.jpg?precrop=1762%2C1024%2Cx0%2Cy5&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-07-21/ty-article-magazine/.highlight/00000182-2009-d8fd-a1ea-6ddd3f630000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-07-21",
+          "magazine_date": "2022-07-22",
+          "title": "אופנת מאווי חוזרת. הכינו את החדרים האטומים",
+          "og_image": "https://img.haarets.co.il/bs/00000182-2009-d8fd-a1ea-6ddd3f630000/a6/17/8bffc95b452fbc4dbc6d834d1ad4/mid-2.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2022-07-17/ty-article-magazine/.premium/00000182-0c42-dee2-a786-ad529f8b0002",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2022-07-17",
+          "magazine_date": "2022-07-22",
+          "title": "\"היא חכמה ברמה של הגיל שלי ואני לא חכם לגיל שלי, אז זה מתאזן\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-0c4c-d5f6-abe3-0eff64780000/94/70/e8f82852406ca639cc4efb674a00/595433.jpg?precrop=2400,1395,x0,y249&height=630&width=1200&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-07-17/ty-article-20q/.highlight/00000182-0c31-dee2-a786-ad737faf0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-07-17",
+          "magazine_date": "2022-07-22",
+          "title": "מי היה הראשון שכיהן באופן רשמי כראש האופוזיציה בכנסת?",
+          "og_image": "https://img.haarets.co.il/bs/00000182-0c31-dee2-a786-ad737faf0000/27/1b/82bfe6ca49edb8ac0c8b90a2bb9c/59920.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2022-07-20/ty-article-magazine/.highlight/00000182-1bab-d55b-a3b3-fbeb9af90000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2022-07-20",
+          "magazine_date": "2022-07-22",
+          "title": "עונג שישי: היקב שמזמין לשתות יין קר בלב היער",
+          "og_image": "https://img.haarets.co.il/bs/00000182-1bab-d55b-a3b3-fbeb9af90000/c3/4b/af1b65134452824fa49cd4504537/47814658.JPG?precrop=4657%2C2708%2Cx0%2Cy2347&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2022-07-21/ty-article-magazine/.premium/00000182-1ff0-d900-a1b2-1ffe27b60000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2022-07-21",
+          "magazine_date": "2022-07-22",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 22.7.2022",
+          "og_image": "https://img.haarets.co.il/bs/00000182-1ff0-d900-a1b2-1ffe27b60000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2022-07-21/ty-article/.premium/00000182-1ff9-d900-a1b2-1fff3f430000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2022-07-21",
+          "magazine_date": "2022-07-22",
+          "title": "האולימפיאדה יוצאת לדרך",
+          "og_image": "https://img.haarets.co.il/bs/00000182-1ff9-d900-a1b2-1fff3f430000/38/29/5549e45d00f548b27e2027b897ad/584151313.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2022-07-21/ty-article/.premium/00000182-2005-dbf0-a1d7-32c5ab7e0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2022-07-21",
+          "magazine_date": "2022-07-22",
+          "title": "תופעה חברתית חדשה: חילופי נשים",
+          "og_image": "https://img.haarets.co.il/bs/00000182-2005-dbf0-a1d7-32c5ab7e0000/ec/28/824cfc4d4e7bb3e2767fc5557c29/fam.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-07-20/ty-article/.premium/00000182-1bc3-d3fd-a5ff-7fe751c10000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-07-20",
+          "magazine_date": "2022-07-22",
+          "title": "הפרופסור שלא מפספס הזדמנות להסית נגד חתולים",
+          "og_image": "https://img.haarets.co.il/bs/00000182-1bc3-d3fd-a5ff-7fe751c10000/5d/84/9b6f6e59b668ecd04482a3d26edd/2000556980.jpg?precrop=816%2C472%2Cx557%2Cy258&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

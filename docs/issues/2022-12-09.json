@@ -1,0 +1,338 @@
+{
+  "magazine_date": "2022-12-09",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/00000184-ec76-d4c7-a786-edf702640001/38/ad/50e0093047af842d8989e3ba484c/frontpage.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2022-12-08/ty-article-magazine/.highlight/00000184-ec63-d4c7-a786-edf7b4ed0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-12-07/ty-article-magazine/.highlight/00000184-ec07-d4c7-a786-edf741bc0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-12-07",
+          "magazine_date": "2022-12-09",
+          "title": "מטפלות בילדים שמרוויחות 8,000 פאונד בחודש? יש דבר כזה",
+          "og_image": "https://img.haarets.co.il/bs/00000184-ec07-d4c7-a786-edf741bc0000/32/21/cc6d5d754b588da27d66013c3f68/49797915.JPG?precrop=2880%2C1674%2Cx0%2Cy734&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-12-07/ty-article-magazine/.highlight/00000184-ec1e-d4c7-a786-edff69b40000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-12-07",
+          "magazine_date": "2022-12-09",
+          "title": "אנחנו לא רק חסרי סבלנות לזקנים. אנחנו ממש מקצרים להם את החיים",
+          "og_image": "https://img.haarets.co.il/bs/00000184-ec1e-d4c7-a786-edff69b40000/c2/67/308d4e1b4170941e2f6d412bd252/49813573.JPG?precrop=2200%2C1279%2Cx0%2Cy1126&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-12-07/ty-article-magazine/.highlight/00000184-ec33-d4c7-a786-edf7e00b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-12-07",
+          "magazine_date": "2022-12-09",
+          "title": "אתם בכוונה לא מונעים את הפוליגמיה אצלנו. יש לזה מטרה",
+          "og_image": "https://img.haarets.co.il/bs/00000184-ec33-d4c7-a786-edf7e00b0000/af/5e/8146c93842d5903756a8a40630e9/49798460.JPG?precrop=6057%2C3522%2Cx0%2Cy938&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-12-07/ty-article/.highlight/00000184-ec86-d085-afc4-ef86a8680000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-12-07",
+          "magazine_date": "2022-12-09",
+          "title": "פסק הדין בעניין הסרט \"ג'נין ג'נין\" צריך להדאיג כל יוצר בישראל",
+          "og_image": "https://img.haarets.co.il/bs/00000184-ec86-d085-afc4-ef86a8680000/8a/54/b7538d19405ba070b2c17ac5eee2/49837268.JPG?precrop=1280%2C744%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-12-07/ty-article/.highlight/00000184-ecc1-d337-a5d4-fcd1d26e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-12-07",
+          "magazine_date": "2022-12-09",
+          "title": "את מופתעת שאני אומר שהאפליקציה של דיסני היא פח? \"לא, אני לא מופתעת\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-ecc1-d337-a5d4-fcd1d26e0000/e7/7a/cfe367794873981e5c40ad68c357/49840156.JPG?precrop=540%2C314%2Cx362%2Cy496&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-12-08/ty-article-magazine/.highlight/00000184-ec63-d4c7-a786-edf7b4ed0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-12-08",
+          "magazine_date": "2022-12-09",
+          "title": "מחקר אחר מחקר מתברר: חרקים הם הרבה יותר חכמים ממה שחשבנו",
+          "og_image": "https://img.haarets.co.il/bs/00000184-ec63-d4c7-a786-edf7b4ed0000/5b/fa/a0c6b2b94fd9b381676cfa360c13/82856.jpg?precrop=1809%2C1052%2Cx0%2Cy800&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-12-08/ty-article/.highlight/00000184-f15c-dba5-adf4-f77e80810000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-12-08",
+          "magazine_date": "2022-12-09",
+          "title": "יוגורט מקלחים של תירס? לחמניות מקמח תפוחים? ממש ככה",
+          "og_image": "https://img.haarets.co.il/bs/00000184-f15c-dba5-adf4-f77e80810000/cc/1d/3d8546764154ab17b6a6b2cdc127/eaten-corn.jpg?precrop=1247%2C725%2Cx0%2Cy544&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-12-08/ty-article/.highlight/00000184-f173-dba5-adf4-f77f69420000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-12-08",
+          "magazine_date": "2022-12-09",
+          "title": "אני לא טובה בפרידות, ואני מרגישה שאני צריכה להיפרד עכשיו מישראל שהכרתי",
+          "og_image": "https://gif.haarets.co.il/bs/00000184-f173-dba5-adf4-f77f69420000/b7/15/6bfe2a924007a29b1a0f7a3e00a8/neri.gif?precrop=1311%2C762%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-12-07/ty-article-magazine/.highlight/00000184-ec7f-dafe-a7fe-fe7f49580000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-12-07",
+          "magazine_date": "2022-12-09",
+          "title": "יומני המאהבת של בן־גוריון: \"הוא משתוקק לבעול אישה, ואולי גם מסוגל לכך\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-ec7f-dafe-a7fe-fe7f49580000/da/e3/41873471440fa44c895618d2741f/87.jpg?precrop=2296%2C1335%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-12-07/ty-article/.highlight/00000184-ebf9-d9f1-a9e6-effb0ba70000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-12-07",
+          "magazine_date": "2022-12-09",
+          "title": "למה להיות כבד ורציני? הכי כיף זה פשוט להיות \"אדם מאמין\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-ebf9-d9f1-a9e6-effb0ba70000/a3/5d/990ced4f48fb91ac94d4220a5314/49813441.JPG?precrop=4412%2C2565%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-12-07/ty-article/.highlight/00000184-ec13-de70-add6-fd1bd69d0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-12-07",
+          "magazine_date": "2022-12-09",
+          "title": "שוק הספרים מוצף בעיות, אבל ספרות גדולה באמת כלל לא זקוקה לו",
+          "og_image": "https://img.haarets.co.il/bs/00000184-ec13-de70-add6-fd1bd69d0000/8c/ea/50758c23449fa73896360c6f83d6/49813581.JPG?precrop=6000%2C3488%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2022-12-07/ty-article/.highlight/00000184-ec1a-d4c7-a786-edffd8fe0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2022-12-07",
+          "magazine_date": "2022-12-09",
+          "title": "מתי קיבל המחוך את שמו, ומהי בעצם אפודה?",
+          "og_image": "https://img.haarets.co.il/bs/00000184-ec1a-d4c7-a786-edffd8fe0000/fe/e5/4733b22b4c26a724c3f687fb0a64/90456.jpg?precrop=1125%2C654%2Cx1275%2Cy910&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-12-07/ty-article/.highlight/00000184-ec03-d4c7-a786-edf732010000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-12-07",
+          "magazine_date": "2022-12-09",
+          "title": "מה מושך את תעשיית הקולנוע הישראלית דווקא ליישוב זעיר בערבה?",
+          "og_image": "https://img.haarets.co.il/bs/00000184-ec03-d4c7-a786-edf732010000/ff/66/19cecf59497bb36cb24efcdb1b89/49837269.JPG?precrop=3000%2C1744%2Cx0%2Cy154&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-12-08/ty-article-face/.highlight/00000184-f1ca-d28a-a396-f1eb18740000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-12-08",
+          "magazine_date": "2022-12-09",
+          "title": "\"בשיא הקריירה בשבק ס' הבנתי שאני לא רוצה להיות ידוען\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-f1ca-d28a-a396-f1eb18740000/1d/1f/c394cfc1491b9dfc30d44d27082c/facetemplate1800x1200-1.jpg?precrop=1800%2C1046%2Cx0%2Cy48&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-12-08/ty-article-magazine/.highlight/00000184-f206-d28a-a396-f36782990000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-12-08",
+          "magazine_date": "2022-12-09",
+          "title": "\"נהייתי טבעוני בגללה, ואז מתברר שבמילאנו היא אכלה הכל\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-f206-d28a-a396-f36782990000/7d/8f/7c8bfa094c04a8dafcbaaba5caca/77892.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-12-08/ty-article-magazine/.highlight/00000184-f243-d085-afc4-f3c374760000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-12-08",
+          "magazine_date": "2022-12-09",
+          "title": "צריך להצביע על שני ביטויים מרכזיים בתעשיית החרטוט: \"סגור\" ו\"על זה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-f243-d085-afc4-f3c374760000/45/00/cbb8ad0e4c4f9ab6826dbb5a4c82/50964.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-12-08/ty-article-magazine/.highlight/00000184-f1dc-d4c7-a786-fdff51920000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-12-08",
+          "magazine_date": "2022-12-09",
+          "title": "מרד ראשי הרשויות, קודם ניקח את הוד השרון, אחר כך את רמת השרון",
+          "og_image": "https://img.haarets.co.il/bs/00000184-f1dc-d4c7-a786-fdff51920000/bc/b2/5886a1164c95b74db6cdd553dcf2/mid-3.jpg?precrop=2001%2C1163%2Cx0%2Cy57&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2022-12-08/ty-article-magazine/.highlight/00000184-f202-d28a-a396-f363ab770000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2022-12-08",
+          "magazine_date": "2022-12-09",
+          "title": "\"כשאני אומר שאני גאון אני מתכוון לזה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-f1e4-d4c7-a786-fdf70aa90000/12/ba/e04ba86a46d78fc05f008416c961/600281.jpg?precrop=2400,1395,x0,y168&height=630&width=1200&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-12-08/ty-article-20q/.highlight/00000184-f1a1-d4c7-a786-fdf7adba0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-12-08",
+          "magazine_date": "2022-12-09",
+          "title": "התנ\"ך תורגם למספר הרב ביותר של שפות. איזה ספר במקום השני?",
+          "og_image": "https://img.haarets.co.il/bs/00000184-f1a1-d4c7-a786-fdf7adba0000/a1/d1/ecbf7b0a4139a230279170b28911/63825.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2022-12-07/ty-article-magazine/.highlight/00000184-ec9e-de70-add6-fd9f3f8c0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2022-12-07",
+          "magazine_date": "2022-12-09",
+          "title": "המאפייה התל אביבית החדשה של אחד האופים המרתקים ביותר בארץ",
+          "og_image": "https://img.haarets.co.il/bs/00000184-ec9e-de70-add6-fd9f3f8c0000/42/25/7511ac6e437a9844bcedf10fa4bf/84535.jpg?precrop=1715%2C997%2Cx0%2Cy81&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2022-12-08/ty-article-magazine/.premium/00000184-f16e-d085-afc4-f3ee286d0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2022-12-08",
+          "magazine_date": "2022-12-09",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 9.12.2022",
+          "og_image": "https://img.haarets.co.il/bs/00000184-f16e-d085-afc4-f3ee286d0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2022-12-08/ty-article/.premium/00000184-f167-dba5-adf4-f76fab500000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2022-12-08",
+          "magazine_date": "2022-12-09",
+          "title": "הפסד אכזרי",
+          "og_image": "https://img.haarets.co.il/bs/00000184-f167-dba5-adf4-f76fab500000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2022-12-08/ty-article/.premium/00000184-f1ec-dba5-adf4-f7ee368d0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2022-12-08",
+          "magazine_date": "2022-12-09",
+          "title": "מה זה צמוד קצר ו... יותר?",
+          "og_image": "https://img.haarets.co.il/bs/00000184-f1ec-dba5-adf4-f7ee368d0000/b3/57/ac2643eb473fafe3d950b50992e3/fam.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2022-12-08/ty-article/.premium/00000184-f1e1-d28a-a396-f1e3eebd0000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2022-12-08",
+          "magazine_date": "2022-12-09",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000184-f1e1-d28a-a396-f1e3eebd0000/10/48/b9f2a4a24b93aae662dec8d9c4f3/caro-promo.jpg?precrop=1772%2C1030%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-12-08/ty-article/.highlight/00000184-f22a-d085-afc4-f3aa56810000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-12-08",
+          "magazine_date": "2022-12-09",
+          "title": "תפסיקו להתייחס לכל הספקטרום האוטיסטי כמקשה אחת",
+          "og_image": "https://img.haarets.co.il/bs/00000184-f22a-d085-afc4-f3aa56810000/a7/d0/64ba05684acdb7cb99434185b0f6/726128.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

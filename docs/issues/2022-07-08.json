@@ -1,0 +1,323 @@
+{
+  "magazine_date": "2022-07-08",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/00000181-d400-d07e-af87-fdfa0fc60001/55/e7/d92595924a698893915e68b6de0e/frontpage.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2022-07-07/ty-article-magazine/.highlight/00000181-d3cc-d974-afbd-ffcea9280000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-07-05/ty-article-static/.highlight/00000181-ce5a-d982-abb3-eeff66630000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-07-05",
+          "magazine_date": "2022-07-08",
+          "title": "במעבדה אחת במכון ויצמן משוכנעים שגילו את הדרך לנצח את הסרטן",
+          "og_image": "https://img.haarets.co.il/img/1.9305160/1667996684.jpg?precrop=1263,545,x0,y0&height=630&width=1200",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-07-06/ty-article-magazine/.highlight/00000181-d381-dc24-a9e3-dff9ef070000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-07-06",
+          "magazine_date": "2022-07-08",
+          "title": "סין כבר לא מסתפקת במעקב אחר תושביה — ומתחילה לנטר את העתיד שלהם",
+          "og_image": "https://img.haarets.co.il/bs/00000181-d381-dc24-a9e3-dff9ef070000/b4/ac/c8747ab8486aae2d18a7c5b2910b/91432.jpg?precrop=2400%2C1395%2Cx0%2Cy349&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-07-06/ty-article-magazine/.highlight/00000181-d382-d07e-af87-fbfa3d0c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-07-06",
+          "magazine_date": "2022-07-08",
+          "title": "ביקור מוטרף בוודסטוק של עולם האוכל",
+          "og_image": "https://img.haarets.co.il/bs/00000181-d382-d07e-af87-fbfa3d0c0000/b5/41/1938829544f185c856baf37112d8/47649363.JPG?precrop=1080%2C628%2Cx0%2Cy118&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-07-06/ty-article-magazine/.highlight/00000181-d3aa-d07e-af87-fbfa3ad40000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-07-06",
+          "magazine_date": "2022-07-08",
+          "title": "הפרדה בבריכה וגם בגני הילדים: לאט אבל בטוח, מצפה רמון מתחרד\"לת",
+          "og_image": "https://img.haarets.co.il/bs/00000181-d3aa-d07e-af87-fbfa3ad40000/e9/6b/d45d2d0449dfb8b1c1e02307daf4/65140.jpg?precrop=2400%2C1395%2Cx0%2Cy205&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-07-06/ty-article/.highlight/00000181-d32f-d07e-af87-fbff6cca0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-07-06",
+          "magazine_date": "2022-07-08",
+          "title": "למה נתתם לצה\"ל להשתמש בילדים באשפוז לטובת יחסי ציבור? \"זה חשוב לילדים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000181-d32f-d07e-af87-fbff6cca0000/2f/89/87a3ace24aeebbc781a8b7d3e281/gontag12.jpg?precrop=913%2C531%2Cx48%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-07-07/ty-article-magazine/.highlight/00000181-d3cc-d974-afbd-ffcea9280000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-07-07",
+          "magazine_date": "2022-07-08",
+          "title": "הנאצים דרשו מאסירה לצייר באושוויץ. בפולין טוענים: הציורים של מנגלה",
+          "og_image": "https://img.haarets.co.il/bs/00000181-d3cc-d974-afbd-ffcea9280000/a8/14/004f428f4ebf8e02b1002fc0ee78/babit2.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-07-07/ty-article/.premium/00000181-d805-d740-af99-ff4759980000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-07-07",
+          "magazine_date": "2022-07-08",
+          "title": "האם ייתכן שפיוס יהודי־ערבי יגיע בעזרת שירה משותפת?",
+          "og_image": "https://img.haarets.co.il/bs/00000181-d805-d740-af99-ff4759980000/c6/a9/1e138686450eb08dac756a6669c3/47630776.JPG?precrop=999%2C581%2Cx339%2Cy388&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-07-07/ty-article/.highlight/00000181-d807-d9a3-a3e1-fdbf94560000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-07-07",
+          "magazine_date": "2022-07-08",
+          "title": "מה הזכיר לי מצעד הגאווה במצפה רמון",
+          "og_image": "https://gif.haarets.co.il/bs/00000181-d807-d9a3-a3e1-fdbf94560000/7e/46/01e203ee403283aa3d739926fdf1/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-07-06/ty-article-magazine/.highlight/00000181-d344-dc24-a9e3-dffc7d060000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-07-06",
+          "magazine_date": "2022-07-08",
+          "title": "רחובות עם עצים הם רחובות טובים יותר. אז מדוע אנו ממשיכים לכרות אותם?",
+          "og_image": "https://img.haarets.co.il/bs/00000181-d344-dc24-a9e3-dffc7d060000/b7/f3/05e95ddd44c5b24065dc4821e0d8/558617.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-07-07/ty-article-magazine/.highlight/00000181-d78f-dc24-a9e3-dfff0ce80000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-07-07",
+          "magazine_date": "2022-07-08",
+          "title": "מזרח אירופה מתקרבת למערב, ויש לכך השלכות דרמטיות",
+          "og_image": "https://img.haarets.co.il/bs/00000181-d78f-dc24-a9e3-dfff0ce80000/47/7e/b6413024495a8d184cd22c2ce41d/47633382.JPG?precrop=1991%2C1158%2Cx0%2Cy50&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-07-08/ty-article-magazine/.highlight/00000181-d2b4-df27-a7b7-dafe60860000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-07-08",
+          "magazine_date": "2022-07-08",
+          "title": "עשרות שנים שמרו בקיבוץ על הסוד: 80 לוחמי קומנדו קבורים מתחת לאדמותיו",
+          "og_image": "https://img.haarets.co.il/bs/00000181-d2b4-df27-a7b7-dafe60860000/8a/59/6c8fc22d48988f391faf85a46747/4.jpg?precrop=1080%2C628%2Cx0%2Cy273&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2022-07-06/ty-article/00000181-d33e-dc50-a99f-d7bf9ef70000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2022-07-06",
+          "magazine_date": "2022-07-08",
+          "title": "יהודים התווכחו מתי לשתות את המשקה הזה, וגם איך לקרוא לו",
+          "og_image": "https://img.haarets.co.il/bs/00000181-d33e-dc50-a99f-d7bf9ef70000/f5/9c/eb362e8a48378ebdb36fbca8f561/47629251.JPG?precrop=2992%2C1740%2Cx0%2Cy121&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-07-06/ty-article/.highlight/00000181-d334-dc24-a9e3-dffce7ec0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-07-06",
+          "magazine_date": "2022-07-08",
+          "title": "לפיד תמיד היה בעל טור. המחויבות הזאת עיצבה גם את דרכו כפוליטיקאי",
+          "og_image": "https://img.haarets.co.il/bs/00000181-d334-dc24-a9e3-dffce7ec0000/e2/7f/e48a39ee4b666843da6013830218/290464260.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-07-06/ty-article-face/.highlight/00000181-c790-d7aa-adf5-efdf8fad0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-07-06",
+          "magazine_date": "2022-07-08",
+          "title": "\"לפני שנים הגעתי לפעוטון, ונחרדתי שאני לא מצליחה לזהות את הנכדה שלי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000181-c790-d7aa-adf5-efdf8fad0000/36/0a/74b883ec4a55a5e1f8a5ed83686a/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-07-06/ty-article-magazine/.highlight/00000181-d3e8-dc24-a9e3-dff85e660000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-07-06",
+          "magazine_date": "2022-07-08",
+          "title": "\"לרגע הרגשתי כמו אינדיאנה ג'ונס\"",
+          "og_image": "https://img.haarets.co.il/bs/00000181-d3e8-dc24-a9e3-dff85e660000/bb/6a/4b6486704fe4ae17332b5d42d1f0/47649378.JPG?precrop=8192%2C4763%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-07-06/ty-article-magazine/.highlight/00000181-d3f3-d974-afbd-fff380c50000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-07-06",
+          "magazine_date": "2022-07-08",
+          "title": "\"החדשות\" הן אמצעי אסקפיסטי משוכלל. הרבה יותר משוכלל מנטפליקס",
+          "og_image": "https://img.haarets.co.il/bs/00000181-d3f3-d974-afbd-fff380c50000/10/62/00c91dee42f6bf38eb45480831e3/67140.jpg?precrop=2200%2C1280%2Cx0%2Cy43&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-07-07/ty-article-magazine/.highlight/00000181-d7fb-d9a3-a3e1-f7fbd2a90000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-07-07",
+          "magazine_date": "2022-07-08",
+          "title": "הדס קליין מעידה. פתחו את השמפניות!",
+          "og_image": "https://img.haarets.co.il/bs/00000181-d7fb-d9a3-a3e1-f7fbd2a90000/95/66/b4a426734957acf407eddf865252/mid-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2022-07-04/ty-article-magazine/.premium/00000181-c792-d4ab-a989-efdee0930000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2022-07-04",
+          "magazine_date": "2022-07-08",
+          "title": "\"בימי פרשת הקטינות חיזקתי אותו, כמו שחבר צריך להתנהג\"",
+          "og_image": "https://img.haarets.co.il/bs/00000181-d4c3-d974-afbd-fdc321790000/9d/b2/a405dcb548249de04468c5e847a4/594216.jpg?height=630&width=1200&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-07-06/ty-article-20q/.highlight/00000181-c785-d4ab-a989-efcf4e380000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-07-06",
+          "magazine_date": "2022-07-08",
+          "title": "מה המאכל האהוב על אילבן בסדרה \"דברים מוזרים\"?",
+          "og_image": "https://img.haarets.co.il/bs/00000181-c785-d4ab-a989-efcf4e380000/96/b1/148f22ca478e893466b20bfc0cca/729832.jpg?precrop=1892%2C1100%2Cx308%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2022-07-06/ty-article-magazine/.highlight/00000181-d376-dc24-a9e3-dffe41170000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2022-07-06",
+          "magazine_date": "2022-07-08",
+          "title": "אחרי שנתיים, חוזרים למשתה התענוגות של האנשים שהמציאו את \"מאף ועד זנב\"",
+          "og_image": "https://img.haarets.co.il/bs/00000181-d376-dc24-a9e3-dffe41170000/78/e9/3255d3eb4bbc838ce613876a8a6c/47657147.JPG?precrop=3725%2C2166%2Cx0%2Cy1941&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2022-07-07/ty-article-magazine/.premium/00000181-d7f1-dcfd-a7fb-f7fbb3090000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2022-07-07",
+          "magazine_date": "2022-07-08",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 8.7.2022",
+          "og_image": "https://img.haarets.co.il/bs/00000181-d7f1-dcfd-a7fb-f7fbb3090000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2022-07-07/ty-article/.premium/00000181-d7e5-dcfd-a7fb-f7ffc9db0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2022-07-07",
+          "magazine_date": "2022-07-08",
+          "title": "קהילה מרחפת מעל כדור הארץ",
+          "og_image": "https://img.haarets.co.il/bs/00000181-d7e5-dcfd-a7fb-f7ffc9db0000/30/2d/cc16be1b488a8e4fc33ec0114dcc/fam.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-07-05/ty-article/.premium/00000181-cdfe-ddde-a1a3-fffed6750000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-07-05",
+          "magazine_date": "2022-07-08",
+          "title": "\"טולטלנו לרוחב הגלים\": בגיל 96 \"פרא\" נפרד מהים",
+          "og_image": "https://img.haarets.co.il/bs/00000181-cdfe-ddde-a1a3-fffed6750000/66/9e/ffc0da2d4f7ebf4a3906fece2139/fabio.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-07-06/ty-article/.highlight/00000181-d40f-dc24-a9e3-ddff49610000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-07-06",
+          "magazine_date": "2022-07-08",
+          "title": "הטלתי ספק בבינה המלאכותית. טעיתי",
+          "og_image": "https://gif.haarets.co.il/bs/00000181-d40f-dc24-a9e3-ddff49610000/2f/e7/25f59ce54af1a5019ffb8413ddd2/ai-conversation-homepage.gif?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

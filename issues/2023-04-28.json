@@ -1,0 +1,318 @@
+{
+  "magazine_date": "2023-04-28",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/00000187-bd7f-d1ac-a987-ff7f59e70000/d9/57/46259c00422cb14a57ec4db8289d/frontpage.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2023-04-27/ty-article-magazine/.highlight/00000187-b362-d3b7-abcf-b3664d030000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-04-25/ty-article/.highlight/00000187-b824-db22-a197-bf777d760000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-04-25",
+          "magazine_date": "2023-04-28",
+          "title": "קשה מאוד להיפרד ממאיר שלו ויהונתן גפן",
+          "og_image": "https://gif.haarets.co.il/bs/00000187-b824-db22-a197-bf777d760000/b1/0d/0a76d799480f91e2fe0ce329dc8e/nerime.gif?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-04-27/ty-article-magazine/.highlight/00000187-b35c-d3b7-abcf-b35cb6ac0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-04-27",
+          "magazine_date": "2023-04-28",
+          "title": "ישראל שיחדה במשך שנים בכירים בליבריה כדי לזכות בתמיכתם באו\"ם. חשיפה",
+          "og_image": "https://img.haarets.co.il/bs/00000187-b35c-d3b7-abcf-b35cb6ac0000/2f/9d/24736b184d17abd9deb91bf50720/51575037.JPG?precrop=3072%2C1786%2Cx0%2Cy134&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-04-27/ty-article-magazine/.highlight/00000187-b35c-d3b7-abcf-b35ceeb20000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-04-27",
+          "magazine_date": "2023-04-28",
+          "title": "\"אחרי שראיתי את הרע שבאנושות, בחרתי להתמקד בטוב שלה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000187-b35c-d3b7-abcf-b35ceeb20000/68/a2/ebbdfd9f4f78b3182b388fb5359f/51617392.JPG?precrop=895%2C520%2Cx0%2Cy154&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-04-27/ty-article-magazine/.highlight/00000187-b35c-d803-ad8f-ff5dbf280000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-04-27",
+          "magazine_date": "2023-04-28",
+          "title": "תצלומים נדירים מעידים על הפסטורליה שקדמה למרחץ הדמים על האלטלנה",
+          "og_image": "https://img.haarets.co.il/bs/00000187-b35c-d803-ad8f-ff5dbf280000/52/91/30a486fe4b86bea176605a83d5ee/51575034.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-04-27/ty-article-magazine/.highlight/00000187-b362-d3b7-abcf-b3664d030000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-04-27",
+          "magazine_date": "2023-04-28",
+          "title": "פדרציה, קנטונים, אוטונומיות: פתאום כולם מדברים על חלוקת הארץ",
+          "og_image": "https://img.haarets.co.il/bs/00000187-b362-d3b7-abcf-b3664d030000/b4/20/6cd297654a90b09dbe3c8daa7f80/kantonim-shituf.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-04-27/ty-article/.highlight/00000187-b833-d3b7-abcf-b977941f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-04-27",
+          "magazine_date": "2023-04-28",
+          "title": "עושה רושם שהימין כבר מצא את השופט שלו",
+          "og_image": "https://img.haarets.co.il/bs/00000187-b833-d3b7-abcf-b977941f0000/59/f2/9f7ebda9459aa7fe0c8b24722421/51618672.JPG?precrop=3960%2C2302%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-04-27/ty-article/.highlight/00000187-bcc6-d8af-a187-fde7b4ab0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-04-27",
+          "magazine_date": "2023-04-28",
+          "title": "כשר לשעבר, נוח לך לכהן בדירקטוריון בחברה של אסיר לשעבר? \"בהחלט\"",
+          "og_image": "https://img.haarets.co.il/bs/00000187-bcc6-d8af-a187-fde7b4ab0000/27/e4/c9106d101c868f6f1834d20b9369/3514033661.jpg?precrop=1350%2C785%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-04-25/ty-article/.highlight/00000187-b22a-d803-ad8f-fe7b488d0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-04-25",
+          "magazine_date": "2023-04-28",
+          "title": "בוקר אחד הופתעתי לגלות: מתברר שאני צאצא של רש\"י",
+          "og_image": "https://img.haarets.co.il/bs/00000187-b22a-d803-ad8f-fe7b488d0000/e4/44/9443c2c04163b5c374b839450176/51610575.JPG?precrop=1117%2C649%2Cx0%2Cy167&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-04-25/ty-article/.highlight/00000187-b240-d803-ad8f-fe51275a0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-04-25",
+          "magazine_date": "2023-04-28",
+          "title": "הדרמה לא מרפה. גם בתוך הבית אי אפשר לברוח מהממשלה שלנו",
+          "og_image": "https://img.haarets.co.il/bs/00000187-b240-d803-ad8f-fe51275a0000/4e/1a/5c699fc941729b7e1d9b0ce5da1d/20402.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2023-04-25/ty-article/.highlight/00000187-b26d-d803-ad8f-fe7d54690000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2023-04-25",
+          "magazine_date": "2023-04-28",
+          "title": "״מטבח ישראלי״? בואו נודה בזה: המסעדות כאן מביכות",
+          "og_image": "https://img.haarets.co.il/bs/00000187-b26d-d803-ad8f-fe7d54690000/9d/dc/bed20e2843ceadcf65fcf480d2f1/51607835.JPG?precrop=5472%2C3181%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2023-04-27/ty-article-face/.highlight/00000187-bd85-d1ac-a987-ffad97a30000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2023-04-27",
+          "magazine_date": "2023-04-28",
+          "title": "\"שנים לא נגעתי בג'אנק פוד ולא חרגתי מהתפריט שעל המקרר\"",
+          "og_image": "https://img.haarets.co.il/bs/00000187-bd85-d1ac-a987-ffad97a30000/ca/49/fd0c33c54f6d9c1bd27b48aedf25/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2023-04-27/ty-article-magazine/.highlight/00000187-b398-d803-ad8f-ffd942980000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2023-04-27",
+          "magazine_date": "2023-04-28",
+          "title": "\"טיילנו במצרים ויצא שהגענו לירושלים. חלק הלכנו ברגל\"",
+          "og_image": "https://img.haarets.co.il/bs/00000187-b398-d803-ad8f-ffd942980000/64/c8/777642aa499cba8ae065b919f559/51609025.JPG?precrop=8192%2C4763%2Cx0%2Cy301&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2023-04-27/ty-article/.highlight/00000187-b3a2-d803-ad8f-fff3ab9d0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2023-04-27",
+          "magazine_date": "2023-04-28",
+          "title": "פרויקט מיוחד לאחרי החגים — גוטליביזיון!",
+          "og_image": "https://img.haarets.co.il/bs/00000187-b3a2-d803-ad8f-fff3ab9d0000/e5/9f/6055b9a84fc4be246bc0a1e239f1/51620802.JPG?precrop=4822%2C2802%2Cx374%2Cy386&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2023-04-27/ty-article-magazine/.highlight/00000187-c18f-d1ac-a987-cbafaf720000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2023-04-27",
+          "magazine_date": "2023-04-28",
+          "title": "75. שנזכה לשנה הבאה",
+          "og_image": "https://img.haarets.co.il/bs/00000187-c18f-d1ac-a987-cbafaf720000/0e/57/91eb3181435285527f70cbc1adc2/koteret.jpg?precrop=2000%2C1163%2Cx0%2Cy272&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2023-04-27/ty-article-magazine/.highlight/00000187-bd8c-d0b0-a5b7-bd8eb4610000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2023-04-27",
+          "magazine_date": "2023-04-28",
+          "title": "\"למשפחות יש את כל השנה, לנו יש יום אחד\"",
+          "og_image": "https://img.haarets.co.il/bs/00000187-bda4-d1ac-a987-ffac993e0000/f0/24/f57e17fa47189681ecb3185fa709/12820.jpg?height=630&width=1200&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2023-04-27/ty-article-20q/.highlight/00000187-bd71-d0b0-a5b7-bdff7ff10000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2023-04-27",
+          "magazine_date": "2023-04-28",
+          "title": "בעקבות מה כתב יהונתן גפן את השיר \"יהיה טוב\"?",
+          "og_image": "https://img.haarets.co.il/bs/00000187-bd71-d0b0-a5b7-bdff7ff10000/d5/3f/2ac1c5a14bfc9fece91d972cff4a/885234.jpg?precrop=1832%2C1065%2Cx137%2Cy121&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2023-04-25/ty-article-magazine/.highlight/00000187-b253-d803-ad8f-fe53a9600000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2023-04-25",
+          "magazine_date": "2023-04-28",
+          "title": "אם היה אי פעם מתכון לגזור ולשמור, זהו המתכון לימי השסק הקצרצרים",
+          "og_image": "https://img.haarets.co.il/bs/00000187-b253-d803-ad8f-fe53a9600000/08/5e/0d601c4f4916ad1905a55104bb2b/82549.jpg?precrop=1715%2C997%2Cx0%2Cy696&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2023-04-27/ty-article-magazine/.premium/00000187-c196-d0b0-a5b7-d59eb2a80000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2023-04-27",
+          "magazine_date": "2023-04-28",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 28.4.2023",
+          "og_image": "https://img.haarets.co.il/bs/00000187-c196-d0b0-a5b7-d59eb2a80000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2023-04-27/ty-article/.premium/00000187-c185-d0b0-a5b7-d58f4a4f0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2023-04-27",
+          "magazine_date": "2023-04-28",
+          "title": "לקראת הכרעה",
+          "og_image": "https://img.haarets.co.il/bs/00000187-c185-d0b0-a5b7-d58f4a4f0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2023-04-27/ty-article/.premium/00000187-c18a-d1ac-a987-cbaabfaf0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2023-04-27",
+          "magazine_date": "2023-04-28",
+          "title": "כבו אותה כבר!",
+          "og_image": "https://img.haarets.co.il/bs/00000187-c18a-d1ac-a987-cbaabfaf0000/0c/ad/8d2acb8640d888beaa86812303c0/meforsamot.jpg?precrop=1250%2C727%2Cx0%2Cy1764&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2023-04-27/ty-article/.premium/00000187-c19c-d1ac-a987-cbbc73090000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2023-04-27",
+          "magazine_date": "2023-04-28",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000187-c19c-d1ac-a987-cbbc73090000/63/bc/89bc12be44a79d03890083751598/yeshivat-memshala-carolina.jpg?precrop=2000%2C1163%2Cx0%2Cy170&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2023-04-27/ty-article/.premium/00000187-c193-d1ac-a987-cbbbf97a0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2023-04-27",
+          "magazine_date": "2023-04-28",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000187-c193-d1ac-a987-cbbbf97a0000/f6/21/8bf4426143a0b7e1c67aaf6fea39/ribooa-musaf-518.jpg?precrop=1083%2C630%2Cx0%2Cy414&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2023-04-27/ty-article/.highlight/00000187-b3a2-d803-ad8f-fff3a7cb0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2023-04-27",
+          "magazine_date": "2023-04-28",
+          "title": "מה שחסר פה זו ביקורת עצמית. זה לב העניין",
+          "og_image": "https://img.haarets.co.il/bs/00000187-b3a2-d803-ad8f-fff3a7cb0000/dc/30/6fc8e3214781abaf680cecfd8526/46053.jpg?precrop=1803%2C1048%2Cx0%2Cy1063&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

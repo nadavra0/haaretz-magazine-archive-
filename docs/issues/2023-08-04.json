@@ -1,0 +1,318 @@
+{
+  "magazine_date": "2023-08-04",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/00000189-b6dc-db5d-a5fd-b6fdd2050001/64/a1/af078ba24b7f9345d4932c0651d4/frontpgae.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2023-08-03/ty-article-magazine/.highlight/00000189-b5b7-ddac-a3cd-b5f789f90000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-08-02/ty-article-magazine/.highlight/00000189-b5b3-d20c-addf-f7b360b80000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-08-02",
+          "magazine_date": "2023-08-04",
+          "title": "בפארק המים החדש באילת גיליתי את מהות החיים",
+          "og_image": "https://img.haarets.co.il/bs/00000189-b5b3-d20c-addf-f7b360b80000/11/98/a617e6d34c2199cec108ff2fcef9/37429-2.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-08-02/ty-article-magazine/.highlight/00000189-b5b4-d2ad-afb9-bfb504230000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-08-02",
+          "magazine_date": "2023-08-04",
+          "title": "מתברר שלתאריך יום ההולדת שלנו עשויה להיות השפעה דרמטית לאורך החיים",
+          "og_image": "https://img.haarets.co.il/bs/00000189-b5b4-d2ad-afb9-bfb504230000/19/4d/c84540ee02a10ffeb8f6c37f29ab/4170632612.jpg?precrop=1849%2C1075%2Cx0%2Cy632&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-08-02/ty-article-magazine/.highlight/00000189-b5b4-db5d-a5fd-b7bda5fc0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-08-02",
+          "magazine_date": "2023-08-04",
+          "title": "48 מעלות בחוץ והמדרכה גורמת לכוויות. אני באמת בפיניקס או שאני בגיהנום?",
+          "og_image": "https://img.haarets.co.il/bs/00000189-b5b4-db5d-a5fd-b7bda5fc0000/bb/47/990e8119426da195790bb8411619/34310.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-08-02/ty-article-magazine/.highlight/00000189-b5b5-d20c-addf-f7b775f50000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-08-02",
+          "magazine_date": "2023-08-04",
+          "title": "בחסות ההפיכה, תרחיש של ירי טילים מלבנון, עזה ואיראן הופך לאפשרות ממשית",
+          "og_image": "https://img.haarets.co.il/bs/00000189-b5b5-d20c-addf-f7b775f50000/10/88/d8f53c344f4182efb62395903913/gilady.jpg?precrop=1900%2C1104%2Cx60%2Cy88&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-08-02/ty-article/.highlight/00000189-b652-d2ad-afb9-bf53a6f20000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-08-02",
+          "magazine_date": "2023-08-04",
+          "title": "אני והמדינה בתחרות מוזרה. מי ישתנה יותר מהר",
+          "og_image": "https://gif.haarets.co.il/bs/00000189-b652-d2ad-afb9-bf53a6f20000/1d/39/bde9df174621917c5bf300c989d8/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-08-03/ty-article-magazine/.highlight/00000189-b5b7-ddac-a3cd-b5f789f90000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-08-03",
+          "magazine_date": "2023-08-04",
+          "title": "החרדים מבינים שעשו טעות היסטורית, והם אחוזי אימה מתגובת הנגד החילונית",
+          "og_image": "https://img.haarets.co.il/bs/00000189-b5b7-ddac-a3cd-b5f789f90000/e0/f4/6d477d2e40bab1c1f2f416a0bf9b/55355.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-08-03/ty-article/.highlight/00000189-b611-d20c-addf-f69365f10000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-08-03",
+          "magazine_date": "2023-08-04",
+          "title": "את לא מתביישת להבדיל בין אונס לאונס לאומני? \"אתה לא מבין את החוק\"",
+          "og_image": "https://img.haarets.co.il/bs/00000189-b611-d20c-addf-f69365f10000/69/bc/4717bc38a854f82584eee0f474ae/2878967145.jpg?precrop=2048%2C1191%2Cx0%2Cy26&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-08-03/ty-article-magazine/.highlight/00000189-b5c8-d20c-addf-f7ca2f180000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-08-03",
+          "magazine_date": "2023-08-04",
+          "title": "האולפנים התאהבו ברייטינג, והפכו את בן גביר לכוכב",
+          "og_image": "https://img.haarets.co.il/bs/00000189-b5c8-d20c-addf-f7ca2f180000/50/ec/1e9d9c4348e89a613c24406e8016/screen-shot-2023-08-03-at-11-27-03.png?precrop=1135%2C660%2Cx64%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-08-03/ty-article/.highlight/00000189-b5b0-d2ad-afb9-bfb1474f0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-08-03",
+          "magazine_date": "2023-08-04",
+          "title": "בזמן שיהודים הושמדו, המשטרה הנאצית הדגישה: ״יש להגן על בעלי החיים״",
+          "og_image": "https://img.haarets.co.il/bs/00000189-b5b0-d2ad-afb9-bfb1474f0000/2f/89/f122d9d14214be01a4cca5c5cb82/52862293.JPG?precrop=2226%2C1295%2Cx133%2Cy315&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2023-08-03/ty-article/.highlight/00000189-b5b6-db5d-a5fd-b7bf1d120000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2023-08-03",
+          "magazine_date": "2023-08-04",
+          "title": "לנתניהו יש חזון רכבת מגלומני, והנזק לסביבה יהיה בלתי הפיך",
+          "og_image": "https://img.haarets.co.il/bs/00000189-b5b6-db5d-a5fd-b7bf1d120000/3e/6e/663fe5a24a17916b0ab88b5303e1/52950067.JPG?precrop=3960%2C2302%2Cx0%2Cy57&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2023-08-02/ty-article-face/.highlight/00000189-b6ea-ddac-a3cd-b7fb28290000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2023-08-02",
+          "magazine_date": "2023-08-04",
+          "title": "\"העצמאות היא הביטחון שלי, כשאני סולו אני לא יכולה להאשים אחרים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000189-b6ea-ddac-a3cd-b7fb28290000/a2/af/9e16ac614ab19f47039f21a27487/facetemplate1800x1200-1-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2023-08-02/ty-article-magazine/.highlight/00000189-b620-ddac-a3cd-b77138f90000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2023-08-02",
+          "magazine_date": "2023-08-04",
+          "title": "\"הייתי נוגעת בעצמי ואז פונה לאלוהים: בבקשה אל תעשה לי כלום, אני אפסיק\"",
+          "og_image": "https://img.haarets.co.il/bs/00000189-b620-ddac-a3cd-b77138f90000/c3/fb/0b2ba61e4575bb9480d6b7dad7c7/52936353.JPG?precrop=7245%2C4212%2Cx0%2Cy476&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2023-08-02/ty-article/.highlight/00000189-b676-d20c-addf-f6f6ca600000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2023-08-02",
+          "magazine_date": "2023-08-04",
+          "title": "שיהיה יום טוב ופורה, יא חתיכת שרמוטה ❤️",
+          "og_image": "https://img.haarets.co.il/bs/00000189-b676-d20c-addf-f6f6ca600000/49/dc/ea6f0e6749febb1d911ec455b2a7/greenberg2.jpg?precrop=645%2C375%2Cx26%2Cy35&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2023-08-03/ty-article-magazine/.highlight/00000189-ba57-d9f3-a1cd-bfdff3820000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2023-08-03",
+          "magazine_date": "2023-08-04",
+          "title": "ה\"מרד\" בליכוד. פירסינג בפופיק או שזה לא קרה",
+          "og_image": "https://img.haarets.co.il/bs/00000189-ba57-d9f3-a1cd-bfdff3820000/1e/80/81ce36e44a8fa565082fde582308/koteret.jpg?precrop=2000%2C1163%2Cx0%2Cy284&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2023-08-02/ty-article-magazine/.highlight/00000189-b6ef-db5d-a5fd-b6ef73b20000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2023-08-02",
+          "magazine_date": "2023-08-04",
+          "title": "\"אני שמח שאני קול שפוי בין קולות שפויים נוספים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000189-b700-d8b6-a9e9-bf24bb8f0000/57/c6/1862aa08469980a2a4cff28d678e/793846.jpg?height=630&width=1200&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2023-08-02/ty-article-20q/.highlight/00000189-ac6d-d86a-a1fb-af6f555d0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2023-08-02",
+          "magazine_date": "2023-08-04",
+          "title": "מי מחברי להקת הביטלס אינו מנגן בשירים \"אלינור ריגבי\" ו\"She's Leaving Home\"?",
+          "og_image": "https://img.haarets.co.il/bs/00000189-ac6d-d86a-a1fb-af6f555d0000/ef/2c/faba9148454ea2dd8ef30a954810/052693-04150.jpg?precrop=1896%2C1103%2Cx0%2Cy204&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2023-08-03/ty-article-magazine/.highlight/00000189-b5bd-d20c-addf-f7bf594e0001",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2023-08-03",
+          "magazine_date": "2023-08-04",
+          "title": "\"אין לנו ברירה אלא להמשיך ליצור יופי, אחרת נשתגע\"",
+          "og_image": "https://img.haarets.co.il/bs/00000189-b5bd-d20c-addf-f7bf594e0001/41/44/c6ff45f74725b1388953b39ac409/1.jpg?precrop=2000%2C1163%2Cx0%2Cy78&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2023-08-03/ty-article-magazine/.premium/00000189-ba4e-d821-afdd-bb6ec8d80000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2023-08-03",
+          "magazine_date": "2023-08-04",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 4.8.2023",
+          "og_image": "https://img.haarets.co.il/bs/00000189-ba4e-d821-afdd-bb6ec8d80000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2023-08-03/ty-article/.premium/00000189-ba47-d9f3-a1cd-bfdfa04c0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2023-08-03",
+          "magazine_date": "2023-08-04",
+          "title": "נפתח גביע העולם",
+          "og_image": "https://img.haarets.co.il/bs/00000189-ba47-d9f3-a1cd-bfdfa04c0000/fa/06/14afb9cbc4577d71f9278dfa27cb/1307961023.jpg?precrop=2041%2C1186%2Cx7%2Cy52&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2023-08-03/ty-article/.premium/00000189-ba53-ddac-a3cd-bf73a79e0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2023-08-03",
+          "magazine_date": "2023-08-04",
+          "title": "ליהודים החופשיים נמאס",
+          "og_image": "https://img.haarets.co.il/bs/00000189-ba53-ddac-a3cd-bf73a79e0000/4e/d6/b1b8529245ce8ad9562cad4255de/meforsamot.jpg?precrop=1250%2C727%2Cx0%2Cy1490&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2023-08-03/ty-article/00000189-bcf9-d821-afdd-bffdb6d60000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2023-08-03",
+          "magazine_date": "2023-08-04",
+          "title": "\"התנועה לשחרור האשה אינה מעוניינת לשרוף חזיות, אלא בחברה צודקת\"",
+          "og_image": "https://img.haarets.co.il/bs/00000189-bcf9-d821-afdd-bffdb6d60000/6f/16/8a6238018fa57234c79980a4cbf2/3887640794.jpg?precrop=1365%2C797%2Cx0%2Cy415&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2023-08-03/ty-article/.premium/00000189-ba56-d9f3-a1cd-bfdf06c30000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2023-08-03",
+          "magazine_date": "2023-08-04",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000189-ba56-d9f3-a1cd-bfdf06c30000/e6/6e/4afbb6fd4c0abd77f309533315b8/ribooa-musaf-532.jpg?precrop=1083%2C630%2Cx0%2Cy140&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2023-08-02/ty-article/.highlight/00000189-b68d-d524-a5a9-f7efd1170000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2023-08-02",
+          "magazine_date": "2023-08-04",
+          "title": "אם אי־אפשר לחיות יחד, פשוט נקים את ישראל הווירטואלית",
+          "og_image": "https://img.haarets.co.il/bs/00000189-b68d-d524-a5a9-f7efd1170000/5b/f4/a6bb41f64abe9078b4261b90a768/52861001.JPG?precrop=8192%2C4763%2Cx0%2Cy233&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

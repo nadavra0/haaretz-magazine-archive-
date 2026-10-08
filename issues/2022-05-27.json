@@ -1,0 +1,303 @@
+{
+  "magazine_date": "2022-05-27",
+  "total_articles": 22,
+  "cover_image": "https://img.haarets.co.il/bs/00000180-ff29-d443-afae-ffff7db20000/ca/7d/39e02ca1aeb845f30088e9fa204b/2089064069.jpg?&width=1500&height=1979&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2022-05-26/ty-article-magazine/.highlight/00000180-ff29-d443-afae-ffff85840000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-05-25/ty-article-magazine/.highlight/00000180-fafc-d10e-adec-fffd4cfa0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-05-25",
+          "magazine_date": "2022-05-27",
+          "title": "היא כתבה את המדריך \"איך לרצוח את בעלך\". ואז בעלה נרצח",
+          "og_image": "https://img.haarets.co.il/bs/00000180-fafc-d10e-adec-fffd4cfa0000/36/c8/74a13f352fd7720c8e8976fe6179/532482232.jpg?precrop=1641%2C956%2Cx0%2Cy10&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-05-26/ty-article-magazine/.highlight/00000180-ff29-d1e6-afbb-ff7984010000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-05-26",
+          "magazine_date": "2022-05-27",
+          "title": "תחת מעטה סודיות, בעמק בית שאן מגדלים צבא של עכבישים טורפים",
+          "og_image": "https://img.haarets.co.il/bs/00000180-ff29-d1e6-afbb-ff7984010000/ca/2b/65e931ac290a4f4d1d83fe1d74af/955110554.jpg?precrop=2048%2C1191%2Cx0%2Cy97&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-05-26/ty-article-magazine/.highlight/00000180-ff29-d443-afae-ffff85840000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-05-26",
+          "magazine_date": "2022-05-27",
+          "title": "מתברר שחשיפה לשמש תורמת לנו בדרכים שלא היינו מעלים על הדעת",
+          "og_image": "https://img.haarets.co.il/bs/00000180-ff29-d443-afae-ffff85840000/c3/32/f807845c8be982dfe778ee940056/3002559384.jpg?precrop=2048%2C1189%2Cx0%2Cy47&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-05-26/ty-article-magazine/.highlight/00000180-ff2a-d1e6-afbb-ff7b12430000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-05-26",
+          "magazine_date": "2022-05-27",
+          "title": "בית\"ר ירושלים, שמאלנים מימים ימימה: הצד המפתיע של תולדות הכדורגל בארץ",
+          "og_image": "https://img.haarets.co.il/bs/00000180-ff2a-d1e6-afbb-ff7b12430000/28/95/1ed1bab74e8a01fe1823174e82a0/2651527531.jpg?precrop=2200%2C1279%2Cx0%2Cy71&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-05-26/ty-article/.premium/00000180-ffaf-d90e-af90-ffaf46a70000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-05-26",
+          "magazine_date": "2022-05-27",
+          "title": "טירללת מדינה שלמה, את צריכה להשיב לשאלות. \"אתה צודק, אבל אני מנתקת\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-ffaf-d90e-af90-ffaf46a70000/09/82/284f7e1b34651efb6130bcb63ba9/2150190812.jpg?precrop=2140%2C1242%2Cx40%2Cy4&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-05-27/ty-article/00000181-0420-d090-abe1-e53d85c10000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-05-27",
+          "magazine_date": "2022-05-27",
+          "title": "אם להאמין למחקרים על הגורמים שמאריכים חיים, אני כנראה אחיה לנצח",
+          "og_image": "https://gif.haarets.co.il/bs/00000181-0420-d090-abe1-e53d85c10000/b1/3d/dd8b6c554b8a9382c8c205d946a9/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-05-25/ty-article/.highlight/00000180-fafc-d10e-adec-fffd9b140000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-05-25",
+          "magazine_date": "2022-05-27",
+          "title": "דווקא כשהמציאות נעשתה חשאית ומוזרה יותר, העיתונאים נעלמו מהשטח",
+          "og_image": "https://img.haarets.co.il/bs/00000180-fafc-d10e-adec-fffd9b140000/26/36/5e9505b648c3065203190d27aa8e/3207621067.jpg?precrop=2196%2C1276%2Cx4%2Cy32&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-05-25/ty-article/.highlight/00000180-fafc-dda4-adf0-fffce03c0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-05-25",
+          "magazine_date": "2022-05-27",
+          "title": "50 שנה אחרי הטבח בלוד, מנהיגת המחבלים משתחררת ממאסר",
+          "og_image": "https://img.haarets.co.il/bs/00000180-fafc-dda4-adf0-fffce03c0000/6b/1b/c5a1be5e133bd110fb717ddb5a08/4159814575.jpg?precrop=2025%2C1178%2Cx23%2Cy4&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-05-25/ty-article/.highlight/00000180-fafc-d10e-adec-fffd60b10000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-05-25",
+          "magazine_date": "2022-05-27",
+          "title": "האלגוריתם הזה מסוגל ליצור אמנות שומטת־לסת, אבל יש לו חיסרון משמעותי",
+          "og_image": "https://img.haarets.co.il/bs/00000180-fafc-d10e-adec-fffd60b10000/38/0e/d4ed7de10c36d5b3c0d7d7d25f76/2453519507.jpg?precrop=1016%2C590%2Cx0%2Cy213&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-05-24/ty-article-face/.highlight/00000180-f606-d469-a5b4-f6bf39170000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-05-24",
+          "magazine_date": "2022-05-27",
+          "title": "\"אני לא הולכת עם פזור - אני מרגישה חסרת כריזמה ולא מסודרת\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-f606-d469-a5b4-f6bf39170000/41/5e/f91eb4544d19976998dfb0a19859/61304.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-05-25/ty-article-magazine/.highlight/00000180-fafc-d10e-adec-fffda2d20000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-05-25",
+          "magazine_date": "2022-05-27",
+          "title": "\"ניסינו להעפיל לאחת הפסגות הגבוהות בעולם בלי חמצן ובלי עזרה. זו האתיקה שלנו\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-fafc-d10e-adec-fffda2d20000/35/d3/0d62c5e9dbd03e26c12d3adab9b5/2015994030.jpg?precrop=2048%2C1192%2Cx-4%2Cy4&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2022-05-26/ty-article-magazine/.highlight/00000181-0000-d7b1-a9b5-d58e239b0000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2022-05-26",
+          "magazine_date": "2022-05-27",
+          "title": "\"הגרמנים הקימו מחנות עוד ב-1904. בעצם, אז הוקם מחנה ההשמדה הראשון\"",
+          "og_image": "https://img.haarets.co.il/bs/00000181-0000-d7b1-a9b5-d58e239b0000/fa/51/db5911d2410d85a979f74ab43b33/47076682.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-05-26/ty-article-magazine/.highlight/00000180-ff29-d443-afae-ffff7c550000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-05-26",
+          "magazine_date": "2022-05-27",
+          "title": "זאת הייתה תשובה מושלמת - כך מסבירים \"כיבוש\" ב-25 מילים בלבד",
+          "og_image": "https://img.haarets.co.il/bs/00000180-ff29-d443-afae-ffff7c550000/7d/73/72231f58a2b5f03139a2e5929ccb/3439167849.jpg?precrop=1366%2C797%2Cx0%2Cy520&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-05-26/ty-article-magazine/.highlight/00000180-ff29-d443-afae-ffff7ee60000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-05-26",
+          "magazine_date": "2022-05-27",
+          "title": "הטבח בטקסס. רק תלמידי יסודי עם רובים יוכלו לעצור את הטירוף הזה",
+          "og_image": "https://img.haarets.co.il/bs/00000180-ff29-d443-afae-ffff7ee60000/f6/68/264477fe6372567ec71c99858022/1101909928.jpg?precrop=2200%2C1278%2Cx0%2Cy133&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2022-05-26/ty-article-magazine/.highlight/00000180-ff29-d1e6-afbb-ff7981840000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2022-05-26",
+          "magazine_date": "2022-05-27",
+          "title": "\"היכן הימים בהם האוניברסיטה אסרה פעילות פוליטית?\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-ff29-d1e6-afbb-ff797cae0000/2a/44/93770e31965916efb60d20462fe4/2290960523.jpg?precrop=2184,1269,x16,y147&height=630&width=1200&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-05-24/ty-article-20q/.highlight/00000180-f4e1-d1d5-a7bd-ffef05ac0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-05-24",
+          "magazine_date": "2022-05-27",
+          "title": "איזה שיר מהסרט \"פינוקיו\" זכה באוסקר לשיר המקורי הטוב ביותר?",
+          "og_image": "https://img.haarets.co.il/bs/00000180-f4e1-d1d5-a7bd-ffef05ac0000/10/fd/087d37b54d6a84273785c55a3daf/599321.jpg?precrop=2400%2C1395%2Cx0%2Cy35&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2022-05-26/ty-article-magazine/.premium/00000181-01c6-d1e9-adc5-2de74e650000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2022-05-26",
+          "magazine_date": "2022-05-27",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 27.5.2022",
+          "og_image": "https://img.haarets.co.il/bs/00000181-01c6-d1e9-adc5-2de74e650000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2022-05-26/ty-article/00000181-01df-d090-abe1-e5ff91200000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2022-05-26",
+          "magazine_date": "2022-05-27",
+          "title": "האחים מיליקוב בתנופה",
+          "og_image": "https://img.haarets.co.il/bs/00000181-01df-d090-abe1-e5ff91200000/8a/22/f1a603c7459592d9f4a960c6b142/47050257.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2022-05-26/ty-article/.premium/00000181-01d6-d1e9-adc5-2df7105c0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2022-05-26",
+          "magazine_date": "2022-05-27",
+          "title": "שלטון הנשים מתקרב",
+          "og_image": "https://img.haarets.co.il/bs/00000181-01d6-d1e9-adc5-2df7105c0000/65/c2/4ab7053d47a8b1ceb32dc8f4ff3b/%D7%9E%D7%A4%D7%95%D7%A8%D7%A1%D7%9E%D7%95%D7%AA.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-05-22/ty-article/.highlight/00000180-f6cc-d18b-a787-f7edff7b0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-05-22",
+          "magazine_date": "2022-05-27",
+          "title": "צילום בן 75 שנה הפך אותה לסמל. החודש מתה בגיל 92",
+          "og_image": "https://img.haarets.co.il/bs/00000180-f6cc-d18b-a787-f7edff7b0000/39/b3/45cc8490083bd2c9df5cae38ecb2/70914036.JPG?precrop=777%2C452%2Cx0%2Cy160&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-05-26/ty-article/00000181-00ac-d5b2-af8b-6dafe2dc0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-05-26",
+          "magazine_date": "2022-05-27",
+          "title": "בגיל 95, חרד לעתיד המדינה, מת בנו של שר החוץ הראשון",
+          "og_image": "https://img.haarets.co.il/bs/00000181-00ac-d5b2-af8b-6dafe2dc0000/95/d2/dfd7fcd4442e8a9921f8a1b772a8/242268697-10161105074546978-6423823239312093968-n.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-05-26/ty-article/.highlight/00000180-ff29-d1e6-afbb-ff797cac0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-05-26",
+          "magazine_date": "2022-05-27",
+          "title": "הנתונים מובהקים. למה נציגי המזרחים שותקים?",
+          "og_image": "https://img.haarets.co.il/bs/00000180-ff29-d1e6-afbb-ff797cac0000/98/f8/3733a4d3dcda5695130d8743efa6/1338267514.jpg?precrop=1893%2C1102%2Cx155%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

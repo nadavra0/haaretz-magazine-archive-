@@ -1,0 +1,358 @@
+{
+  "magazine_date": "2023-07-28",
+  "total_articles": 26,
+  "cover_image": "https://img.haarets.co.il/bs/00000189-922e-d00f-a7db-b3bf09300001/f8/cf/cdf218224cde9343ab98a8fe9109/frontpage.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/ayelet-shani/2023-07-27/ty-article-magazine/.highlight/00000189-91e9-d1ae-a38b-f7edc5fc0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-07-25/ty-article/.highlight/00000189-87d1-d5eb-abcb-ffd7a3a00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-07-25",
+          "magazine_date": "2023-07-28",
+          "title": "למה רימיתם את אזרחי ישראל? \"אתה מפנה אצבע מאשימה למקום הלא נכון\"",
+          "og_image": "https://img.haarets.co.il/bs/00000189-87d1-d5eb-abcb-ffd7a3a00000/9b/f4/001541524b2bafe9a1d2c9a4f833/lee-gat.jpg?precrop=1169%2C680%2Cx0%2Cy186&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-07-26/ty-article-magazine/.highlight/00000189-917e-d1ae-a38b-f7ffeb920000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-07-26",
+          "magazine_date": "2023-07-28",
+          "title": "הם ישבו על הדשא, יפים, שרים וצוחקים. לפתע הבנתי שאולי זו מסיבת פרידה",
+          "og_image": "https://img.haarets.co.il/bs/00000189-917e-d1ae-a38b-f7ffeb920000/92/84/d224530a41f9b6b5fbcff5787cc7/52862425.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-07-26/ty-article-magazine/.highlight/00000189-9180-dddf-a18f-fdb2dbd20000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-07-26",
+          "magazine_date": "2023-07-28",
+          "title": "ענף התעופה הופך לבעיה עצומה. מטוסי העתיד עשויים לפתור אותה",
+          "og_image": "https://img.haarets.co.il/bs/00000189-9180-dddf-a18f-fdb2dbd20000/39/63/39d0b5a54c209cfe0c6685e28962/52863419.JPG?precrop=3840%2C2233%2Cx0%2Cy83&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-07-26/ty-article-magazine/.highlight/00000189-9199-d1ae-a38b-f7bd2a340000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-07-26",
+          "magazine_date": "2023-07-28",
+          "title": "לטבול דקות ארוכות במי קרח? על מפגש חתרני במלון בנתניה",
+          "og_image": "https://img.haarets.co.il/bs/00000189-9199-d1ae-a38b-f7bd2a340000/30/26/d5e5818047c0b2a63417b6c92afa/52875683.JPG?precrop=5808%2C3377%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-07-26/ty-article-magazine/.highlight/00000189-925e-d430-a59b-b75f74a10000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-07-26",
+          "magazine_date": "2023-07-28",
+          "title": "יש לומר את האמת בקול גדול: הבית השני לא חרב בשל שנאת חינם. וכך גם היום",
+          "og_image": "https://img.haarets.co.il/bs/00000189-925e-d430-a59b-b75f74a10000/d4/43/296a334a4d7faabe4478cd0f671b/32470.jpg?precrop=2400%2C1395%2Cx0%2Cy208&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-07-26/ty-article-magazine/.highlight/00000189-9275-d00f-a7db-b3ff04ce0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-07-26",
+          "magazine_date": "2023-07-28",
+          "title": "שוטרים במסכות, בלי תגי שם, מכים אזרחים בלי לשלם מחיר. מה הולך פה?",
+          "og_image": "https://img.haarets.co.il/bs/00000189-9275-d00f-a7db-b3ff04ce0000/54/83/9ce1b3864e4b9a9cf7b86f792670/37605.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-07-26/ty-article/.highlight/00000189-923a-d5eb-abcb-fbfe8aca0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-07-26",
+          "magazine_date": "2023-07-28",
+          "title": "אף פעם לא אהבתי טיפוסי אלפא. אבל אז לקחתי לי כלב והתהפך עליי עולמי",
+          "og_image": "https://gif.haarets.co.il/bs/00000189-923a-d5eb-abcb-fbfe8aca0000/8a/1a/a32803b847a3a05cca39fade3165/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-07-26/ty-article/.highlight/00000189-9242-d430-a59b-b74b3bb10000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-07-26",
+          "magazine_date": "2023-07-28",
+          "title": "מה היה קורה אילו מנחם בגין היה מתמנה לשופט בג\"צ",
+          "og_image": "https://img.haarets.co.il/bs/00000189-9242-d430-a59b-b74b3bb10000/02/ad/2fc6e8284221b25e3537868d654e/52875477.JPG?precrop=3000%2C1744%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-07-26/ty-article/.highlight/00000189-9175-dddf-a18f-fdf777880000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-07-26",
+          "magazine_date": "2023-07-28",
+          "title": "דמוקרטיה? כמעט בכל מקום שבו עלה רודן, ישראל התגייסה למענו",
+          "og_image": "https://img.haarets.co.il/bs/00000189-9175-dddf-a18f-fdf777880000/dd/25/837d1a63443db70671c7dfcf3f40/52863083.JPG?precrop=3057%2C1777%2Cx0%2Cy168&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-07-26/ty-article/.highlight/00000189-91af-d1ae-a38b-f7af42840000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-07-26",
+          "magazine_date": "2023-07-28",
+          "title": "לצנזורה עצמית יש תמיד מחיר. באקדמיה הוא גבוה במיוחד",
+          "og_image": "https://img.haarets.co.il/bs/00000189-91af-d1ae-a38b-f7af42840000/eb/a2/9962f4ca491ab13adb809ec15821/bogen28-7.jpg?precrop=1668%2C970%2Cx0%2Cy1139&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2023-07-26/ty-article/.highlight/00000189-9167-d430-a59b-b56fb9f30000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2023-07-26",
+          "magazine_date": "2023-07-28",
+          "title": "המילה הנפוצה הזאת הוגדרה כתועבה, אך החלופה שלה נשכחה במהרה",
+          "og_image": "https://img.haarets.co.il/bs/00000189-9167-d430-a59b-b56fb9f30000/cb/17/3dafe10647ad8876c6e3d72ce1d0/52862257.JPG?precrop=5472%2C3181%2Cx0%2Cy467&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2023-07-26/ty-article/.highlight/00000189-9160-d430-a59b-b569c0210000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2023-07-26",
+          "magazine_date": "2023-07-28",
+          "title": "לא צריך להכריז על מלחמת אזרחים. העתיד הוא היפרדות",
+          "og_image": "https://img.haarets.co.il/bs/00000189-9160-d430-a59b-b569c0210000/f9/43/ccee83254e9f957a81cfe11c31ee/68940.jpg?precrop=2400%2C1395%2Cx0%2Cy206&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2023-07-26/ty-article-face/.highlight/00000189-90d4-dddf-a18f-fcf642bd0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2023-07-26",
+          "magazine_date": "2023-07-28",
+          "title": "\"אני רוצה להאמין שהקמטים במצח נוצרו כי קיבלתי החלטות נכונות\"",
+          "og_image": "https://img.haarets.co.il/bs/00000189-90d4-dddf-a18f-fcf642bd0000/27/60/be8f8e9d48fdb0631aa88e3cbecc/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2023-07-26/ty-article-magazine/.highlight/00000189-91f2-d430-a59b-b5fbcc3b0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2023-07-26",
+          "magazine_date": "2023-07-28",
+          "title": "\"אני לא חושב שהייתי רוצה לגור פה, אפילו שיש פה ים ובריכה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000189-91f2-d430-a59b-b5fbcc3b0000/34/7d/95fb2ee7405abe71dfeff9a5bd9c/52863015.JPG?precrop=8192%2C4763%2Cx0%2Cy669&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2023-07-27/ty-article-magazine/.highlight/00000189-91e9-d1ae-a38b-f7edc5fc0000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2023-07-27",
+          "magazine_date": "2023-07-28",
+          "title": "\"עיני כל העולם נשואות לישראל. תמשיכו ללחוץ בכל הכוח. אסור לכם למצמץ\"",
+          "og_image": "https://img.haarets.co.il/bs/00000189-91e9-d1ae-a38b-f7edc5fc0000/e4/b4/fb8e01004cbe84b05857aa73aba6/erica.jpg?precrop=1969%2C1145%2Cx0%2Cy355&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2023-07-26/ty-article/.highlight/00000189-9260-d430-a59b-b769c6060000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2023-07-26",
+          "magazine_date": "2023-07-28",
+          "title": "מצאו את ההבדלים: שתי תמונות של דריסה",
+          "og_image": "https://img.haarets.co.il/bs/00000189-9260-d430-a59b-b769c6060000/36/2a/47ee30d04e8bace0b5ebff14cf1f/52879781.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2023-07-27/ty-article-magazine/.highlight/00000189-9636-d00f-a7db-b7bff59e0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2023-07-27",
+          "magazine_date": "2023-07-28",
+          "title": "אחים אנחנו. אחרת זו תהיה סתם מלחמה",
+          "og_image": "https://img.haarets.co.il/bs/00000189-9636-d00f-a7db-b7bff59e0000/34/68/cae36dc44797b78051608706454c/685660-t576021fb-m800-xvzh-v2p.jpg?precrop=800%2C465%2Cx0%2Cy82&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2023-07-27/ty-article-magazine/.highlight/00000189-90d7-d1ae-a38b-f7f7992e0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2023-07-27",
+          "magazine_date": "2023-07-28",
+          "title": "\"לקחנו את המערכת והחזרנו אותה משלטון החוק לשלטון האדם\"",
+          "og_image": "https://img.haarets.co.il/bs/00000189-92ab-d430-a59b-b7abe0b60000/bc/c0/4e2b5685431cb62a9cf0f7c686da/859257.jpg?height=630&width=1200&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2023-07-26/ty-article-20q/.highlight/00000189-8b9f-d5eb-abcb-fbdf2f370000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2023-07-26",
+          "magazine_date": "2023-07-28",
+          "title": "איזה חומר שנפלט מגיהוקים של פרות הוא מהגורמים לאפקט החממה?",
+          "og_image": "https://img.haarets.co.il/bs/00000189-8b9f-d5eb-abcb-fbdf2f370000/fb/90/7f28b1e845dc9a76d29efb6e9c08/539670.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2023-07-27/ty-article-magazine/.highlight/00000189-91b3-d5eb-abcb-f9f74f570000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2023-07-27",
+          "magazine_date": "2023-07-28",
+          "title": "איך מצליחה מסעדה לשרוד 25 שנה בישראל מוכת המשברים?",
+          "og_image": "https://img.haarets.co.il/bs/00000189-91b3-d5eb-abcb-f9f74f570000/92/3b/856f97f54e39bb697b096d72912b/05039.jpg?precrop=1641%2C954%2Cx74%2Cy922&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2023-07-27/ty-article-magazine/.premium/00000189-9626-d430-a59b-b72f75df0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2023-07-27",
+          "magazine_date": "2023-07-28",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 28.7.2023",
+          "og_image": "https://img.haarets.co.il/bs/00000189-9626-d430-a59b-b72f75df0000/62/e2/e1fbe69c4000b36cd1dac04c0940/tsh.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2023-07-27/ty-article/.premium/00000189-961b-d430-a59b-b71b706c0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2023-07-27",
+          "magazine_date": "2023-07-28",
+          "title": "יו שומרת על התואר",
+          "og_image": "https://img.haarets.co.il/bs/00000189-961b-d430-a59b-b71b706c0000/40/9a/3c95f043edbff115fcf66ad2ff9c/3853065162.jpg?precrop=2044%2C1187%2Cx4%2Cy89&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2023-07-27/ty-article/.premium/00000189-9623-d1ae-a38b-f7a7297c0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2023-07-27",
+          "magazine_date": "2023-07-28",
+          "title": "הכל בידי אללה וביבי",
+          "og_image": "https://img.haarets.co.il/bs/00000189-9623-d1ae-a38b-f7a7297c0000/ed/15/4574882042a89669a4d80e866579/meforsamot.jpg?precrop=1250%2C727%2Cx0%2Cy1636&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2023-07-27/ty-article/.premium/00000189-962c-d1ae-a38b-f7add5330000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2023-07-27",
+          "magazine_date": "2023-07-28",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000189-962c-d1ae-a38b-f7add5330000/c0/45/9635695a48d481d68e560d51625a/topshot-israel-politics-protest.jpg?precrop=1772%2C1030%2Cx0%2Cy97&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2023-07-27/ty-article/.premium/00000189-9632-d00f-a7db-b7bb48850000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2023-07-27",
+          "magazine_date": "2023-07-28",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000189-9632-d00f-a7db-b7bb48850000/12/75/c80f4d6945ae88ec317e5b60caf7/ribooa-musaf-531.jpg?precrop=1084%2C630%2Cx0%2Cy151&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2023-07-26/ty-article/.highlight/00000189-9243-d00f-a7db-b3db6e160000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2023-07-26",
+          "magazine_date": "2023-07-28",
+          "title": "התקף חרדה? אני חושש שלנתניהו יש מבנה אישיות מסוכן יותר",
+          "og_image": "https://img.haarets.co.il/bs/00000189-9243-d00f-a7db-b3db6e160000/ec/32/17191cf547618b7d77769dc4f94f/12241.jpg?precrop=914%2C532%2Cx827%2Cy503&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

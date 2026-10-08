@@ -1,0 +1,293 @@
+{
+  "magazine_date": "2022-06-24",
+  "total_articles": 21,
+  "cover_image": null,
+  "cover_article_url": null,
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-22/ty-article-magazine/.highlight/00000181-8b81-dd8b-afed-dbb709a40000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-22",
+          "magazine_date": "2022-06-24",
+          "title": "\"אנחנו בוגדים בילדים שלנו\": זו ככל הנראה אחת השיחות המטרידות שפרסמנו",
+          "og_image": "https://img.haarets.co.il/bs/00000181-8b81-dd8b-afed-dbb709a40000/a6/85/32e7c01945aa90d3bb6b81949581/47482471.JPG?precrop=7927%2C4609%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-22/ty-article-magazine/.highlight/00000181-8be1-d00c-aba5-eff1e5510000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-22",
+          "magazine_date": "2022-06-24",
+          "title": "קפצנו לאליפות ישראל ב\"גו\" באוניברסיטה הסינית בפתח תקוה",
+          "og_image": "https://img.haarets.co.il/bs/00000181-8be1-d00c-aba5-eff1e5510000/b7/06/f0233dae4f68930d1b89a4da5995/47458844.JPG?precrop=5004%2C2910%2Cx0%2Cy3241&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-22/ty-article-magazine/.premium/00000181-8c14-dd06-ab95-ae16098a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-22",
+          "magazine_date": "2022-06-24",
+          "title": "\"אני לא גולה פוליטית, אני פרחה פוליטית\"",
+          "og_image": "https://img.haarets.co.il/bs/00000181-8c14-dd06-ab95-ae16098a0000/e9/bc/c388927448a6a34a98312c08bc1f/47458889.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-22/ty-article/.premium/00000181-8bc0-dd8d-a5c1-bfc922870000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-22",
+          "magazine_date": "2022-06-24",
+          "title": "מותו של א.ב. יהושוע הוביל אותי לחשוב על פמיניזם ונשיות",
+          "og_image": "https://gif.haarets.co.il/bs/00000181-8bc0-dd8d-a5c1-bfc922870000/7b/91/c0ffb27543809ec6d5c82383b33e/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-23/ty-article-magazine/.highlight/00000181-8c32-d00c-aba5-eef3bea50000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-23",
+          "magazine_date": "2022-06-24",
+          "title": "מתחת לאף של פינושה, השגריר הישראלי הציל מאות צ'יליאנים ממוות",
+          "og_image": "https://img.haarets.co.il/bs/00000181-8c32-d00c-aba5-eef3bea50000/77/40/673d66bb4f4cb851c3b57361af19/47422413.JPG?precrop=5464%2C3176%2Cx0%2Cy1651&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-23/ty-article/.premium/00000181-9007-db6b-afbf-f367fa630000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-23",
+          "magazine_date": "2022-06-24",
+          "title": "האם ייתכן שמגע עם האדמה משפר את המערכת החיסונית?",
+          "og_image": "https://img.haarets.co.il/bs/00000181-9007-db6b-afbf-f367fa630000/9d/f4/775075b74f01b256a6f26fe1bfea/47484272.JPG?precrop=6720%2C3905%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-06-22/ty-article/.highlight/00000181-8ac6-d012-a3a1-cbfe8a1d0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-06-22",
+          "magazine_date": "2022-06-24",
+          "title": "במידה רבה, זהו סיפור כישלונו של השמאל הישראלי כולו",
+          "og_image": "https://img.haarets.co.il/bs/00000181-8ac6-d012-a3a1-cbfe8a1d0000/77/f7/e4402c8e412fb58ad0b901d72b14/47475996.JPG?precrop=4464%2C2595%2Cx0%2Cy185&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-06-22/ty-article/.highlight/00000181-8ad5-d012-a3a1-cbfd08df0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-06-22",
+          "magazine_date": "2022-06-24",
+          "title": "היא גנבה מאמרים כדי להנגיש את המדע לכולם. האם צריך להעניש אותה?",
+          "og_image": "https://img.haarets.co.il/bs/00000181-8ad5-d012-a3a1-cbfd08df0000/90/c7/a298c0174224b472cbfecf7f794c/47482780.JPG?precrop=1000%2C581%2Cx0%2Cy96&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2022-06-22/ty-article/.highlight/00000181-8ab7-d663-a9a9-abb775f90000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2022-06-22",
+          "magazine_date": "2022-06-24",
+          "title": "אנחנו נתקלים במילה הזאת כל הזמן, אבל מעטים יודעים מה מקורה",
+          "og_image": "https://img.haarets.co.il/bs/00000181-8ab7-d663-a9a9-abb775f90000/21/f7/d7fb0550468a840cc6c95ae283fe/47483615.JPG?precrop=5760%2C3349%2Cx0%2Cy184&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-06-22/ty-article/.highlight/00000181-8a7a-dd3b-a3e7-ee7b11170000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-06-22",
+          "magazine_date": "2022-06-24",
+          "title": "למשבר בהיי־טק עוד יהיו גלי הדף, והם יגיעו גם לכנסת",
+          "og_image": "https://img.haarets.co.il/bs/00000181-8a7a-dd3b-a3e7-ee7b11170000/34/65/ed42f25849b38c3d0183152e296c/47474751.JPG?precrop=5109%2C2970%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-06-22/ty-article-face/.highlight/00000181-8b93-d2c2-a3a5-cbbf49c10000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-06-22",
+          "magazine_date": "2022-06-24",
+          "title": "\"הדביקו לי דימוי של ירושלמי. זרמתי עד שהבנתי שאנשים מאמינים בזה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000181-8b93-d2c2-a3a5-cbbf49c10000/81/8e/a53fe8474b70ad70e6baa75c3f0a/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-06-22/ty-article-magazine/00000181-8b97-dd8d-a5c1-bfdf957b0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-06-22",
+          "magazine_date": "2022-06-24",
+          "title": "\"אמא גידלה כמה פרופסורים ברמה עולמית\"",
+          "og_image": "https://img.haarets.co.il/bs/00000181-8b97-dd8d-a5c1-bfdf957b0000/d9/4c/dac36db7473c965a94ff5638b5a5/47469608.JPG?precrop=6027%2C3504%2Cx434%2Cy267&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-06-22/ty-article-magazine/00000181-8c08-dd8d-a5c1-bec9eba60000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-06-22",
+          "magazine_date": "2022-06-24",
+          "title": "מבחינת עומר אדם, גם תמיכה נפשית בחברה אמורה להניב עבורו כסף",
+          "og_image": "https://img.haarets.co.il/bs/00000181-8c08-dd8d-a5c1-bec9eba60000/3a/a8/23250017288e5cacff3b686a13bb/517061908.jpg?precrop=1974%2C1147%2Cx115%2Cy99&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-06-23/ty-article-magazine/.highlight/00000181-8fe2-dc8b-a9c5-cfe348000000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-06-23",
+          "magazine_date": "2022-06-24",
+          "title": "הקואליציה מתפרקת. השכנים המומים: אף פעם לא שמענו אותם רבים",
+          "og_image": "https://img.haarets.co.il/bs/00000181-8fe2-dc8b-a9c5-cfe348000000/8b/51/d17681534261908bcbee90a6bdc5/nid-3.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-06-21/ty-article-20q/.highlight/00000181-8485-d375-a9ad-e5973bf60000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-06-21",
+          "magazine_date": "2022-06-24",
+          "title": "כהונתו של איזה ראש ממשלה לפני נפתלי בנט היתה הקצרה ביותר?",
+          "og_image": "https://img.haarets.co.il/bs/00000181-8485-d375-a9ad-e5973bf60000/e4/5e/93a434014976a8fd19a391bd296e/09489.jpg?precrop=2400%2C1395%2Cx0%2Cy145&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2022-06-23/ty-article-static/.highlight/00000181-3937-d57b-a9b3-3b3f08c30000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2022-06-23",
+          "magazine_date": "2022-06-24",
+          "title": "העולם ניצב בפני מחסור בשומשום. מה יעלה בגורל הטחינה?",
+          "og_image": "https://img.haarets.co.il/bs/00000181-8b5e-df6a-a98d-cf7e82120001/d2/3e/2f643d004315a24643be64f36e92/tahini-interactive-sharing.jpg?precrop=1261,546,x3,y0&height=630&width=1200",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2022-06-22/ty-article-magazine/.premium/00000181-8bc8-d016-a59b-abf9e4d10000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2022-06-22",
+          "magazine_date": "2022-06-24",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 24.6.2022",
+          "og_image": "https://img.haarets.co.il/bs/00000181-8bc8-d016-a59b-abf9e4d10000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2022-06-23/ty-article/.premium/00000181-8ff8-d376-a1cf-effbf8f90000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2022-06-23",
+          "magazine_date": "2022-06-24",
+          "title": "קרבות ראשונים במדריד",
+          "og_image": "https://img.haarets.co.il/bs/00000181-8ff8-d376-a1cf-effbf8f90000/38/29/5549e45d00f548b27e2027b897ad/584151313.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2022-06-22/ty-article/.premium/00000181-8bb8-db5d-a9b3-efb8db880000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2022-06-22",
+          "magazine_date": "2022-06-24",
+          "title": "טלוויזיה בישראל - בעוד שלוש שנים",
+          "og_image": "https://img.haarets.co.il/bs/00000181-8bb8-db5d-a9b3-efb8db880000/8f/60/6a1bf1b845a99395600b2ba160df/fam.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2022-06-23/ty-article/.premium/00000181-8ff3-d376-a1cf-effb63630000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2022-06-23",
+          "magazine_date": "2022-06-24",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000181-8ff3-d376-a1cf-effb63630000/82/fb/f932854748e093f1b3f09fa6b905/ribooa-musaf-474.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-06-22/ty-article/00000181-8c1e-d00c-aba5-eedf94fc0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-06-22",
+          "magazine_date": "2022-06-24",
+          "title": "איילת שקד רגישה, מענטשית וחברה טובה. אז מה?",
+          "og_image": "https://img.haarets.co.il/bs/00000181-8c1e-d00c-aba5-eedf94fc0000/93/44/9a3f7ebe0264f3eb35cc6b7442ba/541465812.jpg?precrop=1384%2C804%2Cx251%2Cy85&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

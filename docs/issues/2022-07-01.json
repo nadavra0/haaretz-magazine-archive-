@@ -1,0 +1,293 @@
+{
+  "magazine_date": "2022-07-01",
+  "total_articles": 22,
+  "cover_image": "https://img.haarets.co.il/bs/00000181-b3f0-d445-afbd-bbf86f750001/5c/67/cf644aaf46bb98f858f55a333bb6/frontpage.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2022-06-30/ty-article-magazine/.highlight/00000181-af76-df33-adb9-afff8a520000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-29/ty-article-magazine/.highlight/00000181-af76-d786-a1a7-ff774bb70000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-29",
+          "magazine_date": "2022-07-01",
+          "title": "הוא היה מאדריכלי ההוצאות להורג באיראן. ואז הניצולים טמנו לו פח",
+          "og_image": "https://img.haarets.co.il/bs/00000181-af76-d786-a1a7-ff774bb70000/92/3a/8a8ffed246cfbb952b51d7042a14/47548623.JPG?precrop=1330%2C772%2Cx118%2Cy28&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-29/ty-article-magazine/.highlight/00000181-af76-df33-adb9-afff8b340000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-29",
+          "magazine_date": "2022-07-01",
+          "title": "משיח? מיסיונר? האמת היא שכולם מפספסים את דמותו של הרבי מלובביץ'",
+          "og_image": "https://img.haarets.co.il/bs/00000181-af76-df33-adb9-afff8b340000/37/19/5077024947b38d282cb29f39dfaf/52627.jpg?precrop=1911%2C1111%2Cx0%2Cy773&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-29/ty-article-magazine/.highlight/00000181-af77-dc74-a78f-aff71e270000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-29",
+          "magazine_date": "2022-07-01",
+          "title": "\"אל תבקשו ממני להציל אתכם מביבי. תצילו את עצמכם\"",
+          "og_image": "https://img.haarets.co.il/bs/00000181-af77-dc74-a78f-aff71e270000/56/49/1d05d6304ed6a13bbb8cf9491cd8/44953.jpg?precrop=2400%2C1393%2Cx0%2Cy49&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-29/ty-article/.highlight/00000181-af91-d786-a1a7-ff97ccba0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-29",
+          "magazine_date": "2022-07-01",
+          "title": "אתם אומרים שלא תשבו עם תומכי טרור. כלומר, לא תשבו עם עצמכם?",
+          "og_image": "https://img.haarets.co.il/bs/00000181-af91-d786-a1a7-ff97ccba0000/21/cf/8a6bba854835b62c7b1f494932ed/47550502.JPG?precrop=1465%2C852%2Cx0%2Cy79&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-29/ty-article/.highlight/00000181-afb6-dec7-a199-aff6d6740000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-29",
+          "magazine_date": "2022-07-01",
+          "title": "איך קשור משפט רצח בישראל לפסיקת בית המשפט העליון בארה\"ב",
+          "og_image": "https://img.haarets.co.il/bs/00000181-afb6-dec7-a199-aff6d6740000/34/56/9b16fef44bff91859c2beaa1658f/47570752.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-30/ty-article-magazine/.highlight/00000181-af76-df33-adb9-afff8a520000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-30",
+          "magazine_date": "2022-07-01",
+          "title": "ההדלפה מגוגל מבהירה: אנחנו קרבים לרגע שבו המכונות יתחננו על חייהן",
+          "og_image": "https://img.haarets.co.il/bs/00000181-af76-df33-adb9-afff8a520000/fc/78/3d0778fd408583842e8e56604097/ai-conversation-shituf.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-30/ty-article/.highlight/00000181-b3b7-d919-a9a7-b3f7b1dd0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-30",
+          "magazine_date": "2022-07-01",
+          "title": "אנשים בהריון: ליברלים בארה\"ב מאמצים שפה מגדרית ניטרלית. מי נדחק הצדה?",
+          "og_image": "https://img.haarets.co.il/bs/00000181-b3b7-d919-a9a7-b3f7b1dd0000/d4/84/c4b13d454a07bbecb1c66aa24c4a/ebortion.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-30/ty-article/.highlight/00000181-b4ca-d919-a9a7-b5cac2b40000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-30",
+          "magazine_date": "2022-07-01",
+          "title": "השיח סביב מחירי הדירות הזכיר לי כמה בעלי בית הזוים שהיו לי",
+          "og_image": "https://gif.haarets.co.il/bs/00000181-b4ca-d919-a9a7-b5cac2b40000/b4/cc/9c1678714b1590ef0aa7d9be56db/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-06-29/ty-article/.premium/00000181-af6d-ddb7-ad81-ef7d2f740000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-06-29",
+          "magazine_date": "2022-07-01",
+          "title": "סטנד אפ היה המקום שבו חופש הביטוי חגג. נראה שהמסיבה הזאת לא תימשך לנצח",
+          "og_image": "https://img.haarets.co.il/bs/00000181-af6d-ddb7-ad81-ef7d2f740000/0b/87/625fdd324c9faeffaa1778dc2fe1/47568468.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-06-30/ty-article-magazine/.premium/00000181-af6f-df33-adb9-afff1d950000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-06-30",
+          "magazine_date": "2022-07-01",
+          "title": "אנחנו יודעים לספור עד ארבע. למה לא עד חמש?",
+          "og_image": "https://img.haarets.co.il/bs/00000181-af6f-df33-adb9-afff1d950000/bd/3c/20635669470bad918064dea884a7/0597287.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-06-30/ty-article/.premium/00000181-af72-d2ac-af8b-aff733390000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-06-30",
+          "magazine_date": "2022-07-01",
+          "title": "האיש שהשיב את הנורמליות ללשכת ראש הממשלה",
+          "og_image": "https://img.haarets.co.il/bs/00000181-af72-d2ac-af8b-aff733390000/97/5b/f8343e6f4b23bb99d59640c68861/47552933.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2022-06-29/ty-article/.premium/00000181-af6f-dc74-a78f-afff23180000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2022-06-29",
+          "magazine_date": "2022-07-01",
+          "title": "מה עומד מאחורי המבחן הרצחני שהעמידו אנשי גלעד לשבט אפרים",
+          "og_image": "https://img.haarets.co.il/bs/00000181-af6f-dc74-a78f-afff23180000/de/93/1bcf18f54099a9f1e2e1a25dea3e/47567472.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-06-30/ty-article/00000181-af72-ddb7-ad81-ef7647170000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-06-30",
+          "magazine_date": "2022-07-01",
+          "title": "שכחנו כמה הריח משפיע על הפסיכולוגיה שלנו. הקורונה גילתה לנו אותו מחדש",
+          "og_image": "https://img.haarets.co.il/bs/00000181-af72-ddb7-ad81-ef7647170000/cd/17/723ec7b64cebbbe5da43cd277945/47568811.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-06-30/ty-article-face/.highlight/00000181-b449-da42-abdd-b76f6d660000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-06-30",
+          "magazine_date": "2022-07-01",
+          "title": "\"בגילי הכרונולוגי אני כמעט בת 64, בגילי כאישה אני היום בדיוק בת 19\"",
+          "og_image": "https://img.haarets.co.il/bs/00000181-b449-da42-abdd-b76f6d660000/82/09/17c947354117995daabc2b87d064/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-06-29/ty-article-magazine/.highlight/00000181-aeeb-d7ba-ad8d-afff54060000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-06-29",
+          "magazine_date": "2022-07-01",
+          "title": "\"המטרה היא להכאיב למישהו בזריזות — ולברוח\"",
+          "og_image": "https://img.haarets.co.il/bs/00000181-aeeb-d7ba-ad8d-afff54060000/17/72/26a3c5644ca2bc2b9edf7c75c442/47538058.JPG?precrop=8192%2C4763%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-06-29/ty-article-magazine/.highlight/00000181-afbb-d21b-a1eb-fffb98190000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-06-29",
+          "magazine_date": "2022-07-01",
+          "title": "הג'נטריפיקציה של הצמתים: לוליינים נחמדים מחליפים קבצנים מפחידים",
+          "og_image": "https://img.haarets.co.il/bs/00000181-afbb-d21b-a1eb-fffb98190000/60/6b/f20957fd47ac857b6772677f9b22/47572483.JPG?precrop=2362%2C1373%2Cx0%2Cy202&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-06-30/ty-article-magazine/.highlight/00000181-b3f8-d445-afbd-bbf829f30000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-06-30",
+          "magazine_date": "2022-07-01",
+          "title": "איציק מרדכי, \"לוחם, מפקד, מנהיג\". זהו? בטוח?",
+          "og_image": "https://img.haarets.co.il/bs/00000181-b3f8-d445-afbd-bbf829f30000/6e/ac/615cc87b4f0ea3edae870c4c0a7c/mid-3.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-06-30/ty-article-20q/.highlight/00000181-b339-d21b-a1eb-f37973620000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-06-30",
+          "magazine_date": "2022-07-01",
+          "title": "בתשדיר בחירות של איזו מפלגה הופיעה זהבה בן?",
+          "og_image": "https://img.haarets.co.il/bs/00000181-b339-d21b-a1eb-f37973620000/62/90/8d7da50d460290ca96135ff6efd7/542464.jpg?precrop=2200%2C1279%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2022-06-30/ty-article-magazine/.premium/00000181-b415-d21b-a1eb-f65df1180000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2022-06-30",
+          "magazine_date": "2022-07-01",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 1.7.2022",
+          "og_image": "https://img.haarets.co.il/bs/00000181-b415-d21b-a1eb-f65df1180000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-06-27/ty-article/.premium/00000181-a1da-dca5-a5c1-b5dea7000000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-06-27",
+          "magazine_date": "2022-07-01",
+          "title": "מקזבלנקה לישראל על סיפון האקסודוס",
+          "og_image": "https://img.haarets.co.il/bs/00000181-a1da-dca5-a5c1-b5dea7000000/14/48/ddc2d14076d02f7449b649d3b10b/1018316866.jpg?precrop=2200%2C1274%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2022-07-01/ty-article/.premium/00000181-b89d-da42-abdd-bfbff14c0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2022-07-01",
+          "magazine_date": "2022-07-01",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000181-b89d-da42-abdd-bfbff14c0000/37/db/ee5e9fbf436f927530dab254db66/ribooa-musaf-475-new.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-06-29/ty-article/.highlight/00000181-afed-dec7-a199-afed41c10000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-06-29",
+          "magazine_date": "2022-07-01",
+          "title": "עיניי לא משו מהכתובת: MADE IN ISRAEL",
+          "og_image": "https://img.haarets.co.il/bs/00000181-afed-dec7-a199-afed41c10000/be/14/906a3c194798820f8747070e823c/47458965.JPG?precrop=2000%2C1162%2Cx0%2Cy29&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

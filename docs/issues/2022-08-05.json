@@ -1,0 +1,333 @@
+{
+  "magazine_date": "2022-08-05",
+  "total_articles": 25,
+  "cover_image": null,
+  "cover_article_url": null,
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-08-03/ty-article-magazine/.highlight/00000182-63b7-d879-a7e3-f3fff7950000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-08-03",
+          "magazine_date": "2022-08-05",
+          "title": "\"הייתי אומר לכם כל מה שאתם רוצים לשמוע, העיקר שתקנו\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-63b7-d879-a7e3-f3fff7950000/d1/3a/bc1e7a3142cd805cfde6d94aef97/47963002.JPG?precrop=5464%2C3177%2Cx0%2Cy2647&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-08-03/ty-article-magazine/.highlight/00000182-63b7-dee3-add2-6bbfed780000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-08-03",
+          "magazine_date": "2022-08-05",
+          "title": "יהודים שותים דם נוצרי? זה מה שמספרים בפסטיבלים באירופה, במאה ה-21",
+          "og_image": "https://img.haarets.co.il/bs/00000182-63b7-dee3-add2-6bbfed780000/5c/cc/505f6f714c35adc088da14cc09e1/47992209.JPG?precrop=6000%2C3487%2Cx0%2Cy513&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-08-03/ty-article-magazine/.highlight/00000182-63b8-d788-a3fe-7bbc0baf0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-08-03",
+          "magazine_date": "2022-08-05",
+          "title": "הם היו שני מרגלים יהודים יריבים במלחמת העולם. זה נגמר בדם",
+          "og_image": "https://img.haarets.co.il/bs/00000182-63b8-d788-a3fe-7bbc0baf0000/c2/cf/83f3c664452eb2d7cdda092eac3d/lisa3.jpg?precrop=2001%2C1163%2Cx0%2Cy275&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-08-03/ty-article-magazine/.highlight/00000182-63b8-da5e-a7da-f3bc32b00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-08-03",
+          "magazine_date": "2022-08-05",
+          "title": "יותר ויותר בריכות פרטיות צצות בחברה הערבית. מה הסיבה?",
+          "og_image": "https://img.haarets.co.il/bs/00000182-63b8-da5e-a7da-f3bc32b00000/0d/7c/b833d9a64e2c8fd347a41b1e4861/47986757.JPG?precrop=3072%2C1786%2Cx0%2Cy1970&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-08-03/ty-article/.highlight/00000182-63f5-d879-a7e3-f3ff96410000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-08-03",
+          "magazine_date": "2022-08-05",
+          "title": "מחקר מקיף מצא פתרון לעוני: חברויות בילדות בין עניים לעשירים",
+          "og_image": "https://img.haarets.co.il/bs/00000182-63f5-d879-a7e3-f3ff96410000/d8/1b/01c775c448feac92dcc7ec5d75aa/48008413.JPG?precrop=3000%2C1744%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-08-03/ty-article/.highlight/00000182-640f-dee3-add2-6f3ff7960000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-08-03",
+          "magazine_date": "2022-08-05",
+          "title": "הפעלתם בוטים ויצרתם מצג שווא. \"אני לא מתעסקת במוסר, וגם אתה לא!\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-640f-dee3-add2-6f3ff7960000/c1/5a/3db17108432b8618abe6b2150913/48006721.JPG?precrop=408%2C237%2Cx0%2Cy8&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-08-04/ty-article-magazine/.highlight/00000182-63b7-dee3-add2-6bbfc83f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-08-04",
+          "magazine_date": "2022-08-05",
+          "title": "\"כשמרצ פלטה אותי, הלכתי בוכה. אבל לא אוכל לתת למפעל הזה לקרוס\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-63b7-dee3-add2-6bbfc83f0000/1e/c9/c1e83f9f4da887a9c90ed8967937/83612.jpg?precrop=2400%2C1395%2Cx0%2Cy240&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-08-04/ty-article/.highlight/00000182-682c-d3a6-a9aa-fe3df1f90000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-08-04",
+          "magazine_date": "2022-08-05",
+          "title": "צרות מגיעות אצל כולם בשלשות? יש דברים שקורים רק לי",
+          "og_image": "https://gif.haarets.co.il/bs/00000182-682c-d3a6-a9aa-fe3df1f90000/b6/14/8d380bd5400c8b4a7b7752e23969/neri.gif?precrop=1311%2C762%2Cx1%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-08-03/ty-article-magazine/.highlight/00000182-62e8-daf7-a7db-f6ea96790000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-08-03",
+          "magazine_date": "2022-08-05",
+          "title": "המפץ הגדול עומד ביסוד הבנת היקום. אלא שייתכן שהוא מעולם לא התרחש",
+          "og_image": "https://img.haarets.co.il/bs/00000182-62e8-daf7-a7db-f6ea96790000/27/e5/8fb6a7a54d44a6adaa65c4c7a97e/47990761.JPG?precrop=3662%2C2129%2Cx700%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-08-03/ty-article/00000182-62d2-d535-afaa-63da247e0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-08-03",
+          "magazine_date": "2022-08-05",
+          "title": "מה באמת אפשר להבין משערה אחת קטנה",
+          "og_image": "https://img.haarets.co.il/bs/00000182-62d2-d535-afaa-63da247e0000/db/7b/c3f3a150401f980d0021b9a27cca/47973229.JPG?precrop=5205%2C3026%2Cx0%2Cy620&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-08-03/ty-article/.highlight/00000182-62e0-dc23-a586-e2f86b180000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-08-03",
+          "magazine_date": "2022-08-05",
+          "title": "חיילים ישראלים נכנסים לאכול במסעדה בשטחים. בבת־אחת מתנפצת השלווה",
+          "og_image": "https://img.haarets.co.il/bs/00000182-62e0-dc23-a586-e2f86b180000/07/da/a5766fb14d8dbd73ac877985bae4/47974288.JPG?precrop=3072%2C1786%2Cx0%2Cy262&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2022-08-03/ty-article/.highlight/00000182-62c6-daf7-a7db-f6e60e430000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2022-08-03",
+          "magazine_date": "2022-08-05",
+          "title": "באקדמיה ללשון מנסים לעקור את המילה הזאת משימוש. אין לכך סיבה",
+          "og_image": "https://img.haarets.co.il/bs/00000182-62c6-daf7-a7db-f6e60e430000/fb/77/2574314be87502f3f9df8e0bd16c/387449388.jpg?precrop=2030%2C1177%2Cx18%2Cy188&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-08-03/ty-article/00000182-62aa-d535-afaa-63ea8d3e0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-08-03",
+          "magazine_date": "2022-08-05",
+          "title": "גם במקרה של הטבח בטנטורה, נאמני ההכחשה התייצבו למשימה",
+          "og_image": "https://img.haarets.co.il/bs/00000182-62aa-d535-afaa-63ea8d3e0000/fc/98/cdc4479d4fa8b5a7437e76389e0c/47980932.JPG?precrop=1977%2C1149%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-08-03/ty-article-face/.highlight/00000182-5f62-d31b-a9df-df6273eb0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-08-03",
+          "magazine_date": "2022-08-05",
+          "title": "\"אני משלים עם הגיל. בטח נשארו לי עוד עשר שנים של צלילות\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-5f62-d31b-a9df-df6273eb0000/7a/15/1843abe84c1e9f2c598bb99bd9f7/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-08-03/ty-article-magazine/.highlight/00000182-63c1-d454-a5aa-e7d1720c0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-08-03",
+          "magazine_date": "2022-08-05",
+          "title": "\"נכנסתי לעשות צ'ק־אין, 8 דקות אני כבר בדיוטי. לא דיברתי עם אף אחד\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-63c1-d454-a5aa-e7d1720c0000/8d/a9/386b8d0f4b1b95100ee0ea59d50d/47891535.JPG?precrop=8192%2C4763%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-08-03/ty-article-magazine/.highlight/00000182-63f9-d879-a7e3-f3ff6ed60000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-08-03",
+          "magazine_date": "2022-08-05",
+          "title": "האיש שמוסר לך רגע את הנייד. למה הוא בחרדה כזאת?",
+          "og_image": "https://img.haarets.co.il/bs/00000182-63f9-d879-a7e3-f3ff6ed60000/cf/c1/007520934540b8146c157c1937f4/48008675.JPG?precrop=4464%2C2595%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-08-04/ty-article-magazine/.highlight/00000182-68bd-d9e1-a1ae-f8bf9b8f0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-08-04",
+          "magazine_date": "2022-08-05",
+          "title": "מנהיג אל־קאעדה מחוסל. זו ההזדמנות שלך, סמנכ\"ל התוכן!",
+          "og_image": "https://img.haarets.co.il/bs/00000182-68bd-d9e1-a1ae-f8bf9b8f0000/3f/4f/eb236229478ebb084ab7411ddb11/mid-2.jpg?precrop=2000%2C1163%2Cx0%2Cy87&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2022-08-03/ty-article-magazine/.premium/00000182-5f9c-dc23-a586-dffc543f0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2022-08-03",
+          "magazine_date": "2022-08-05",
+          "title": "\"יש לך חוצפה, דור מיכה, להשוות את עצמך לאייל גולן\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-5faf-ded6-addb-5fafbf1c0000/fa/ed/dcbcc47e409f99a81f9f6e43f28a/514143-2.jpg?precrop=1601,932,x0,y77&height=630&width=1200&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-08-03/ty-article-20q/.highlight/00000182-5f51-dc23-a586-df79a5590000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-08-03",
+          "magazine_date": "2022-08-05",
+          "title": "מי נהג לומר: \"מי שלא אוהב את זה - שישתה מהים של עזה\"?",
+          "og_image": "https://img.haarets.co.il/bs/00000182-5f51-dc23-a586-df79a5590000/19/35/7548bd2c4ccab5004a756bb62cb7/781343.jpg?precrop=2200%2C1279%2Cx0%2Cy121&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2022-08-04/ty-article-magazine/.premium/00000182-68ad-dedd-a1c3-7eed5e750000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2022-08-04",
+          "magazine_date": "2022-08-05",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 5.8.2022",
+          "og_image": "https://img.haarets.co.il/bs/00000182-68ad-dedd-a1c3-7eed5e750000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2022-08-04/ty-article/.premium/00000182-6824-d9aa-af97-fe25075f0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2022-08-04",
+          "magazine_date": "2022-08-05",
+          "title": "קדחת שחמט בהודו",
+          "og_image": "https://img.haarets.co.il/bs/00000182-6824-d9aa-af97-fe25075f0000/43/2b/d2c83982410e938109db70b448b7/47990411.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2022-08-04/ty-article/.premium/00000182-6a1f-d2f5-a3e6-ef1f90730000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2022-08-04",
+          "magazine_date": "2022-08-05",
+          "title": "טיסה למאדים - בשנה הבאה?",
+          "og_image": "https://img.haarets.co.il/bs/00000182-6a1f-d2f5-a3e6-ef1f90730000/1d/ac/c89629194928b3437bef5c37063f/fam.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-07-31/ty-article/00000182-538d-d5a9-a1cb-d3dfffac0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-07-31",
+          "magazine_date": "2022-08-05",
+          "title": "\"מה אספר לילדים, שהיתה מלחמה ולא השתתפתי\"?",
+          "og_image": "https://img.haarets.co.il/bs/00000182-538d-d5a9-a1cb-d3dfffac0000/ad/c7/91e85e8c4fb2aecad6391f82522a/294938610-10158934974284053-8566880219467405272-n.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-08-04/ty-article/00000182-6973-d2f5-a3e6-ed7f964d0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-08-04",
+          "magazine_date": "2022-08-05",
+          "title": "\"היה מסוכן לרדת בחבלים למערות, אבל מצאו שם דברים יוצאים מן הכלל\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-6973-d2f5-a3e6-ed7f964d0000/f1/5b/7519c28b7d6095d7578579e0aa82/3635052485.jpg?precrop=2200%2C1279%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-08-03/ty-article/.highlight/00000182-63f0-d206-a3d3-e3ff83510000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-08-03",
+          "magazine_date": "2022-08-05",
+          "title": "כשאני ניצב לצד תושבים פלסטינים, אני פלמ\"חניק",
+          "og_image": "https://img.haarets.co.il/bs/00000182-63f0-d206-a3d3-e3ff83510000/9d/97/f59aebf945e89fa2e37f80824ad1/1.jpg?precrop=2144%2C1247%2Cx0%2Cy10&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

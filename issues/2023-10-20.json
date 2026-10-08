@@ -1,0 +1,343 @@
+{
+  "magazine_date": "2023-10-20",
+  "total_articles": 26,
+  "cover_image": "https://img.haarets.co.il/bs/0000018b-4560-de3d-a58f-cd69fb730001/88/52/165be66542beba18f84a0ecd3b3e/frontpage.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2023-10-19/ty-article-magazine/.highlight/0000018b-4555-d614-abcf-ed7772420000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-10-17/ty-article/.highlight/0000018b-394d-d450-a3af-795dfe070000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-10-17",
+          "magazine_date": "2023-10-20",
+          "title": "אביה של נועה ארגמני, שנחטפה לעזה על אופנוע: \"גם להורים בעזה כואב\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-394d-d450-a3af-795dfe070000/ae/80/8b5414734fde9b7518cbc30926d7/53971917.JPG?precrop=383%2C222%2Cx152%2Cy151&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-10-18/ty-article-magazine/.highlight/0000018b-4244-df22-a5eb-4b7dbd4f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-10-18",
+          "magazine_date": "2023-10-20",
+          "title": "איך משקמים נפש של חברה? ראיון עם אחד מגדולי המומחים לטראומה קולקטיבית",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-4244-df22-a5eb-4b7dbd4f0000/56/2a/45e656524e98a66d51c7d80c78d6/57327.jpg?precrop=1603%2C932%2Cx0%2Cy371&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-10-18/ty-article-magazine/.highlight/0000018b-4245-d881-abab-efcd51b70000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-10-18",
+          "magazine_date": "2023-10-20",
+          "title": "\"כל הפינוי הזה ממטולה, לאן בדיוק? את באמת חושבת שבגבעתיים יותר בטוח?\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-4245-d881-abab-efcd51b70000/3c/91/583fd003476db1f41212b7022895/53985617.JPG?precrop=5340%2C3105%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-10-18/ty-article-magazine/.highlight/0000018b-4340-d614-abcf-eb734d210000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-10-18",
+          "magazine_date": "2023-10-20",
+          "title": "\"חלון הזמן לשחרור החטופים מצומצם ביותר. צריך לסיים את זה בתוך שבוע\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-4340-d614-abcf-eb734d210000/c4/f6/31c872a946538a521e0b2aaf7215/57306.jpg?precrop=1603%2C932%2Cx0%2Cy600&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-10-18/ty-article-magazine/.highlight/0000018b-43ca-de3d-a58f-cbeb3c0f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-10-18",
+          "magazine_date": "2023-10-20",
+          "title": "לוקח זמן לקבור משפחה שלמה",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-43ca-de3d-a58f-cbeb3c0f0000/7b/23/92c1f6bf41f3ba25bff804d61f95/61245-2.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-10-18/ty-article/.highlight/0000018b-42c1-d881-abab-efc9c0620000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-10-18",
+          "magazine_date": "2023-10-20",
+          "title": "המסעדנים התגייסו למען החיילים, וחשפו את הכשלים בשרשרת אספקת המזון",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-42c1-d881-abab-efc9c0620000/51/1f/7fa7989842a8bd468c884c8d7822/53992165.JPG?precrop=4952%2C2879%2Cx130%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-10-19/ty-article-magazine/.highlight/0000018b-4245-d881-abab-efcdaa8d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-10-19",
+          "magazine_date": "2023-10-20",
+          "title": "האם חמאס באמת זהה לדאעש? שיחות עם 12 מומחים שחקרו את התנועה",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-4245-d881-abab-efcdaa8d0000/2a/1b/54ba76ea4583a0c04b2a12c76b1a/54007347.JPG?precrop=3342%2C1943%2Cx0%2Cy160&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-10-19/ty-article-magazine/.highlight/0000018b-4555-d614-abcf-ed7772420000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-10-19",
+          "magazine_date": "2023-10-20",
+          "title": "קומץ מפקדים הצילו בגופם 90 טירונים. סיפורו של הקרב ההירואי בזיקים",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-4555-d614-abcf-ed7772420000/7e/03/836dd3264cf8a49cf2c568299254/53984697.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-10-19/ty-article/.highlight/0000018b-4711-df22-a5eb-4f796f0f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-10-19",
+          "magazine_date": "2023-10-20",
+          "title": "אפילו כשנתניהו מצטט את מילותיו של ביאליק אפשר לקרוא לזה פייק ניוז",
+          "og_image": "https://gif.haarets.co.il/bs/0000018b-4711-df22-a5eb-4f796f0f0000/42/1a/1b83aba44a18a9e4c9c90d320e85/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-10-18/ty-article/.highlight/0000018b-42a9-d881-abab-efa9baf80000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-10-18",
+          "magazine_date": "2023-10-20",
+          "title": "מי שמפקיר 200 שבויים בעזה מחסל את הבסיס האחרון של החברה בישראל",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-42a9-d881-abab-efa9baf80000/2d/ec/296e26674c969c006d22b03d6655/44616.jpg?precrop=2200%2C1280%2Cx0%2Cy86&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-10-18/ty-article/0000018b-4325-d614-abcf-eb77232e0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-10-18",
+          "magazine_date": "2023-10-20",
+          "title": "נקמה אישית יכולה להיות מוצדקת. במישור הלאומי זה כבר נראה אחרת",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-4325-d614-abcf-eb77232e0000/cf/c7/95e75ba94d5b9840b4c3b1b0a932/76285.jpg?precrop=2400%2C1395%2Cx0%2Cy121&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-10-18/ty-article/.highlight/0000018b-4340-d614-abcf-eb7367210000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-10-18",
+          "magazine_date": "2023-10-20",
+          "title": "מרוב ביקורת על ישראל, בשמאל העולמי יש מי שפתאום תומכים בחמאס",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-4340-d614-abcf-eb7367210000/a4/56/8216b1f34a86893772c34605bca8/blmmm.jpg?precrop=1638%2C952%2Cx0%2Cy684&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2023-10-18/ty-article/.highlight/0000018b-42e3-d881-abab-efeb650e0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2023-10-18",
+          "magazine_date": "2023-10-20",
+          "title": "ישראל שינתה את פניה בפתאומיות, ולחלקנו לא יהיה בה מקום",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-42e3-d881-abab-efeb650e0000/7a/4d/76b9d47342ae9ec1e786d39c6307/56.jpg?precrop=2922%2C1699%2Cx0%2Cy1620&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2023-10-19/ty-article-face/.highlight/0000018b-44c4-df22-a5eb-4dfde8d90000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2023-10-19",
+          "magazine_date": "2023-10-20",
+          "title": "נורה ליפשיץ",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-44c4-df22-a5eb-4dfde8d90000/fd/bb/875559354329ab10b9cbcbb9e375/facetemplate1800x1200-1.jpg?precrop=1800%2C1046%2Cx0%2Cy87&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2023-10-18/ty-article-magazine/.highlight/0000018b-4300-d614-abcf-eb737ab90000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2023-10-18",
+          "magazine_date": "2023-10-20",
+          "title": "\"הלכנו למדיטציה בדרמסאלה, ופתאום התחילו הטלפונים מהארץ\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-4300-d614-abcf-eb737ab90000/7a/b3/bc836065406eb9afe358859ff99a/53989593.JPG?precrop=8192%2C4763%2Cx0%2Cy626&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2023-10-18/ty-article/.highlight/0000018b-430b-de3d-a58f-cb6b282b0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2023-10-18",
+          "magazine_date": "2023-10-20",
+          "title": "ניר חפץ, משה קלוגהפט ורונן צור הם חלק ממכונת הרעל שהשתלטה על ישראל",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-430b-de3d-a58f-cb6b282b0000/ba/40/88992cf54ccababb3d667a497df4/54011411.JPG?precrop=3521%2C2046%2Cx0%2Cy133&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2023-10-19/ty-article-magazine/.highlight/0000018b-4752-df22-a5eb-4f7b56d50000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2023-10-19",
+          "magazine_date": "2023-10-20",
+          "title": "אה, אתם עוד פה?",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-4752-df22-a5eb-4f7b56d50000/be/95/7d30d3834908a6e7c9e96f8281d7/mid-2.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2023-10-19/ty-article-magazine/.highlight/0000018b-44ca-d242-abef-56ee1e9e0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2023-10-19",
+          "magazine_date": "2023-10-20",
+          "title": "\"אנחנו תשעה חודשים בשלטון, לפנינו היתה ממשלה אחרת במשך כמעט שנתיים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000189-b6f9-d20c-addf-f6fbaae90000/41/55/c0dba96847b892474d623491f9e9/793846.jpg?height=630&width=1200&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2023-10-19/ty-article-20q/.highlight/0000018b-44ad-df22-a5eb-4dfd030d0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2023-10-19",
+          "magazine_date": "2023-10-20",
+          "title": "מי האדריכל שתיכנן את כנסיית סגרדה פמיליה בברצלונה?",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-44ad-df22-a5eb-4dfd030d0000/96/d1/6590d86e4cc296b0b6923a5d21f1/392534.jpg?precrop=2200%2C1279%2Cx0%2Cy143&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2023-10-19/ty-article-magazine/.premium/0000018b-46b5-de3d-a58f-cefdda600000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2023-10-19",
+          "magazine_date": "2023-10-20",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 20.10.2023",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-46b5-de3d-a58f-cefdda600000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2023-10-19/ty-article/.premium/0000018b-46ae-df22-a5eb-4fff74d20000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2023-10-19",
+          "magazine_date": "2023-10-20",
+          "title": "קרב מופת",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-46ae-df22-a5eb-4fff74d20000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2023-10-19/ty-article/.premium/0000018b-4750-d242-abef-577605630000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2023-10-19",
+          "magazine_date": "2023-10-20",
+          "title": "השרים יתרמו משכורת חודש",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-4750-d242-abef-577605630000/25/16/eb36d0ba451ca6793b0f72b01914/fam.jpg?precrop=1250%2C727%2Cx0%2Cy2699&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2023-10-16/ty-article/0000018b-3831-d450-a3af-793d42d50000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2023-10-16",
+          "magazine_date": "2023-10-20",
+          "title": "\"חזק ואמץ! להתראות אחר הניצחון\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-3831-d450-a3af-793d42d50000/40/04/de17139b45e4954490fa0687f82b/3.JPG?precrop=656%2C381%2Cx0%2Cy75&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2023-10-19/ty-article/0000018b-486d-d5d2-afef-ccfd40c10000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2023-10-19",
+          "magazine_date": "2023-10-20",
+          "title": "הקודיקולוג המלומד התלונן: הילדים מרעישים בספריה הלאומית",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-486d-d5d2-afef-ccfd40c10000/4a/16/8ca1cae342e283a1e68f1f6039be/1.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2023-10-19/ty-article/.premium/0000018b-46bc-d614-abcf-eeff78860000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2023-10-19",
+          "magazine_date": "2023-10-20",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-46bc-d614-abcf-eeff78860000/6d/6a/4549bfd3448cbec5c0c316749a93/ribooa-musaf-543.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2023-10-18/ty-article/.highlight/0000018b-4325-df22-a5eb-4b7d08d60000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2023-10-18",
+          "magazine_date": "2023-10-20",
+          "title": "אנחנו נלחמים על החזרת האמת לחיינו",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-4325-df22-a5eb-4b7d08d60000/0a/62/48f892074e81b0cdf2e9e06f933e/56669.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

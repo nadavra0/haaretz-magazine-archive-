@@ -1,0 +1,373 @@
+{
+  "magazine_date": "2023-09-01",
+  "total_articles": 28,
+  "cover_image": "https://img.haarets.co.il/bs/0000018a-4740-dbb0-a58e-f7fa2da50001/0b/c8/aaab19824643ace392453e6c4002/frontpgae.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2023-08-30/ty-article-magazine/.highlight/0000018a-45c6-dbb1-a1ff-45debfad0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-08-28/ty-article/.highlight/0000018a-3bc4-d807-a58f-bfde16ac0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-08-28",
+          "magazine_date": "2023-09-01",
+          "title": "26 שנים אתה בתפקיד ולא הצלחת לשפר את מעמד המורים. \"אין יותר טוב ממני!\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-3bc4-d807-a58f-bfde16ac0000/64/26/a6396af84968be616bcb69c60cf7/53291274.JPG?precrop=2880%2C1674%2Cx0%2Cy216&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-08-30/ty-article-magazine/.highlight/0000018a-45c1-dfe7-abef-e7f5cc8e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-08-30",
+          "magazine_date": "2023-09-01",
+          "title": "פתאום כולם ערומים: הקיץ הזה, תל אביב נהפכה לעיר על הרצף הנודיסטי",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-45c1-dfe7-abef-e7f5cc8e0000/22/ec/aa572cb34f439230104fd936415f/67140.jpg?precrop=1604%2C933%2Cx0%2Cy235&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-08-30/ty-article-magazine/.highlight/0000018a-45c6-dbb1-a1ff-45debfad0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-08-30",
+          "magazine_date": "2023-09-01",
+          "title": "אומרות כן להפרדה מגדרית: כן, בישראל משגשג בית ספר חילוני לבנות בלבד",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-45c6-dbb1-a1ff-45debfad0000/af/74/13604e8c427d9738d1e6f856e979/31519.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-08-30/ty-article-magazine/.highlight/0000018a-470f-dff3-a3ba-c7af4d670000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-08-30",
+          "magazine_date": "2023-09-01",
+          "title": "אם שופטי בג\"ץ יפחדו לקבל החלטה אמיצה, הם ייתנו מכת מוות לדמוקרטיה",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-470f-dff3-a3ba-c7af4d670000/39/ae/9125b566445289f03f0f31714c1d/42612-2.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-08-30/ty-article-magazine/.highlight/0000018a-4711-d252-abdf-577d506a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-08-30",
+          "magazine_date": "2023-09-01",
+          "title": "השמים מאדימים, תחושת המחנק אפוקליפטית. אנחנו בתחילתו של עידן השריפות",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-4711-d252-abdf-577d506a0000/74/86/65f6261847da9ff3840020fa88b4/34659.jpg?precrop=2400%2C1396%2Cx0%2Cy120&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-08-30/ty-article-magazine/.highlight/0000018a-4713-d6ae-a5da-df37c1410000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-08-30",
+          "magazine_date": "2023-09-01",
+          "title": "במשך שנתיים צפיתי באלימות של נוער הגבעות. מה שראיתי מעורר בחילה",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-4713-d6ae-a5da-df37c1410000/9c/18/f26cc29d403c9493b32953c167f1/53305972.JPG?precrop=1536%2C893%2Cx0%2Cy182&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-08-31/ty-article/.highlight/0000018a-4a80-d0ea-a7ab-daef76f90000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-08-31",
+          "magazine_date": "2023-09-01",
+          "title": "משהו בתחקיר, כביכול, של אילה חסון הזכיר לי את אבא שלי",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-4a80-d0ea-a7ab-daef76f90000/37/01/dfb56140411da60ee8f041a49142/1-9-23-2.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-08-30/ty-article/.highlight/0000018a-45dc-dbb1-a1ff-45dc44470000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-08-30",
+          "magazine_date": "2023-09-01",
+          "title": "ביום שאחרי ברבי, לא די לעסוק ב\"גברים מול נשים\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-45dc-dbb1-a1ff-45dc44470000/fe/6a/5984c678452b8a9b8c2be0637dc1/888292.jpg?precrop=2226%2C1294%2Cx97%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-08-30/ty-article/.highlight/0000018a-45e3-d58d-abda-cdff06fd0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-08-30",
+          "magazine_date": "2023-09-01",
+          "title": "בתי הספר נכשלו? מתברר שבכל זאת למדנו משהו על דמוקרטיה",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-45e3-d58d-abda-cdff06fd0000/be/1b/e8e12eca49a49c6aad5667990efe/07837.jpg?precrop=2400%2C1395%2Cx0%2Cy76&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-08-30/ty-article/.highlight/0000018a-463c-d4bd-a9bf-4eff32c60000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-08-30",
+          "magazine_date": "2023-09-01",
+          "title": "יואל הופמן סירב להיות המורה שלי. בדיוק בשל כך הוא היה מורה קפדן במיוחד",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-463c-d4bd-a9bf-4eff32c60000/22/25/9ccd456f4eb2a9bbd852fc429327/53310970.JPG?precrop=836%2C486%2Cx0%2Cy288&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-08-30/ty-article/.highlight/0000018a-4645-d4bd-a9bf-4eef56c30000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-08-30",
+          "magazine_date": "2023-09-01",
+          "title": "בצלו של אחד מהאסונות הגדולים בהיסטוריה, התרחש גם טבח המוני",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-4645-d4bd-a9bf-4eef56c30000/1c/24/d7b57fbd46e191cb42ce57e57a08/53305458.JPG?precrop=5044%2C2933%2Cx0%2Cy186&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-08-30/ty-article/.highlight/0000018a-466a-d6d4-abfb-cfee492a0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-08-30",
+          "magazine_date": "2023-09-01",
+          "title": "כולם בממשלה מודעים להיקף הנזק, אך איש אינו פוצה פה",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-466a-d6d4-abfb-cfee492a0000/38/35/cfd65ce74188a603d073ce2cc247/53291947.JPG?precrop=8333%2C4845%2Cx0%2Cy919&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2023-08-30/ty-article/.highlight/0000018a-465e-da0e-a5ee-f6fe1a760000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2023-08-30",
+          "magazine_date": "2023-09-01",
+          "title": "עבור רובנו, הילדות היא ההזדמנות האחרונה להתעניין בדברים לא חשובים",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-465e-da0e-a5ee-f6fe1a760000/41/7c/51b6e832421091641eccd7620aed/53305845.JPG?precrop=2565%2C1491%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2023-08-31/ty-article-face/.highlight/0000018a-4c03-d775-a79a-5d93d04a0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2023-08-31",
+          "magazine_date": "2023-09-01",
+          "title": "\"העיסוק בהומור נראה מבחוץ כיפי וקליל, אבל יש לו מחיר נפשי גדול\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-4c03-d775-a79a-5d93d04a0000/d8/0d/c7a418564a03ae72fc30a9ab0f87/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2023-08-30/ty-article-magazine/.highlight/0000018a-46af-d13a-afea-6eaffbe90000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2023-08-30",
+          "magazine_date": "2023-09-01",
+          "title": "\"חבל שלא תפסתם אותי כאן בפעם הקודמת, חיכה לי פה אמבולנס\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-46af-d13a-afea-6eaffbe90000/ad/72/11dad3564676b99f8b99418b3f9d/53295680.JPG?precrop=8192%2C4763%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2023-08-30/ty-article/.highlight/0000018a-46c3-d252-abdf-57ef89a70000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2023-08-30",
+          "magazine_date": "2023-09-01",
+          "title": "השרה/ התברכה/ בפה/ ג'ורה: קריאה מודרכת בשירה מודרנית מאת רני רהב",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-46c3-d252-abdf-57ef89a70000/eb/fd/cfd98198d43e08a27a315ebab871/1330826937.jpg?precrop=2239%2C1300%2Cx50%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2023-08-31/ty-article-magazine/.premium/0000018a-4ac5-d252-abdf-5bedf09e0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2023-08-31",
+          "magazine_date": "2023-09-01",
+          "title": "יוקר המחיה בישראל הוא הגבוה במערב. התעמלות אמנותית כולם יכולים",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-4ac5-d252-abdf-5bedf09e0000/79/75/fdfbc78349bcb6ff65b52d7eca4d/koteret.jpg?precrop=2000%2C1163%2Cx0%2Cy408&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2023-08-31/ty-article-magazine/.highlight/0000018a-4c34-d252-abdf-5d7c3a8b0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2023-08-31",
+          "magazine_date": "2023-09-01",
+          "title": "\"אלי כהן שר החוץ הכי טוב שהיה כאן\"",
+          "og_image": "https://img.haarets.co.il/bs/00000185-3a9d-dc10-a7d7-7eff856b0000/a9/ad/72eb94e547da8f456ee53dface7f/602387.jpg?precrop=2400,1395,x0,y0&height=630&width=1200&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2023-08-31/ty-article-20q/.highlight/0000018a-4523-dfe7-abef-e7375ed40000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2023-08-31",
+          "magazine_date": "2023-09-01",
+          "title": "בין אילו שתי מדינות עובר הגבול הארוך בעולם?",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-4523-dfe7-abef-e7375ed40000/08/64/4310427e4b578aa45a624e90d9f2/041336-042476-2.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2023-08-31/ty-article-magazine/.highlight/0000018a-4675-d8fa-adee-cff52f420001",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2023-08-31",
+          "magazine_date": "2023-09-01",
+          "title": "וריאציות בנושא בייגל: שלושה מתכונים לבייגל ביתי שימתיק את החיים",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-4675-d8fa-adee-cff52f420001/c5/4b/4274387942958955ea2b5c7f16d8/53307481.JPG?precrop=7706%2C4482%2Cx0%2Cy445&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2023-08-31/ty-article-magazine/.premium/0000018a-4aba-d775-a79a-5fbb02b00000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2023-08-31",
+          "magazine_date": "2023-09-01",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 1.9.2023",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-4aba-d775-a79a-5fbb02b00000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2023-08-31/ty-article/.premium/0000018a-4a96-d6ae-a5da-deb66dca0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2023-08-31",
+          "magazine_date": "2023-09-01",
+          "title": "קרלסן לא איכזב",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-4a96-d6ae-a5da-deb66dca0000/a1/f6/353957cd472fb00745cbb72c2f0c/64002.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2023-08-31/ty-article/.premium/0000018a-4b21-d845-adfe-fb61d8620000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2023-08-31",
+          "magazine_date": "2023-09-01",
+          "title": "התנגשויות בין דתיים לחופשיים בירושלים",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-4b21-d845-adfe-fb61d8620000/1a/2c/2698a6ee49789fa24fde4bf8d8ee/meforsamot.jpg?precrop=1250%2C727%2Cx0%2Cy163&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2023-09-01/ty-article/0000018a-5261-d845-adfe-f261f2410000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2023-09-01",
+          "magazine_date": "2023-09-01",
+          "title": "ביולוג, אוקיינוגרף וחוקר פורץ דרך: \"היו לו רעיונות טובים ועצות טובות\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-5261-d845-adfe-f261f2410000/38/75/de0a112f41da9e8aa6e56c35a88f/img-20230831-wa0015.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2023-08-27/ty-article/.premium/0000018a-273f-da97-a7cb-67bf75df0000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2023-08-27",
+          "magazine_date": "2023-09-01",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-273f-da97-a7cb-67bf75df0000/5e/ec/0934977f4ca48bec33fb8ff71d3b/30779-t64e4d16f-m800-xm2cl13gk.jpg?precrop=800%2C465%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2023-08-27/ty-article/0000018a-273b-df73-a5eb-7f3bcf370000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2023-08-27",
+          "magazine_date": "2023-09-01",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-273b-df73-a5eb-7f3bcf370000/f5/9a/55f8695a4b1687301ad90a807182/ribooa-musaf-535-new-1.jpg?precrop=1083%2C630%2Cx0%2Cy101&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2023-08-31/ty-article/.premium/0000018a-4ac2-db37-a3af-cbfa28430000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2023-08-31",
+          "magazine_date": "2023-09-01",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-4ac2-db37-a3af-cbfa28430000/95/17/c012af6649e0827a24ebec285b39/ribooa-musaf-536-new-new.jpg?precrop=1083%2C630%2Cx0%2Cy31&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2023-08-30/ty-article/.highlight/0000018a-46e3-d252-abdf-57ef07ff0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2023-08-30",
+          "magazine_date": "2023-09-01",
+          "title": "לא ננטוש ספינה במצוקה",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-46e3-d252-abdf-57ef07ff0000/32/bf/3fa8fce646ef9273f298962a3c9f/29363-2.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

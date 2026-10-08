@@ -1,0 +1,348 @@
+{
+  "magazine_date": "2023-09-15",
+  "total_articles": 26,
+  "cover_image": "https://img.haarets.co.il/bs/0000018a-9079-d077-a7da-f37bff380001/ba/5a/ec95bac14fc2a5dd7f97934e977f/frontpgae.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2023-09-14/ty-article-magazine/.highlight/0000018a-8e53-d077-a7da-ef5b1faa0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-09-13/ty-article-magazine/.highlight/0000018a-8b44-d2f8-adaf-ebd443a60000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-09-13",
+          "magazine_date": "2023-09-15",
+          "title": "\"ההרס כאן היה כה אלים. כישראלים, רצינו לדעת מה נעשה בשמנו\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-8b44-d2f8-adaf-ebd443a60000/e1/55/fef9c847499681201331ea7ce08b/10552.jpg?precrop=2400%2C1396%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-09-13/ty-article-magazine/.highlight/0000018a-8e98-d077-a7da-ef9b2f9f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-09-13",
+          "magazine_date": "2023-09-15",
+          "title": "קל ליפול לייאוש בגלל המגמות הדמוגרפיות. כמה נוח, כמה שגוי",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-8e98-d077-a7da-ef9b2f9f0000/6b/d5/ddb5155c43cba68a7396f8761b13/49698.jpg?precrop=2400%2C1395%2Cx0%2Cy142&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-09-13/ty-article-magazine/.highlight/0000018a-8e98-d8f7-abcb-defdbdfe0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-09-13",
+          "magazine_date": "2023-09-15",
+          "title": "כשהשופטים קמו אחרי 13 שעות, ראינו איך ההיסטוריה התיישבה להם על הכתפיים",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-8e98-d8f7-abcb-defdbdfe0000/79/5a/4a7ecfb6468aae219bd12a811380/nuri.jpg?precrop=1399%2C813%2Cx616%2Cy414&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-09-13/ty-article/.highlight/0000018a-8e95-d715-a3aa-ffbd12a00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-09-13",
+          "magazine_date": "2023-09-15",
+          "title": "נתניהו יכול  לעצור את ההפיכה בעצמו. על מה יש לדבר? \"אולי צריך רפורמה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-8e95-d715-a3aa-ffbd12a00000/f4/4e/ddac3b1a4345875d22661eda8572/53507177.JPG?precrop=746%2C434%2Cx217%2Cy98&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-09-13/ty-article/.highlight/0000018a-8ea7-df2f-a1de-9fb7ffc50000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-09-13",
+          "magazine_date": "2023-09-15",
+          "title": "העתירה שהגשתי הוקפאה, אז צפיתי בדיון בבג\"צ מהבית. זה היה סוריאליסטי",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-8ea7-df2f-a1de-9fb7ffc50000/77/ab/76d23f28492aadb629e710f0ead2/sss.png?precrop=886%2C515%2Cx1%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-09-13/ty-article/.highlight/0000018a-8f54-d5cd-a3cb-affcddd60000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-09-13",
+          "magazine_date": "2023-09-15",
+          "title": "מה אפשר ללמוד מההתנצחות המטופשת בין נתניהו לישראל אייכלר",
+          "og_image": "https://gif.haarets.co.il/bs/0000018a-8f54-d5cd-a3cb-affcddd60000/5c/5e/4133d8cd460ab993e8851ad254c6/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-09-14/ty-article-magazine/.highlight/0000018a-8b44-dd09-a3ba-ffe405160000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-09-14",
+          "magazine_date": "2023-09-15",
+          "title": "תמי רצתה תינוקת. טליה רצתה מזוודה של כסף. ככה הסיפור שלהן התחיל",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-8b44-dd09-a3ba-ffe405160000/d3/52/f119146441f4981e5f27af80da18/53478000.JPG?precrop=1224%2C711%2Cx0%2Cy88&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-09-14/ty-article-magazine/.highlight/0000018a-8e53-d077-a7da-ef5b1faa0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-09-14",
+          "magazine_date": "2023-09-15",
+          "title": "חברות ישראליות פיתחו יכולת ריגול מבהילה, והפעם אין דרך להתגונן",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-8e53-d077-a7da-ef5b1faa0000/28/d6/0c8b10fd460a90f05ec58f1ec0ad/ffsadfs.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-09-14/ty-article-magazine/.highlight/0000018a-8e93-d8f7-abcb-def7c4500000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-09-14",
+          "magazine_date": "2023-09-15",
+          "title": "בכנס שוקק לדור ה-Y גיליתי מה יש לצעירים הישראלים בראש",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-8e93-d8f7-abcb-def7c4500000/81/5a/3dd3a6934e8294a3c48f1df0c0e0/53490028.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-09-14/ty-article/.highlight/0000018a-9092-d5cd-a3cb-bdfecde50000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-09-14",
+          "magazine_date": "2023-09-15",
+          "title": "נתניהו לא למד את הלקח של אופנהיימר",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-9092-d5cd-a3cb-bdfecde50000/52/a7/03fddc074618988d6655792cdca0/opp.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-09-14/ty-article/.highlight/0000018a-938d-d077-a7da-f38fbd2e0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-09-14",
+          "magazine_date": "2023-09-15",
+          "title": "הוא אולי מח\"ט חמוש, אבל הוא לא מסוגל להפחיד אף אחד",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-938d-d077-a7da-f38fbd2e0000/e0/d6/4b7fec6d4ce8a67816c4e1b50aac/09559.jpg?precrop=1360%2C791%2Cx421%2Cy811&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2023-09-14/ty-article/.highlight/0000018a-93bf-de77-a98f-ffff38860000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2023-09-14",
+          "magazine_date": "2023-09-15",
+          "title": "יום אחד, גם אני אתהלך כמו רוח רפאים",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-93bf-de77-a98f-ffff38860000/69/dc/283b968d409ca4c1a70624b8664f/132214.jpg?precrop=1468%2C853%2Cx0%2Cy855&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2023-09-14/ty-article-face/.highlight/0000018a-9436-de77-a98f-feff57eb0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2023-09-14",
+          "magazine_date": "2023-09-15",
+          "title": "\"הייתי מקשיב לזוהר ארגוב מתחת לשמיכה כדי לא להפריע לאח שלי\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-9436-de77-a98f-feff57eb0000/71/61/53fe947d443ba12bf69e70422420/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2023-09-13/ty-article-magazine/.highlight/0000018a-8eb4-d715-a3aa-ffbdf0d00000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2023-09-13",
+          "magazine_date": "2023-09-15",
+          "title": "\"רק אחרי עשר שנים באמריקה התחלנו להרגיש בבית\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-8eb4-d715-a3aa-ffbdf0d00000/26/24/4abb3b0242de93a9a34c1107e5a2/53475311.JPG?precrop=8192%2C4763%2Cx0%2Cy357&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2023-09-14/ty-article-magazine/.highlight/0000018a-929b-dd03-a59f-939b2bea0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2023-09-14",
+          "magazine_date": "2023-09-15",
+          "title": "מגלי בהרב־מיארה ועד \"תיק קטן\": ועדת המדרוג מסכמת שנה",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-929b-dd03-a59f-939b2bea0000/fe/81/7d30b8a34639805bba49a8d325cd/mid-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2023-09-14/ty-article-magazine/.highlight/0000018a-943c-d05a-abfe-fc3c8c1b0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2023-09-14",
+          "magazine_date": "2023-09-15",
+          "title": "\"הקדוש ברוך הוא מצפה מאיתנו לקחת את עצמנו בידיים\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-949e-d05a-abfe-fcbe21730000/cd/d2/59089b1f4199b8ff14216f6e8648/11220.jpg?height=630&width=1200&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2023-09-14/ty-article-20q/.highlight/0000018a-908a-d05a-abfe-fcaebb6e0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2023-09-14",
+          "magazine_date": "2023-09-15",
+          "title": "בסרט \"אפס ביחסי אנוש\", באיזה משחק מנסה דאנה איבגי לשבור שיאים?",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-908a-d05a-abfe-fcaebb6e0000/50/17/43ccd4c84c639a1ca878de4b55b6/677425.jpg?precrop=2129%2C1238%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2023-09-14/ty-article-magazine/.highlight/0000018a-93d6-dd03-a59f-93d7be860000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2023-09-14",
+          "magazine_date": "2023-09-15",
+          "title": "לחם שחור עם חמאה, כמו בחלומות: השיפון הטוב בארץ נמצא ביפו",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-93d6-dd03-a59f-93d7be860000/d0/40/f615c14f4c23bd4a341dadb8a1cc/55033.jpg?precrop=1716%2C997%2Cx0%2Cy618&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2023-09-14/ty-article-magazine/.premium/0000018a-9276-dd03-a59f-93f7a1ab0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2023-09-14",
+          "magazine_date": "2023-09-15",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 15.9.2023",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-9276-dd03-a59f-93f7a1ab0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2023-09-14/ty-article/.premium/0000018a-926a-d077-a7da-f36bb5140000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2023-09-14",
+          "magazine_date": "2023-09-15",
+          "title": "חגיגה בהודו",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-926a-d077-a7da-f36bb5140000/c9/34/e29b5cf7402dbb964308b066886e/ch.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2023-09-14/ty-article/.premium/0000018a-9289-d077-a7da-f38b68b60000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2023-09-14",
+          "magazine_date": "2023-09-15",
+          "title": "הדיסקוטק באוושויץ ייסגר; במקומו ייבנה קניון",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-9289-d077-a7da-f38b68b60000/66/98/9ba1f6244ec7b115dbffacbeef09/fam.jpg?precrop=1250%2C727%2Cx0%2Cy3147&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2023-09-09/ty-article/0000018a-79de-dfd9-ad9f-fdfeda680000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2023-09-09",
+          "magazine_date": "2023-09-15",
+          "title": "רק בגיל 90 ניגנו את יצירותיו. החודש מת בן 103",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-79de-dfd9-ad9f-fdfeda680000/9f/83/bbcaa4b34dad9d0974046bdc734f/walter.jpg?precrop=1179%2C686%2Cx0%2Cy105&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2023-09-14/ty-article/0000018a-9505-d7d0-a9ca-9dbd5db30000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2023-09-14",
+          "magazine_date": "2023-09-15",
+          "title": "העיתונאי וסוכן המוסד שהרגיז את נשיא צרפת: גיל קיסרי מת בן 92",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-9505-d7d0-a9ca-9dbd5db30000/dc/36/f45a315a4820801e01ee49380443/gil-and-uri-keisary.webp?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2023-09-14/ty-article/.premium/0000018a-9281-d8f7-abcb-daf5bf540000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2023-09-14",
+          "magazine_date": "2023-09-15",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-9281-d8f7-abcb-daf5bf540000/d8/4d/914c0d17462aa936f21b35080508/caro-reg.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2023-09-14/ty-article/.premium/0000018a-928d-dd03-a59f-939fbf7a0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2023-09-14",
+          "magazine_date": "2023-09-15",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-928d-dd03-a59f-939fbf7a0000/c8/f4/872506bc495cb75e37ed2e296c06/ribooa-musaf-538-new.jpg?precrop=1083%2C630%2Cx0%2Cy258&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2023-09-13/ty-article/0000018a-8f1b-d715-a3aa-ffbf2de90000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2023-09-13",
+          "magazine_date": "2023-09-15",
+          "title": "אלוף בן, למה אתה נותן הנחות לממשלת נתניהו?",
+          "og_image": "https://img.haarets.co.il/bs/0000018a-8f1b-d715-a3aa-ffbf2de90000/65/88/4206147144c4bebc7400ac93d0d0/19247.jpg?precrop=1012%2C588%2Cx629%2Cy742&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

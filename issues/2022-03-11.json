@@ -1,0 +1,313 @@
+{
+  "magazine_date": "2022-03-11",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/0000017f-e2ed-d568-ad7f-f3ef5a0b0000/64/9d/2dd71a9056a79cb5e26b3528fd77/2089064069.jpg?&width=1500&height=1979&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2022-03-09/ty-article-magazine/.highlight/0000017f-e2ed-d568-ad7f-f3ef5e6b0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-03-09/ty-article-magazine/.highlight/0000017f-e2ed-d568-ad7f-f3ef5e6b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-03-09",
+          "magazine_date": "2022-03-11",
+          "title": "אני רואה משפחות שנמלטות ברגל. ההפצצות והירי סביבנו לא פוסקים",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e2ed-d568-ad7f-f3ef5e6b0000/cb/2a/f035ea865231ecc4de183753b36c/2639193304.jpg?precrop=1582%2C919%2Cx0%2Cy603&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-03-09/ty-article/.highlight/0000017f-e23c-d38f-a57f-e67ebb640000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-03-09",
+          "magazine_date": "2022-03-11",
+          "title": "אם אלה נשים משפיעות, אני לא רוצה להיות מושפעת",
+          "og_image": "https://gif.haarets.co.il/bs/0000017f-e23c-d38f-a57f-e67ebb640000/68/09/6a7aa03561c78d438fb50e97faed/3063850623.gif?precrop=1297%2C754%2Cx14%2Cy8&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/tozeret/parashat/2022-03-09/ty-article/.highlight/0000017f-e340-d9aa-afff-fb58bb450000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-03-09",
+          "magazine_date": "2022-03-11",
+          "title": "פרשת ויקלטו",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e340-d9aa-afff-fb58bb450000/df/4e/a27955355aea2074cad05bde642f/3079922817.jpg?precrop=2030%2C1178%2Cx0%2Cy48&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-03-10/ty-article-magazine/.highlight/0000017f-e2e7-d7b2-a77f-e3e77a570000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-03-10",
+          "magazine_date": "2022-03-11",
+          "title": "האם זו המגפה הראשונה שנגרמת על ידי הרשתות החברתיות?",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e2e7-d7b2-a77f-e3e77a570000/7e/47/234523782520dbb7b3aa238e6e7f/2308171041.jpg?precrop=1783%2C1035%2Cx169%2Cy21&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-03-10/ty-article-magazine/.highlight/0000017f-e2e9-d9aa-afff-fbf920890000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-03-10",
+          "magazine_date": "2022-03-11",
+          "title": "רפואה או פלצבו? מחקרים חלוציים חושפים מעט מהמסתורין של הדיקור הסיני",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e2e9-d9aa-afff-fbf920890000/93/23/0d0af801a03276b9440777a3a7b1/3723436701.jpg?precrop=1600%2C932%2Cx0%2Cy144&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-03-10/ty-article-magazine/.highlight/0000017f-e2ec-d804-ad7f-f3fecdc00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-03-10",
+          "magazine_date": "2022-03-11",
+          "title": "תאורת הרחוב בארץ הופכת יותר ויותר חזקה. זה מרגיז, מעייף ואפילו משמין",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e2ec-d804-ad7f-f3fecdc00000/a4/ac/1ace7f538b12d8b6980001c8ee11/1568270182.jpg?precrop=1559%2C905%2Cx6%2Cy87&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-03-10/ty-article-magazine/.highlight/0000017f-e3a7-d9aa-afff-fbff1bcd0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-03-10",
+          "magazine_date": "2022-03-11",
+          "title": "כשחוקרים את השלדים של אבותינו, מגלים היסטוריה אחרת לגמרי",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e3a7-d9aa-afff-fbff1bcd0000/2d/07/191187327de1664f7a543029e3b7/2551340643.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-03-09/ty-article/.highlight/0000017f-e2aa-d9aa-afff-fbfa5a290000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-03-09",
+          "magazine_date": "2022-03-11",
+          "title": "זו מערכת חוקים מסועפת, והיא מאפשרת למדינה לשלוט בכל פן מחיינו",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e2aa-d9aa-afff-fbfa5a290000/c5/a2/0fe8770d4d0ed01320033f1ccf82/3144736773.jpg?precrop=1955%2C1136%2Cx93%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-03-09/ty-article/.highlight/0000017f-e2bb-d9aa-afff-fbfbcceb0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-03-09",
+          "magazine_date": "2022-03-11",
+          "title": "אפילו כראשי האופוזיציה הם היו ההפך המוחלט",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e2bb-d9aa-afff-fbfbcceb0000/ff/b8/c906794b20709735d7fa85989f02/1700373243.jpg?precrop=1268%2C733%2Cx5%2Cy676&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-03-09/ty-article/.highlight/0000017f-e2c2-df7c-a5ff-e2fa2c520000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-03-09",
+          "magazine_date": "2022-03-11",
+          "title": "כולם רצו לאכול אצלו, אבל הוא היה הרבה יותר משף מפורסם",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e2c2-df7c-a5ff-e2fa2c520000/de/11/85f9f1a775430cb7a3a92f95e4e5/2768019323.jpg?precrop=1311%2C764%2Cx0%2Cy149&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2022-03-09/ty-article/.highlight/0000017f-e2a2-d804-ad7f-f3fa77110000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2022-03-09",
+          "magazine_date": "2022-03-11",
+          "title": "מתי הפכו המתיישבים למתנחלים, ומדוע הם הופכים למתיישבים בחזרה?",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e2a2-d804-ad7f-f3fa77110000/88/cf/f813f67936d58498b18733199f3d/3192228414.jpg?precrop=2048%2C1192%2Cx0%2Cy96&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-03-10/ty-article-face/.highlight/0000017f-e113-d38f-a57f-e7534ac60000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-03-10",
+          "magazine_date": "2022-03-11",
+          "title": "\"נמאס לי כבר מהסכסוך הזה. לא נשאר לנו עוד הרבה זמן\"",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e113-d38f-a57f-e7534ac60000/26/51/29527f114c123da7c89f21cac84a/4272809405.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-03-09/ty-article-magazine/.highlight/0000017f-e25e-d75c-a7ff-fedf43900000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-03-09",
+          "magazine_date": "2022-03-11",
+          "title": "\"רוב המטופלים שלי לא יודעים איפה אני חי. אבל המואזין תמיד חשף אותי\"",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e25e-d75c-a7ff-fedf43900000/9f/c6/1c4d5294bfd8fa774aa03c4a2e48/2015994030.jpg?precrop=2048%2C1193%2Cx-4%2Cy151&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-03-09/ty-article-magazine/.highlight/0000017f-e2ef-d804-ad7f-f3ff00cb0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-03-09",
+          "magazine_date": "2022-03-11",
+          "title": "הקרב על הכפכף: דיווחים מהחזית המדממת בקניון רמת אביב",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e2ef-d804-ad7f-f3ff00cb0000/0e/d2/e69c32fcb9c1dd8382779ad8a230/4192844161.png?precrop=659%2C383%2Cx0%2Cy289&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-03-10/ty-article-magazine/.highlight/0000017f-e220-d38f-a57f-e672ce690000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-03-10",
+          "magazine_date": "2022-03-11",
+          "title": "אליזבת מפנה את ארמון בקינגהאם. עדיפות למי שיקנה את הריהוט",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e220-d38f-a57f-e672ce690000/80/71/51b95668c43e623ec35060939629/469599355.jpg?precrop=1968%2C1146%2Cx32%2Cy400&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2022-03-10/ty-article-magazine/.highlight/0000017f-e3b3-d38f-a57f-e7f31d8d0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2022-03-10",
+          "magazine_date": "2022-03-11",
+          "title": "\"אין לי כוחחחחח למלחמה הזאת!!!!!!!! Peace please!!!!\"",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e3b3-d38f-a57f-e7f31b200000/ca/d6/54ddffe5edb93c1d8c1df5faa41e/3480800117.jpg?precrop=1199,695,x203,y143&height=630&width=1200&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-03-10/ty-article-20q/.highlight/0000017f-e105-d804-ad7f-f1ffe2810000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-03-10",
+          "magazine_date": "2022-03-11",
+          "title": "באיזה הקשר אמרה ח\"כ מירי רגב: \"אולי איזה חיית מחמד מהשמאל תהיה לי\"?",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e105-d804-ad7f-f1ffe2810000/20/93/5671e25c03043c5ffb466bf1382a/678079183.jpg?precrop=1398%2C813%2Cx449%2Cy107&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2022-03-10/ty-article-magazine/.highlight/0000017f-e250-d75c-a7ff-fedd2e950000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2022-03-10",
+          "magazine_date": "2022-03-11",
+          "title": "אחרי 25 שנה, העכוב סוף סוף פורח. עכשיו רק צריך להיפטר מהקוצים",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e250-d75c-a7ff-fedd2e950000/a7/e5/256d351fa5ca6e3a2fafe318570e/2776891296.jpg?precrop=2041%2C1187%2Cx7%2Cy18&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2022-03-09/ty-article-magazine/.highlight/0000017f-e21b-d75c-a7ff-fe9f88dd0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2022-03-09",
+          "magazine_date": "2022-03-11",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 11.3.2022",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e21b-d75c-a7ff-fe9f88dd0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2022-03-09/ty-article/.highlight/0000017f-e227-df7c-a5ff-e27f0e300000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2022-03-09",
+          "magazine_date": "2022-03-11",
+          "title": "השחמטאים נגד פוטין",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e227-df7c-a5ff-e27f0e300000/fc/b9/56768224def8bbe08aebbeaa15ff/3140661941.jpg?precrop=1839%2C1069%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2022-03-10/ty-article/.highlight/0000017f-e245-df7c-a5ff-e27fc8fb0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2022-03-10",
+          "magazine_date": "2022-03-11",
+          "title": "אין להאשים את בריה\"מ במזג האויר הגרוע",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e245-df7c-a5ff-e27fc8fb0000/38/54/a974f647b9352618abb382ec4898/1932296344.jpg?precrop=962%2C565%2Cx32%2Cy2206&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2022-03-09/ty-article/.highlight/0000017f-e244-d804-ad7f-f3fe44240000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2022-03-09",
+          "magazine_date": "2022-03-11",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e244-d804-ad7f-f3fe44240000/74/77/d9f7d014099929303cca32dd8384/1655260266.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-03-09/ty-article/.highlight/0000017f-e2f0-d7b2-a77f-e3f78a250000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-03-09",
+          "magazine_date": "2022-03-11",
+          "title": "בית קטן בבקעה? הסיפור כאן אחר לגמרי",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e2f0-d7b2-a77f-e3f78a250000/3a/11/a1b5532ecc12c3985957b8315467/3743815820.jpg?precrop=2048%2C1190%2Cx0%2Cy118&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "magazine_date": "2022-09-02",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/00000182-f3ba-dd7e-a5f7-fbfaf7960001/97/51/fca8d86a4e448b36ab06d61ef591/frontpage.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2022-08-31/ty-article-magazine/.highlight/00000182-f3b8-d471-abe6-fffa66990000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-08-29/ty-article/.highlight/00000182-e8a2-dfd8-a5d7-e8a77e250000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-08-29",
+          "magazine_date": "2022-09-02",
+          "title": "היית חבר של רבין, ועכשיו השותף שלך מייעץ לבן גביר? \"גם לי זה עושה רע\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-e8a2-dfd8-a5d7-e8a77e250000/49/37/bc43d4a147d5a79526c48b538fc1/608678.jpg?precrop=2400%2C1396%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-08-31/ty-article-magazine/.highlight/00000182-eeae-df8b-adce-effffbae0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-08-31",
+          "magazine_date": "2022-09-02",
+          "title": "איפשהו בעולם חי אדם זר שדומה לנו שתי טיפות מים - וחולק איתנו דנ\"א",
+          "og_image": "https://gif.haarets.co.il/bs/00000182-eeae-df8b-adce-effffbae0000/07/34/d81036c743cf9742b3ae4192a185/musaftwins-homepage-promotion-nofade.gif?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-08-31/ty-article-magazine/.highlight/00000182-f3b8-d471-abe6-fffa66990000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-08-31",
+          "magazine_date": "2022-09-02",
+          "title": "אנחנו משוכנעים שצמיחה זה טוב, ומיתון זה רע. אבל ההפך הוא הנכון",
+          "og_image": "https://img.haarets.co.il/bs/00000182-f3b8-d471-abe6-fffa66990000/59/5b/d94a67844d4fb6773b617640506c/48345643.JPG?precrop=4255%2C2474%2Cx0%2Cy112&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-08-31/ty-article-magazine/.highlight/00000182-f3b8-decc-abbe-f3fe74660000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-08-31",
+          "magazine_date": "2022-09-02",
+          "title": "\"הסיפור המזרחי בליכוד הוא טרגי. הכל סביב הנרטיב של נתניהו\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-f3b8-decc-abbe-f3fe74660000/ce/b7/5ab867294aac97bda6bd1b71e03b/89984.jpg?precrop=2400%2C1396%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/tozeret/2022-09-01/ty-article/.premium/00000182-f7bb-d030-a1db-f7ff6c270000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-09-01",
+          "magazine_date": "2022-09-02",
+          "title": "בתי ספר במיזורי מחזירים לשימוש את עונשי המלקות — בשל בקשות מההורים",
+          "og_image": "https://img.haarets.co.il/bs/00000182-f7bb-d030-a1db-f7ff6c270000/d6/49/80055b184e58a7dbe5107fd3b2c9/48351837.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-09-01/ty-article/.highlight/00000182-f7bb-d030-a1db-f7ffe4390000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-09-01",
+          "magazine_date": "2022-09-02",
+          "title": "מה הדבר שהכי שימח אותי בקשר למערכת החינוך",
+          "og_image": "https://gif.haarets.co.il/bs/00000182-f7bb-d030-a1db-f7ffe4390000/be/00/5cde2a8a491394a7ae4a1f8f4b03/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-08-31/ty-article/.highlight/00000182-f2da-db3f-a3ba-fedb01210000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-08-31",
+          "magazine_date": "2022-09-02",
+          "title": "\"הנחש הוא הסוד של המשיח\": דרכו האפלה של ברלנד לסיפוק תאוותו",
+          "og_image": "https://img.haarets.co.il/bs/00000182-f2da-db3f-a3ba-fedb01210000/03/65/ec9165d34b84b3b4c0335b226105/48319609.JPG?precrop=4587%2C2667%2Cx0%2Cy108&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-08-31/ty-article/.highlight/00000182-f306-d471-abe6-ff7ef9c40000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-08-31",
+          "magazine_date": "2022-09-02",
+          "title": "החוקרים חלוקים: האם הכלב שלכם בוכה מהתרגשות כשאתם חוזרים הביתה?",
+          "og_image": "https://img.haarets.co.il/bs/00000182-f306-d471-abe6-ff7ef9c40000/13/cf/0f0d47974d4fabc2ce43000986ce/48330650.JPG?precrop=3210%2C1868%2Cx0%2Cy410&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-08-31/ty-article/.highlight/00000182-f327-d9fb-a1c7-fbef5d800000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-08-31",
+          "magazine_date": "2022-09-02",
+          "title": "\"אם ניתן להם מפה, הם יראו מה גדולים השטחים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-f327-d9fb-a1c7-fbef5d800000/bd/f3/b17ef21949b49c7ca00a778ba944/green-line-israel-1964.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2022-08-31/ty-article/.highlight/00000182-f35a-d471-abe6-ff7a7d1c0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2022-08-31",
+          "magazine_date": "2022-09-02",
+          "title": "מה הקשר בין שוקו לקקאו, ומה זה בכלל צ'וקולטה?",
+          "og_image": "https://img.haarets.co.il/bs/00000182-f35a-d471-abe6-ff7a7d1c0000/ab/8a/78a6406f4b31b9fcbdcdf62fb540/48329421.JPG?precrop=4000%2C2326%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-08-31/ty-article/.highlight/00000182-f34d-dd7e-a5f7-fbcf0a730000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-08-31",
+          "magazine_date": "2022-09-02",
+          "title": "אורק טוב הוא אורק מת: כמו בעולם האמיתי, גם ב\"שר הטבעות\" יש גזענות",
+          "og_image": "https://img.haarets.co.il/bs/00000182-f34d-dd7e-a5f7-fbcf0a730000/3c/0c/34dd9663460c8627483574946055/48329492.JPG?precrop=700%2C407%2Cx0%2Cy35&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-08-31/ty-article-face/.highlight/00000182-df59-dcb6-adae-df5b84640000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-08-31",
+          "magazine_date": "2022-09-02",
+          "title": "\"שתיתי ערק וכתבתי את הסיפור כפוסט. קמתי בבוקר עם 400 לייקים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-df59-dcb6-adae-df5b84640000/a4/7a/9c325db143df8a6b1969ad2944a3/panim.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-08-31/ty-article-magazine/.highlight/00000182-f424-dd28-a5fa-feff8b870000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-08-31",
+          "magazine_date": "2022-09-02",
+          "title": "\"עשינו ארבעה ילדים בארבע שנים. מה שקורה בבית זה טרפת\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-f424-dd28-a5fa-feff8b870000/0d/90/24f8fcd841c4957f9435a3a9eadf/48316328.JPG?precrop=6132%2C3565%2Cx299%2Cy526&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-08-31/ty-article-magazine/.highlight/00000182-f46d-d694-a98a-ff6da84d0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-08-31",
+          "magazine_date": "2022-09-02",
+          "title": "את המוסר הישראלי תוכלו למצוא בשירותים של המסעדה",
+          "og_image": "https://img.haarets.co.il/bs/00000182-f46d-d694-a98a-ff6da84d0000/47/b0/b9b6045e48d7a40d659bff991d9c/kiker.png?precrop=852%2C495%2Cx154%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-09-01/ty-article-magazine/.highlight/00000182-f7bf-ddee-adb7-ffff9c700000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-09-01",
+          "magazine_date": "2022-09-02",
+          "title": "סטטיק ובן־אל נפרדים. עכשיו הם יוכלו להתנסות בתחום המוזיקה",
+          "og_image": "https://img.haarets.co.il/bs/00000182-f7bf-ddee-adb7-ffff9c700000/d9/8d/347bf0a94b478e759d5bc19cd8f3/35228.jpg?precrop=1649%2C958%2Cx344%2Cy51&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2022-08-31/ty-article-magazine/.premium/00000182-df5f-d9c0-a3d3-ff5f845e0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2022-08-31",
+          "magazine_date": "2022-09-02",
+          "title": "\"זה קרה גם לביטלס\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-f3fb-d515-afeb-ffff31d30000/0a/09/e14b36bf49f6a7c45851f498b515/771772.jpg?height=630&width=1200&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-08-31/ty-article-20q/.highlight/00000182-df5e-dc3e-abf7-dfdf64be0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-08-31",
+          "magazine_date": "2022-09-02",
+          "title": "מי היה שר החינוך הקודם, לפני יפעת שאשא-ביטון?",
+          "og_image": "https://img.haarets.co.il/bs/00000182-df5e-dc3e-abf7-dfdf64be0000/b7/49/1eec92e44a0b8871ff2ec6e70233/40458.jpg?precrop=2200%2C1279%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2022-09-01/ty-article-magazine/.highlight/00000182-f340-d471-abe6-ff7a9ade0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2022-09-01",
+          "magazine_date": "2022-09-02",
+          "title": "כשמחירי הרטבים המסחריים מזנקים, זה הזמן להכיר את הבנדורה מטבוחה",
+          "og_image": "https://img.haarets.co.il/bs/00000182-f340-d471-abe6-ff7a9ade0000/b2/d9/d4283d3140c4aab250a31efc3142/48316809.JPG?precrop=4568%2C2656%2Cx0%2Cy320&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2022-09-01/ty-article-magazine/.premium/00000182-f7d7-d8b2-abcb-f7ff0d940000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2022-09-01",
+          "magazine_date": "2022-09-02",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 2.9.2022",
+          "og_image": "https://img.haarets.co.il/bs/00000182-f7d7-d8b2-abcb-f7ff0d940000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2022-09-01/ty-article/.premium/00000182-f7d6-d8b2-abcb-f7ffd4f20000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2022-09-01",
+          "magazine_date": "2022-09-02",
+          "title": "לקחים ממיאמי",
+          "og_image": "https://img.haarets.co.il/bs/00000182-f7d6-d8b2-abcb-f7ffd4f20000/38/29/5549e45d00f548b27e2027b897ad/584151313.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2022-09-01/ty-article/00000182-f7c5-d030-a1db-f7fd85800000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2022-09-01",
+          "magazine_date": "2022-09-02",
+          "title": "מין, נישואים וצחוק - סגולה לאריכות ימים, טוען רופא יפני",
+          "og_image": "https://img.haarets.co.il/bs/00000182-f7c5-d030-a1db-f7fd85800000/32/95/3ee0db934b3cb9ab188025a9217e/mefur.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-09-01/ty-article/00000182-f7c0-d1d1-af92-f7e542510000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-09-01",
+          "magazine_date": "2022-09-02",
+          "title": "\"הייתי האדם היחיד שהעלה בכוח לאוטובוס את שרון\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-f7c0-d1d1-af92-f7e542510000/81/91/877d6d2efc49eb93343563beda7f/3988470771.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2022-09-01/ty-article/.premium/00000182-f7cf-d679-a5de-f7ffaee60000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2022-09-01",
+          "magazine_date": "2022-09-02",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000182-f7cf-d679-a5de-f7ffaee60000/13/ec/02072a3644abaff0bc544a5671b9/lit.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-08-31/ty-article/.highlight/00000182-f48c-deee-a3bb-f4ae672d0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-08-31",
+          "magazine_date": "2022-09-02",
+          "title": "התרופה האמיתית לחוויית השעמום",
+          "og_image": "https://img.haarets.co.il/bs/00000182-f48c-deee-a3bb-f4ae672d0000/0e/f2/c374a4fb4c379cad4b7880c9d61f/23185.jpg?precrop=2025%2C1178%2Cx0%2Cy238&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "magazine_date": "2022-10-28",
+  "total_articles": 26,
+  "cover_image": "https://img.haarets.co.il/bs/00000184-14db-de18-a7df-17ffac400001/68/e0/709cfca94fb096e01d6af81ebbc2/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2022-10-26/ty-article-magazine/.highlight/00000184-14ad-d13d-a997-77ff32830000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-10-26/ty-article-magazine/.highlight/00000184-1466-d027-abaf-5cee53150000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-10-26",
+          "magazine_date": "2022-10-28",
+          "title": "\"מדינות מאבדות 483 מיליארד דולר בשנה בגלל התחמקות מתשלום מסים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-1466-d027-abaf-5cee53150000/4c/fa/013083064e7692ec7357dc78d888/49097192.JPG?precrop=4500%2C2616%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-10-26/ty-article-magazine/.highlight/00000184-149a-de18-a7df-17fe727f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-10-26",
+          "magazine_date": "2022-10-28",
+          "title": "הקרב על נשמת הפילאטיס",
+          "og_image": "https://img.haarets.co.il/bs/00000184-149a-de18-a7df-17fe727f0000/76/4c/a936002b44778868e62e0a853e85/49090216.JPG?precrop=3092%2C1798%2Cx0%2Cy1307&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-10-26/ty-article-magazine/.highlight/00000184-14ad-d13d-a997-77ff32830000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-10-26",
+          "magazine_date": "2022-10-28",
+          "title": "מה אנחנו יודעים על המשפחות הערביות העשירות בישראל?",
+          "og_image": "https://img.haarets.co.il/bs/00000184-14ad-d13d-a997-77ff32830000/44/83/e4dbf69a4f61afe8897d532fd0a5/35413.jpg?precrop=1924%2C1118%2Cx174%2Cy158&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-10-26/ty-article-magazine/.highlight/00000184-1513-d935-ab96-5577af7c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-10-26",
+          "magazine_date": "2022-10-28",
+          "title": "\"אתם עוד תתביישו על כך שלא עמדתם לצדנו\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-1513-d935-ab96-5577af7c0000/ff/67/949eb20d43f5b09ae9ae57d1bb7d/49076059.JPG?precrop=3620%2C2104%2Cx174%2Cy271&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-10-26/ty-article/.highlight/00000184-13b7-d5ad-a3ed-f7ffad6a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-10-26",
+          "magazine_date": "2022-10-28",
+          "title": "יש לי דרך מקורית להכריע מי יהיה ראש הממשלה",
+          "og_image": "https://img.haarets.co.il/bs/00000184-13b7-d5ad-a3ed-f7ffad6a0000/56/2b/efd1d5cb46709e0eebcf9ef79239/47878.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-10-26/ty-article/.highlight/00000184-13bf-d192-a5df-5bbf77720000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-10-26",
+          "magazine_date": "2022-10-28",
+          "title": "יש סיכוי שתמליצו על לפיד או גנץ? \"אם לא יכבדו את דרישותינו, אין מצב!\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-13bf-d192-a5df-5bbf77720000/ba/d6/fb8f2dd943d8aa9ab48392c5bd55/49106466.JPG?precrop=5830%2C3390%2Cx0%2Cy280&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-10-26/ty-article/.highlight/00000184-1476-d42c-a1de-56f6e92f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-10-26",
+          "magazine_date": "2022-10-28",
+          "title": "מי שעצוב יותר חכם יותר? ייתכן שלא",
+          "og_image": "https://img.haarets.co.il/bs/00000184-1476-d42c-a1de-56f6e92f0000/7c/05/8b0988a741e79077a5154c73256e/49111507.JPG?precrop=2768%2C1610%2Cx0%2Cy1122&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-10-27/ty-article/.highlight/00000184-18c0-d303-abb4-3fe5a1800000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-10-27",
+          "magazine_date": "2022-10-28",
+          "title": "לכאורה הבחירות יקבעו את עתידנו, אבל עתידנו כבר נקבע מזמן",
+          "og_image": "https://gif.haarets.co.il/bs/00000184-18c0-d303-abb4-3fe5a1800000/b8/1f/1f97a392481cacd1a5adb4ce9aa2/neri.gif?precrop=1311%2C762%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-10-26/ty-article-magazine/.highlight/00000184-13c0-db5b-a99d-7ff86a5a0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-10-26",
+          "magazine_date": "2022-10-28",
+          "title": "הביקור בתערוכה הזאת מעורר שילוב מיוחד של עצבות ואושר",
+          "og_image": "https://img.haarets.co.il/bs/00000184-13c0-db5b-a99d-7ff86a5a0000/af/b5/b89e0d2d456595f6e5fcdd864623/49090301.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-10-26/ty-article/.highlight/00000184-1350-d0f1-a794-9b58c4670000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-10-26",
+          "magazine_date": "2022-10-28",
+          "title": "אולי כל שנותר הוא להיכנע לבלבול. אבל גם לכניעה יש מחיר",
+          "og_image": "https://img.haarets.co.il/bs/00000184-1350-d0f1-a794-9b58c4670000/11/a6/0f3e32834fd586a7ec51ca48d95d/untitled-1.jpg?precrop=1748%2C1016%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2022-10-26/ty-article/00000184-13f9-db5f-ade5-73f9e82e0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2022-10-26",
+          "magazine_date": "2022-10-28",
+          "title": "הסקרים הם חלק בלתי נפרד מחיינו. אבל מה זה בכלל סֶקֶר?",
+          "og_image": "https://img.haarets.co.il/bs/00000184-13f9-db5f-ade5-73f9e82e0000/a3/96/160ed9c747f1b8e719db4410a084/571275.jpg?precrop=2400%2C1395%2Cx0%2Cy127&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-10-26/ty-article/00000184-13f4-d1ff-a9e6-bbf58eaf0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-10-26",
+          "magazine_date": "2022-10-28",
+          "title": "אתם מזדעזעים מבן גביר וסמוטריץ', אבל בעצם גם אתם גזענים",
+          "og_image": "https://img.haarets.co.il/bs/00000184-13f4-d1ff-a9e6-bbf58eaf0000/d3/03/b7a69ed54feca0aa0047e67106b9/49091795.JPG?precrop=3132%2C1820%2Cx494%2Cy293&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-10-26/ty-article-face/.highlight/00000184-0f19-d4dc-a3bd-6f9ff7800000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-10-26",
+          "magazine_date": "2022-10-28",
+          "title": "ניב רסקין",
+          "og_image": "https://img.haarets.co.il/bs/00000184-0f19-d4dc-a3bd-6f9ff7800000/62/e8/d4bd14aa4d04851d9d90a9fb7cba/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-10-26/ty-article-magazine/.highlight/00000184-14a1-de18-a7df-17f798c90000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-10-26",
+          "magazine_date": "2022-10-28",
+          "title": "\"בהתחלה חששתי שהניצולים לא יקבלו אותי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-14a1-de18-a7df-17f798c90000/05/42/69d9f2d34582b4b0c354aab46b3b/49075525.JPG?precrop=8192%2C4763%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-10-26/ty-article-magazine/.highlight/00000184-14d0-d4e5-a3e6-f7dca50c0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-10-26",
+          "magazine_date": "2022-10-28",
+          "title": "לועס ערבי / כמו שזיף / והוא חמצמץ. מבחר שירי הייקו לקראת הבחירות",
+          "og_image": "https://img.haarets.co.il/bs/00000184-14d0-d4e5-a3e6-f7dca50c0000/88/85/c63de28d4c5ea86a479331b5006f/1111.jpg?precrop=1920%2C1116%2Cx0%2Cy214&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-10-27/ty-article-magazine/.highlight/00000184-18f7-de63-a9c7-78ff7b420000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-10-27",
+          "magazine_date": "2022-10-28",
+          "title": "ישראל עוברת לשעון חורף. הדמוקרטיה מתה במחשכים",
+          "og_image": "https://img.haarets.co.il/bs/00000184-18f7-de63-a9c7-78ff7b420000/aa/38/fa493a5549d7b38823b1587a2af7/mid-2.jpg?precrop=2001%2C1163%2Cx0%2Cy103&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2022-10-26/ty-article-magazine/.highlight/00000184-15e9-de18-a7df-17ff437d0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2022-10-26",
+          "magazine_date": "2022-10-28",
+          "title": "\"אם צריך להיראות פתטי כדי להוציא את ישראל מהכאוס הזה, אז נהיה פתטיים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-15f9-d693-a5fe-3fffd6b10000/2e/11/8effa7da4cf7a0fb92174ee3ece3/804093.jpg?height=630&width=1200&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-10-27/ty-article-20q/.highlight/00000184-0f20-df0c-a1dc-afa672d90000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-10-27",
+          "magazine_date": "2022-10-28",
+          "title": "מי מהמתמודדים בבחירות הקרובות התחרה באולימפיאדת אתונה?",
+          "og_image": "https://img.haarets.co.il/bs/00000184-0f20-df0c-a1dc-afa672d90000/de/74/5c006f894a6cbf916d64295eea49/705169.jpg?precrop=2200%2C1279%2Cx0%2Cy314&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2022-10-26/ty-article-magazine/.highlight/00000184-139c-d468-adde-379e4b120000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2022-10-26",
+          "magazine_date": "2022-10-28",
+          "title": "למה טבחים לובשים מכנסיים שחורים־לבנים? קיצור תולדות הסינר",
+          "og_image": "https://img.haarets.co.il/bs/00000184-139c-d468-adde-379e4b120000/61/82/85d44b3a44e2945de7a5074f957c/spread.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2022-10-27/ty-article-magazine/.premium/00000184-18f2-d345-a1cd-baf299a40000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2022-10-27",
+          "magazine_date": "2022-10-28",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 28.10.2022",
+          "og_image": "https://img.haarets.co.il/bs/00000184-18f2-d345-a1cd-baf299a40000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2022-10-27/ty-article/.premium/00000184-18c6-db96-a7c5-9bce1d570000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2022-10-27",
+          "magazine_date": "2022-10-28",
+          "title": "עוד פרק בשערורייה",
+          "og_image": "https://img.haarets.co.il/bs/00000184-18c6-db96-a7c5-9bce1d570000/38/29/5549e45d00f548b27e2027b897ad/584151313.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2022-10-27/ty-article/.premium/00000184-18bc-d303-abb4-3fbd00e00000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2022-10-27",
+          "magazine_date": "2022-10-28",
+          "title": "תוצאות הבחירות - ידועות",
+          "og_image": "https://img.haarets.co.il/bs/00000184-18bc-d303-abb4-3fbd00e00000/91/49/65c759f74f1aa327e76c9ee7d55d/fam.jpg?precrop=1250%2C727%2Cx0%2Cy1714&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-10-27/ty-article/00000184-1821-d155-a3e7-9b396a1e0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-10-27",
+          "magazine_date": "2022-10-28",
+          "title": "יום לפני מותו, מפקד ה-ל\"ה הציע לה נישואין. היא סירבה",
+          "og_image": "https://img.haarets.co.il/bs/00000184-1821-d155-a3e7-9b396a1e0000/4d/fd/414581024756852fc743028fb320/22042027-689642941229164-960604606292483572-o.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2022-10-27/ty-article/.premium/00000184-18e9-d345-a1cd-bafb4c1f0000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2022-10-27",
+          "magazine_date": "2022-10-28",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000184-18e9-d345-a1cd-bafb4c1f0000/f0/fb/32ec7f914f1088de2de6c87e9449/caro-reg.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2022-10-27/ty-article/.premium/00000184-18dd-d7a2-a7a5-18dde4090000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2022-10-27",
+          "magazine_date": "2022-10-28",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000184-18dd-d7a2-a7a5-18dde4090000/4e/b3/2189fb924ee4aa48b7be17316bb2/ribooa-musaf-492.jpg?precrop=1083%2C630%2Cx0%2Cy336&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-10-26/ty-article/.highlight/00000184-14e7-da5e-a7ad-74efd82d0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-10-26",
+          "magazine_date": "2022-10-28",
+          "title": "ויטגנשטיין לא היה יהודי",
+          "og_image": "https://img.haarets.co.il/bs/00000184-14e7-da5e-a7ad-74efd82d0000/fe/94/3ed882862727b5c1821b7183e122/2571670754.jpg?precrop=539%2C313%2Cx2%2Cy141&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

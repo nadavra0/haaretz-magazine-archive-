@@ -1,0 +1,303 @@
+{
+  "magazine_date": "2022-11-04",
+  "total_articles": 22,
+  "cover_image": "https://img.haarets.co.il/bs/00000184-3cb5-d7f0-a984-bef5512f0000/f7/8a/885aa2da47b4a5b81f04448df094/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2022-11-03/ty-article-magazine/.highlight/00000184-388d-d745-aba7-bc8fd7000000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-11-02/ty-article-magazine/.highlight/00000184-388e-d636-a9ed-fdbf03890000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-11-02",
+          "magazine_date": "2022-11-04",
+          "title": "הוא היה מבכירי הכנסייה הסיינטולוגית. כיום הוא חושף מה באמת קורה שם",
+          "og_image": "https://img.haarets.co.il/bs/00000184-388e-d636-a9ed-fdbf03890000/3d/2c/caa39e6a41dba8ed17def204f4a4/49157824.JPG?precrop=1921%2C1117%2Cx0%2Cy522&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-11-02/ty-article-magazine/.highlight/00000184-388e-d636-a9ed-fdbfd7440000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-11-02",
+          "magazine_date": "2022-11-04",
+          "title": "מי היה ג׳ק האמש, מאהב מסתורי של משוררת נודעת? מתברר שיעקב חמיש מאשדוד",
+          "og_image": "https://img.haarets.co.il/bs/00000184-388e-d636-a9ed-fdbfd7440000/81/33/0505f1344ab38ee8fd575c2e4d8c/77649-2.jpg?precrop=2221%2C1291%2Cx0%2Cy500&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-11-02/ty-article-magazine/.highlight/00000184-388f-dac6-a7ef-78ef7b760000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-11-02",
+          "magazine_date": "2022-11-04",
+          "title": "\"גם כשמדובר באנשים איומים שביצעו זוועות, אסור לעשות קיצורי דרך\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-388f-dac6-a7ef-78ef7b760000/74/1d/bc0a63e9437a80825e32c57a91e3/49200605.JPG?precrop=4409%2C2563%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-11-02/ty-article/.highlight/00000184-38af-dac6-a7ef-78ef4c880000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-11-02",
+          "magazine_date": "2022-11-04",
+          "title": "בין אם תעברו ובין אם לאו, נכשלתם. \"תראה, זה אי־הצלחה למופת\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-38af-dac6-a7ef-78ef4c880000/04/bc/5b4d82f64be39a739affbda88781/728056.jpg?precrop=1925%2C1118%2Cx170%2Cy262&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-11-02/ty-article/.highlight/00000184-38b5-dc4c-adde-7bf7ce830000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-11-02",
+          "magazine_date": "2022-11-04",
+          "title": "דבר לא יכול לקטול את היצורים החמודים הללו. איך הם עושים זאת?",
+          "og_image": "https://img.haarets.co.il/bs/00000184-38b5-dc4c-adde-7bf7ce830000/aa/88/42403f6f48eca495c7a71ed059d8/49204244.JPG?precrop=5573%2C3240%2Cx6%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-11-03/ty-article-magazine/.highlight/00000184-388d-d745-aba7-bc8fd7000000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-11-03",
+          "magazine_date": "2022-11-04",
+          "title": "מאנו תירגם - \"עכשיו את צריכה לגזור לפאנדיט את הציפורניים ברגליים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-388d-d745-aba7-bc8fd7000000/1c/15/420d376045dba9fd1e7418ad83e1/95184.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-11-03/ty-article/.highlight/00000184-3ca1-d9a1-a5b5-3fbf8b5e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-11-03",
+          "magazine_date": "2022-11-04",
+          "title": "רק אל תגידו לי לחשוב חיובי",
+          "og_image": "https://gif.haarets.co.il/bs/00000184-3ca1-d9a1-a5b5-3fbf8b5e0000/bf/cb/fccd54924e22b13ebe763edccc89/neri.gif?precrop=1311%2C762%2Cx6%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-11-02/ty-article-magazine/.highlight/00000184-3825-d52c-a1cf-f8fdc7b80000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-11-02",
+          "magazine_date": "2022-11-04",
+          "title": "הכלאה בין בני אדם לבעלי חיים? זה כבר לא רעיון דמיוני",
+          "og_image": "https://img.haarets.co.il/bs/00000184-3825-d52c-a1cf-f8fdc7b80000/f5/22/2a533c5a496ea6297e534c8bb9af/49173812.JPG?precrop=4982%2C2896%2Cx0%2Cy495&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-11-02/ty-article/.highlight/00000184-3849-d745-aba7-bc4f3c0d0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-11-02",
+          "magazine_date": "2022-11-04",
+          "title": "ה' באייר פינת יום הנכבה: הערים הערביות פונות להנצחה אלטרנטיבית",
+          "og_image": "https://img.haarets.co.il/bs/00000184-3849-d745-aba7-bc4f3c0d0000/40/35/722db6db4da0b43fb653b62d0b93/3.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-11-02/ty-article/.highlight/00000184-3805-d636-a9ed-fdb5b9950000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-11-02",
+          "magazine_date": "2022-11-04",
+          "title": "מול גל הפופוליזם, גם האצבע בסכר כבר מתעייפת",
+          "og_image": "https://img.haarets.co.il/bs/00000184-3805-d636-a9ed-fdb5b9950000/f2/f4/61f4186949d5a420f819833f2b99/49200183.JPG?precrop=5808%2C3377%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-11-03/ty-article-face/.highlight/00000184-23b6-ddc5-a7de-7bb79c480000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-11-03",
+          "magazine_date": "2022-11-04",
+          "title": "\"אני לא מצטערת שהשתתפתי ב'הישרדות', זו היתה חוויה קיצונית\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-23b6-ddc5-a7de-7bb79c480000/56/ab/e6bb8e704d74a58dc869a8acf44c/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-11-02/ty-article-magazine/.highlight/00000184-3900-dc4c-adde-7be78dc10000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-11-02",
+          "magazine_date": "2022-11-04",
+          "title": "\"בתל אביב היינו בחינוך ביתי עם כל ילדי הבוהמה. זה היה כיף\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-3900-dc4c-adde-7be78dc10000/b0/70/50137fd94ec5ac528eeb76930c39/49160872.JPG?precrop=8192%2C4763%2Cx0%2Cy394&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-11-02/ty-article-magazine/.highlight/00000184-390e-d636-a9ed-fdbfc13b0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-11-02",
+          "magazine_date": "2022-11-04",
+          "title": "\"איבדת אותי\": מה מעניין בביטוי שהפך לפאנליסט קבוע באולפנים",
+          "og_image": "https://img.haarets.co.il/bs/00000184-390e-d636-a9ed-fdbfc13b0000/94/71/aaad62bc45cebdd4d93e4bd18595/74459.jpg?precrop=1285%2C747%2Cx525%2Cy89&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-11-03/ty-article-magazine/.highlight/00000184-3cbc-d7f0-a984-befdf4d30000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-11-03",
+          "magazine_date": "2022-11-04",
+          "title": "הפיוס בין זאב נחמה לתמיר קליסקי. אור עולה מן המזרח",
+          "og_image": "https://img.haarets.co.il/bs/00000184-3cbc-d7f0-a984-befdf4d30000/5d/1e/fcfd6f704a78bc2038f4120b7e9a/184985.jpg?precrop=2200%2C1279%2Cx0%2Cy32&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2022-11-03/ty-article-magazine/.highlight/00000184-3f41-d13b-afb5-ff7dbe200000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2022-11-03",
+          "magazine_date": "2022-11-04",
+          "title": "\"אני הכרתי את רבין. אם רבין היה חי הוא היה מצביע ש\"ס\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-3f58-de59-a5f4-bf7f558a0000/18/39/9dd09dd145038e4b4e8df2869271/88166-2.jpg?height=630&width=1200&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-11-03/ty-article-20q/.highlight/00000184-23ad-d7c3-a3f4-abef77f80000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-11-03",
+          "magazine_date": "2022-11-04",
+          "title": "מי היה הח\"כ המבוגר ביותר בתולדות הכנסת?",
+          "og_image": "https://img.haarets.co.il/bs/00000184-23ad-d7c3-a3f4-abef77f80000/5c/f9/5f5fa0a14cf0b005b0eda4f32d2f/373561.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2022-11-02/ty-article-magazine/.highlight/00000184-380f-db9e-a5fd-f9bf868a0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2022-11-02",
+          "magazine_date": "2022-11-04",
+          "title": "אם היה גן עדן, כך הוא היה מריח. ביקור במסחטת המיץ השמחה ביותר בגולן",
+          "og_image": "https://img.haarets.co.il/bs/00000184-380f-db9e-a5fd-f9bf868a0000/c2/9a/d3be4b104fda99b32e0785f130c0/49169442.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2022-11-03/ty-article-magazine/.premium/00000184-3cb3-d7f0-a984-bef700170000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2022-11-03",
+          "magazine_date": "2022-11-04",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 4.11.2022",
+          "og_image": "https://img.haarets.co.il/bs/00000184-3cb3-d7f0-a984-bef700170000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2022-11-03/ty-article/.premium/00000184-3cad-dde2-affd-7fff27050000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2022-11-03",
+          "magazine_date": "2022-11-04",
+          "title": "האם כך נשחק בעתיד?",
+          "og_image": "https://img.haarets.co.il/bs/00000184-3cad-dde2-affd-7fff27050000/38/29/5549e45d00f548b27e2027b897ad/584151313.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2022-11-03/ty-article/.premium/00000184-3cc1-deae-ab86-7fd528190000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2022-11-03",
+          "magazine_date": "2022-11-04",
+          "title": "שרידים אחרונים לימים יפים ועליזים",
+          "og_image": "https://img.haarets.co.il/bs/00000184-3cc1-deae-ab86-7fd528190000/3b/63/039e2d524ab288620b361bfc0b4b/fam.jpg?precrop=1250%2C727%2Cx0%2Cy1903&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-11-03/ty-article/00000184-3ebb-d13b-afb5-ffffbc5e0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-11-03",
+          "magazine_date": "2022-11-04",
+          "title": "\"היוצרות התהפכו: אני סבתא מאושרת ואנה פרנק מתה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000184-3ebb-d13b-afb5-ffffbc5e0000/f6/a7/ea56573945a2bcc076120cdd8b50/311685400-3320471874891278-8221417209967033290-n-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2022-11-03/ty-article/.premium/00000184-3cc4-df95-abac-3fef8a5d0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2022-11-03",
+          "magazine_date": "2022-11-04",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000184-3cc4-df95-abac-3fef8a5d0000/c6/b0/d3484c8f4436ba057afe01e9db93/ribooa-musaf-493.jpg?precrop=1083%2C630%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

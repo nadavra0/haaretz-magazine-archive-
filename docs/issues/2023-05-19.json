@@ -1,0 +1,348 @@
+{
+  "magazine_date": "2023-05-19",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/00000188-2a1f-d6e4-ab9d-eabf54610001/02/d5/44d02e954c37ad52c445a98648c6/frontpage.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2023-05-18/ty-article-magazine/.highlight/00000188-29c9-db37-afec-bdf98ae00000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-17/ty-article-magazine/.highlight/00000188-29c9-db37-afec-bdf94c1d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-17",
+          "magazine_date": "2023-05-19",
+          "title": "נישואים נוטים להישחק? בנג'מין קרני מנפץ מיתוסים על טבע הקשר הזוגי",
+          "og_image": "https://img.haarets.co.il/bs/00000188-29c9-db37-afec-bdf94c1d0000/46/19/297ad233491ba023cc3f15b74cb7/dani.jpg?precrop=3080%2C1791%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-17/ty-article-magazine/.highlight/00000188-29c9-db37-afec-bdf9800f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-17",
+          "magazine_date": "2023-05-19",
+          "title": "גואו אסתר יאן נחטפה במפתיע. סיפורה לא מבשר טובות לקהילה היהודית בסין",
+          "og_image": "https://img.haarets.co.il/bs/00000188-29c9-db37-afec-bdf9800f0000/e9/22/5b685c394cfcb67b3a1b26280356/51891527.JPG?precrop=3900%2C2267%2Cx0%2Cy334&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-17/ty-article-magazine/.highlight/00000188-29ca-df65-abfc-e9db71d60000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-17",
+          "magazine_date": "2023-05-19",
+          "title": "\"אפילו לאמירה 'למחוק את חווארה' יש מקורות הלכתיים להישען עליהם\"",
+          "og_image": "https://img.haarets.co.il/bs/00000188-29ca-df65-abfc-e9db71d60000/94/fd/228395ca4a9398b15332e13c6ac5/67295.jpg?precrop=2400%2C1396%2Cx0%2Cy152&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-17/ty-article/.highlight/00000188-2957-d780-ad8d-795709220000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-17",
+          "magazine_date": "2023-05-19",
+          "title": "כממונה על סיכול פשיעה בחברה הערבית, נכשלת. \"אני לא מתכוון להתייחס לזה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000188-2957-d780-ad8d-795709220000/96/18/e6153989438e850f4d3ac78c7d14/51938178.JPG?precrop=3381%2C1965%2Cx2102%2Cy642&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-17/ty-article/.highlight/00000188-2970-df77-afe9-69f4317f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-17",
+          "magazine_date": "2023-05-19",
+          "title": "עם כל הכבוד לסיפור של קפקא, אמן הצום האמיתי מת בכלא הישראלי",
+          "og_image": "https://img.haarets.co.il/bs/00000188-2970-df77-afe9-69f4317f0000/54/fd/267bb24a4c24bee336dbad0ddacb/51938789.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-17/ty-article/.highlight/00000188-29a2-db37-afec-bdfab2d20000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-17",
+          "magazine_date": "2023-05-19",
+          "title": "פתאום הסינמטק בתל אביב הזכיר לי קצת את ירושלים",
+          "og_image": "https://gif.haarets.co.il/bs/00000188-29a2-db37-afec-bdfab2d20000/87/76/223117e946739b04e90c2768f24d/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-18/ty-article-magazine/.highlight/00000188-29c9-db37-afec-bdf98ae00000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-18",
+          "magazine_date": "2023-05-19",
+          "title": "הבינה המלאכותית קפצה מדרגה. החיים שלנו עומדים להשתנות באופן דרמטי",
+          "og_image": "https://img.haarets.co.il/bs/00000188-29c9-db37-afec-bdf98ae00000/0d/be/a60e43ac4695866186f32ab6a440/musaf-cover-sharing-01.png?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-05-17/ty-article/.highlight/00000188-2919-df77-afe9-69dd2cef0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-05-17",
+          "magazine_date": "2023-05-19",
+          "title": "למי שמודאגים מעתיד החילונים, המאבק בירושלים הוא יעד לאומי",
+          "og_image": "https://img.haarets.co.il/bs/00000188-2919-df77-afe9-69dd2cef0000/80/5d/220fb9a34893946432827c8ef6fb/870046.jpg?precrop=2200%2C1280%2Cx0%2Cy114&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-05-17/ty-article/.highlight/00000188-2965-d18b-a79d-2dfd73eb0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-05-17",
+          "magazine_date": "2023-05-19",
+          "title": "מול המניפולציות השקריות של נתניהו, מושג הכרעת הרוב זקוק להבהרה מחודשת",
+          "og_image": "https://img.haarets.co.il/bs/00000188-2965-d18b-a79d-2dfd73eb0000/52/2a/1645c9234a508ffc67ab72982c30/51912063.JPG?precrop=2880%2C1674%2Cx0%2Cy37&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2023-05-17/ty-article/.highlight/00000188-2907-d488-afa8-b9ff35090000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2023-05-17",
+          "magazine_date": "2023-05-19",
+          "title": "כיצד נוצרה המילה מְנָיָה, ומה זו בכלל חֶבְרָה?",
+          "og_image": "https://img.haarets.co.il/bs/00000188-2907-d488-afa8-b9ff35090000/62/e3/76eb822849639fa301ab6783cd36/854529.jpg?precrop=2400%2C1395%2Cx0%2Cy72&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2023-05-17/ty-article/.highlight/00000188-2911-df77-afe9-69d5c9ff0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2023-05-17",
+          "magazine_date": "2023-05-19",
+          "title": "ירושלים היתה פעם מרכז חיים שוקק. היום היא בית קברות אחד גדול",
+          "og_image": "https://img.haarets.co.il/bs/00000188-2911-df77-afe9-69d5c9ff0000/cc/3b/a994664843909d472ad764203be4/51909280.JPG?precrop=5760%2C3349%2Cx0%2Cy403&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2023-05-17/ty-article-face/.highlight/00000188-230f-d18b-a79d-27dffe270000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2023-05-17",
+          "magazine_date": "2023-05-19",
+          "title": "\"מאז שהייתי צעיר דיברתי פחות או יותר כמו היום, כאדם מבוגר\"",
+          "og_image": "https://img.haarets.co.il/bs/00000188-230f-d18b-a79d-27dffe270000/e8/43/d596cd934939a5af07d28237efc8/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2023-05-17/ty-article-magazine/.highlight/00000188-29fb-df65-abfc-e9fbbcc80000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2023-05-17",
+          "magazine_date": "2023-05-19",
+          "title": "\"עיתון 'הארץ', תעשו עליי גוגל. אתם ממש מגזימים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000188-29fb-df65-abfc-e9fbbcc80000/b7/d4/d6534e254d30b06e48165c800858/51919740.JPG?precrop=8192%2C4763%2Cx0%2Cy388&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2023-05-17/ty-article/.highlight/00000188-2a49-d6e4-ab9d-eae998080000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2023-05-17",
+          "magazine_date": "2023-05-19",
+          "title": "אז בנוגע לנועה קירל: המילה \"אז\" עשתה את הבלתי־ייאמן",
+          "og_image": "https://img.haarets.co.il/bs/00000188-2a49-d6e4-ab9d-eae998080000/c5/4e/e773f3a64560bdeac418fe0b15e4/51940213.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2023-05-17/ty-article-magazine/.highlight/00000188-2ab2-df65-abfc-eabbeee50000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2023-05-17",
+          "magazine_date": "2023-05-19",
+          "title": "הכלכלה בצרות. השם, תעשה משהו",
+          "og_image": "https://img.haarets.co.il/bs/00000188-2ab2-df65-abfc-eabbeee50000/04/69/6da30bf44369a1c6edd1de58a02c/koteret.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2023-05-17/ty-article-magazine/.highlight/00000188-2315-d18b-a79d-27ddcceb0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2023-05-17",
+          "magazine_date": "2023-05-19",
+          "title": "\"אחרי מלחמת לבנון השנייה כולם התבכיינו. אני אמרתי 'אחלה מלחמה'\"",
+          "og_image": "https://img.haarets.co.il/bs/00000188-2a90-df65-abfc-ea99e8b00000/3e/22/ac7644d44d16ad6e2fde27b234f5/687110.jpg?height=630&width=1200&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2023-05-17/ty-article-20q/.highlight/00000188-22e9-d18b-a79d-26f9adc60000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2023-05-17",
+          "magazine_date": "2023-05-19",
+          "title": "בני איזו דת אינם יכולים לרשת את הכתר הבריטי?",
+          "og_image": "https://img.haarets.co.il/bs/00000188-22e9-d18b-a79d-26f9adc60000/0c/23/dbe727684dc1b59483e6f9a3be78/43156.jpg?precrop=2200%2C1279%2Cx0%2Cy160&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2023-05-18/ty-article-magazine/.highlight/00000188-2975-df77-afe9-69f532ec0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2023-05-18",
+          "magazine_date": "2023-05-19",
+          "title": "המסעדה הטורקית שעושה כבוד לאוכל הרחוב של המולדת",
+          "og_image": "https://img.haarets.co.il/bs/00000188-2975-df77-afe9-69f532ec0000/10/13/e6f863b647ada87c36ce5ed5bc35/18723.jpg?precrop=2400%2C1395%2Cx0%2Cy107&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2023-05-17/ty-article-magazine/.premium/00000188-2aba-d6e4-ab9d-eabb3d210000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2023-05-17",
+          "magazine_date": "2023-05-19",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 19.5.2023",
+          "og_image": "https://img.haarets.co.il/bs/00000188-2aba-d6e4-ab9d-eabb3d210000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2023-05-17/ty-article/.premium/00000188-2aaf-d6e4-ab9d-eaaf40c40000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2023-05-17",
+          "magazine_date": "2023-05-19",
+          "title": "באר שבע אלופה",
+          "og_image": "https://img.haarets.co.il/bs/00000188-2aaf-d6e4-ab9d-eaaf40c40000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2023-05-17/ty-article/.premium/00000188-2ac0-df65-abfc-ead9475e0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2023-05-17",
+          "magazine_date": "2023-05-19",
+          "title": "הטלפון מת?!",
+          "og_image": "https://img.haarets.co.il/bs/00000188-2ac0-df65-abfc-ead9475e0000/88/a1/c42834224d84bffdca92d57e3734/meforsamot.jpg?precrop=1250%2C727%2Cx0%2Cy1792&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2023-05-16/ty-article/00000188-20f6-d18b-a79d-24feac7b0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2023-05-16",
+          "magazine_date": "2023-05-19",
+          "title": "מת הצנזור לשעבר יצחק שני, שעימותיו עם התקשורת שינו את יחסיה עם הצבא",
+          "og_image": "https://img.haarets.co.il/bs/00000188-20f6-d18b-a79d-24feac7b0000/53/8e/76bb390d49af979766562a7bb105/51914800.JPG?precrop=2048%2C1191%2Cx0%2Cy540&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2023-05-17/ty-article/.premium/00000188-2ac2-d6e4-ab9d-eae3ca440000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2023-05-17",
+          "magazine_date": "2023-05-19",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000188-2ac2-d6e4-ab9d-eae3ca440000/05/1c/d8552fae4e95b5435685564f7860/israel-endangered-seal.jpg?precrop=1772%2C1030%2Cx0%2Cy121&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2023-05-17/ty-article/.premium/00000188-2ac9-df65-abfc-ead982880000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2023-05-17",
+          "magazine_date": "2023-05-19",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000188-2ac9-df65-abfc-ead982880000/45/d6/f5433cc64a45905cd3e7210c1c11/ribooa-musaf-521.jpg?precrop=1083%2C630%2Cx0%2Cy247&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2023-05-17/ty-article/.highlight/00000188-2a49-d6e4-ab9d-eae9a75a0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2023-05-17",
+          "magazine_date": "2023-05-19",
+          "title": "המחאה מוכיחה שיש גם קהילתנות בצד הליברלי",
+          "og_image": "https://img.haarets.co.il/bs/00000188-2a49-d6e4-ab9d-eae9a75a0000/64/b7/e4a96dcb454880b0023c4bbeb2f6/07196.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

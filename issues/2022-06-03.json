@@ -1,0 +1,278 @@
+{
+  "magazine_date": "2022-06-03",
+  "total_articles": 20,
+  "cover_image": "https://img.haarets.co.il/bs/00000181-210a-da91-a1fd-6f9f05ac0001/6f/3a/b4a6317b4c3dab46bca05c906798/frontpage.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/flights/2022-06-02/ty-article-magazine/00000181-20f1-de27-a1bd-2bff53d30000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-01/ty-article-magazine/.highlight/00000181-193e-d584-a5ab-5dff8e100000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-01",
+          "magazine_date": "2022-06-03",
+          "title": "\"אני לא שותף לתחושה בעיתון 'הארץ' שגנבו לי את המדינה. תרימו ראש כבר\"",
+          "og_image": "https://img.haarets.co.il/bs/00000181-193e-d584-a5ab-5dff8e100000/ae/f9/feb3586f49efa34df032dcf9be5f/47210554.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-01/ty-article-magazine/.highlight/00000181-193f-d71f-a3e1-d93f8f870000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-01",
+          "magazine_date": "2022-06-03",
+          "title": "אילו הפתעות חיזבאללה מכין לצה\"ל? ומה יקרה ביום שאחרי נסראללה?",
+          "og_image": "https://img.haarets.co.il/bs/00000181-193f-d71f-a3e1-d93f8f870000/84/a2/9ad0b5e241b280e9f4ef9dd1e8e7/47011826.JPG?precrop=5464%2C3177%2Cx0%2Cy1940&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-01/ty-article-magazine/.highlight/00000181-1f02-d325-af99-7fd68f4c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-01",
+          "magazine_date": "2022-06-03",
+          "title": "מתברר שמול חופי ישראל חיה להקת לווייתנים שלא ידענו על קיומה",
+          "og_image": "https://img.haarets.co.il/bs/00000181-1f02-d325-af99-7fd68f4c0000/f0/b0/4466c48f48caa6f61a7deb0a073b/47061227.JPG?precrop=5472%2C3181%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-01/ty-article-magazine/.highlight/00000181-1f95-da91-a1fd-5f95d4a40000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-01",
+          "magazine_date": "2022-06-03",
+          "title": "המומחית הגדולה של ייל לאושר גילתה שהיא לא ממש מאושרת",
+          "og_image": "https://img.haarets.co.il/bs/00000181-1f95-da91-a1fd-5f95d4a40000/dd/9a/3de242db45d8a20c320d5842601c/47237546.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-01/ty-article/.highlight/00000181-1e80-da8b-a19f-ff8bc1410000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-01",
+          "magazine_date": "2022-06-03",
+          "title": "מה הפתיע את הנוסע בזמן שהגיע לבית המשפט העליון",
+          "og_image": "https://img.haarets.co.il/bs/00000181-1e80-da8b-a19f-ff8bc1410000/a7/7a/03ae76f34ab9a58b8a422a87c51b/47238127.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-06-01/ty-article/.premium/00000181-1e8d-d7db-a98f-beff91880000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-06-01",
+          "magazine_date": "2022-06-03",
+          "title": "למה פסלת תשדיר על כך שייצור חלב גורם סבל לפרות? \"אתה יודע, זה מורכב\"",
+          "og_image": "https://img.haarets.co.il/bs/00000181-1e8d-d7db-a98f-beff91880000/d7/f3/b5276f3341fb95e99cbdc635770c/michel.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-06-01/ty-article-magazine/.premium/00000181-1e90-de27-a1bd-3fde3d550000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-06-01",
+          "magazine_date": "2022-06-03",
+          "title": "הוא היה אנטישמי מדופלם וגזען עם תעודות. ואז הוא הגיע לעמק יזרעאל",
+          "og_image": "https://img.haarets.co.il/bs/00000181-1e90-de27-a1bd-3fde3d550000/53/9c/16c6952b457e9a23f0112121ef3e/47214802.JPG?precrop=2108%2C1226%2Cx0%2Cy347&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-06-01/ty-article/.premium/00000181-1e3c-d726-adfd-fffecee30000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-06-01",
+          "magazine_date": "2022-06-03",
+          "title": "מאז הבוז שגרר את ישראל למלחמה ב-1982 לא השתנה הרבה",
+          "og_image": "https://img.haarets.co.il/bs/00000181-1e3c-d726-adfd-fffecee30000/42/09/8cac3d754f15a518e7c64c6025c0/47226455.JPG?precrop=3579%2C2081%2Cx0%2Cy2&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2022-06-01/ty-article/00000181-1e24-db47-a5dd-9f2fc7ff0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2022-06-01",
+          "magazine_date": "2022-06-03",
+          "title": "הפועל הזה שימש לתיאור עב\"מים וסצנות מקראיות, ואז קיבל תפנית מוזרה",
+          "og_image": "https://img.haarets.co.il/bs/00000181-1e24-db47-a5dd-9f2fc7ff0000/c4/8f/dd5e92a0408badd87cea2e602939/47230284.JPG?precrop=5184%2C3014%2Cx0%2Cy165&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-06-01/ty-article/.premium/00000181-1e2d-dfc2-a9a1-fffdbe900000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-06-01",
+          "magazine_date": "2022-06-03",
+          "title": "מדינת היהודים לא היתה רק בדיחה אנטישמית, אלא גם תרחיש מדע בדיוני",
+          "og_image": "https://img.haarets.co.il/bs/00000181-1e2d-dfc2-a9a1-fffdbe900000/69/40/feb3c07446129d55041e08e6ed8c/47227025.JPG?precrop=2913%2C1694%2Cx0%2Cy124&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-06-02/ty-article-face/.highlight/00000181-2191-de27-a1bd-2bdf6e930000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-06-02",
+          "magazine_date": "2022-06-03",
+          "title": "\"כרגע הפוליטיקה זה מקום איום. יבוא היום ואגיע לשם\"",
+          "og_image": "https://img.haarets.co.il/bs/00000181-2191-de27-a1bd-2bdf6e930000/71/e8/46729869477f9a1b89514affa4b1/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-06-02/ty-article-magazine/00000181-20f1-de27-a1bd-2bff53d30000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-06-02",
+          "magazine_date": "2022-06-03",
+          "title": "טיסות חוזרות: פגשנו אותם לפני שנים בנתב\"ג. מה קרה להם מאז?",
+          "og_image": "https://img.haarets.co.il/bs/00000181-20f1-de27-a1bd-2bff53d30000/bd/d1/a46954844129b54b1e2659ea4f7c/92541.jpg?precrop=2400%2C1393%2Cx0%2Cy182&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-06-01/ty-article-magazine/.highlight/00000181-1fbc-da91-a1fd-5fbd0d6a0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-06-01",
+          "magazine_date": "2022-06-03",
+          "title": "על הפיחות במעמדו של 👍 ועל הסכנות האורבות לפתחו של ❤️",
+          "og_image": "https://img.haarets.co.il/bs/00000181-1fbc-da91-a1fd-5fbd0d6a0000/ee/6e/36cfcb6e49f79bd000856c955790/emoji.jpg?precrop=619%2C360%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-06-02/ty-article-magazine/.highlight/00000181-2560-d10b-a181-67f248730000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-06-02",
+          "magazine_date": "2022-06-03",
+          "title": "מטוס ראש הממשלה, הסוף (כנראה). נקודת האור: הוא לא ישמש את בן גביר",
+          "og_image": "https://img.haarets.co.il/bs/00000181-2560-d10b-a181-67f248730000/0d/c7/4322c8ff4e82bbf0e6be77f953b6/97944.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2022-06-03/ty-article-magazine/.premium/00000181-27e7-d10b-a181-67f722f10000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2022-06-03",
+          "magazine_date": "2022-06-03",
+          "title": "\"יש אנשים שיגידו שהחוויה שהם מקבלים באילת יותר טובה מפריז... אני לא\"",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-dc06-db5a-a57f-dc6e644e0000/79/8c/8abb230a7b9fd2012ea5f1d6b75c/1124814169.jpg?precrop=2188,1269,x12,y16&height=630&width=1200&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-05-31/ty-article-20q/.highlight/00000181-18e4-d57f-afc1-b8e7beaa0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-05-31",
+          "magazine_date": "2022-06-03",
+          "title": "בסדרה \"קרובים קרובים\", במה שונים אביתר ואפרת משאר הדמויות הראשיות?",
+          "og_image": "https://img.haarets.co.il/bs/00000181-18e4-d57f-afc1-b8e7beaa0000/a1/cc/046624554aba98cce6e9e6a5375d/660755.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2022-06-02/ty-article-magazine/.premium/00000181-238c-da9f-a3c1-ffffa7b40000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2022-06-02",
+          "magazine_date": "2022-06-03",
+          "title": "זה אולי נראה כמו מתקן שיגור של נאס\"א, אבל בסוף יוצא מכאן קמח",
+          "og_image": "https://img.haarets.co.il/bs/00000181-238c-da9f-a3c1-ffffa7b40000/54/e7/3ee553c24c749704310a65482e47/04680.jpg?precrop=1602%2C931%2Cx0%2Cy520&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2022-06-03/ty-article/00000181-27db-dcd4-a9b1-ffdbd85c0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2022-06-03",
+          "magazine_date": "2022-06-03",
+          "title": "שחמט",
+          "og_image": "https://img.haarets.co.il/bs/00000181-27db-dcd4-a9b1-ffdbd85c0000/ce/bf/f71ce4de431ca345dddb1816555c/97320.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-06-02/ty-article/.premium/00000181-23c9-d366-a1f3-afcb743f0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-06-02",
+          "magazine_date": "2022-06-03",
+          "title": "הבלשן שמצא את הסכנה הגדולה ביותר לעברית",
+          "og_image": "https://img.haarets.co.il/bs/00000181-23c9-d366-a1f3-afcb743f0000/0c/3d/3229a6bc43539b4a132dde990382/leningradcodex-text.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-06-01/ty-article/00000181-1fec-da91-a1fd-5ffdd9340000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-06-01",
+          "magazine_date": "2022-06-03",
+          "title": "היו בארץ עוד מחנות ריכוז",
+          "og_image": "https://img.haarets.co.il/bs/00000181-1fec-da91-a1fd-5ffdd9340000/1a/e5/7a6f13064a9c84d75c756cb41349/67380.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

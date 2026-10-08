@@ -1,0 +1,323 @@
+{
+  "magazine_date": "2022-04-29",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/00000180-7eea-d4b9-a5b8-feffa3790000/5b/65/f708856d9031990797e6672fb253/2089064069.jpg?&width=1500&height=1979&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2022-04-28/ty-article-magazine/.highlight/00000180-7eea-d4b9-a5b8-feffac850000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-04-27/ty-article/.highlight/00000180-7ee6-d609-a1ef-feee90e90000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-04-27",
+          "magazine_date": "2022-04-29",
+          "title": "\"כשאחי נעדר במלחמה, הייתי ימני קיצוני, שנאתי את כל הערבים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7ee6-d609-a1ef-feee90e90000/77/b3/0566c8f0bba250dd88768b0fa520/88338869.jpg?precrop=1181%2C687%2Cx0%2Cy156&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-04-28/ty-article-magazine/.highlight/00000180-7ee0-d800-a5db-fffde1a90000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-04-28",
+          "magazine_date": "2022-04-29",
+          "title": "עשרות שנים חיה ציפורה הלר בהתבודדות קיצונית. בגיל 96, המשוררת יוצאת לאור",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7ee0-d800-a5db-fffde1a90000/6c/c0/1aeaa1e9a7f51c255bf1425934f0/3970770389.jpg?precrop=1529%2C886%2Cx0%2Cy454&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-04-28/ty-article-magazine/.highlight/00000180-7ee0-df8d-a1c4-feeaa8450000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-04-28",
+          "magazine_date": "2022-04-29",
+          "title": "\"לכולם יש את הזכות והאפשרות להביט מחדש בחייהם, בעיניים רעננות\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7ee0-df8d-a1c4-feeaa8450000/a2/e8/79d1baac779e785f91a5df203248/1105024.jpg?precrop=2048%2C1191%2Cx0%2Cy137&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-04-28/ty-article-magazine/.highlight/00000180-7ee1-df8d-a1c4-feebec4b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-04-28",
+          "magazine_date": "2022-04-29",
+          "title": "הוא גבר יפני רגיל, והוא נשוי לדמות בדיונית. יש עוד אלפים כמוהו",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7ee1-df8d-a1c4-feebec4b0000/76/c0/321834d49555ff0428a044fec3cb/4129411873.jpg?precrop=2048%2C1190%2Cx0%2Cy175&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-04-28/ty-article-magazine/.highlight/00000180-7eea-d4b9-a5b8-feffac850000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-04-28",
+          "magazine_date": "2022-04-29",
+          "title": "מה מגלים על מוסר, אמפתיה ומגדר כשמתבוננים במשך שנים בקופי אדם",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7eea-d4b9-a5b8-feffac850000/ac/e0/f60736a3cd3548244815855fc357/3425593535.jpg?precrop=2048%2C1192%2Cx0%2Cy70&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-04-28/ty-article/.highlight/00000180-7edf-d609-a1ef-fedff9180000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-04-28",
+          "magazine_date": "2022-04-29",
+          "title": "בזמן שהרהרתי בפשעי המלחמה באוקראינה, פשע אחד נעשה ממש תחת אפי",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7edf-d609-a1ef-fedff9180000/73/7f/538085a3b10eeac08103282c9412/3938159320.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-04-28/ty-article/.highlight/00000180-7ee6-d4b9-a5b8-fef7adbe0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-04-28",
+          "magazine_date": "2022-04-29",
+          "title": "מתי ולמה הפסקתי לאהוב את חז\"ל",
+          "og_image": "https://gif.haarets.co.il/bs/00000180-7ee6-d4b9-a5b8-fef7adbe0000/41/09/fd8b13af11f5feb99488d41e4751/3063850623.gif?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/tozeret/parashat/2022-04-28/ty-article/.highlight/00000180-7ee8-d9ba-a3f7-ffeb51d10000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-04-28",
+          "magazine_date": "2022-04-29",
+          "title": "פרשת החיים לא יפים",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7ee8-d9ba-a3f7-ffeb51d10000/65/17/7b70d5f9dfc1dc80381009231dff/3679694512.jpg?precrop=2200%2C1277%2Cx0%2Cy135&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-04-27/ty-article/.highlight/00000180-7edf-dc51-afa6-7fff9c520000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-04-27",
+          "magazine_date": "2022-04-29",
+          "title": "זה בית כנסת עתיק וחרב. הוא יכול להיות מקום של תפילה אחרת",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7edf-dc51-afa6-7fff9c520000/db/07/0fd60d2fb3a8027a9fadb8042251/1808265901.jpg?precrop=1897%2C1103%2Cx0%2Cy897&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-04-27/ty-article/.highlight/00000180-7ee7-d800-a5db-ffff28600000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-04-27",
+          "magazine_date": "2022-04-29",
+          "title": "זו נקודת מבט אחרת, שמיועדת למי שמשוכנעים שהם עצמם טובים יותר מהגרמנים",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7ee7-d800-a5db-ffff28600000/2a/57/7bc3d3be93bb055a857251319f37/2240087635.jpg?precrop=1743%2C1012%2Cx89%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-04-27/ty-article/.highlight/00000180-7eec-d609-a1ef-feee8f170000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-04-27",
+          "magazine_date": "2022-04-29",
+          "title": "כמעט הכל באיטליה אטי, מסורבל, זקן. חייבים להתרשם מחוסר המוטיבציה הכללי הזה",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7eec-d609-a1ef-feee8f170000/d3/30/e92d08a35552fcc9661264291a22/4189623381.jpg?precrop=2015%2C1173%2Cx33%2Cy148&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2022-04-27/ty-article/.highlight/00000180-7ee5-dc51-afa6-7fefca160000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2022-04-27",
+          "magazine_date": "2022-04-29",
+          "title": "מתי התחלנו לפחד מהשמש, ומה מקור המילה שיזוף?",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7ee5-dc51-afa6-7fefca160000/86/0b/cb799f031ed4e68435ab0ad3b462/3618797588.jpg?precrop=1875%2C1089%2Cx173%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-04-27/ty-article/.highlight/00000180-7ee9-d7c8-a7b0-7fef83d00000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-04-27",
+          "magazine_date": "2022-04-29",
+          "title": "הוויקינגים היו רוצחים ואנסים, אבל היה להם מנהג אחד שאולי כדאי לאמץ",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7ee9-d7c8-a7b0-7fef83d00000/c1/48/e8f7a46734393d9062e558639134/3022907160.jpg?precrop=2156%2C1253%2Cx44%2Cy32&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-04-28/ty-article-face/.highlight/00000180-7ee3-d800-a5db-ffff48360000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-04-28",
+          "magazine_date": "2022-04-29",
+          "title": "\"אני קלאמזית ברמות הכי גבוהות. רק אתמול נפלתי ואני חושבת שנקעתי את הרגל\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7ee3-d800-a5db-ffff48360000/12/f7/46a599d7b674fbd20ff6d46c70ba/4272809405.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-04-27/ty-article-magazine/.highlight/00000180-7ee4-df8d-a1c4-feeeae060000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-04-27",
+          "magazine_date": "2022-04-29",
+          "title": "\"בארץ תמיד הייתי בלחץ. בוושינגטון אני פשוט מתעורר שמח\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7ee4-df8d-a1c4-feeeae060000/5f/46/1f271abd18f8931cfd6c746fb05f/1517288978.jpg?precrop=2041%2C1186%2Cx7%2Cy114&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-04-27/ty-article-magazine/.highlight/00000180-7ee9-df8d-a1c4-feeb49a10000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-04-27",
+          "magazine_date": "2022-04-29",
+          "title": "מתי הוא חבר. או במילים אחרות, מתי לא חבר שלי",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7ee9-df8d-a1c4-feeb49a10000/7d/8f/a87f6306dee5ca7cebdce22f4474/3809650652.jpg?precrop=2048%2C1193%2Cx0%2Cy22&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-04-27/ty-article-magazine/.highlight/00000180-7ee4-dc51-afa6-7fee33e70000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-04-27",
+          "magazine_date": "2022-04-29",
+          "title": "איתן סטיבה חוזר לכדור הארץ. אז אתה שומע, גרוניך אמר",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7ee4-dc51-afa6-7fee33e70000/16/72/e8c3add790156cd3e203cdda5d7d/3838715161.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2022-04-28/ty-article-magazine/.highlight/00000180-7ee4-d4b9-a5b8-fef595810000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2022-04-28",
+          "magazine_date": "2022-04-29",
+          "title": "\"לכל הטמבלים שמשווים ביני לבין גרוניך, אני לא דמנטי ואין לי פליטות פה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7ee4-d4b9-a5b8-fef590630000/4b/6c/39a063d9ef2c08825a9c7d4197dd/1019950730.jpg?precrop=2053,1190,x83,y111&height=630&width=1200&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-04-28/ty-article-20q/.highlight/00000180-7ee9-d9ba-a3f7-ffeb7a760000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-04-28",
+          "magazine_date": "2022-04-29",
+          "title": "איזו דמות מסדרה אחרת היתה הבסיס לדמות של אריק קרטמן ב\"סאות' פארק\"?",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7ee9-d9ba-a3f7-ffeb7a760000/f6/ed/4eebf73250b6812e73443185dfac/75749807.jpg?precrop=1926%2C1120%2Cx167%2Cy43&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2022-04-28/ty-article-magazine/.premium/00000180-7ee9-d7c8-a7b0-7feff2ed0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2022-04-28",
+          "magazine_date": "2022-04-29",
+          "title": "המחלבה הקטנה שהצליחה להפוך למרכז שיקומי שוקק חיים",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7ee9-d7c8-a7b0-7feff2ed0000/92/d6/effa5c2c05e139b7693b6d45de2d/2776891296.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2022-04-28/ty-article/.highlight/00000180-7eec-dc51-afa6-7fee2e800000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2022-04-28",
+          "magazine_date": "2022-04-29",
+          "title": "כישרונות מבטיחים",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7eec-dc51-afa6-7fee2e800000/95/2b/1d23f60b5f7729570bffa33990af/1831320925.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2022-04-28/ty-article/.highlight/00000180-7ee1-d9ba-a3f7-ffeb546a0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2022-04-28",
+          "magazine_date": "2022-04-29",
+          "title": "קרפיון חי במרחק רבע שעה מהמטבח",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7ee1-d9ba-a3f7-ffeb546a0000/8e/68/6c9c5c982aa4101fc11124ee8bff/1932296344.jpg?precrop=1005%2C591%2Cx0%2Cy247&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2022-04-28/ty-article/.highlight/00000180-7ee3-d9ba-a3f7-ffeb66ab0000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2022-04-28",
+          "magazine_date": "2022-04-29",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7ee3-d9ba-a3f7-ffeb66ab0000/70/3c/1ca19f9c76a5351b2777376322b4/4283972461.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-04-27/ty-article/.highlight/00000180-7ee7-df8d-a1c4-feef80c40000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-04-27",
+          "magazine_date": "2022-04-29",
+          "title": "המיזמים החברתיים האלה רק מחזקים את הקפיטליזם",
+          "og_image": "https://img.haarets.co.il/bs/00000180-7ee7-df8d-a1c4-feef80c40000/bf/16/2962650773df1c8c29b01ff7a357/2610207318.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

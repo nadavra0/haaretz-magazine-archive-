@@ -1,0 +1,358 @@
+{
+  "magazine_date": "2022-03-04",
+  "total_articles": 26,
+  "cover_image": "https://img.haarets.co.il/bs/0000017f-db5f-d856-a37f-ffdf50d50001/f7/d6/6596ab09181d938d04ec295e0a8c/2089064069.jpg?&width=1500&height=1979&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2022-03-03/ty-article-magazine/.highlight/0000017f-db5f-d856-a37f-ffdf65eb0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-03-02/ty-article/.highlight/0000017f-db45-d3ff-a7ff-fbe5cd4e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-03-02",
+          "magazine_date": "2022-03-04",
+          "title": "באחת מקבוצות הפייסבוק התפתח דיון סביבי. מה זה אומר שאני \"הכי בומרית\"?",
+          "og_image": "https://gif.haarets.co.il/bs/0000017f-db45-d3ff-a7ff-fbe5cd4e0000/5a/f2/29578cd46d42979417926cf02fb8/3063850623.gif?precrop=1311%2C762%2Cx6%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-03-02/ty-article/.highlight/0000017f-db5f-d856-a37f-ffdfcc560000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-03-02",
+          "magazine_date": "2022-03-04",
+          "title": "המלחמה באוקראינה מעוררת אצלי שדים מן העבר",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db5f-d856-a37f-ffdfcc560000/5e/4e/179dce2e3552cba7a379e43d9409/989727534.jpg?precrop=2613%2C1518%2Cx12%2Cy4&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/tozeret/parashat/2022-03-02/ty-article/.highlight/0000017f-db6b-db5a-a57f-db6b57480000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-03-02",
+          "magazine_date": "2022-03-04",
+          "title": "פרשת ויתחזה",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db6b-db5a-a57f-db6b57480000/4b/cc/e915ce008afe001737dd51b4c2fc/1999381218.jpg?precrop=1815%2C1055%2Cx0%2Cy268&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-03-03/ty-article-magazine/.highlight/0000017f-db5f-d856-a37f-ffdf65eb0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-03-03",
+          "magazine_date": "2022-03-04",
+          "title": "\"אנחנו נעולים במטרו. בתי בוכה, אני רועדת. כבר אי אפשר להשיג לחם\"",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db5f-d856-a37f-ffdf65eb0000/ab/8b/06cc03e28cb8a7d2f8222934579a/2039627944.jpg?precrop=2200%2C1279%2Cx0%2Cy131&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-03-03/ty-article-magazine/.highlight/0000017f-db7f-d3a5-af7f-fbff92c20000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-03-03",
+          "magazine_date": "2022-03-04",
+          "title": "צבי הקר היה \"האדריכל הבולט בישראל\". אין לו הרבה מילים טובות לומר על הבנייה כאן",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db7f-d3a5-af7f-fbff92c20000/18/8c/d2a921fde27bcda500a502d4560c/2471868708.jpg?precrop=2048%2C1192%2Cx0%2Cy125&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-03-03/ty-article-magazine/.highlight/0000017f-db80-df62-a9ff-dfd7bae40000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-03-03",
+          "magazine_date": "2022-03-04",
+          "title": "כאן חיים בכיף בבית מבוץ, בניתוק מהעולם, עם נוף מרהיב להרי הגלעד",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db80-df62-a9ff-dfd7bae40000/1d/63/7a5b0c10b8a80a3a0bc7e2e3cc57/3743815820.jpg?precrop=2048%2C1190%2Cx0%2Cy173&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-03-03/ty-article-magazine/.highlight/0000017f-db82-df62-a9ff-dfd775a50000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-03-03",
+          "magazine_date": "2022-03-04",
+          "title": "מלחמות הקמינים עולות מדרגה והופכות למאבק יצרי בין רומנטיקנים ללוחמי אש",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db82-df62-a9ff-dfd775a50000/da/b0/24185b76a5e5829de091fc7f0f93/654305572.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-03-03/ty-article/.highlight/0000017f-db93-db22-a17f-ffb37c5a0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-03-03",
+          "magazine_date": "2022-03-04",
+          "title": "לא מספיק להיות כריזמטי. מנהיגים גדולים צריכים משהו אחר לגמרי",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db93-db22-a17f-ffb37c5a0000/b7/74/2564eb5ea9f39629492b213e02f4/2372577104.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-03-03/ty-article/.highlight/0000017f-db93-db5a-a57f-dbfbadd90000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-03-03",
+          "magazine_date": "2022-03-04",
+          "title": "אנחנו לא באמת נוסטלגיים כלפי העבר. הגעגוע שלנו הוא לעתיד",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db93-db5a-a57f-dbfbadd90000/68/d8/db248adb7ed799e45296a181c850/3293028319.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2022-03-02/ty-article/.highlight/0000017f-db93-d3ff-a7ff-fbb361820000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2022-03-02",
+          "magazine_date": "2022-03-04",
+          "title": "אחד המנהגים הלאומים החשובים ביותר נולד בטורקיה, לפני אלף שנה",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db93-d3ff-a7ff-fbb361820000/df/dd/3c862d0fb890fe85eea8fc2c7103/3843281466.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-03-03/ty-article/.highlight/0000017f-db93-df62-a9ff-dfd739860000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-03-03",
+          "magazine_date": "2022-03-04",
+          "title": "קשה לחשוב על דיקטטור יותר משעמם מפוטין",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db93-df62-a9ff-dfd739860000/dd/fd/314e7b89fd64b5a194501faeee69/608620336.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-03-03/ty-article-face/.highlight/0000017f-db8d-d3a5-af7f-fbafa74d0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-03-03",
+          "magazine_date": "2022-03-04",
+          "title": "\"המשברים והנפילות עשו אותי אדם רציני. כבר אין הרבה דברים שמצליחים לגרום לי לחייך\"",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db8d-d3a5-af7f-fbafa74d0000/39/67/6f8406195f7f98ff06d88f286848/4272809405.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-03-02/ty-article-magazine/.highlight/0000017f-db50-db22-a17f-fff1f4e30000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-03-02",
+          "magazine_date": "2022-03-04",
+          "title": "\"כל הלקוחות שלנו משוגעים. מוציאים אלף דולר על חתיכת נייר שלעולם לא ישתמשו בה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db50-db22-a17f-fff1f4e30000/89/28/2995ef0005fe27320a7beccf08be/2015994030.jpg?precrop=2048%2C1192%2Cx0%2Cy133&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-03-02/ty-article-magazine/.highlight/0000017f-db60-d3ff-a7ff-fbe080540000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-03-02",
+          "magazine_date": "2022-03-04",
+          "title": "59 שניות בכיכובה של אופירה אסייג שמהן עשויה הישראליות המעודכנת",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db60-d3ff-a7ff-fbe080540000/a2/c9/5b753d168dec1e42c414b55fe2bd/1469244977.jpg?precrop=1170%2C681%2Cx12%2Cy128&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-03-02/ty-article-magazine/.highlight/0000017f-db42-d3a5-af7f-fbee47810001",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-03-02",
+          "magazine_date": "2022-03-04",
+          "title": "ישראל מציעה לאוקראינה סיוע הומניטרי, קונטיינר של פרשנים כבר בדרך",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db42-d3a5-af7f-fbee47810001/7a/5e/2130321059706284767c5a51fe0d/469599355.jpg?precrop=2000%2C1162%2Cx0%2Cy368&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2022-03-03/ty-article-magazine/.highlight/0000017f-db8e-df62-a9ff-dfdf73950000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2022-03-03",
+          "magazine_date": "2022-03-04",
+          "title": "\"אני כן מנסה להגיע לפוטין ולדבר איתו\"",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db8e-df62-a9ff-dfdf70e80000/01/ab/3143ea1e7ddb12b4e2868a05b6e5/1689382385.jpg?precrop=197,114,x213,y23&height=630&width=1200&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-03-03/ty-article-20q/.highlight/0000017f-db8d-d856-a37f-ffcd21ed0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-03-03",
+          "magazine_date": "2022-03-04",
+          "title": "מה הקשר בין \"קפה קליפורניה\" לשיר \"עוד יהיה\" של אריק איינשטיין",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db8d-d856-a37f-ffcd21ed0000/c3/b1/11cbcfb66f788d25076755b72bf9/2837957563.jpg?precrop=2192%2C1274%2Cx8%2Cy12&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2022-03-02/ty-article-magazine/.highlight/0000017f-db4f-df62-a9ff-dfdfaf200000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2022-03-02",
+          "magazine_date": "2022-03-04",
+          "title": "חלב, יזע ודמעות: מחלבת בוטיק חדשה נולדה בישראל",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db4f-df62-a9ff-dfdfaf200000/58/df/0bec38c784294b2716c8f85be271/2776891296.jpg?precrop=1299%2C753%2Cx28%2Cy531&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2022-03-02/ty-article-magazine/.highlight/0000017f-db41-d856-a37f-ffc1a5710003",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2022-03-02",
+          "magazine_date": "2022-03-04",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 4.3.2022",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db41-d856-a37f-ffc1a5710003/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2022-03-02/ty-article/.highlight/0000017f-db45-db5a-a57f-db6f3ac50000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2022-03-02",
+          "magazine_date": "2022-03-04",
+          "title": "המלחמה זולגת ללוח",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db45-db5a-a57f-db6f3ac50000/6d/fd/ce0cc3e834af79c2e4fe8f9f3984/4231095475.jpg?precrop=2028%2C1180%2Cx17%2Cy100&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2022-03-02/ty-article/.highlight/0000017f-db42-df62-a9ff-dfd79e8a0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2022-03-02",
+          "magazine_date": "2022-03-04",
+          "title": "בשעת השפעת והמחלות הזהרו לשתות מים",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db42-df62-a9ff-dfd79e8a0000/a5/b8/642c69995168cc12dd721600e46a/1932296344.jpg?precrop=779%2C457%2Cx0%2Cy28&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-02-27/ty-article-magazine/.highlight/0000017f-f8a4-d2d5-a9ff-f8ac8af10000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-02-27",
+          "magazine_date": "2022-03-04",
+          "title": "הקיבוצניק שנשלח להיות \"האדם השלישי בחדר\"",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-f8a4-d2d5-a9ff-f8ac8af10000/75/76/02e35dee16572aa67fd911db4708/3570843431.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-03-04/ty-article/.highlight/0000017f-dbec-db22-a17f-fffd1e500000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-03-04",
+          "magazine_date": "2022-03-04",
+          "title": "הוא כונה \"רופא הילדים הטוב בישראל\". עמיתיו הסבירו מדוע",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-dbec-db22-a17f-fffd1e500000/14/6b/c50cca4b51c69699182071b4622b/373060717.jpg?precrop=1473%2C857%2Cx19%2Cy40&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2022-03-02/ty-article/.highlight/0000017f-db41-df9c-a17f-ff59dff70000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2022-03-02",
+          "magazine_date": "2022-03-04",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db41-df9c-a17f-ff59dff70000/64/42/9fc4f4118b79497c257ed5dc60f8/831660928.jpg?precrop=1343%2C779%2Cx0%2Cy127&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2022-03-02/ty-article/.highlight/0000017f-db42-db5a-a57f-db6a04c50000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2022-03-02",
+          "magazine_date": "2022-03-04",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db42-db5a-a57f-db6a04c50000/c3/60/25ceaa376f7f5c370f2f7bbb266f/2033304156.jpg?precrop=1083%2C629%2Cx0%2Cy316&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-03-02/ty-article/.highlight/0000017f-db62-db5a-a57f-db6a45120000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-03-02",
+          "magazine_date": "2022-03-04",
+          "title": "גם כשמתחרטים, אי־אפשר להחזיר את הגלגל לאחור",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-db62-db5a-a57f-db6a45120000/ee/ae/4ecf735f4c5f59e1c6efa5c6a3b0/1413034435.jpg?precrop=1538%2C896%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

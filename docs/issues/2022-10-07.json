@@ -1,0 +1,318 @@
+{
+  "magazine_date": "2022-10-07",
+  "total_articles": 23,
+  "cover_image": "https://img.haarets.co.il/bs/00000183-9ec1-d425-abef-dee5d9f50001/74/d1/12602ea04cdf8df4356ec54c26a3/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2022-10-06/ty-article-magazine/.highlight/00000183-9eb8-d425-abef-defcc5bc0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-10-06/ty-article-magazine/.highlight/00000183-9e63-de87-a7f7-9feb30300000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-10-06",
+          "magazine_date": "2022-10-07",
+          "title": "שש הערות עגומות ותקווה אחת לעתיד, במלאות עשור לטינדר",
+          "og_image": "https://img.haarets.co.il/bs/00000183-9e63-de87-a7f7-9feb30300000/2c/76/1dfa3de645eea1e4319cb30f823c/bogen-22.jpg?precrop=1579%2C917%2Cx246%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-10-06/ty-article-magazine/.highlight/00000183-9eb8-d425-abef-defcc5bc0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-10-06",
+          "magazine_date": "2022-10-07",
+          "title": "\"מה שנראה במהפכת הדה־קרבוניזציה יהיה הרבה יותר גדול מהמהפכה הדיגיטלית\"",
+          "og_image": "https://img.haarets.co.il/bs/00000183-9eb8-d425-abef-defcc5bc0000/71/fa/55b90c8b4554ba46556cd93cffb2/40383.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-10-06/ty-article-magazine/.highlight/00000183-9ef3-d794-a1cf-bfffb5670000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-10-06",
+          "magazine_date": "2022-10-07",
+          "title": "מסמכים שנחשפו מגלים איך משטר צבאי רצחני נתפס בישראל כהזדמנות עסקית",
+          "og_image": "https://img.haarets.co.il/bs/00000183-9ef3-d794-a1cf-bfffb5670000/ff/ef/a0918760430ca940ee736ce619be/48800186.JPG?precrop=2508%2C1458%2Cx0%2Cy417&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-10-06/ty-article-magazine/.highlight/00000183-9eff-d655-abe3-bfffbc5f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-10-06",
+          "magazine_date": "2022-10-07",
+          "title": "\"לתל אביב היה ייצוג מדהים במפה של הקלאבינג העולמי. עכשיו אין\"",
+          "og_image": "https://img.haarets.co.il/bs/00000183-9eff-d655-abe3-bfffbc5f0000/64/fa/e8f4199b4312b55bd4b1b8ad7c69/48762214.JPG?precrop=3179%2C1848%2Cx316%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-10-06/ty-article/.highlight/00000183-9dab-d534-adef-ffef45700000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-10-06",
+          "magazine_date": "2022-10-07",
+          "title": "למי תצביע? \"ניר, גם אני מתלבט. גם אני לא יודע\"",
+          "og_image": "https://img.haarets.co.il/bs/00000183-9dab-d534-adef-ffef45700000/0d/77/4eff936a454591d3dbbc1e6e9ce1/48812941.JPG?precrop=5472%2C3181%2Cx0%2Cy24&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-10-06/ty-article/.highlight/00000183-acd0-d1a7-afab-ecfc04df0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-10-06",
+          "magazine_date": "2022-10-07",
+          "title": "מתלבטים איך לקרוא לתינוק? 1,500 דולר יפתרו את הדילמה",
+          "og_image": "https://img.haarets.co.il/bs/00000183-acd0-d1a7-afab-ecfc04df0000/13/12/9e7e8fe3fc0958af73a96d821ee3/1590884088.jpg?precrop=2448%2C1425%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-10-06/ty-article/.highlight/00000183-ace0-d5eb-a3af-fcf6d1820000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-10-06",
+          "magazine_date": "2022-10-07",
+          "title": "אחי לא הצליח ללמד אותי לרכוב על אופניים. אבל לימד אותי דבר חשוב יותר",
+          "og_image": "https://gif.haarets.co.il/bs/00000183-ace0-d5eb-a3af-fcf6d1820000/29/f0/c6d2af58433897445e61e71ab31c/neri.gif?precrop=1311%2C762%2Cx6%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-10-06/ty-article/.highlight/00000183-a1d0-d947-a583-b7fa21250000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-10-06",
+          "magazine_date": "2022-10-07",
+          "title": "מסעות לפולין? הגיעה השעה להוציא מסעות לארה\"ב",
+          "og_image": "https://img.haarets.co.il/bs/00000183-a1d0-d947-a583-b7fa21250000/55/be/f134c9d745d186530f63decc4be8/48814005.JPG?precrop=2907%2C1690%2Cx0%2Cy54&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-10-06/ty-article/.highlight/00000183-a1ed-d270-a1fb-b5ed57590000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-10-06",
+          "magazine_date": "2022-10-07",
+          "title": "לציונות הדתית לא נותר שום מכנה אידיאולוגי משותף",
+          "og_image": "https://img.haarets.co.il/bs/00000183-a1ed-d270-a1fb-b5ed57590000/59/8c/df03f1604d918916f5e28fe78440/48812625.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2022-10-06/ty-article/.highlight/00000183-ab9f-d8cc-afc7-ffffe9440000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2022-10-06",
+          "magazine_date": "2022-10-07",
+          "title": "תגלית מקרית של חיילי נפוליאון עזרה לפענח תעלומה מספר ישעיהו",
+          "og_image": "https://img.haarets.co.il/bs/00000183-ab9f-d8cc-afc7-ffffe9440000/78/e0/c4e4c8f84478a049e255b4ecc136/43489.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-10-06/ty-article/.highlight/00000183-aba0-d03e-adbf-bff73e0a0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-10-06",
+          "magazine_date": "2022-10-07",
+          "title": "זה הולך ומתפשט. כך תצליחו לא לערוק לשורות הימין",
+          "og_image": "https://img.haarets.co.il/bs/00000183-aba0-d03e-adbf-bff73e0a0000/6d/7f/dabb61594e80bd64b2012a0b8854/48813500.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-10-06/ty-article-face/.highlight/00000183-a229-d395-a7c7-fa6f3a520000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-10-06",
+          "magazine_date": "2022-10-07",
+          "title": "\"לכל בנות הזוג שהיו לי אמרתי שאני הגבר הכי שווה שהן פגשו\"",
+          "og_image": "https://img.haarets.co.il/bs/00000183-a229-d395-a7c7-fa6f3a520000/e8/d4/daf635ed4a0c80da350b3b86b490/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-10-06/ty-article-magazine/.highlight/00000183-ac60-d8cc-afc7-feecad0c0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-10-06",
+          "magazine_date": "2022-10-07",
+          "title": "\"הבנתי שעדיף להיות יועץ פוליטי מאשר להעמיד פנים שאני עצמאי כעיתונאי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000183-ac60-d8cc-afc7-feecad0c0000/8b/0a/2501da9d46b8b616b698769303ba/48799697.JPG?precrop=8192%2C4763%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-10-06/ty-article-magazine/.highlight/00000183-ac90-df39-a597-ecd5b82b0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-10-06",
+          "magazine_date": "2022-10-07",
+          "title": "אף אחד כבר לא מדבר על בעיות. כולם רק מציפים אותן",
+          "og_image": "https://img.haarets.co.il/bs/00000183-ac90-df39-a597-ecd5b82b0000/83/92/0667fb6d49218b098ded09cede7e/654121.jpg?precrop=2200%2C1279%2Cx0%2Cy161&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-10-06/ty-article-magazine/.highlight/00000183-ad05-de7e-a7cf-fdfd4ee40000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-10-06",
+          "magazine_date": "2022-10-07",
+          "title": "רכבת קלה בשבת. בואו נתחיל ברביעי ונמשיך משם",
+          "og_image": "https://img.haarets.co.il/bs/00000183-ad05-de7e-a7cf-fdfd4ee40000/0e/a9/07ca00dc454e8c8347a83c589d78/mid-1.jpg?precrop=2000%2C1163%2Cx0%2Cy346&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2022-10-06/ty-article-magazine/.highlight/00000183-a22f-d908-a3fb-fb3f9eb30000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2022-10-06",
+          "magazine_date": "2022-10-07",
+          "title": "\"זה לא מקובל עליי היום כיפור הזה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e49a-dc7e-adff-f4bf16180000/37/4a/25ad8c887d999e6c3a8106ca25ff/3195900591.jpg?precrop=2413,1403,x35,y203&height=630&width=1200&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-10-06/ty-article-20q/.highlight/00000183-a246-d8cc-afc7-feee3e880000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-10-06",
+          "magazine_date": "2022-10-07",
+          "title": "מי שר את קולות הרקע ב\"תחת שמי ים התיכון\" של שלמה ארצי?",
+          "og_image": "https://img.haarets.co.il/bs/00000183-a246-d8cc-afc7-feee3e880000/11/78/d2f81d4549e3b02199220f775f67/298173.jpg?precrop=2146%2C1247%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2022-10-06/ty-article-magazine/.premium/00000183-acff-d8cc-afc7-feffeaa60000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2022-10-06",
+          "magazine_date": "2022-10-07",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 7.10.2022",
+          "og_image": "https://img.haarets.co.il/bs/00000183-acff-d8cc-afc7-feffeaa60000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2022-10-06/ty-article/.premium/00000183-acf5-d8cc-afc7-fefd94140000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2022-10-06",
+          "magazine_date": "2022-10-07",
+          "title": "קרב המריבה",
+          "og_image": "https://img.haarets.co.il/bs/00000183-acf5-d8cc-afc7-fefd94140000/38/29/5549e45d00f548b27e2027b897ad/584151313.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2022-10-07/ty-article/.premium/00000183-b205-d5eb-a3af-f2b77e5b0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2022-10-07",
+          "magazine_date": "2022-10-07",
+          "title": "כימאי-פיסיקאי ממוצא ארה\"ב מחפש פיסיקאי-(ת) ממוצא רוסי",
+          "og_image": "https://img.haarets.co.il/bs/00000183-b205-d5eb-a3af-f2b77e5b0000/6f/1f/e311df694830a392dad02e2960e2/fam.jpg?precrop=1250%2C727%2Cx0%2Cy2967&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-10-07/ty-article/00000183-af1c-d8cc-afc7-fffce58e0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-10-07",
+          "magazine_date": "2022-10-07",
+          "title": "\"החלטתי שכמה שקשה יהיה לי - כל הזמן אלך עם חיוך על הפנים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000183-af1c-d8cc-afc7-fffce58e0000/d5/c4/3b14d5264debb612a61b81e92dab/capture.JPG?precrop=1164%2C676%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2022-10-06/ty-article/.premium/00000183-acfc-d3f8-a9ef-beff876f0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2022-10-06",
+          "magazine_date": "2022-10-07",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000183-acfc-d3f8-a9ef-beff876f0000/e1/51/3c0726e5413cb3ac1e8f635db1b8/ribooa-musaf-489.jpg?precrop=1084%2C630%2Cx0%2Cy170&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-10-06/ty-article/.premium/00000183-ac90-df39-a597-ecd597b70000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-10-06",
+          "magazine_date": "2022-10-07",
+          "title": "גונטז' נפל בפח של עצמו",
+          "og_image": "https://img.haarets.co.il/bs/00000183-ac90-df39-a597-ecd597b70000/01/dd/546778d044629956c36ab53b9c2c/48739262.JPG?precrop=1488%2C865%2Cx0%2Cy418&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

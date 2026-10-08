@@ -1,0 +1,343 @@
+{
+  "magazine_date": "2023-05-12",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/00000188-062d-def0-a18a-beefe77f0001/ee/a4/b04f742443d583505db22bf906f3/frontpage.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2023-05-11/ty-article-magazine/.highlight/00000188-0626-d927-a1a8-8e673e3d0000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-10/ty-article-magazine/.highlight/00000188-05ff-def0-a18a-bdfff7e30000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-10",
+          "magazine_date": "2023-05-12",
+          "title": "כשהקורונה פרצה, פרופ' דן ימין סיפק תחזית לעתיד. כעת מתברר כמה הוא דייק",
+          "og_image": "https://img.haarets.co.il/bs/00000188-05ff-def0-a18a-bdfff7e30000/21/7b/7fb4ae5b4813a64dd6f1ebcd7fc9/75074.jpg?precrop=1603%2C932%2Cx0%2Cy142&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-10/ty-article-magazine/.highlight/00000188-0617-d63f-ad8a-67171ac10000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-10",
+          "magazine_date": "2023-05-12",
+          "title": "סמירה עזאם הקימה מפלגה של נשים בלבד, והדהימה את הגברים. היא לא היחידה",
+          "og_image": "https://img.haarets.co.il/bs/00000188-0617-d63f-ad8a-67171ac10000/a3/7f/b24f065d44f0880e3a8c5165b684/51808602.JPG?precrop=4160%2C2419%2Cx0%2Cy793&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-10/ty-article-magazine/.highlight/00000188-061f-d927-a1a8-8e5f29230000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-10",
+          "magazine_date": "2023-05-12",
+          "title": "\"ההיפים יכולים ללמד אותנו שיעור או שניים על זיקנה ראויה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000188-061f-d927-a1a8-8e5f29230000/34/1e/c5a1c10a46d78ef9597278578a44/51796808.JPG?precrop=8192%2C4763%2Cx0%2Cy112&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-10/ty-article/.highlight/00000188-063d-d522-a5ce-7ffdab4f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-10",
+          "magazine_date": "2023-05-12",
+          "title": "אתם משרד האוצר, למה שיעבדו אצלכם בחינם? \"אנחנו מבקשים שיעזרו לנו\"",
+          "og_image": "https://img.haarets.co.il/bs/00000188-063d-d522-a5ce-7ffdab4f0000/96/4e/3dd79e334e1a990842ec6eb2c464/51839395.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-10/ty-article/.highlight/00000188-0647-d522-a5ce-7fc7c9c40000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-10",
+          "magazine_date": "2023-05-12",
+          "title": "מותה של יעל גרימברג מזכיר שיש עוד דרך ארוכה לעבור ביחס לנשים",
+          "og_image": "https://gif.haarets.co.il/bs/00000188-0647-d522-a5ce-7fc7c9c40000/33/87/d3ac43294443ac35864558a2c1bf/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-11/ty-article-magazine/.highlight/00000188-0626-d927-a1a8-8e673e3d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-11",
+          "magazine_date": "2023-05-12",
+          "title": "הגמוניה אשכנזית? במובנים מסוימים, האשכנזים הם אלה שסובלים מאפליה",
+          "og_image": "https://img.haarets.co.il/bs/00000188-0626-d927-a1a8-8e673e3d0000/cf/c6/134edd114a1a94337e60717a21b5/79132.jpg?precrop=2400%2C1395%2Cx0%2Cy192&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-11/ty-article-magazine/.highlight/00000188-0640-d522-a5ce-7fc06e430000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-11",
+          "magazine_date": "2023-05-12",
+          "title": "האם ייתכן שגלידה בעצם בריאה לנו, וחוקרים מסתירים זאת במשך שנים?",
+          "og_image": "https://img.haarets.co.il/bs/00000188-0640-d522-a5ce-7fc06e430000/a5/de/2caca706473da619a25d779afd0b/glida-sharing.png?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-05-10/ty-article/.highlight/00000188-047e-d508-abcd-64fedf1b0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-05-10",
+          "magazine_date": "2023-05-12",
+          "title": "במקום להיכנע לעוינות של \"אתם אנרכיסטים\", יש אפשרות אחרת",
+          "og_image": "https://img.haarets.co.il/bs/00000188-047e-d508-abcd-64fedf1b0000/8c/f9/2765f6364bd780bb279d4d7ba6bb/51821543.JPG?precrop=5472%2C3181%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-05-10/ty-article/.highlight/00000188-04c5-d3c3-af8a-55c73c690000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-05-10",
+          "magazine_date": "2023-05-12",
+          "title": "זו לא בדיוק דיקטטורה. ישראל צועדת למשטר מסוג חדש: דמוקרטיה חלולה",
+          "og_image": "https://img.haarets.co.il/bs/00000188-04c5-d3c3-af8a-55c73c690000/78/aa/cd47755d436596bbe41fd5d48ca6/51826466.JPG?precrop=6950%2C4040%2Cx844%2Cy560&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-05-10/ty-article/.highlight/00000188-0545-def0-a18a-bde79c610000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-05-10",
+          "magazine_date": "2023-05-12",
+          "title": "אם כלי הבינה המלאכותית אכן מחוללים קסמים, צריך לקחת אותם ברצינות",
+          "og_image": "https://img.haarets.co.il/bs/00000188-0545-def0-a18a-bde79c610000/47/38/f2207e5a4895b6d01b43f0436ac8/22916.jpg?precrop=2400%2C1395%2Cx0%2Cy93&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2023-05-10/ty-article/.highlight/00000188-0478-d3c3-af8a-557aaa9b0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2023-05-10",
+          "magazine_date": "2023-05-12",
+          "title": "למילה הזאת יש היסטוריה ארוכה, ומשמעות רומנטית שהתפתחה ממנה",
+          "og_image": "https://img.haarets.co.il/bs/00000188-0478-d3c3-af8a-557aaa9b0000/88/c7/8198c3c84ceba72f8289decd2de5/51823087.JPG?precrop=817%2C475%2Cx0%2Cy99&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2023-05-10/ty-article/.highlight/00000188-048d-d3c3-af8a-558faa0f0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2023-05-10",
+          "magazine_date": "2023-05-12",
+          "title": "כמו עמים מצטמקים רבים, גם החילונים צריכים לבחון את עתידם",
+          "og_image": "https://img.haarets.co.il/bs/00000188-048d-d3c3-af8a-558faa0f0000/f5/cc/a33b3cdc407da83927e8691fb122/46484.jpg?precrop=2400%2C1395%2Cx0%2Cy97&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2023-05-10/ty-article-face/.highlight/00000188-0298-dc7e-a3fe-22dd68cc0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2023-05-10",
+          "magazine_date": "2023-05-12",
+          "title": "\"הקיום שלי עוזר לאנשים להבין שככה נולדנו ושגם אנחנו פרי יצירה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000188-0298-dc7e-a3fe-22dd68cc0000/85/38/ac7b5b0f43bc87f5296442a71ef0/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2023-05-10/ty-article-magazine/.highlight/00000188-05a2-def0-a18a-bde269f10000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2023-05-10",
+          "magazine_date": "2023-05-12",
+          "title": "\"ההחלטה הכי טובה שקיבלתי בחיים היתה לעזוב\"",
+          "og_image": "https://img.haarets.co.il/bs/00000188-05a2-def0-a18a-bde269f10000/71/82/a18c451643bb8c71f1fc62cd5295/51821208.JPG?precrop=6908%2C4017%2Cx0%2Cy254&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2023-05-10/ty-article/.highlight/00000188-05db-def0-a18a-bdfb64ff0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2023-05-10",
+          "magazine_date": "2023-05-12",
+          "title": "איך הפכה \"מיד\" להבטחה טלוויזיונית שמשמעותה היא אחר כך",
+          "og_image": "https://img.haarets.co.il/bs/00000188-05db-def0-a18a-bdfb64ff0000/06/2f/7a882bbb1e45fe60517fad7e56fd/587879816.jpg?precrop=1323%2C768%2Cx37%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2023-05-11/ty-article-magazine/.highlight/00000188-09c8-d927-a1a8-89cfedaa0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2023-05-11",
+          "magazine_date": "2023-05-12",
+          "title": "\"יום אירופה\" מבוטל. קבלו עוד יום אסיה",
+          "og_image": "https://img.haarets.co.il/bs/00000188-09c8-d927-a1a8-89cfedaa0000/a9/ce/a5156ada42e9a1476d42260b7aab/koteret-midrog.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2023-05-10/ty-article-magazine/.highlight/00000188-029c-dc7e-a3fe-22dd302b0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2023-05-10",
+          "magazine_date": "2023-05-12",
+          "title": "\"אני לא מוכן להיות יפה ולשתוק כי אני לא יפה ואני לא שותק\"",
+          "og_image": "https://img.haarets.co.il/bs/00000188-0677-def0-a18a-bef7ca720000/de/57/73079bcb46b19e6c2d04e83ab021/26478.jpg?height=630&width=1200&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2023-05-10/ty-article-20q/.highlight/00000188-0291-dc7e-a3fe-22dd695c0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2023-05-10",
+          "magazine_date": "2023-05-12",
+          "title": "מה השורה הראשונה ששרה נועה קירל בעברית בשיר \"Unicorn\"?",
+          "og_image": "https://img.haarets.co.il/bs/00000188-0291-dc7e-a3fe-22dd695c0000/c2/c4/f045a9ec45ae96fac399e158540d/23379.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2023-05-10/ty-article-magazine/.highlight/00000188-055b-def0-a18a-bdfb76320000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2023-05-10",
+          "magazine_date": "2023-05-12",
+          "title": "עונת המשמש מתחילה, וזה רק תירוץ להגיע לבית המאפה הזה",
+          "og_image": "https://img.haarets.co.il/bs/00000188-055b-def0-a18a-bdfb76320000/72/d9/f1ebde1543cbbdb7403bb6c3ab41/51824232.JPG?precrop=5504%2C3200%2Cx0%2Cy1452&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2023-05-11/ty-article-magazine/.premium/00000188-09a8-db03-adbd-2dbc9d760000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2023-05-11",
+          "magazine_date": "2023-05-12",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 12.5.2023",
+          "og_image": "https://img.haarets.co.il/bs/00000188-09a8-db03-adbd-2dbc9d760000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2023-05-11/ty-article/.premium/00000188-099d-db03-adbd-2dbd364c0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2023-05-11",
+          "magazine_date": "2023-05-12",
+          "title": "דרמה ברגעי ההכרעה",
+          "og_image": "https://img.haarets.co.il/bs/00000188-099d-db03-adbd-2dbd364c0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2023-05-11/ty-article/.premium/00000188-09a3-d927-a1a8-89e7cb490000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2023-05-11",
+          "magazine_date": "2023-05-12",
+          "title": "לשם מה נחוץ בעל?",
+          "og_image": "https://img.haarets.co.il/bs/00000188-09a3-d927-a1a8-89e7cb490000/e9/87/52c915c44b26874e7fb3c45e6d07/meforsam.jpg?precrop=1250%2C727%2Cx0%2Cy2662&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2023-05-12/ty-article/00000188-0e9f-d8d1-aff8-bedfd8d80000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2023-05-12",
+          "magazine_date": "2023-05-12",
+          "title": "\"החלטתי שאני שולחת את הילד ונשארת\": הקשרית מגוש עציון נפטרה בגיל 97",
+          "og_image": "https://img.haarets.co.il/bs/00000188-0e9f-d8d1-aff8-bedfd8d80000/64/dd/0ecd0caa4e45b60564f818c3fbcc/rachel.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2023-05-11/ty-article/.premium/00000188-09a6-db03-adbd-2db679910000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2023-05-11",
+          "magazine_date": "2023-05-12",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000188-09a6-db03-adbd-2db679910000/cd/3d/01e8543d4ad7b10b2f55b7b2f2cb/ribooa-musaf-520.jpg?precrop=1083%2C630%2Cx0%2Cy249&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2023-05-10/ty-article/.highlight/00000188-0623-def0-a18a-bee336d40000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2023-05-10",
+          "magazine_date": "2023-05-12",
+          "title": "יש מקצוע אחד שבו אסור לאנשים כמו יריב לוין לעסוק",
+          "og_image": "https://img.haarets.co.il/bs/00000188-0623-def0-a18a-bee336d40000/f9/5e/e8d707f94269a67c22cb5c86f684/levin-homepage.jpg?precrop=668%2C388%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

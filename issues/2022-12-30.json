@@ -1,0 +1,328 @@
+{
+  "magazine_date": "2022-12-30",
+  "total_articles": 24,
+  "cover_image": "https://img.haarets.co.il/bs/00000185-53cd-d9c4-ab95-d7dfe9d60001/20/52/c991bf4a4d709e22336cb229e159/frontpage.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2022-12-28/ty-article-magazine/.highlight/00000185-4ea4-d853-ab97-cfbc6db90000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-12-28/ty-article-magazine/.highlight/00000185-4ea4-d853-ab97-cfbc6db90000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-12-28",
+          "magazine_date": "2022-12-30",
+          "title": "האם גילוי מקרי במעבדה קטנה בגליל יכול לפתור את בעיית הסוכר העולמית?",
+          "og_image": "https://img.haarets.co.il/bs/00000185-4ea4-d853-ab97-cfbc6db90000/47/ba/e68ef83c482c83b0b186cfbba76a/10482-2.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-12-28/ty-article-magazine/.highlight/00000185-4eb0-d853-ab97-cfbc170a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-12-28",
+          "magazine_date": "2022-12-30",
+          "title": "הפילוסופית שיורדת לרחוב, נכנסת לאמבטיה, לחדר המיטות ואולי גם ללב",
+          "og_image": "https://img.haarets.co.il/bs/00000185-4eb0-d853-ab97-cfbc170a0000/ef/0b/bd61dc604dedaf2405088c926092/51675.jpg?precrop=1603%2C932%2Cx0%2Cy321&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-12-28/ty-article-magazine/.highlight/00000185-4eb0-d853-ab97-cfbcc3260000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-12-28",
+          "magazine_date": "2022-12-30",
+          "title": "צלילים עדינים אלחשו את העצבים הרופפים: ביקור מפתיע בתחרות הנבל הארצית",
+          "og_image": "https://img.haarets.co.il/bs/00000185-4eb0-d853-ab97-cfbcc3260000/9e/45/76da3796478cb9639d4fd174bf45/47562.jpg?precrop=2400%2C1395%2Cx0%2Cy208&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-12-28/ty-article-magazine/.highlight/00000185-4eb1-d853-ab97-cfbd80f80002",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-12-28",
+          "magazine_date": "2022-12-30",
+          "title": "הבצורת חשפה תעלומת רצח והציפה את סודותיה האפלים של לאס וגאס",
+          "og_image": "https://img.haarets.co.il/bs/00000185-4eb1-d853-ab97-cfbd80f80002/4c/31/c957493f4301be7d2f38f0dcbc29/50074432.JPG?precrop=5300%2C3081%2Cx0%2Cy164&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-12-28/ty-article/.highlight/00000185-5911-d03c-a1ad-fd3dd7e60000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-12-28",
+          "magazine_date": "2022-12-30",
+          "title": "האשימו אותן בהעתקה במבחן. הן טענו: המבחנים שלנו זהים כי אנחנו זהות",
+          "og_image": "https://img.haarets.co.il/bs/00000185-5911-d03c-a1ad-fd3dd7e60000/18/bb/caa75747479f9a625eceec5ca430/50066771.JPG?precrop=1660%2C965%2Cx0%2Cy9&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-12-28/ty-article/.highlight/00000185-591a-d878-a995-5d1ad2a80000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-12-28",
+          "magazine_date": "2022-12-30",
+          "title": "למה השוטרים התחזו כדי לעצור את ישראל פריי? \"הם יודעים מה הם עושים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000185-591a-d878-a995-5d1ad2a80000/25/37/9a65efac4acf8921c6847e671a43/50077956.JPG?precrop=1170%2C680%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-12-29/ty-article/.highlight/00000185-5d25-d6a2-adf5-7de501b30000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-12-29",
+          "magazine_date": "2022-12-30",
+          "title": "היום החלומות שלי שונים לגמרי מאלה שהיו לי בנעוריי",
+          "og_image": "https://gif.haarets.co.il/bs/00000185-5d25-d6a2-adf5-7de501b30000/49/23/16f41794452ea0d991ad395fa702/neri.gif?precrop=1311%2C762%2Cx6%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-12-28/ty-article-magazine/.highlight/00000185-5873-d6a2-adf5-79f39c040000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-12-28",
+          "magazine_date": "2022-12-30",
+          "title": "התקלקלנו כמעט ללא תקנה. רק היופי יוכל להושיע אותנו",
+          "og_image": "https://img.haarets.co.il/bs/00000185-5873-d6a2-adf5-79f39c040000/22/76/c1a3aaa347c19065a137390df9c6/74586.jpg?precrop=2400%2C1395%2Cx0%2Cy81&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-12-28/ty-article/.highlight/00000185-586b-d0de-afff-d9fb4f680000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-12-28",
+          "magazine_date": "2022-12-30",
+          "title": "זו הפנטזיה הנחשקת ביותר: לעשות מה שאתה רוצה, ושכולם יקפצו לך",
+          "og_image": "https://img.haarets.co.il/bs/00000185-586b-d0de-afff-d9fb4f680000/28/5b/e6cc5c874aa4a13b86b79ce06576/41547.jpg?precrop=2400%2C1396%2Cx0%2Cy18&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-12-28/ty-article/.highlight/00000185-586c-d0de-afff-d9ff00ce0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-12-28",
+          "magazine_date": "2022-12-30",
+          "title": "הבינה המלאכותית נכנסת לקודש הקודשים של הרפואה. איך ייראה המפגש איתה?",
+          "og_image": "https://img.haarets.co.il/bs/00000185-586c-d0de-afff-d9ff00ce0000/f3/bd/77e7497741fa8dbfcc2ca16193c1/50074431.JPG?precrop=4616%2C2682%2Cx0%2Cy163&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-12-28/ty-article/.highlight/00000185-586b-d6a2-adf5-79eba2740000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-12-28",
+          "magazine_date": "2022-12-30",
+          "title": "אנחנו ניצבים בפני קו שבר. זה הזמן להפנות עורף ליהדות",
+          "og_image": "https://img.haarets.co.il/bs/00000185-586b-d6a2-adf5-79eba2740000/b6/92/b9ceb3fa41c98a61814684382ff9/50064475.JPG?precrop=4230%2C2458%2Cx148%2Cy604&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-12-28/ty-article-face/.highlight/00000185-47ef-d7b9-a3ed-cfef7ec40000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-12-28",
+          "magazine_date": "2022-12-30",
+          "title": "\"הייתי ילד מופנם. סבלתי מנידוי ואפילו מבריונות, עד שגיליתי את ההומור\"",
+          "og_image": "https://img.haarets.co.il/bs/00000185-47ef-d7b9-a3ed-cfef7ec40000/9b/62/57c52fe34dda9ece6787e83cdc1c/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-12-28/ty-article-magazine/.highlight/00000185-597f-db5e-af8d-dd7f94730001",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-12-28",
+          "magazine_date": "2022-12-30",
+          "title": "\"ישראל שינתה אותי. היום אני עוזבת, לא יודעת אם אחזור\"",
+          "og_image": "https://img.haarets.co.il/bs/00000185-597f-db5e-af8d-dd7f94730001/70/11/902aed8e450dbafdee8b136ee97b/50056653.JPG?precrop=8192%2C4763%2Cx0%2Cy166&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-12-28/ty-article/.highlight/00000185-5979-d03c-a1ad-fd7da7850000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-12-28",
+          "magazine_date": "2022-12-30",
+          "title": "חוות החיות: מחזה אבסורד אקטואלי",
+          "og_image": "https://img.haarets.co.il/bs/00000185-5979-d03c-a1ad-fd7da7850000/c8/41/1f818eb946aa9da206883c8d7eb2/frogrhinocolor.jpg?precrop=2277%2C1324%2Cx0%2Cy90&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-12-29/ty-article-magazine/.highlight/00000185-5d49-d878-a995-5d5b08190000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-12-29",
+          "magazine_date": "2022-12-30",
+          "title": "פרשות גולדקנופף. בואו לא נפסול את כל הממשלה בגלל תפוח רקוב אחד",
+          "og_image": "https://img.haarets.co.il/bs/00000185-5d49-d878-a995-5d5b08190000/93/18/13e5e3bd4e99af195469c423800d/mid-3.jpg?precrop=1563%2C909%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2022-12-28/ty-article-magazine/.highlight/00000185-484b-d7b9-a3ed-ccef3de30000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2022-12-28",
+          "magazine_date": "2022-12-30",
+          "title": "\"אני חושב שאלוהים רצה שאעשה את הסרט הזה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000185-5a35-d03c-a1ad-ff3d7d630001/2a/c4/fb173e374c61a41203b54883c085/ogalbo.jpeg?precrop=1440,837,x106,y0&height=630&width=1200&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-12-28/ty-article-20q/.highlight/00000185-47ee-d75d-a5d5-67efb1620000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-12-28",
+          "magazine_date": "2022-12-30",
+          "title": "מה היה החיפוש הפופולרי ביותר של ישראלים בגוגל בשנת 2022?",
+          "og_image": "https://img.haarets.co.il/bs/00000185-47ee-d75d-a5d5-67efb1620000/fe/20/603e2957431cb9f17deb8390586b/83989-2.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2022-12-28/ty-article-magazine/.highlight/00000185-586b-d0de-afff-d9fb647d0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2022-12-28",
+          "magazine_date": "2022-12-30",
+          "title": "הייננית שמייצרת סיידר בקואופרטיב חלוצי של יצרנים קטנים",
+          "og_image": "https://img.haarets.co.il/bs/00000185-586b-d0de-afff-d9fb647d0000/ff/99/091b80d44cf59edf3ab1d5473bf7/64161.jpg?precrop=1366%2C794%2Cx225%2Cy716&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2022-12-29/ty-article-magazine/.premium/00000185-5d3b-d6a2-adf5-7dfb3ff30000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2022-12-29",
+          "magazine_date": "2022-12-30",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 30.12.2022",
+          "og_image": "https://img.haarets.co.il/bs/00000185-5d3b-d6a2-adf5-7dfb3ff30000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2022-12-29/ty-article/.premium/00000185-5d33-d878-a995-5d3bd8a90000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2022-12-29",
+          "magazine_date": "2022-12-30",
+          "title": "עוד מבט לערד",
+          "og_image": "https://img.haarets.co.il/bs/00000185-5d33-d878-a995-5d3bd8a90000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2022-12-29/ty-article/.premium/00000185-5d4e-d68b-a7ef-7deeccf00000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2022-12-29",
+          "magazine_date": "2022-12-30",
+          "title": "ביקוש רב לצפרדעים מישראל",
+          "og_image": "https://img.haarets.co.il/bs/00000185-5d4e-d68b-a7ef-7deeccf00000/45/80/d943874740448ce429e6ee3d010c/fam.jpg?precrop=1250%2C727%2Cx0%2Cy1008&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-12-29/ty-article/.premium/00000185-5cf4-d878-a995-5cfe74770000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-12-29",
+          "magazine_date": "2022-12-30",
+          "title": "הגביר את תפוקת החיטה",
+          "og_image": "https://img.haarets.co.il/bs/00000185-5cf4-d878-a995-5cfe74770000/1b/be/988a17ad4a57b65eb7f3dbbee523/50078973.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2022-12-29/ty-article/.premium/00000185-5d42-d878-a995-5d5a4a080000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2022-12-29",
+          "magazine_date": "2022-12-30",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000185-5d42-d878-a995-5d5a4a080000/73/b9/02a3fede43519fffdd652b6a7e12/ribooa-musaf-501.jpg?precrop=1083%2C630%2Cx0%2Cy132&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-12-28/ty-article/.highlight/00000185-5993-d03c-a1ad-fdbf3e900000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-12-28",
+          "magazine_date": "2022-12-30",
+          "title": "עניתי לטלפון בקול ישראל. על הקו היה משה שרת",
+          "og_image": "https://img.haarets.co.il/bs/00000185-5993-d03c-a1ad-fdbf3e900000/a6/40/bd0f21f7daf83ab3e237d6d25aef/2911193777.jpg?precrop=2200%2C1280%2Cx0%2Cy286&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "magazine_date": "2022-02-18",
+  "total_articles": 27,
+  "cover_image": null,
+  "cover_article_url": null,
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-02-16/ty-article-magazine/.highlight/0000017f-e2fa-df7c-a5ff-e2fabe990000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-02-16",
+          "magazine_date": "2022-02-18",
+          "title": "\"ראשי הקהילות נדרשו למסור את כל הנערות מגיל 15. אמא שלי השתגעה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e2fa-df7c-a5ff-e2fabe990000/a6/81/4353ce744f601a7e9d24eb20938b/1526005335.jpg?precrop=921%2C536%2Cx82%2Cy7&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-02-16/ty-article-magazine/.highlight/0000017f-e2ff-d9aa-afff-fbff304a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-02-16",
+          "magazine_date": "2022-02-18",
+          "title": "\"על מטבעות וחרסים, תעודות ומסמכים שומרים מכל משמר, ועל אמנות מוותרים?\"",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e2ff-d9aa-afff-fbff304a0000/6d/00/48f7510b1115961f31fcdea8641d/3982585824.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-02-16/ty-article/.highlight/0000017f-e31c-d7b2-a77f-e31ff7100000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-02-16",
+          "magazine_date": "2022-02-18",
+          "title": "אדלשטיין כמעט לא מגיע לכנסת. למה הוא צריך עוד עוזר? \"החוק מקנה לו את זה\"",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e31c-d7b2-a77f-e31ff7100000/e6/15/8da5fe98c802fb58d26f951157e4/1834635554.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-02-16/ty-article/.highlight/0000017f-e320-d568-ad7f-f36bd1ac0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-02-16",
+          "magazine_date": "2022-02-18",
+          "title": "יש פה סודות מדינה או שיש פה מדינת סוד?",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e320-d568-ad7f-f36bd1ac0000/32/6f/a981133f90318cf893b53a25e511/1612121710.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-02-16/ty-article/.highlight/0000017f-e359-d7b2-a77f-e35f99880000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-02-16",
+          "magazine_date": "2022-02-18",
+          "title": "איך נסיעה אחת לגליל עוררה בי פרץ נוסטלגיה",
+          "og_image": "https://gif.haarets.co.il/bs/0000017f-e359-d7b2-a77f-e35f99880000/98/1d/6687c4ed70ca482b4df3bfd0f3d8/3063850623.gif?precrop=1305%2C758%2Cx12%2Cy4&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-02-17/ty-article-magazine/.highlight/0000017f-e29e-d568-ad7f-f3ff17380000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-02-17",
+          "magazine_date": "2022-02-18",
+          "title": "הגעתי למפגש של 200 מכורים בקריז. מכורים למשחקי מילים",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e29e-d568-ad7f-f3ff17380000/3b/e2/914045da64374688714fa73aeaab/486260439.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-02-17/ty-article-magazine/.highlight/0000017f-e2a3-d568-ad7f-f3ebf2270000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-02-17",
+          "magazine_date": "2022-02-18",
+          "title": "מה עושים עם זכרו של נשיא נערץ שתמך בקו קלוקס קלאן?",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e2a3-d568-ad7f-f3ebf2270000/29/b0/421c13680e948f7022f5c58f0b76/2412747481.jpg?precrop=2048%2C1191%2Cx0%2Cy48&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-02-17/ty-article-magazine/.highlight/0000017f-e300-d804-ad7f-f3fa57d40000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-02-17",
+          "magazine_date": "2022-02-18",
+          "title": "הוא היה 25 שנה בשב\"כ, וטיפס לצמרת. עכשיו הגיע הזמן לחשבון נפש",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e300-d804-ad7f-f3fa57d40000/37/2b/cfefea0567580eaf862be2e12a73/1891253332.jpg?precrop=1365%2C792%2Cx0%2Cy498&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/tozeret/parashat/2022-02-17/ty-article/.highlight/0000017f-e161-d75c-a7ff-fded7e640000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-02-17",
+          "magazine_date": "2022-02-18",
+          "title": "פרשת גוב בן גביר",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e161-d75c-a7ff-fded7e640000/38/60/d7d0e63a888b09fb2a5a0bf3e976/3294737226.jpg?precrop=2033%2C1185%2Cx15%2Cy18&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-02-16/ty-article/.highlight/0000017f-e32d-d75c-a7ff-ffad80330000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-02-16",
+          "magazine_date": "2022-02-18",
+          "title": "העניין כולו הפך לכותרת מטופשת בנטפליקס: \"מי הלשין על אנה פרנק?\"",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e32d-d75c-a7ff-ffad80330000/d3/17/a23305808238d1be4440e77ee1a7/2409222704.jpg?precrop=1740%2C1011%2Cx308%2Cy44&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-02-16/ty-article/.highlight/0000017f-e332-df7c-a5ff-e37a76360000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-02-16",
+          "magazine_date": "2022-02-18",
+          "title": "בשמאל התייצבו אוטומטית לצד המורה המפוטר. האמת מורכבת יותר",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e332-df7c-a5ff-e37a76360000/f3/51/44ab454ed39c7b14165586c03331/3366679141.jpg?precrop=1908%2C1108%2Cx62%2Cy19&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-02-16/ty-article/.highlight/0000017f-e33f-df7c-a5ff-e37f1fca0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-02-16",
+          "magazine_date": "2022-02-18",
+          "title": "מה עומד בבסיס התיאוריה שמצליחה להוציא את השמרנים בארה\"ב מהכלים?",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e33f-df7c-a5ff-e37f1fca0000/6f/19/5551455c46febe13563b817582f3/254432986.jpg?precrop=889%2C517%2Cx0%2Cy10&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2022-02-16/ty-article/.highlight/0000017f-e32a-d9aa-afff-fb7abe9b0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2022-02-16",
+          "magazine_date": "2022-02-18",
+          "title": "מנין צצו שמות התווים, ומה זה בכלל תו?",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e32a-d9aa-afff-fb7abe9b0000/8b/87/ede9e5e96e471d79a95ea22fc5ea/4171416542.jpg?precrop=1031%2C598%2Cx49%2Cy31&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-02-16/ty-article/.highlight/0000017f-e345-d9aa-afff-fb5d73ce0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-02-16",
+          "magazine_date": "2022-02-18",
+          "title": "העצלן הפך לגיבור תרבות. מה זה אומר על הקפיטליזם?",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e345-d9aa-afff-fb5d73ce0000/dd/65/653519cedce3d1abf3cc46f22e59/3090015250.jpg?precrop=1996%2C1161%2Cx52%2Cy171&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-02-17/ty-article-face/.highlight/0000017f-e197-d568-ad7f-f3ffc5ee0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-02-17",
+          "magazine_date": "2022-02-18",
+          "title": "\"כמעט תמיד עברתי הטרדות מיניות. אז היה מותר לגעת מתי שמתחשק\"",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e197-d568-ad7f-f3ffc5ee0000/b9/71/24370d7a1c9b939b61b2b801841a/4272809405.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-02-16/ty-article-magazine/.highlight/0000017f-e30e-d9aa-afff-fb5e71250000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-02-16",
+          "magazine_date": "2022-02-18",
+          "title": "\"הם נהיו מיליונרים, ואני זו שגידלה להם את הילדים\"",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e30e-d9aa-afff-fb5e71250000/9f/e7/0097a21933f50db51ebc49aca0af/2015994030.jpg?precrop=2044%2C1188%2Cx4%2Cy173&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-02-16/ty-article-magazine/.highlight/0000017f-e2f5-d804-ad7f-f3ff68560000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-02-16",
+          "magazine_date": "2022-02-18",
+          "title": "למה אנחנו מפחדים מ\"חדירה לפרטיות\"? לאו דווקא בגלל הסרטונים האינטימיים",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e2f5-d804-ad7f-f3ff68560000/8e/ac/c790c367ebe1e12b0a804ef9d17a/1881813718.jpg?precrop=2200%2C1275%2Cx0%2Cy8&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-02-17/ty-article-magazine/.highlight/0000017f-e35a-d38f-a57f-e75ad21c0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-02-17",
+          "magazine_date": "2022-02-18",
+          "title": "מילא מלחמת עולם, אבל הטיזינג בלתי נסבל",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e35a-d38f-a57f-e75ad21c0000/9e/3c/27fd14e296548f43de4cfa205390/469599355.jpg?precrop=2000%2C1162%2Cx0%2Cy600&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2022-02-17/ty-article-magazine/.highlight/0000017f-e18f-d9aa-afff-f9df846a0000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2022-02-17",
+          "magazine_date": "2022-02-18",
+          "title": "\"גם בוב דילן עשה פרסומות. לי יש את הריספקט לפרסם את פאקינג קסטרו\"",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e18f-d9aa-afff-f9df828e0000/70/99/3f87e876bc35f015d41d9c6aa0a5/114614703.jpg?precrop=801,465,x509,y173&height=630&width=1200&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-02-17/ty-article-20q/.highlight/0000017f-e191-d804-ad7f-f1fb5dff0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-02-17",
+          "magazine_date": "2022-02-18",
+          "title": "איזה ספורט תרם לפופולריות של הכינוי \"התפוח הגדול\" לניו יורק?",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e191-d804-ad7f-f1fb5dff0000/26/f8/3ffe34f79ab43ce779bc8c483296/4137160711.jpg?precrop=2200%2C1277%2Cx0%2Cy159&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2022-02-17/ty-article-magazine/.highlight/0000017f-e35e-d38f-a57f-e75ee5dd0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2022-02-17",
+          "magazine_date": "2022-02-18",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 18.2.2022",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e35e-d38f-a57f-e75ee5dd0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2022-02-17/ty-article/.highlight/0000017f-e359-d9aa-afff-fb59038d0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2022-02-17",
+          "magazine_date": "2022-02-18",
+          "title": "פניני ברלין",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e359-d9aa-afff-fb59038d0000/9d/b5/27601398fac68c8bc185045200e9/1751573789.jpg?precrop=1739%2C1011%2Cx309%2Cy26&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2022-02-17/ty-article/.highlight/0000017f-e357-d568-ad7f-f37f7b810000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2022-02-17",
+          "magazine_date": "2022-02-18",
+          "title": "חטא שלא יכופר",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e357-d568-ad7f-f37f7b810000/ab/d5/64616fc3c85c844e869f1c851d43/1932296344.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-02-17/ty-article-magazine/.highlight/0000017f-e190-d9aa-afff-f9d8788d0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-02-17",
+          "magazine_date": "2022-02-18",
+          "title": "זקנת הקומוניסטים סירבה לקבור עמה את המהפכה",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e190-d9aa-afff-f9d8788d0000/fb/05/7eb9313e9024776ed15736701927/11601775.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2022-02-17/ty-article/.highlight/0000017f-e359-d75c-a7ff-ffdde6c90000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2022-02-17",
+          "magazine_date": "2022-02-18",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e359-d75c-a7ff-ffdde6c90000/bc/df/59cf7b8476f38e224f7d5771c0a4/3111126175.jpg?precrop=1989%2C1157%2Cx11%2Cy14&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2022-02-17/ty-article/.highlight/0000017f-e358-df7c-a5ff-e37ab39d0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2022-02-17",
+          "magazine_date": "2022-02-18",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e358-df7c-a5ff-e37ab39d0000/ca/62/6e4fe06eaa2083e589366ccf6412/3774469051.jpg?precrop=1057%2C615%2Cx26%2Cy20&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-02-16/ty-article/.highlight/0000017f-e2f5-d7b2-a77f-e3f7b6a50000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-02-16",
+          "magazine_date": "2022-02-18",
+          "title": "לא באמת עזבנו את הג'ונגל",
+          "og_image": "https://img.haarets.co.il/bs/0000017f-e2f5-d7b2-a77f-e3f7b6a50000/de/fb/8b54cebc45f0a8a860dcb34cfabc/274185333.jpg?precrop=2048%2C1193%2Cx0%2Cy27&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

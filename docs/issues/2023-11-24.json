@@ -1,0 +1,358 @@
+{
+  "magazine_date": "2023-11-24",
+  "total_articles": 26,
+  "cover_image": "https://img.haarets.co.il/bs/0000018b-f789-d783-a3df-f79b3e510000/66/1c/21e758574d6792a7e5b7dd418828/frontpage.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2023-11-23/ty-article-magazine/.highlight/0000018b-f787-dacc-afeb-f7b73b820000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-11-22/ty-article-magazine/.highlight/0000018b-f693-d330-a9bb-ffd741840000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-11-22",
+          "magazine_date": "2023-11-24",
+          "title": "מדוע אנשים בוכים דווקא בין שש לעשר בערב? ולמה נשים בוכות יותר מגברים?",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-f693-d330-a9bb-ffd741840000/5f/9f/e223d5824f50b2e53f53a7c05f58/cry01.jpg?precrop=2569%2C1494%2Cx0%2Cy183&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-11-22/ty-article-magazine/.highlight/0000018b-f6d0-d330-a9bb-ffd6f8610000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-11-22",
+          "magazine_date": "2023-11-24",
+          "title": "ישראלים רבים נחשפים שוב ושוב לתיעוד הזוועות. הם לא מבינים את עומק הנזק",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-f6d0-d330-a9bb-ffd6f8610000/03/ae/a366beb147659e9a514ee01a4fb0/trauma.jpg?precrop=1152%2C670%2Cx795%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-11-22/ty-article-magazine/.highlight/0000018b-f6d1-dafe-a18f-f7d13e320000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-11-22",
+          "magazine_date": "2023-11-24",
+          "title": "עשרות אזרחים יפנים נחטפו בחשאי לצפון קוריאה לאורך שנים. מה עלה בגורלם?",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-f6d1-dafe-a18f-f7d13e320000/ed/23/a4c0b3dc4ac8999296d3a24b3abd/54482656.JPG?precrop=1583%2C921%2Cx162%2Cy86&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-11-22/ty-article-magazine/.highlight/0000018b-f775-dafe-a18f-f775a0a60000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-11-22",
+          "magazine_date": "2023-11-24",
+          "title": "רגע לפני השידור, מגל אמר לבן גביר: \"דיר באלאק, אל תדליף כלום מהקבינט\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-f775-dafe-a18f-f775a0a60000/ba/cf/1fd6d0cd4085adec06eccc16587d/mobile.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-11-22/ty-article/.highlight/0000018b-f789-dacc-afeb-f7b986970000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-11-22",
+          "magazine_date": "2023-11-24",
+          "title": "כשאני שומע את האנשים שבשלטון, אני חש כאילו גם אני נחטפתי לארץ אחרת",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-f789-dacc-afeb-f7b986970000/e8/cc/9143085c4de990fd3f2dc865bd53/82618-2.jpg?precrop=2034%2C1183%2Cx366%2Cy420&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-11-22/ty-article/.highlight/0000018b-f78f-d783-a3df-f79f30aa0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-11-22",
+          "magazine_date": "2023-11-24",
+          "title": "כבר פעמיים נופפתי לשלום לאנשים שרבתי איתם. מתברר שזה רעיון לא רע",
+          "og_image": "https://gif.haarets.co.il/bs/0000018b-f78f-d783-a3df-f79f30aa0000/f2/3d/951c9b934c39b279be7eb6aa2845/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-11-23/ty-article-magazine/.highlight/0000018b-f787-dacc-afeb-f7b73b820000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-11-23",
+          "magazine_date": "2023-11-24",
+          "title": "\"עם הרובים, מחכים לראות מי יבוא מהערפל\": החיים נטרפו בכל גבולות ישראל",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-f787-dacc-afeb-f7b73b820000/cd/4f/5f10739c40879fdea6f6f890e4da/shaar.jpg?precrop=1525%2C887%2Cx475%2Cy472&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-11-23/ty-article/.highlight/0000018b-f72d-d7a8-a9cf-f76d72100000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-11-23",
+          "magazine_date": "2023-11-24",
+          "title": "למה אתם צריכים לספק לחיילים גרביים, ולא הצבא? \"זה לא ציוד חיוני\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-f72d-d7a8-a9cf-f76d72100000/d4/e4/7a1603014f9ea3987a1ae4423ebc/677507.jpg?precrop=2039%2C1186%2Cx214%2Cy202&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-11-22/ty-article/.highlight/0000018b-f6c8-d330-a9bb-ffde0b150000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-11-22",
+          "magazine_date": "2023-11-24",
+          "title": "בימין משוכנעים שההתנתקות גרמה לאסון. זהו שקר מופרך שצריך לפרק",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-f6c8-d330-a9bb-ffde0b150000/c3/cd/dfec9ca8452caf8ef8b0e9b9f053/53978162.JPG?precrop=2682%2C1559%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-11-22/ty-article/.highlight/0000018b-f71a-d55f-a3ff-ff1b87d30000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-11-22",
+          "magazine_date": "2023-11-24",
+          "title": "הכיתה הפכה לאמבטיה של רגשות. כך לא מחנכים ילדים",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-f71a-d55f-a3ff-ff1b87d30000/8c/e4/0059bcbd4af68f738d6dc098ac1b/54491328.JPG?precrop=7753%2C4507%2Cx0%2Cy485&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2023-11-22/ty-article/.highlight/0000018b-f6b6-d7a8-a9cf-f6fe34910000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2023-11-22",
+          "magazine_date": "2023-11-24",
+          "title": "נהוג לחשוב ששמה של עזה נובע מעוצמה. הפירוש האמיתי הולם בהרבה",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-f6b6-d7a8-a9cf-f6fe34910000/f2/92/4c982a2140e386eff3c55d0b9eac/54491357.JPG?precrop=7889%2C4587%2Cx0%2Cy198&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2023-11-22/ty-article/.highlight/0000018b-f6bf-d55f-a3ff-febf91470000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2023-11-22",
+          "magazine_date": "2023-11-24",
+          "title": "השמאל התרגל לראות במדינה בעיה, לא פתרון. הוא טעה",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-f6bf-d55f-a3ff-febf91470000/18/c2/b7ea39854151ba10314deb5fd6bc/54500056.JPG?precrop=5495%2C3193%2Cx0%2Cy470&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2023-11-23/ty-article-face/.highlight/0000018b-fc1c-d330-a9bb-ffde30e20000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2023-11-23",
+          "magazine_date": "2023-11-24",
+          "title": "\"במסיבה נהרגו סביבי 40 קרובים, חברים, עובדים, קולגות. עוד לא התאבלתי\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-fc1c-d330-a9bb-ffde30e20000/fd/d6/b8338419439ca89bffdbf6c46eba/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2023-11-23/ty-article-magazine/.highlight/0000018b-f77e-dacc-afeb-f77feaa00000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2023-11-23",
+          "magazine_date": "2023-11-24",
+          "title": "\"אנחנו לא יודעים איפה נחיה. ככה נראים החיים שלנו בשנים האחרונות\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-f77e-dacc-afeb-f77feaa00000/10/42/b0a088ae45c889bafd718215e6f8/54473620.JPG?precrop=8192%2C4763%2Cx0%2Cy701&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2023-11-22/ty-article/.highlight/0000018b-f7f8-dafe-a18f-f7f9bef70000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2023-11-22",
+          "magazine_date": "2023-11-24",
+          "title": "מה המחיר שאדם צריך לשלם על התעלמות שבגללה מתים 1,200 אנשים?",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-f7f8-dafe-a18f-f7f9bef70000/49/34/4318713f4225be83784ca2b23741/54520578.JPG?precrop=1932%2C1123%2Cx104%2Cy57&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2023-11-23/ty-article-magazine/.highlight/0000018b-fb35-d783-a3df-fb3f79de0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2023-11-23",
+          "magazine_date": "2023-11-24",
+          "title": "מאיר אדוני מתפכח: \"83 שקל על צזיקי? מה חשבתי לעצמי?\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-fb35-d783-a3df-fb3f79de0000/92/28/5d97e3e746b997e4cec33fe81b1b/mid-2.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2023-11-23/ty-article-magazine/.highlight/0000018b-fc1f-d783-a3df-fc1f3e140000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2023-11-23",
+          "magazine_date": "2023-11-24",
+          "title": "\"לוחמינו יחזרו רק אחרי שיכרתו את כל עורלות הארורים האלו\"",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-fc28-dafe-a18f-ff69a2230000/39/1b/241cb88e40f1b17c321e9de1840a/612694-2.jpg?height=630&width=1200&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2023-11-22/ty-article-20q/.highlight/0000018b-f692-d55f-a3ff-fe937d750000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2023-11-22",
+          "magazine_date": "2023-11-24",
+          "title": "על איזו סדרה מבוסס הקליפ ל-\"I Want to Break Free\" של קווין?",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-f692-d55f-a3ff-fe937d750000/d6/a8/1bf2baf14c40b12a26f24f6d89f9/445384.jpg?precrop=2200%2C1279%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2023-11-22/ty-article-magazine/.highlight/0000018b-f71a-d330-a9bb-ffde36110000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2023-11-22",
+          "magazine_date": "2023-11-24",
+          "title": "אנחנו רואים בהם ירקות עצובים. מתברר שאפשר להכין מהם מטעמים",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-f71a-d330-a9bb-ffde36110000/97/4c/bbfb4794474f9b008f1357a42677/54516515.JPG?precrop=4511%2C2621%2Cx0%2Cy386&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2023-11-23/ty-article-magazine/.premium/0000018b-fb1b-d330-a9bb-ffdfb8a70000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2023-11-23",
+          "magazine_date": "2023-11-24",
+          "title": null,
+          "og_image": null,
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2023-11-23/ty-article/.premium/0000018b-fb15-d330-a9bb-ffd7617d0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2023-11-23",
+          "magazine_date": "2023-11-24",
+          "title": "סרביה אלופת אירופה",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-fb15-d330-a9bb-ffd7617d0000/a2/89/1679e6bb4e3186e014f9f5922523/ches-quiz.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2023-11-23/ty-article/.premium/0000018b-fb3d-d783-a3df-fb3ff9650000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2023-11-23",
+          "magazine_date": "2023-11-24",
+          "title": "נתניהו לשוורצנגר: אולי כדאי שאנהג כמוך",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-fb3d-d783-a3df-fb3ff9650000/16/1a/467a08174333ae6792f50a9d6fe5/fam.jpg?precrop=1250%2C727%2Cx0%2Cy3210&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2023-11-24/ty-article/0000018c-02af-de3d-af9e-0bff48a10000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2023-11-24",
+          "magazine_date": "2023-11-24",
+          "title": "\"מזל ואנשים טובים\": ניצולת השואה שהפכה לרופאה",
+          "og_image": "https://img.haarets.co.il/bs/0000018c-02af-de3d-af9e-0bff48a10000/4a/a8/0563e3634e59a2d395b57acc62d4/capture2.JPG?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2023-11-23/ty-article/.premium/0000018b-fb2c-d473-affb-fbec87d00000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2023-11-23",
+          "magazine_date": "2023-11-24",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-fb2c-d473-affb-fbec87d00000/e3/8d/d667ae5442898e33ec78c0c701e4/caro-reg.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2023-11-23/ty-article/.premium/0000018b-fb40-d330-a9bb-ffd6c2290000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2023-11-23",
+          "magazine_date": "2023-11-24",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-fb40-d330-a9bb-ffd6c2290000/34/39/efed3c234a0ba5c9c0479f89dd61/ribooa-musaf-548-1.jpg?precrop=1083%2C630%2Cx0%2Cy42&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2023-11-22/ty-article/.highlight/0000018b-f7f8-d330-a9bb-fffe6b1a0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2023-11-22",
+          "magazine_date": "2023-11-24",
+          "title": "בני המשפחות שלנו נהרגו שם. צריך להיזהר במילים",
+          "og_image": "https://img.haarets.co.il/bs/0000018b-f7f8-d330-a9bb-fffe6b1a0000/ca/71/af84fad24a76a634b78a15f94fa2/67375.jpg?precrop=2400%2C1395%2Cx0%2Cy83&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

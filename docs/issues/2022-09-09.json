@@ -1,0 +1,338 @@
+{
+  "magazine_date": "2022-09-09",
+  "total_articles": 25,
+  "cover_image": null,
+  "cover_article_url": null,
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-09-06/ty-article/.highlight/00000183-11c8-d968-abc7-51eba7780000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-09-06",
+          "magazine_date": "2022-09-09",
+          "title": "את מחייבת את תלמידי בליך לפגוש את בן גביר? \"זה חלק מפעילות בית הספר\"",
+          "og_image": "https://img.haarets.co.il/bs/00000183-11c8-d968-abc7-51eba7780000/e5/da/a9e9557a4fd9993c22c033cb6279/48438910.JPG?precrop=1087%2C632%2Cx193%2Cy222&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-09-07/ty-article-magazine/.highlight/00000183-0c47-d968-abc7-4ce76fc80000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-09-07",
+          "magazine_date": "2022-09-09",
+          "title": "\"דווקא למשפחה החילונית שלנו היה קשה עם זה שלא עשינו ברית מילה לבן\"",
+          "og_image": "https://img.haarets.co.il/bs/00000183-0c47-d968-abc7-4ce76fc80000/4b/37/8ce5e22646a18c40d0bb2f61cf5a/48411366.JPG?precrop=4271%2C2483%2Cx0%2Cy813&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-09-07/ty-article-magazine/.highlight/00000183-1821-de57-a7d3-fbb10fef0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-09-07",
+          "magazine_date": "2022-09-09",
+          "title": "זה אולי נשמע מופרך, אבל לתל אביב ועזה יש ברית ערים תאומות",
+          "og_image": "https://img.haarets.co.il/bs/00000183-1821-de57-a7d3-fbb10fef0000/2d/65/da2c707842e19d178607fae55a1b/slider-tel-aviv-gaza-sharing.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-09-07/ty-article-magazine/.highlight/00000183-1850-d6b9-a993-fc5e2d4f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-09-07",
+          "magazine_date": "2022-09-09",
+          "title": "מה עשו בהולנד עם בתים של יהודים אחרי השואה? בואו ואספר לכם",
+          "og_image": "https://img.haarets.co.il/bs/00000183-1850-d6b9-a993-fc5e2d4f0000/f2/04/ddba077c49b9a773a4390eb96f3f/84087.jpg?precrop=2400%2C1395%2Cx0%2Cy41&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-09-07/ty-article-magazine/.highlight/00000183-1862-d721-a18b-78f764de0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-09-07",
+          "magazine_date": "2022-09-09",
+          "title": "\"כל מה שצמח ברוסיה בעשורים האחרונים נרמס תחת זחלי הטנקים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000183-1862-d721-a18b-78f764de0000/70/f8/82852e1c4ac182a2e74262f4642b/48429735.JPG?precrop=1365%2C794%2Cx0%2Cy383&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-09-07/ty-article-magazine/.highlight/00000183-1875-d721-a18b-78f5bbfb0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-09-07",
+          "magazine_date": "2022-09-09",
+          "title": "במוסד כבר יכולים לספר על הניסיון המוטרף לשנות את פניה של לבנון",
+          "og_image": "https://img.haarets.co.il/bs/00000183-1875-d721-a18b-78f5bbfb0000/94/da/92e18e324529a4d959830be3a29a/f.jpg?precrop=1463%2C851%2Cx19%2Cy66&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-09-07/ty-article/.highlight/00000183-16d7-d721-a18b-7ed7090b0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-09-07",
+          "magazine_date": "2022-09-09",
+          "title": "חשבתי שהצלחתי להפסיק את העינויים בחקירות של השב\"כ. אז חשבתי",
+          "og_image": "https://img.haarets.co.il/bs/00000183-16d7-d721-a18b-7ed7090b0000/76/a8/2faedc31ff8ebab2f60cd60f40c9/1103647792.jpg?precrop=2136%2C1242%2Cx64%2Cy159&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-09-07/ty-article/.highlight/00000183-181a-d6b9-a993-fc1ed99c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-09-07",
+          "magazine_date": "2022-09-09",
+          "title": "תל אביב מתגאה בפרויקט חדש לדיור בר השגה. אבל כמה דירות יש בו?",
+          "og_image": "https://img.haarets.co.il/bs/00000183-181a-d6b9-a993-fc1ed99c0000/dc/49/fe2070284bc293372f83161dc597/48457913.JPG?precrop=723%2C420%2Cx0%2Cy522&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-09-07/ty-article/.highlight/00000183-185b-d6b9-a993-fc5fdb280000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-09-07",
+          "magazine_date": "2022-09-09",
+          "title": "מה הכי מפריע לי בתל אביב",
+          "og_image": "https://img.haarets.co.il/bs/00000183-185b-d6b9-a993-fc5fdb280000/45/87/bd27895f47088ca197e5d1b5ae19/neri.jpg?precrop=793%2C461%2Cx649%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-09-08/ty-article/.highlight/00000183-1858-d6b9-a993-fc5e77de0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-09-08",
+          "magazine_date": "2022-09-09",
+          "title": "המכונות האלו למדו לשקר, והן עושות את זה יותר מדי טוב",
+          "og_image": "https://img.haarets.co.il/bs/00000183-1858-d6b9-a993-fc5e77de0000/9f/25/a200f66a4feb954c36a97ad26668/48454075.JPG?precrop=898%2C522%2Cx181%2Cy107&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-09-08/ty-article/.highlight/00000183-1859-d6f3-a7ff-f8fb82e40000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-09-08",
+          "magazine_date": "2022-09-09",
+          "title": "זו תעלומה שאיש לא רוצה לברר: כמה ערבים באמת יש בין הירדן לים?",
+          "og_image": "https://img.haarets.co.il/bs/00000183-1859-d6f3-a7ff-f8fb82e40000/b1/0c/391b02b745bd99f6a2b5ce636e34/48430240.JPG?precrop=5608%2C3260%2Cx0%2Cy430&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2022-09-07/ty-article/.highlight/00000183-1858-d721-a18b-78ddf6840000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2022-09-07",
+          "magazine_date": "2022-09-09",
+          "title": "מה מקור המילה בטון, והאם למילה מלט יש בכלל משמעות?",
+          "og_image": "https://img.haarets.co.il/bs/00000183-1858-d721-a18b-78ddf6840000/f3/1e/b4cdabff4cfa811acf6048aa55be/90189.jpg?precrop=2400%2C1395%2Cx0%2Cy163&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-09-07/ty-article/.highlight/00000183-1858-d6f3-a7ff-f8fa04df0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-09-07",
+          "magazine_date": "2022-09-09",
+          "title": "בישראל, אפילו העב\"מים צריכים לבחור בין ימין לשמאל",
+          "og_image": "https://img.haarets.co.il/bs/00000183-1858-d6f3-a7ff-f8fa04df0000/5f/8d/1906d749453e9ddc1aed4bfe35ea/48426080.JPG?precrop=2374%2C1380%2Cx0%2Cy116&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-09-08/ty-article-face/.highlight/00000182-f81f-d8b2-abcb-febfcf680000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-09-08",
+          "magazine_date": "2022-09-09",
+          "title": "\"חטפתי התקף לב. ילד בן 40 הכניס לי צינורות ודיבר על קליפים של פורטרט\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-f81f-d8b2-abcb-febfcf680000/a8/a6/732b819f4ef8b08fa6e6f917c9e0/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-09-07/ty-article-magazine/.highlight/00000183-17fc-de57-a7d3-fffded130000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-09-07",
+          "magazine_date": "2022-09-09",
+          "title": "\"אנשים שואלים אותי אם אני בכת. אין לי מה להגיד שיוכיח שלא\"",
+          "og_image": "https://img.haarets.co.il/bs/00000183-17fc-de57-a7d3-fffded130000/e0/d5/813545c4450c936653c602318906/48428097.JPG?precrop=8192%2C4763%2Cx0%2Cy369&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-09-08/ty-article-magazine/.highlight/00000183-1bc8-d6f5-a98f-bbdc5f420000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-09-08",
+          "magazine_date": "2022-09-09",
+          "title": "ראשת ממשלת בריטניה, ליז טראס. ג'ונסון אבל עם מסרק",
+          "og_image": "https://img.haarets.co.il/bs/00000183-1bc8-d6f5-a98f-bbdc5f420000/57/8e/c80d77314b02b5a1bb19b139fe39/mid-1.jpg?precrop=2000%2C1163%2Cx0%2Cy55&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2022-09-08/ty-article-magazine/.premium/00000182-f823-d030-a1db-f87f45f70000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2022-09-08",
+          "magazine_date": "2022-09-09",
+          "title": "\"אם האמריקאים יתנגדו, אז שייתנו לנו דירות\"",
+          "og_image": "https://img.haarets.co.il/bs/00000183-1b74-d6f3-a7ff-fbf612670000/12/8e/bb34d8924a26877f0e77ffc92b44/95418.jpg?precrop=1321,767,x390,y71&height=630&width=1200&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-09-08/ty-article-20q/.highlight/00000182-f81e-db89-a3a2-fb9e52c50000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-09-08",
+          "magazine_date": "2022-09-09",
+          "title": "באיזה הקשר התפרסם צדוק \"טייסון\" כהן?",
+          "og_image": "https://img.haarets.co.il/bs/00000182-f81e-db89-a3a2-fb9e52c50000/84/5c/246e06824ae5a916ff8249b20d56/tyson.png?precrop=805%2C468%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2022-09-07/ty-article-magazine/.highlight/00000183-185b-d4db-a9a7-985b322a0000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2022-09-07",
+          "magazine_date": "2022-09-09",
+          "title": "20 שנה נדרשו עד שהוא הסכים להכין חומוס. ההמתנה השתלמה",
+          "og_image": "https://img.haarets.co.il/bs/00000183-185b-d4db-a9a7-985b322a0000/a2/3b/644b462e453b8382e1e1e8bddc04/48454506.JPG?precrop=4912%2C2856%2Cx0%2Cy1847&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2022-09-07/ty-article-magazine/.premium/00000183-1803-d4db-a9a7-984b5b1a0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2022-09-07",
+          "magazine_date": "2022-09-09",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 9.9.2022",
+          "og_image": "https://img.haarets.co.il/bs/00000183-1803-d4db-a9a7-984b5b1a0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2022-09-07/ty-article/.premium/00000183-17fa-d6f3-a7ff-fffa45280000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2022-09-07",
+          "magazine_date": "2022-09-09",
+          "title": "שערורייה בתחרות העל",
+          "og_image": "https://img.haarets.co.il/bs/00000183-17fa-d6f3-a7ff-fffa45280000/38/29/5549e45d00f548b27e2027b897ad/584151313.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-09-08/ty-article/00000183-1c43-db2e-afef-bdcb32660000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-09-08",
+          "magazine_date": "2022-09-09",
+          "title": "האישה מאחורי \"שקי קקי\": התגלות אלוהית הובילה למהפכה בניקיון ת\"א",
+          "og_image": "https://img.haarets.co.il/bs/00000183-1c43-db2e-afef-bdcb32660000/0f/72/e39acdcc441bb06be5a25f9a4d35/3.jpeg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2022-09-07/ty-article/.premium/00000183-1814-d6b9-a993-fc1ed0770000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2022-09-07",
+          "magazine_date": "2022-09-09",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000183-1814-d6b9-a993-fc1ed0770000/06/76/8166e59140ac9a7448a9fc91f4a8/carolina.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2022-09-07/ty-article/.premium/00000183-1811-d6b9-a993-fc1fb3d50000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2022-09-07",
+          "magazine_date": "2022-09-09",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000183-1811-d6b9-a993-fc1fb3d50000/35/76/83703d314ba89bb1f54ceb1ca928/ribooa-musaf-485.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-09-07/ty-article/.highlight/00000183-188f-d3c2-a5fb-38df995a0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-09-07",
+          "magazine_date": "2022-09-09",
+          "title": "תודה לגוגל שהחזירה לחיינו את הקו הירוק",
+          "og_image": "https://img.haarets.co.il/bs/00000183-188f-d3c2-a5fb-38df995a0000/bd/f3/b17ef21949b49c7ca00a778ba944/green-line-israel-1964.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

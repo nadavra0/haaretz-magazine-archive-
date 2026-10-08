@@ -1,0 +1,343 @@
+{
+  "magazine_date": "2023-06-02",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/00000188-71d2-d9d1-ab89-f5fb5f840001/ae/d7/264f67334832a1f328ee1eb40de1/frontpage.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2023-06-01/ty-article-magazine/.highlight/00000188-713a-d2d1-afbe-7d3f8bf60000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-31/ty-article-magazine/.highlight/00000188-7121-d2d1-afbe-7d2f0cbd0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-31",
+          "magazine_date": "2023-06-02",
+          "title": "ג'ף סקופ עמד בראש תנועה ניאו־נאצית אלימה בארה\"ב. ואז הוא הפך את עורו",
+          "og_image": "https://img.haarets.co.il/bs/00000188-7121-d2d1-afbe-7d2f0cbd0000/72/db/0f7fc5d6420e9e689c142a4289cc/52084883.JPG?precrop=3000%2C1744%2Cx0%2Cy999&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-31/ty-article-magazine/.highlight/00000188-7121-d9d1-ab89-f5fb1c870000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-31",
+          "magazine_date": "2023-06-02",
+          "title": "פיתה עם שוקולד? בורקס בקפיטריה? תלמידים פשוט מזמינים וולט לבית הספר",
+          "og_image": "https://img.haarets.co.il/bs/00000188-7121-d9d1-ab89-f5fb1c870000/40/48/c825b2fc4a09a238dfe04f3420ec/wolt.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-31/ty-article-magazine/.highlight/00000188-71d6-d9d1-ab89-f5ff235e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-31",
+          "magazine_date": "2023-06-02",
+          "title": "מה קורה לאדם שמוחזק בבידוד מהעולם במשך חודשים?",
+          "og_image": "https://img.haarets.co.il/bs/00000188-71d6-d9d1-ab89-f5ff235e0000/d6/f0/9dbb8be547b2adc43ccbea23da7c/18405.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-31/ty-article/.highlight/00000188-7186-d2d1-afbe-7d8f090e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-31",
+          "magazine_date": "2023-06-02",
+          "title": "מאז שהפסקתי לעשן נתקפתי דכדוך. אבל זה לא יגרום לי להדליק סיגריה",
+          "og_image": "https://gif.haarets.co.il/bs/00000188-7186-d2d1-afbe-7d8f090e0000/24/04/e3881bd74e3eaa0350542105e13a/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-05-31/ty-article/.highlight/00000188-71a1-d9d1-ab89-f5fb96a70000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-05-31",
+          "magazine_date": "2023-06-02",
+          "title": "כשהבינה המלאכותית תחסל את המין האנושי, תזכרו שצה\"ל אשם בזה",
+          "og_image": "https://img.haarets.co.il/bs/00000188-71a1-d9d1-ab89-f5fb96a70000/5e/96/874c9687f02e159420d9eb7e1b9e/1532019661.jpg?precrop=624%2C362%2Cx0%2Cy1&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-06-01/ty-article-magazine/.highlight/00000188-713a-d2d1-afbe-7d3f8bf60000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-06-01",
+          "magazine_date": "2023-06-02",
+          "title": "פרופ' סם פרניה מחזיר אנשים לחיים ושומע מהם מה קורה אחרי המוות",
+          "og_image": "https://img.haarets.co.il/bs/00000188-713a-d2d1-afbe-7d3f8bf60000/a0/e0/fb817c804e739635cd8e59e46671/56885.jpg?precrop=1599%2C930%2Cx0%2Cy595&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2023-06-01/ty-article/.highlight/00000188-71d3-d2d1-afbe-7ddfca200000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2023-06-01",
+          "magazine_date": "2023-06-02",
+          "title": "לתפיסתך מותר לשדרני רדיו להשמיע דעות? \"אני לא מרשה דעתנות בכלל\"",
+          "og_image": "https://img.haarets.co.il/bs/00000188-71d3-d2d1-afbe-7ddfca200000/2c/c7/1fdc6cc84a349d184306c16ee00e/52129265.JPG?precrop=2048%2C1191%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-05-31/ty-article/.highlight/00000188-711b-d2d1-afbe-7d1f4af90000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-05-31",
+          "magazine_date": "2023-06-02",
+          "title": "יש סיבה טובה לצפות בסרט שצופה במי שצופה בציפורים",
+          "og_image": "https://img.haarets.co.il/bs/00000188-711b-d2d1-afbe-7d1f4af90000/a7/78/46b4af8e4391aa2959d5d8bc2d18/52097571.JPG?precrop=3675%2C2137%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-05-31/ty-article/.highlight/00000188-712d-d2d1-afbe-7d2fe2b80000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-05-31",
+          "magazine_date": "2023-06-02",
+          "title": "חילונים, תבינו: גם אנחנו החרדיות נמצאות עכשיו במצור",
+          "og_image": "https://img.haarets.co.il/bs/00000188-712d-d2d1-afbe-7d2fe2b80000/58/de/3059cc44498d8e2b41de71a727c1/52116057.JPG?precrop=3059%2C1779%2Cx356%2Cy121&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2023-05-31/ty-article/.highlight/00000188-715c-d9d1-ab89-f5ff444e0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2023-05-31",
+          "magazine_date": "2023-06-02",
+          "title": "ביצירה שלו, אפילו השוליים עסקו בחיים עצמם",
+          "og_image": "https://img.haarets.co.il/bs/00000188-715c-d9d1-ab89-f5ff444e0000/35/c0/7cc55aeb4e8690232659903d8439/52096337.JPG?precrop=6720%2C3907%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2023-05-31/ty-article/00000188-7127-d9d1-ab89-f5ff450f0000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2023-05-31",
+          "magazine_date": "2023-06-02",
+          "title": "שלל מילים שרדו ממפעל חלוצי, אך רק אחת מהן הציתה סערה לשונית",
+          "og_image": "https://img.haarets.co.il/bs/00000188-7127-d9d1-ab89-f5ff450f0000/30/22/1d7fc9f84b578366ebc7fb6c24b7/52112407.JPG?precrop=1000%2C581%2Cx0%2Cy86&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2023-05-31/ty-article/.highlight/00000188-70c3-d9d1-ab89-f5fb5e4d0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2023-05-31",
+          "magazine_date": "2023-06-02",
+          "title": "הכנענים חוזרים, והפעם עשויות להיות לכך השפעות לטווח ארוך",
+          "og_image": "https://img.haarets.co.il/bs/00000188-70c3-d9d1-ab89-f5fb5e4d0000/5f/af/00ca48b24dd7aa942f3e8097ba9f/52109817.JPG?precrop=3960%2C2302%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2023-05-31/ty-article-face/.highlight/00000188-6d40-de23-ad8d-fdcd916b0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2023-05-31",
+          "magazine_date": "2023-06-02",
+          "title": "\"אין נקודה בזמן שבה החלטתי להיות שחקנית. הנשמה לקחה אותי לשם\"",
+          "og_image": "https://img.haarets.co.il/bs/00000188-6d40-de23-ad8d-fdcd916b0000/d1/5e/68fc44094d56987633a83c41796d/facetemplate1800x1200-1.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2023-05-31/ty-article-magazine/.highlight/00000188-71c5-d9d1-ab89-f5ffdf9b0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2023-05-31",
+          "magazine_date": "2023-06-02",
+          "title": "\"אנחנו מאוד עצורות וממושמעות, אנחנו לא ממש מתקשרות עם העולם\"",
+          "og_image": "https://img.haarets.co.il/bs/00000188-71c5-d9d1-ab89-f5ffdf9b0000/b1/65/964cfd964ca69eabdb8b8337b966/52109297.JPG?precrop=7544%2C4384%2Cx0%2Cy466&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2023-05-31/ty-article/.highlight/00000188-7206-db0d-afbe-f337703d0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2023-05-31",
+          "magazine_date": "2023-06-02",
+          "title": "זה אולי נראה כמו שימוש תמים בסימני שאלה, אבל מדובר בעזות מצח",
+          "og_image": "https://img.haarets.co.il/bs/00000188-7206-db0d-afbe-f337703d0000/9d/9d/bb723404493980e2cfb624158f53/alon2.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2023-06-01/ty-article-magazine/.highlight/00000188-75d0-d4df-a39c-f7db4c2c0000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2023-06-01",
+          "magazine_date": "2023-06-02",
+          "title": "החזון של ביבי: ישראל כמעצמת בינה מלאכותית. על הרגילה ויתרנו",
+          "og_image": "https://img.haarets.co.il/bs/00000188-75d0-d4df-a39c-f7db4c2c0000/08/e8/7d1f86f944dca9ca71acfc765a25/koteret.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2023-05-31/ty-article-magazine/.highlight/00000188-6d52-de23-ad8d-fddf60a30000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2023-05-31",
+          "magazine_date": "2023-06-02",
+          "title": "\"לקחנו את האליפות, העברנו את התקציב ועכשיו ברוך השם הכל בסדר\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-686a-d6a6-a7e3-fbef40080000/ad/2d/8fa34bb042c1b9a7f3b0e469b405/47985969.JPG?precrop=5777,3358,x0,y161&height=630&width=1200&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2023-05-31/ty-article-20q/.highlight/00000188-6d29-de23-ad8d-fdade33a0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2023-05-31",
+          "magazine_date": "2023-06-02",
+          "title": "על מה ענתה גולדה מאיר: \"מה יהיה אם לסבתא יהיו גלגלים\"?",
+          "og_image": "https://img.haarets.co.il/bs/00000188-6d29-de23-ad8d-fdade33a0000/c4/46/ae8e1eed46ce9e4bdb52e4b4dbd6/649409.jpg?precrop=1789%2C1040%2Cx0%2Cy474&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2023-05-30/ty-article-magazine/00000188-6cb9-d2d1-afbe-7cbf2a9e0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2023-05-30",
+          "magazine_date": "2023-06-02",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 2.6.2023",
+          "og_image": "https://img.haarets.co.il/bs/00000188-6cb9-d2d1-afbe-7cbf2a9e0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2023-06-01/ty-article/.premium/00000188-75cd-dd65-abae-75dd487a0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2023-06-01",
+          "magazine_date": "2023-06-02",
+          "title": "קרלסן ניצח בוורשה",
+          "og_image": "https://img.haarets.co.il/bs/00000188-75cd-dd65-abae-75dd487a0000/30/67/50e4e4bf98b8a019961dd3a513c1/3865109922.jpg?precrop=2196%2C1275%2Cx4%2Cy16&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2023-06-01/ty-article/.premium/00000188-75d4-d4df-a39c-f7dfa7c10000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2023-06-01",
+          "magazine_date": "2023-06-02",
+          "title": "דרושות קטלריות סוג א' א'",
+          "og_image": "https://img.haarets.co.il/bs/00000188-75d4-d4df-a39c-f7dfa7c10000/0e/0d/555b298f4d799e74dffc0e88fac1/meforsamot.jpg?precrop=1250%2C727%2Cx0%2Cy2001&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2023-06-01/ty-article/00000188-77b0-d4df-a39c-f7fb69ac0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2023-06-01",
+          "magazine_date": "2023-06-02",
+          "title": "מסע הבריחה מהנאצים, שנמשך שמונה חודשים, הסתיים בנחיתה על הכנרת",
+          "og_image": "https://img.haarets.co.il/bs/00000188-77b0-d4df-a39c-f7fb69ac0000/df/ab/a15a8b5a43d2b17652422cb3744d/service-pnp-matpc-15800-15804v.jpg?width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2023-06-01/ty-article/.premium/00000188-75da-dd65-abae-75da98e20000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2023-06-01",
+          "magazine_date": "2023-06-02",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000188-75da-dd65-abae-75da98e20000/be/fe/846f4a994774b10804f8ad1a037d/chumash.jpg?precrop=1772%2C1030%2Cx0%2Cy95&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2023-06-01/ty-article/.premium/00000188-75d7-dd65-abae-75dff66c0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2023-06-01",
+          "magazine_date": "2023-06-02",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000188-75d7-dd65-abae-75dff66c0000/d6/44/e17c793245819b48fa55e53ea5d4/ribooa-musaf-523-new.jpg?precrop=1083%2C630%2Cx0%2Cy182&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2023-05-31/ty-article/.highlight/00000188-721c-d307-a59f-73fef95f0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2023-05-31",
+          "magazine_date": "2023-06-02",
+          "title": "החור השחור של ההתנחלויות בולע הכל",
+          "og_image": "https://img.haarets.co.il/bs/00000188-721c-d307-a59f-73fef95f0000/d2/71/53095896a491d4affb581df3e185/1075998682.jpg?precrop=2200%2C1277%2Cx0%2Cy147&width=1200&height=630&cmsprod=&watermark=htz-2023",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

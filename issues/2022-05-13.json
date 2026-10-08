@@ -1,0 +1,338 @@
+{
+  "magazine_date": "2022-05-13",
+  "total_articles": 25,
+  "cover_image": "https://img.haarets.co.il/bs/00000180-d633-d572-aba5-debfe9960000/b9/65/0a30f035b402e635800e0e8b2ae9/2089064069.jpg?&width=1500&height=1979&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2022-05-12/ty-article-magazine/.highlight/00000180-d633-d572-aba5-debff6940000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-05-11/ty-article-magazine/.highlight/00000180-d62f-d572-aba5-debff2000000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-05-11",
+          "magazine_date": "2022-05-13",
+          "title": "\"אנחנו זכינו ל-24 שנים עם הילדה הזאת, וזה היה שווה כל סבל\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d62f-d572-aba5-debff2000000/92/41/8d7d28ccdf432991ee6dca277d04/2569271756.jpg?precrop=1080%2C628%2Cx0%2Cy62&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-05-11/ty-article-magazine/.highlight/00000180-d630-d452-a1fa-d7ff28760000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-05-11",
+          "magazine_date": "2022-05-13",
+          "title": "\"חמש שעות טיסה מכאן ילדים מתים בהמוניהם. זו המציאות\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d630-d452-a1fa-d7ff28760000/cd/c6/80d1d47f454bafb041307b3419c8/2642541356.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-05-11/ty-article/.highlight/00000180-d62d-d572-aba5-debd17740000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-05-11",
+          "magazine_date": "2022-05-13",
+          "title": "למה אתם תמיד מכנים חשוד בפיגוע \"מחבל\"? \"בז'רגון הביטחוני לא מחכים להוכחות\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d62d-d572-aba5-debd17740000/4c/90/a6ef6eacae63cdbc7f04ac3a1a3f/2057839571.jpeg?precrop=828%2C481%2Cx0%2Cy22&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-05-12/ty-article-magazine/.highlight/00000180-d630-d452-a1fa-d7ff52ee0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-05-12",
+          "magazine_date": "2022-05-13",
+          "title": "עם קוגל וצ'ייסר, צ'ולנט ובירה, מתברר שיש גם חרדים-חילונים",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d630-d452-a1fa-d7ff52ee0000/aa/8e/12bbe0d0fe7e32de77e8321dade1/1085317434.jpg?precrop=2044%2C1189%2Cx4%2Cy44&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-05-12/ty-article-magazine/.highlight/00000180-d633-d572-aba5-debff6940000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-05-12",
+          "magazine_date": "2022-05-13",
+          "title": "התנועה הזאת הפכה למיליציה הגדולה בישראל. וזו היתה רק ההתחלה",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d633-d572-aba5-debff6940000/3a/c7/261213f4f9b73fd7c4a42e14a975/1307158568.jpg?precrop=2200%2C1281%2Cx0%2Cy201&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/tozeret/parashat/2022-05-12/ty-article/.highlight/00000180-d632-d452-a1fa-d7ff76110000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-05-12",
+          "magazine_date": "2022-05-13",
+          "title": "פרשת שלום אחר כך",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d632-d452-a1fa-d7ff76110000/b1/59/9f5aa257da5807611955a3eb474a/1717512700.jpg?precrop=2200%2C1277%2Cx0%2Cy131&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-05-12/ty-article/.highlight/00000180-d657-d572-aba5-dedf8b3d0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-05-12",
+          "magazine_date": "2022-05-13",
+          "title": "\"חתונמי\" הצליחה לאכזב אותי בגדול",
+          "og_image": "https://gif.haarets.co.il/bs/00000180-d657-d572-aba5-dedf8b3d0000/22/09/d4a27fc1699146abb231312c5778/3063850623.gif?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-05-13/ty-article-magazine/.highlight/00000180-d62f-d572-aba5-debf95ff0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-05-13",
+          "magazine_date": "2022-05-13",
+          "title": "גם אחרי 50 שנות יצירה, רחל חלפי שומרת על הילה של מסתורין",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d62f-d572-aba5-debf95ff0000/5d/e6/8d79b7f963f8ca87860f4ad3be17/3697223885.jpg?precrop=1366%2C797%2Cx0%2Cy343&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-05-11/ty-article-magazine/.highlight/00000180-d62e-d572-aba5-debe81d30000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-05-11",
+          "magazine_date": "2022-05-13",
+          "title": "הכל ביפן זר ומוזר. אולי זה כל הקסם",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d62e-d572-aba5-debe81d30000/b5/7a/8cf17145f7e5796226f26e75d883/1833661767.jpg?precrop=2168%2C1258%2Cx32%2Cy24&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-05-11/ty-article/.highlight/00000180-d637-d452-a1fa-d7ffd63f0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-05-11",
+          "magazine_date": "2022-05-13",
+          "title": "ההיסטוריה מוכיחה כמה מהר הופכת קידמה לקללה",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d637-d452-a1fa-d7ffd63f0000/a4/c3/f344b6489bd7c6632a7f2645389e/3246212352.jpg?precrop=1277%2C741%2Cx157%2Cy397&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2022-05-11/ty-article/.highlight/00000180-d62d-d452-a1fa-d7ef7cf20000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2022-05-11",
+          "magazine_date": "2022-05-13",
+          "title": "התברכנו במילים רבות לפדיחה, ורובן מגיעות משפה אחת",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d62d-d452-a1fa-d7ef7cf20000/c8/25/a2d39fa2b7128fac5dd3b80b0c45/1731427841.jpg?precrop=2057%2C1194%2Cx135%2Cy274&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-05-11/ty-article/.highlight/00000180-d63a-d452-a1fa-d7ff1abd0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-05-11",
+          "magazine_date": "2022-05-13",
+          "title": "פתאום שוב נושאים עיניים בחיבה לגברים מבוגרים, וזה לא כל כך נורא",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d63a-d452-a1fa-d7ff1abd0000/0e/ea/af93ea8c214da1c9a46981cea0a7/3409881776.jpg?precrop=1953%2C1135%2Cx73%2Cy22&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-05-12/ty-article-face/.highlight/00000180-d0f0-d681-a1ad-f1f55d0e0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-05-12",
+          "magazine_date": "2022-05-13",
+          "title": "\"במצח יש לי קמטי דאגה - כשאחד מכל חמישה ילדים נפגע מינית בבית, איך אפשר שלא?\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d0f0-d681-a1ad-f1f55d0e0000/07/98/029d7365e07186b3fd22d7e22ee6/4272809405.jpg?precrop=1800%2C1047%2Cx0%2Cy49&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-05-11/ty-article-magazine/.highlight/00000180-d634-d572-aba5-debce2760000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-05-11",
+          "magazine_date": "2022-05-13",
+          "title": "\"כנראה שבעיראק הייתי יותר בטוח מאשר באוסטרליה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d634-d572-aba5-debce2760000/44/73/63ab814650ee9c258e5c13ba20fa/1517288978.jpg?precrop=2048%2C1192%2Cx0%2Cy133&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-05-11/ty-article/.highlight/00000180-d635-d572-aba5-debd6d6c0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-05-11",
+          "magazine_date": "2022-05-13",
+          "title": "\"אדוני, ברשותך רק שאלה אחרונה: לחסל או לא לחסל את סינוואר?\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d635-d572-aba5-debd6d6c0000/ae/39/622a4e686092fe9672adf75d1df7/3204362304.png?precrop=1861%2C1080%2Cx23%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-05-12/ty-article-magazine/.highlight/00000180-d62f-d572-aba5-debfe7290000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-05-12",
+          "magazine_date": "2022-05-13",
+          "title": "מה ההבדל בין אמריקה לפסנתר? באמריקה אי־אפשר להפיל",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d62f-d572-aba5-debfe7290000/95/d0/e83f2ad3853e2a223ebd8e059cdb/3838715161.jpg?precrop=2001%2C1164%2Cx0%2Cy243&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2022-05-12/ty-article-magazine/.highlight/00000180-d62e-d572-aba5-debede960000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2022-05-12",
+          "magazine_date": "2022-05-13",
+          "title": "\"התעצבנתי, כי הבנתי שלוקחים 38% מס מהמיליון. מה זה המסים האלה?\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d62e-d572-aba5-debed81f0000/f9/9f/de6be7e32443e9883bd5c0e8daf5/2083218340.PNG?precrop=603,351,x31,y12&height=630&width=1200&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-05-12/ty-article-20q/.highlight/00000180-d639-d452-a1fa-d7ff9ffd0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-05-12",
+          "magazine_date": "2022-05-13",
+          "title": "מה שם השיר שבו מופיעה השורה \"עכשיו דממה, הצל על הבמה\"?",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d639-d452-a1fa-d7ff9ffd0000/35/db/1cf89004a7ea6253bed15fa96028/1079806410.jpg?precrop=2168%2C1258%2Cx0%2Cy127&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2022-05-12/ty-article-magazine/.highlight/00000180-d631-d452-a1fa-d7ffd3ec0000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2022-05-12",
+          "magazine_date": "2022-05-13",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 13.5.2022",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d631-d452-a1fa-d7ffd3ec0000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2022-05-12/ty-article/.highlight/00000180-d636-d572-aba5-debeb4a10000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2022-05-12",
+          "magazine_date": "2022-05-13",
+          "title": "ילדים אלופים",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d636-d572-aba5-debeb4a10000/14/71/411698e0d1880d815e3ba9f5fe4e/388821721.jpg?precrop=2123%2C1235%2Cx7%2Cy3&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2022-05-12/ty-article/.highlight/00000180-d634-d452-a1fa-d7ff663e0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2022-05-12",
+          "magazine_date": "2022-05-13",
+          "title": "סיינפלד מפסיק להצחיק",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d634-d452-a1fa-d7ff663e0000/03/99/4a297c7dac01a58d933759e861f6/1932296344.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-05-12/ty-article/.highlight/00000180-d630-d452-a1fa-d7ffff670000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-05-12",
+          "magazine_date": "2022-05-13",
+          "title": "פאתן סירבה להתייאש, גם במציאות בלתי אפשרית, אך מתה בגיל 44",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d630-d452-a1fa-d7ffff670000/62/ef/0de939cb385da3bf1c63b22d13e7/70914036.JPG?precrop=633%2C367%2Cx37%2Cy41&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-05-12/ty-article/.highlight/00000180-d636-d452-a1fa-d7ff20c20000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-05-12",
+          "magazine_date": "2022-05-13",
+          "title": "\"אבא נפרד ממני עם ירושה: לשמור על אמא ואחי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d636-d452-a1fa-d7ff20c20000/ac/3b/d6da05ab1ceff9f5c0ff6de169a6/2115452075.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2022-05-13/ty-article/.highlight/00000180-d638-d572-aba5-debc27a00000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2022-05-13",
+          "magazine_date": "2022-05-13",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d638-d572-aba5-debc27a00000/64/2e/4e23e30b364b5fc15f7f390e0a3c/1259123698.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-05-11/ty-article/.highlight/00000180-d634-d572-aba5-debcc55c0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-05-11",
+          "magazine_date": "2022-05-13",
+          "title": "פרויד מעולם לא אמר זאת",
+          "og_image": "https://img.haarets.co.il/bs/00000180-d634-d572-aba5-debcc55c0000/d2/fa/ece582010b3bccebeaa44285df57/2530334205.jpg?precrop=1614%2C941%2Cx0%2Cy758&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}

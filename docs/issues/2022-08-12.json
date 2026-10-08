@@ -1,0 +1,358 @@
+{
+  "magazine_date": "2022-08-12",
+  "total_articles": 26,
+  "cover_image": "https://img.haarets.co.il/bs/00000182-8877-d9bc-affb-ebff6f5f0001/ef/6d/d36e67fd49f2ac5e757f695ad126/frontpage.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2022-08-11/ty-article-magazine/.highlight/00000182-8872-d9b0-a5ef-ac764f810000",
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-08-10/ty-article-magazine/.highlight/00000182-848c-d5f9-a5e2-f6cca3bc0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-08-10",
+          "magazine_date": "2022-08-12",
+          "title": "\"יש לנו דימוי של היהודי המסכן, אבל היתה גם אלימות יהודים נגד הכנסייה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-848c-d5f9-a5e2-f6cca3bc0000/14/11/24b39ad94e4595f7228954b41843/47870892.JPG?precrop=7941%2C4615%2Cx0%2Cy517&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-08-10/ty-article-magazine/.highlight/00000182-8773-d252-afca-8f773e6a0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-08-10",
+          "magazine_date": "2022-08-12",
+          "title": "שנה בלב האמזונס: איך חיים כשבכל רגע אתה עלול להיטרף?",
+          "og_image": "https://img.haarets.co.il/bs/00000182-8773-d252-afca-8f773e6a0000/60/be/6fffc5e24d47a00bef7056be6f22/48077905.JPG?precrop=3666%2C2132%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-08-10/ty-article/.highlight/00000182-87c4-da0c-a793-fff7065e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-08-10",
+          "magazine_date": "2022-08-12",
+          "title": "החידוש הצה\"לי: פעולת תגמול על פיגוע שמעולם לא קרה",
+          "og_image": "https://img.haarets.co.il/bs/00000182-87c4-da0c-a793-fff7065e0000/e3/61/fda468f64d3b9b1e7d42be535873/48094736.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-08-10/ty-article/.highlight/00000182-87d4-dd75-a7eb-a7ff41430000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-08-10",
+          "magazine_date": "2022-08-12",
+          "title": "עכשיו סטימצקי עושקת אנשים שחולמים להוציא ספר? \"אני לא מכיר כל ניואנס\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-87d4-dd75-a7eb-a7ff41430000/0a/02/2b3b7c4b4316bde94bfe60c7c4dd/gfgergregergegegeggegegegegegege.jpg?precrop=552%2C321%2Cx0%2Cy24&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-08-11/ty-article-magazine/.highlight/00000182-87e2-d856-a3be-e7ff04e50000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-08-11",
+          "magazine_date": "2022-08-12",
+          "title": "\"לא אמרנו לאנשים את האמת. חייבים לתקן את זה\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-87e2-d856-a3be-e7ff04e50000/b4/4a/640f46ef47898bde2f92b9a84cab/48079020.JPG?precrop=3648%2C2121%2Cx0%2Cy365&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-08-11/ty-article-magazine/.highlight/00000182-8872-d9b0-a5ef-ac764f810000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-08-11",
+          "magazine_date": "2022-08-12",
+          "title": "מחלות המין מתפשטות בכל העולם. האם זה ישנה את חיי הסקס שלנו?",
+          "og_image": "https://img.haarets.co.il/bs/00000182-8872-d9b0-a5ef-ac764f810000/87/33/94bcb005469cab7bc47e16ee9967/min.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-08-11/ty-article/.highlight/00000182-87f4-d68b-a3e2-f7f50db50000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-08-11",
+          "magazine_date": "2022-08-12",
+          "title": "מה רוצה סין? התשובה עלולה ללכת לאיבוד בתרגום",
+          "og_image": "https://img.haarets.co.il/bs/00000182-87f4-d68b-a3e2-f7f50db50000/43/96/a43d7ba3465493d3f34fd234f923/48095515.JPG?precrop=900%2C523%2Cx0%2Cy56&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2022-08-11/ty-article/.highlight/00000182-8bbc-d68b-a3e2-fbbdb7ef0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2022-08-11",
+          "magazine_date": "2022-08-12",
+          "title": "היום אני מבינה יותר טוב את הגזלייטינג שעברתי לפני 30 שנה",
+          "og_image": "https://gif.haarets.co.il/bs/00000182-8bbc-d68b-a3e2-fbbdb7ef0000/95/ed/2b7190f64de894cd50f6ffbeea02/neri.gif?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-08-10/ty-article/.highlight/00000182-8764-d8ab-a3b3-e77f1b210000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-08-10",
+          "magazine_date": "2022-08-12",
+          "title": "קשה להאמין, אבל הספריות הציבוריות משגשגות, והמודל שלהן אפילו מתרחב",
+          "og_image": "https://img.haarets.co.il/bs/00000182-8764-d8ab-a3b3-e77f1b210000/43/7f/299e30354d0fbece47ed029efe47/48079707.JPG?precrop=6720%2C3907%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2022-08-10/ty-article/.highlight/00000182-877e-ddf6-abd7-877e6d6a0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2022-08-10",
+          "magazine_date": "2022-08-12",
+          "title": "האם רוע באמת יכול להיות בנאלי? בחזרה לטעות הגדולה של ארנדט",
+          "og_image": "https://img.haarets.co.il/bs/00000182-877e-ddf6-abd7-877e6d6a0000/17/bd/3e2bbfe344fbb7c3eb0aeca57886/863389.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2022-08-10/ty-article/.highlight/00000182-874f-d739-a78e-ffdfec320000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2022-08-10",
+          "magazine_date": "2022-08-12",
+          "title": "צמד המילים הזה עורר לא מעט ויכוחים, ואף יצר פניות פרסה אידיאולוגיות",
+          "og_image": "https://img.haarets.co.il/bs/00000182-874f-d739-a78e-ffdfec320000/55/e5/c9dad4cc4ddabb97e199091cf202/09961.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2022-08-10/ty-article/00000182-875c-d84a-a1b7-f75fb3be0000",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2022-08-10",
+          "magazine_date": "2022-08-12",
+          "title": "במקום להילחם בנתניהו, אולי הגיע הזמן להפוך אותו לאל",
+          "og_image": "https://img.haarets.co.il/bs/00000182-875c-d84a-a1b7-f75fb3be0000/e7/a6/04f4cda84163950f071e327bf6f9/48082576.JPG?precrop=4552%2C2646%2Cx0%2Cy418&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2022-08-11/ty-article-face/.highlight/00000182-8b58-d9bc-affb-ebdee1810000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2022-08-11",
+          "magazine_date": "2022-08-12",
+          "title": "\"אני מצטערת שיצאתי מהארון כל כך מאוחר. יש מחיר לחיים עם סודות\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-8b58-d9bc-affb-ebdee1810000/a2/4c/cb3d5e9c404d8170d31830e30439/facetemplate1800x1200-1-3.jpg?precrop=1800%2C1047%2Cx0%2Cy51&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2022-08-11/ty-article-magazine/.premium/00000182-88bf-ddbd-a797-8ebf6b660000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2022-08-11",
+          "magazine_date": "2022-08-12",
+          "title": "\"עבדתי וחיכיתי. הילדים שלי חשבו שלא ניפגש שוב\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-88bf-ddbd-a797-8ebf6b660000/3f/9d/ebf1aa66440a93745bd728f0616d/92541.jpg?precrop=2400%2C1395%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2022-08-11/ty-article-magazine/.premium/00000182-88be-d68b-a3e2-fbbf9a520000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2022-08-11",
+          "magazine_date": "2022-08-12",
+          "title": "איך הפכנו מחלטוריסטים וחפיפניקים לאנשים שנמצאים באובססיה לדיוק?",
+          "og_image": "https://img.haarets.co.il/bs/00000182-88be-d68b-a3e2-fbbf9a520000/85/30/3676f9654a029d1a9ba1ec6d7fb5/471198.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2022-08-11/ty-article-magazine/.highlight/00000182-8bf6-d9bc-affb-ebfe95710000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2022-08-11",
+          "magazine_date": "2022-08-12",
+          "title": "מבוכה לנתניהו: נאשם בפלילים נבחר לעמוד בראש הליכוד",
+          "og_image": "https://img.haarets.co.il/bs/00000182-8bf6-d9bc-affb-ebfe95710000/47/b8/da75c04c4f308c246701761be01b/mid-2.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2022-08-11/ty-article-magazine/.premium/00000182-8c71-d68b-a3e2-ff7101c90000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2022-08-11",
+          "magazine_date": "2022-08-12",
+          "title": "\"את קולות הצעירים יש לי ואת קולות האסירים יש לי\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-8c74-d68b-a3e2-ff75d1230000/20/ee/9278e1214cd49b7ad622d3b9957a/65117-3.jpg?precrop=2324,1351,x0,y0&height=630&width=1200&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2022-08-10/ty-article-20q/.highlight/00000182-868f-dd4f-a387-f7afa0170000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2022-08-10",
+          "magazine_date": "2022-08-12",
+          "title": "על שום מה ניתן השם עגבנייה לצמח זה?",
+          "og_image": "https://img.haarets.co.il/bs/00000182-868f-dd4f-a387-f7afa0170000/63/bf/d1e7447c4657a01f8803327b9ced/681706.jpg?precrop=2200%2C1279%2Cx0%2Cy0&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2022-08-10/ty-article-magazine/.highlight/00000182-8714-d182-a1cb-eff535e50000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2022-08-10",
+          "magazine_date": "2022-08-12",
+          "title": "בחממה קטנה, הסינדרלה של עולם הירקות קמה לתחייה",
+          "og_image": "https://img.haarets.co.il/bs/00000182-8714-d182-a1cb-eff535e50000/09/93/2de5b41c424dae8b6638591ce922/53999.jpg?precrop=1714%2C997%2Cx0%2Cy1064&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2022-08-11/ty-article-magazine/.premium/00000182-8c1e-d9bc-affb-ef9e8f320000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2022-08-11",
+          "magazine_date": "2022-08-12",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 12.8.2022",
+          "og_image": "https://img.haarets.co.il/bs/00000182-8c1e-d9bc-affb-ef9e8f320000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/chess": {
+      "name": "שחמט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/chess/2022-08-11/ty-article/.premium/00000182-8be9-d68b-a3e2-fbe9d9bb0000",
+          "section": "magazine/chess",
+          "section_name": "שחמט",
+          "article_date": "2022-08-11",
+          "magazine_date": "2022-08-12",
+          "title": "הודו מזילה דמעה",
+          "og_image": "https://img.haarets.co.il/bs/00000182-8be9-d68b-a3e2-fbe9d9bb0000/02/6f/abdd687441eeaf31df1d7055428f/olympiad.JPG?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2022-08-11/ty-article/.premium/00000182-8bc8-da98-abf6-bfd913720000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2022-08-11",
+          "magazine_date": "2022-08-12",
+          "title": "הידעת? גופך מפריש 900 גרם זיעה ביום",
+          "og_image": "https://img.haarets.co.il/bs/00000182-8bc8-da98-abf6-bfd913720000/71/f1/5f7fe91b49c4a1f5438f1f704ed9/fam.jpg?precrop=1250%2C727%2Cx0%2Cy678&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2022-08-11/ty-article/00000182-8d79-d9bc-affb-efffdcab0000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2022-08-11",
+          "magazine_date": "2022-08-12",
+          "title": "מהשואה לנשים בשחור: \"העבר הטרגי לא מקנה לנו זכות להרוס בתים לאחרים\"",
+          "og_image": "https://img.haarets.co.il/bs/00000182-8d79-d9bc-affb-efffdcab0000/b0/89/b656d2c18cc0c4a45d9cb461fb31/3642477979.jpg?precrop=1360%2C791%2Cx28%2Cy443&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2022-08-11/ty-article/00000182-8c26-d315-a5df-acf6a78f0000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2022-08-11",
+          "magazine_date": "2022-08-12",
+          "title": "פוטוסינתזה",
+          "og_image": "https://img.haarets.co.il/bs/00000182-8c26-d315-a5df-acf6a78f0000/c2/2c/f725d1c44907bb897e557fcd9745/carolina-topshot-us-politics-investigation-trump.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2022-08-11/ty-article/.premium/00000182-8c23-dac1-a7be-bcff4fff0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2022-08-11",
+          "magazine_date": "2022-08-12",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/00000182-8c23-dac1-a7be-bcff4fff0000/f4/27/640141c3483581c6d5354386fd54/ribooa-musaf-481-new.jpg?width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2022-08-11/ty-article/.premium/00000182-88bd-d9bc-affb-ebbfab230000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2022-08-11",
+          "magazine_date": "2022-08-12",
+          "title": "אפשר להירגע: האינקוויזיציה הבאה לא בפתח",
+          "og_image": "https://img.haarets.co.il/bs/00000182-88bd-d9bc-affb-ebbfab230000/50/1c/b8afc4da4f5a8e546a1972b8eaf3/47990545.JPG?precrop=2848%2C1656%2Cx0%2Cy1279&width=1200&height=630&cmsprod=&watermark=htz-2022",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}
