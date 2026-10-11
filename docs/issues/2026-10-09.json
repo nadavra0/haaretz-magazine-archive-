@@ -1,0 +1,313 @@
+{
+  "magazine_date": "2026-10-09",
+  "total_articles": 23,
+  "cover_image": null,
+  "cover_article_url": null,
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-10-07/ty-article/.highlight/000001a1-1679-dbd6-a5a5-9fff10a30000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-10-07",
+          "magazine_date": "2026-10-09",
+          "title": "היש אבסורד גדול מזה שבן גביר ניהל את מופע הפסילה של אבו שחאדה?",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-1679-dbd6-a5a5-9fff10a30000/49/5c/396268ad4e378400bea8ca800a07/66965881.JPG?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-10-07/ty-article/.highlight/000001a1-1681-dc83-abad-3fdb1fd10000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-10-07",
+          "magazine_date": "2026-10-09",
+          "title": "אני ממליצה לכל אחד לצאת מהארון, לא חשוב איזה",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-1681-dc83-abad-3fdb1fd10000/a3/71/bbc1c3d349329a5db3f3cef34572/9-10-26-web1.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-10-08/ty-article-magazine/.highlight/000001a1-15a0-d28a-a3a5-d7fbaf1f0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-10-08",
+          "magazine_date": "2026-10-09",
+          "title": "אלפי אנשים מוחזקים במחנות עינויים ישראליים. קשה להאמין מה מתחולל שם",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-15a0-d28a-a3a5-d7fbaf1f0000/72/78/5abe808948bbb96af4f9b6b6430b/418407.jpg?precrop=2246,1306,x0,y95&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-10-08/ty-article-magazine/.highlight/000001a1-160a-d042-a9e9-162ae81c0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-10-08",
+          "magazine_date": "2026-10-09",
+          "title": "הגיע הזמן להתוודות: הייתי תפרן, והסכמתי לעבוד בשירותה של שרה נתניהו",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-160a-d042-a9e9-162ae81c0000/d8/cb/f9a6eb5b4d4fad6e93a6f0898412/423053.jpg?precrop=1491,867,x545,y348&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-10-08/ty-article-magazine/.highlight/000001a1-166f-d042-a9e9-166f71670000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-10-08",
+          "magazine_date": "2026-10-09",
+          "title": "\"הימין בוחר פופוליסטים, והליברלים צריכים לעשות חשבון נפש? איזו קלישאה\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-166f-d042-a9e9-166f71670000/5d/2c/45609557447ca23949bb28a5f6b5/pop.jpg?precrop=1645,956,x521,y1284&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-10-08/ty-article-magazine/.highlight/000001a1-16f7-d042-a9e9-16f77f2e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-10-08",
+          "magazine_date": "2026-10-09",
+          "title": "אחותי נרצחה בנובה. אני לא מצליחה להרגיש דבר מלבד כעס כלפי אלו שניצלו",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-16f7-d042-a9e9-16f77f2e0000/5e/30/c6f9c22f433993592f771e4ce1e0/694128.jpg?precrop=2400,1395,x0,y135&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/mishpaha-boharim/2026-10-08/ty-article-face/.highlight/000001a1-173b-dbd6-a5a5-9fff1f530000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-10-08",
+          "magazine_date": "2026-10-09",
+          "title": "פעם הם ראו את נתניהו באור חיובי. עכשיו הם נלחמים על כל קול נגדו",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-173b-dbd6-a5a5-9fff1f530000/e9/88/b10771ea4d408b33d12a685fd359/677242.jpg?precrop=1686,981,x0,y1198&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-10-07/ty-article-magazine/.highlight/000001a1-165c-daf2-a7a5-df7e939e0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-10-07",
+          "magazine_date": "2026-10-09",
+          "title": "הזהירו אותי לא לבוא ליפן בחום הזה. לא הקשבתי. איזו טעות",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-165c-daf2-a7a5-df7e939e0000/0d/46/be00c2ba4749965adc6890df691e/197117.jpg?precrop=2400,1396,x0,y87&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-10-07/ty-article/.highlight/000001a1-1550-d0f2-a5fd-5f7991c90000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-10-07",
+          "magazine_date": "2026-10-09",
+          "title": "קראתם לי חרדית אמיצה. הגיע הזמן לעבור ממחמאות למעשים",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-1550-d0f2-a5fd-5f7991c90000/e0/79/2f6b8307442eaa898b3b894f6a4b/66949328.JPG?precrop=5808,3377,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-10-08/ty-article/.highlight/000001a1-1a4c-d70d-a5b9-fbde915b0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-10-08",
+          "magazine_date": "2026-10-09",
+          "title": "תיך נאט האן מצא דרך להשתחרר מהסבל. לשם כך הוא נדרש להרפות ממישהו מוכר",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-1a4c-d70d-a5b9-fbde915b0000/9f/30/4b4efbce488aba21a5946ecbb8d6/66963503.JPG?precrop=3000,1745,x0,y518&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-10-07/ty-article-face/.highlight/000001a1-15d4-dbd6-a5a5-9df7391a0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-10-07",
+          "magazine_date": "2026-10-09",
+          "title": "בר קופרשטיין",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-15d4-dbd6-a5a5-9df7391a0000/d6/6d/91bc84ed4b6c82705c0f4786cf02/facetemplate1800x1200-1.jpg?precrop=1800,1047,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-10-08/ty-article-magazine/.highlight/000001a1-1570-d28a-a3a5-d77b86b70000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-10-08",
+          "magazine_date": "2026-10-09",
+          "title": "\"במקום לשקוע לטלפון, אני יוצאת לצעידה של שבוע. זה קטע צלייני\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-1570-d28a-a3a5-d77b86b70000/20/aa/8e2ab8e94797b8c9f920f784131f/66953268.JPG?precrop=8192,4763,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-10-07/ty-article/.highlight/000001a1-1680-d042-a9e9-16a04d010000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-10-07",
+          "magazine_date": "2026-10-09",
+          "title": "גדי, תחזור. תגיד ליועצי התקשורת שלך לזוז הצידה",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-1680-d042-a9e9-16a04d010000/82/00/83694d5f4cb9823cf7de15bcd604/133531.jpg?precrop=2400,1395,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-10-08/ty-article-midrug/.highlight/000001a1-1aab-d042-a9e9-1aab87820000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-10-08",
+          "magazine_date": "2026-10-09",
+          "title": "רשת מחזרת אחרי עמית סגל. שווה לתת לו צ'אנס",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-1aab-d042-a9e9-1aab87820000/b6/05/2591abf34200b8c8478693d45994/headline.jpg?precrop=1999,1162,x1,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-10-08/ty-article/.highlight/000001a1-1686-daf2-a7a5-dfb69ed20000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-10-08",
+          "magazine_date": "2026-10-09",
+          "title": "נתניהו לא אחראי ל–7 באוקטובר? \"ממשלת השינוי היתה דקה לפני נתניהו\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-1686-daf2-a7a5-dfb69ed20000/b3/3f/8759c194432483e3f1fc4a1c9eed/66957674.JPG?precrop=619,360,x0,y54&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-10-08/ty-article-quotes/.highlight/000001a1-1ad1-dba5-a5bf-dfd197560000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-10-08",
+          "magazine_date": "2026-10-09",
+          "title": "\"ישראל מרכינה ראש ב־7.10; וגם שחר חיון במסעדה שעושה כבוד למטבח ההודי\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-1ad1-dba5-a5bf-dfd197560000/2a/49/53e136f646c38f53721e3e261889/354889-2.jpg?precrop=1600,930,x0,y104&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-10-08/ty-article-20q/.highlight/000001a1-1ab5-dba5-a5bf-dff5c1b50000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-10-08",
+          "magazine_date": "2026-10-09",
+          "title": "לפי יוסף חדאד, מה הוא משנה בהמנון \"התקווה\" כשהוא שר אותו?",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-1ab5-dba5-a5bf-dff5c1b50000/c2/c3/aa7ba0874f0581a191b17ce12a06/201344.jpg?precrop=2400,1395,x0,y154&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-10-08/ty-article-magazine/.premium/000001a1-1b00-d316-adf1-df5453e80000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-10-08",
+          "magazine_date": "2026-10-09",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 2.10.2026",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-1b00-d316-adf1-df5453e80000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2026-10-08/ty-article/.premium/000001a1-1b06-d02f-afa3-fb46d1ab0000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2026-10-08",
+          "magazine_date": "2026-10-09",
+          "title": "דילול החדשות יתרום לבריאות הנפש של הציבור",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-1b06-d02f-afa3-fb46d1ab0000/55/e0/af537e0e4f0f99ef966bf5d6bc80/mefursamot.jpg?precrop=1250,727,x0,y155&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-10-08/ty-article/000001a1-1aeb-da49-a5e9-1bebaab40000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-10-08",
+          "magazine_date": "2026-10-09",
+          "title": "\"לא תכננתי להיות פייטר\": גיבור הקרב על גבעת התחמושת מת בגיל 80",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-1aeb-da49-a5e9-1bebaab40000/07/07/11e6c52e4e628e1241ad9c0b831c/yaki-hetz.jpg?precrop=1280,744,x0,y369&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/photosynthesis": {
+      "name": "פוטוסינתזה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/photosynthesis/2026-10-08/ty-article/.premium/000001a1-1afd-da49-a5e9-1bfd5d930000",
+          "section": "magazine/photosynthesis",
+          "section_name": "פוטוסינתזה",
+          "article_date": "2026-10-08",
+          "magazine_date": "2026-10-09",
+          "title": "טקס האזכרה הממלכתי לטבח ה-7 באוקטובר בהר הרצל, 5.10.26",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-1afd-da49-a5e9-1bfd5d930000/e4/fc/b7f2edbb4a38857b4060067f7bcf/caro.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-10-08/ty-article/.premium/000001a1-1b05-d316-adf1-df5510320000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-10-08",
+          "magazine_date": "2026-10-09",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-1b05-d316-adf1-df5510320000/73/0e/45887c284a3cad2ae6a1ab427b08/ribooa-musaf-698.jpg?precrop=1083,630,x0,y148&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-10-08/ty-article/.highlight/000001a1-16c9-daf2-a7a5-dfff3b5c0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-10-08",
+          "magazine_date": "2026-10-09",
+          "title": "אנחנו אחראים גם למה שלא עשינו. לכו להצביע",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-16c9-daf2-a7a5-dfff3b5c0000/84/27/a47c7ef9418eb007511e7e6584e4/853583.jpg?precrop=2400,1396,x0,y112&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}
