@@ -1,8 +1,8 @@
 {
   "magazine_date": "2026-10-09",
   "total_articles": 23,
-  "cover_image": null,
-  "cover_article_url": null,
+  "cover_image": "https://img.haarets.co.il/bs/000001a1-15ea-dbd6-a5a5-9dfffde10001/ae/aa/b63406c4479fa5ce19c4aee34139/shaar.jpg?&width=1500&height=1980&cmsprod",
+  "cover_article_url": "https://www.haaretz.co.il/magazine/2026-10-08/ty-article-magazine/.highlight/000001a1-15a0-d28a-a3a5-d7fbaf1f0000",
   "sections": {
     "magazine": {
       "name": "כתבות ראשיות",
