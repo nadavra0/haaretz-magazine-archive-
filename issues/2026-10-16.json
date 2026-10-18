@@ -1,0 +1,338 @@
+{
+  "magazine_date": "2026-10-16",
+  "total_articles": 24,
+  "cover_image": null,
+  "cover_article_url": null,
+  "sections": {
+    "magazine": {
+      "name": "כתבות ראשיות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-10-14/ty-article/.highlight/000001a1-3aa1-d306-a7bf-3fe9aacb0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-10-14",
+          "magazine_date": "2026-10-16",
+          "title": "יש לי כל כך הרבה רעיונות לספרים, אבל כנראה לא אכתוב אותם",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-3aa1-d306-a7bf-3fe9aacb0000/8d/1b/1c3f11c44d46b77f095a0abc0c3b/16-10-26-web.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-10-15/ty-article-magazine/.highlight/000001a1-39e9-d30d-a7ff-7dfbb4bb0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-10-15",
+          "magazine_date": "2026-10-16",
+          "title": "האם \"יועזליכה\" עוד יהיו הפתעת הבחירות? יש מי שנבהל מהמחשבה הזאת",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-39e9-d30d-a7ff-7dfbb4bb0000/9c/4e/a4ba291c43c48bf6c9806ed2cb5b/66997763.JPG?precrop=3644,2119,x0,y1649&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-10-15/ty-article-magazine/.highlight/000001a1-3a42-dbc8-afbd-ba5bf57e0000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-10-15",
+          "magazine_date": "2026-10-16",
+          "title": "האמריקאים החלו לגדל תרנגולות בחצר. לא הזהירו אותם לגבי האותיות הקטנות",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-3a42-dbc8-afbd-ba5bf57e0000/c5/ef/4357f7d24997ab3faf24df8b1f7e/66995564.JPG?precrop=2000,1163,x0,y1339&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/2026-10-15/ty-article-magazine/.highlight/eca/000001a1-3a7a-d306-a7bf-3f7b67440000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-10-15",
+          "magazine_date": "2026-10-16",
+          "title": "תחקיר חושף את עוצמת המחדל בפרשת גור קהתי. השבר גרם למשפחתו להגר מהארץ",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-3a7a-d306-a7bf-3f7b67440000/54/04/bf5c22e04ba5b70e5d0f4fa2c2b9/766914.jpg?precrop=1801,1047,x0,y711&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/mishpaha-boharim/2026-10-15/ty-article-face/.highlight/000001a1-3ac3-de23-a5fb-bed799110000",
+          "section": "magazine",
+          "section_name": "כתבות ראשיות",
+          "article_date": "2026-10-15",
+          "magazine_date": "2026-10-16",
+          "title": "רובם מגדירים את עצמם כאנשי ימין, אבל הפעם כולם יצביעו לגוש השינוי",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-3ac3-de23-a5fb-bed799110000/d8/e9/d0acf8664362acdba0a1e0c68888/711657.jpg?precrop=1958,1138,x0,y808&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge": {
+      "name": "הקצה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-10-14/ty-article-magazine/.highlight/eca/000001a1-3a53-d0b4-adb7-be57d7590000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-10-14",
+          "magazine_date": "2026-10-16",
+          "title": "בלב ירושלים, הימין האמריקאי ביקש להבהיר: מאסנו בברית עם ישראל",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-3a53-d0b4-adb7-be57d7590000/86/47/5f3407c344549f34966b642ea74c/770589.jpg?precrop=2400,1395,x0,y120&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-10-14/ty-article/.highlight/000001a1-3a3a-d6d7-a5b5-3abfab2b0000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-10-14",
+          "magazine_date": "2026-10-16",
+          "title": "כל עוד הקניון פתוח, אפשר לחיות בשקט עם פשעי המלחמה",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-3a3a-d6d7-a5b5-3abfab2b0000/02/ce/544d46de463ba7995469e9652082/215647.jpg?precrop=2400,1395,x0,y184&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        },
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/2026-10-15/ty-article/.highlight/000001a1-3e90-d253-a9e1-feb869320000",
+          "section": "magazine/the-edge",
+          "section_name": "הקצה",
+          "article_date": "2026-10-15",
+          "magazine_date": "2026-10-16",
+          "title": "הבינה המלאכותית כבר מחפשת עובדים. לבני האדם יש מה להציע לה",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-3e90-d253-a9e1-feb869320000/c8/10/a03b02424115b6f9e819b76942f7/788393.jpg?precrop=2324,1351,x69,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/the-edge/mehasafa": {
+      "name": "הקצה – מהשפה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/the-edge/mehasafa/2026-10-14/ty-article/.highlight/000001a1-3a1c-d101-a1f1-bb3e57210000",
+          "section": "magazine/the-edge/mehasafa",
+          "section_name": "הקצה – מהשפה",
+          "article_date": "2026-10-14",
+          "magazine_date": "2026-10-16",
+          "title": "מתי החליטו שברבורים יודעים לשיר, והאם ברבור הוא בכלל תרנגול?",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-3a1c-d101-a1f1-bb3e57210000/0f/6a/2ff042644eaf96ebc86cb86c6eab/67014880.JPG?precrop=4951,2880,x304,y896&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/underthesun": {
+      "name": "תחת השמש",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/underthesun/2026-10-14/ty-article/.highlight/000001a1-3a28-d6d7-a5b5-3abfa35b0002",
+          "section": "magazine/underthesun",
+          "section_name": "תחת השמש",
+          "article_date": "2026-10-14",
+          "magazine_date": "2026-10-16",
+          "title": "מפילוסופיה לפילאטיס: למה אנשי הרוח עושים הסבה למקצועות הטיפול?",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-3a28-d6d7-a5b5-3abfa35b0002/e1/e8/d5de3979420e8a53aab486436d99/67012250.JPG?precrop=8156,4742,x0,y435&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/panim": {
+      "name": "ענייני פנים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/panim/2026-10-15/ty-article-face/.highlight/000001a1-3e12-da3c-a7fb-3ff3f51f0000",
+          "section": "magazine/panim",
+          "section_name": "ענייני פנים",
+          "article_date": "2026-10-15",
+          "magazine_date": "2026-10-16",
+          "title": "ינץ לוי",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-3e12-da3c-a7fb-3ff3f51f0000/01/7c/f7deab9947ee8a37ddd44ea9329f/facetemplate1800x1200-1.jpg?precrop=1800,1047,x0,y4&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/flights": {
+      "name": "טיסות נכנסות ויוצאות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/flights/2026-10-15/ty-article-magazine/.highlight/000001a1-3a6f-d0b4-adb7-be6f0b2b0000",
+          "section": "magazine/flights",
+          "section_name": "טיסות נכנסות ויוצאות",
+          "article_date": "2026-10-15",
+          "magazine_date": "2026-10-16",
+          "title": "\"מה שהבן שלנו עושה עם אוכל באוסטרליה זו אמנות פר אקסלנס\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-3a6f-d0b4-adb7-be6f0b2b0000/3f/31/2498a3c74c8ebe2dd0b60c59a48a/67006463.JPG?precrop=7486,4352,x0,y410&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ayelet-shani": {
+      "name": "איילת שני",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ayelet-shani/2026-10-15/ty-article-magazine/.highlight/000001a1-39e6-d101-a1f1-bbf6aaf20000",
+          "section": "magazine/ayelet-shani",
+          "section_name": "איילת שני",
+          "article_date": "2026-10-15",
+          "magazine_date": "2026-10-16",
+          "title": "\"הם מסכימים שהליכוד זו מפלגה גרועה. זה מה שהכי מתסכל, בעצם\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-39e6-d101-a1f1-bbf6aaf20000/9f/cf/ae8a03c34139a1f98536f2072e03/66995577.JPG?precrop=7469,4342,x0,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/blacklist": {
+      "name": "רשימה שחורה",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/blacklist/2026-10-14/ty-article/.highlight/000001a1-3a77-de23-a5fb-bef7963a0000",
+          "section": "magazine/blacklist",
+          "section_name": "רשימה שחורה",
+          "article_date": "2026-10-14",
+          "magazine_date": "2026-10-16",
+          "title": "ליכודניק עומד מאחורי פרגוד. הטקסט הזה מיועד לך",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-3a77-de23-a5fb-bef7963a0000/85/32/3735343448d8b3fd4940dd03b61a/211797.jpg?precrop=1454,845,x465,y688&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/ratingcommittee": {
+      "name": "ועדת המדרוג",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/ratingcommittee/2026-10-15/ty-article-midrug/.highlight/000001a1-3ec9-de23-a5fb-beddd6240000",
+          "section": "magazine/ratingcommittee",
+          "section_name": "ועדת המדרוג",
+          "article_date": "2026-10-15",
+          "magazine_date": "2026-10-16",
+          "title": "\"טנגו עדין\". אז ככה קוראים לזה היום",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-3ec9-de23-a5fb-beddd6240000/3c/7d/70d4acea4f7fad2f59a052d8b092/headline.jpg?precrop=1999,1162,x1,y0&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/on-the-line": {
+      "name": "על הקו",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/on-the-line/2026-10-15/ty-article/.highlight/000001a1-39fc-dbec-a1bb-39fef0890000",
+          "section": "magazine/on-the-line",
+          "section_name": "על הקו",
+          "article_date": "2026-10-15",
+          "magazine_date": "2026-10-16",
+          "title": "למה רצו למנות אותך לקונסול כבוד של פרגוואי? \"הייתי מייבא משם בשר\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-39fc-dbec-a1bb-39fef0890000/11/17/9c2502074820905f15cac7288860/67024124.JPG?precrop=1284,747,x0,y89&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/quote": {
+      "name": "לא לציטוט",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/quote/2026-10-15/ty-article-quotes/.highlight/000001a1-3e00-d95b-a5ef-ffa1f9570000",
+          "section": "magazine/quote",
+          "section_name": "לא לציטוט",
+          "article_date": "2026-10-15",
+          "magazine_date": "2026-10-16",
+          "title": "\"הנבואה בדרך כלל ניתנה לשוטים, ורה\"מ הוא לא שוטה. הוא אדם חכם מאוד\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-3e00-d95b-a5ef-ffa1f9570000/ae/94/9407269a4710b83f5b3d6074748c/432746-2.jpg?precrop=2400,1395,x0,y147&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/20questions": {
+      "name": "20 שאלות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/20questions/2026-10-15/ty-article-20q/.highlight/000001a1-3de9-d5a5-a5b3-ffefdf4c0000",
+          "section": "magazine/20questions",
+          "section_name": "20 שאלות",
+          "article_date": "2026-10-15",
+          "magazine_date": "2026-10-16",
+          "title": "מי היה יריבו של נתניהו בעימות הבחירות האחרון שבו השתתף?",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-3de9-d5a5-a5b3-ffefdf4c0000/c1/7b/20318648402eb73f106c75f005af/168077-2.jpg?precrop=2400,1395,x0,y61&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "food/dining": {
+      "name": "מסעדות",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/food/dining/2026-10-15/ty-article-magazine/.highlight/000001a1-3a9f-d72d-ada3-7bff5f010000",
+          "section": "food/dining",
+          "section_name": "מסעדות",
+          "article_date": "2026-10-15",
+          "magazine_date": "2026-10-16",
+          "title": "\"אם היינו כשרים המחזור היה כפול, אבל קשה לי כשמכתיבים לי מה לעשות\"",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-3a9f-d72d-ada3-7bff5f010000/7a/da/25f6aee840aa879f80999524ff7b/3.jpg?precrop=1333,775,x0,y54&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/haaretzlogicpuzzle": {
+      "name": "תשבץ",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/haaretzlogicpuzzle/2026-10-15/ty-article-magazine/.premium/000001a1-3e63-de23-a5fb-bef767800000",
+          "section": "magazine/haaretzlogicpuzzle",
+          "section_name": "תשבץ",
+          "article_date": "2026-10-15",
+          "magazine_date": "2026-10-16",
+          "title": "עושה שכל | תשבצי \"מוסף הארץ\" 16.10.2026",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-3e63-de23-a5fb-bef767800000/36/6b/8e93c55568961bb7e22dc896d857/1607650935.jpg?&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/famous": {
+      "name": "המפורסם",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/famous/2026-10-15/ty-article/.premium/000001a1-3e67-d253-a9e1-feef52a30000",
+          "section": "magazine/famous",
+          "section_name": "המפורסם",
+          "article_date": "2026-10-15",
+          "magazine_date": "2026-10-16",
+          "title": "הליכוד: התחלת הסוף?",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-3e67-d253-a9e1-feef52a30000/55/9e/20212d154bdd8b3056895bf85ca4/mefursamot.jpg?precrop=1250,727,x0,y347&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/obit": {
+      "name": "נספד",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/obit/2026-10-15/ty-article/000001a1-3ed2-d253-a9e1-fefa76340000",
+          "section": "magazine/obit",
+          "section_name": "נספד",
+          "article_date": "2026-10-15",
+          "magazine_date": "2026-10-16",
+          "title": "חוקר המקרא אוריאל סימון הזהיר: מדינה שחיה על חרבה לא תהיה יהודית",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-3ed2-d253-a9e1-fefa76340000/32/a0/0d65959d429680806c37b2d97d5c/simon.jpg?precrop=896,521,x0,y170&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/pinatlituf": {
+      "name": "פינת ליטוף",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/pinatlituf/2026-10-15/ty-article/.premium/000001a1-3e69-d253-a9e1-fee9ba4d0000",
+          "section": "magazine/pinatlituf",
+          "section_name": "פינת ליטוף",
+          "article_date": "2026-10-15",
+          "magazine_date": "2026-10-16",
+          "title": "פינת ליטוף",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-3e69-d253-a9e1-fee9ba4d0000/66/52/21678d9348fbb5fc616b53b218fe/ribooa-musaf-699.jpg?precrop=1083,630,x0,y247&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    },
+    "magazine/letters": {
+      "name": "מכתבים",
+      "articles": [
+        {
+          "url": "https://www.haaretz.co.il/magazine/letters/2026-10-15/ty-article/.highlight/000001a1-3a9c-d306-a7bf-3fdda37a0000",
+          "section": "magazine/letters",
+          "section_name": "מכתבים",
+          "article_date": "2026-10-15",
+          "magazine_date": "2026-10-16",
+          "title": "אנחנו עוד נפסיד בבחירות בגלל מדור \"20 שאלות\"!",
+          "og_image": "https://img.haarets.co.il/bs/000001a1-3a9c-d306-a7bf-3fdda37a0000/96/69/14a36c9b4ee68105fe68af9ac106/853520.jpg?precrop=2400,1395,x0,y110&width=1200&height=630&cmsprod",
+          "shaar_image": null
+        }
+      ]
+    }
+  }
+}
